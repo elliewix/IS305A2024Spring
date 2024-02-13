@@ -50,7 +50,8 @@ def get_smallest(left, right):
 # let's talk about zip
 
 l = [5, 10, 2, 20]
-r = [7, 2, 3, 50]
+r = [7, 12, 3, 50]
 
 print(zip(l, r))
 print(list(zip(l, r)))
+
