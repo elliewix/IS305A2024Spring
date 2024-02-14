@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52487485', 'Old Careless', '', '', 'http://www.wikidata.org/entity/Q15406909', 'Spanker', '', '', 'male organism']

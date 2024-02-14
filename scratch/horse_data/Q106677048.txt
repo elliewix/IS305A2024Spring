@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106677048', 'Bégonia', 'http://www.wikidata.org/entity/Q106677181', 'Rebecca', 'http://www.wikidata.org/entity/Q96037199', 'Fuschia', '1901', '', 'male organism']

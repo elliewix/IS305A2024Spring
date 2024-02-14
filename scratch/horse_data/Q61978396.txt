@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978396', 'Amerigo', 'http://www.wikidata.org/entity/Q61978403', 'Sanlinea', 'http://www.wikidata.org/entity/Q2305063', 'Nearco', '', '', 'male organism']

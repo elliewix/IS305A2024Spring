@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994019', 'Traveller', '', '', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1735', '', 'male organism']

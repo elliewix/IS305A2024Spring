@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4741730', 'Ambro Emerson', '', '', '', '', '1983', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330026', 'Historical', 'http://www.wikidata.org/entity/Q111797753', 'Brilliant Very', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2009', '', 'male organism']

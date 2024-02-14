@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5093610', 'Chester House', 'http://www.wikidata.org/entity/Q7829411', 'Toussaud', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1995', '2003', 'male organism']

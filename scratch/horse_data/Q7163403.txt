@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7163403', 'Pennekamp', '', '', 'http://www.wikidata.org/entity/Q11337300', 'Bering', '1992', '', 'male organism']

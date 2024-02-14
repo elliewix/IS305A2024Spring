@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11328453', 'Banbutonkōto', '', '', '', '', '1975', '1995', 'male organism']

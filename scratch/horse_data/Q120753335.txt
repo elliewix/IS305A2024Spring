@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120753335', 'Lutine 1547', '', '', 'http://www.wikidata.org/entity/Q119408138', 'Avata 912', '1882', '', 'female organism']

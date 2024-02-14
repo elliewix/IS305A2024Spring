@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107551613', 'Versatile', 'http://www.wikidata.org/entity/Q107551607', 'Verve', 'http://www.wikidata.org/entity/Q11318506', 'Chaucer', '1918', '', 'female organism']

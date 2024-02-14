@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117206162', 'Cheri', '', '', 'http://www.wikidata.org/entity/Q117205720', 'Rustique', '', '', 'male organism']

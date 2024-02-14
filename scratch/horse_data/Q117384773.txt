@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384773', 'Devonshire Turk mare', 'http://www.wikidata.org/entity/Q117384779', 'sister to Westbury', 'http://www.wikidata.org/entity/Q117384775', 'Devonshire Turk', '1723', '', 'female organism']

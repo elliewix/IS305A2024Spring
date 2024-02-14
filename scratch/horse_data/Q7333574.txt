@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7333574', 'Right Tack', '', '', '', '', '1966', '', 'male organism']

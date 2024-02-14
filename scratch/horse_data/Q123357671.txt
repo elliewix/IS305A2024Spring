@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123357671', 'Without A Fight', '', '', '', '', '', '', 'male organism']

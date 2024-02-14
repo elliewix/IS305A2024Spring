@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q15698244', 'Orme', '', '', 'http://www.wikidata.org/entity/Q7103462', 'Ormonde', '1889', '', 'male organism']

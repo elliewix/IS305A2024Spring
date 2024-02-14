@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5401776', 'Estrapade', '', '', 'http://www.wikidata.org/entity/Q3553272', 'Vaguely Noble', '1980', '', 'female organism']

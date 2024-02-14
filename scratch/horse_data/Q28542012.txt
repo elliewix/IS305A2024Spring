@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28542012', 'Twist la Beige', '', '', '', '', '1985', '2017', 'male organism']

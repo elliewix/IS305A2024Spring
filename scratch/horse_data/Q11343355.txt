@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343355', 'メイショウホムラ', '', '', 'http://www.wikidata.org/entity/Q11335047', 'Bravest Roman', '1988', '', 'male organism']

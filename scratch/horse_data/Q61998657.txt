@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998657', 'Firestreak', '', '', 'http://www.wikidata.org/entity/Q61998769', 'Pardal', '1956', '', 'male organism']

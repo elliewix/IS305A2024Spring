@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006473', 'Why Hurry', '', '', 'http://www.wikidata.org/entity/Q7239482', 'Precipitation', '1940', '', 'female organism']

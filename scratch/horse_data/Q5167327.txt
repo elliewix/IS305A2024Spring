@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5167327', 'Cool Reception', '', '', 'http://www.wikidata.org/entity/Q3307189', 'Nearctic', '1964', '', 'male organism']

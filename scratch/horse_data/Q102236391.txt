@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236391', 'Highland Lad', '', '', '', '', '1897', '', 'male organism']

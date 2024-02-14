@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333852', 'フリートストリートダンサー', '', '', 'http://www.wikidata.org/entity/Q6145306', 'Smart Strike', '1998', '', 'male organism']

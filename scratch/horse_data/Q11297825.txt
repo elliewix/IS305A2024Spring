@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297825', 'キンカイチフジ', '', '', 'http://www.wikidata.org/entity/Q18016266', 'エルシド', '1981', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111337068', 'Silver Beauty', '', '', 'http://www.wikidata.org/entity/Q107546036', 'Stefan The Great', '1928', '', 'female organism']

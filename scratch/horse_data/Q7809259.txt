@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7809259', 'Tirol', '', '', 'http://www.wikidata.org/entity/Q17116166', 'Thatching', '1987', '', 'male organism']

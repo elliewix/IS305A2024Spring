@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62036495', 'Miss Gladiator', 'http://www.wikidata.org/entity/Q62036552', 'Taffrail', 'http://www.wikidata.org/entity/Q61970541', 'Gladiator', '1854', '', 'female organism']

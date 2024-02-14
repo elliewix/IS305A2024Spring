@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27921084', 'Queens Ring', '', '', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2012', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970210', 'Aethelstan', '', '', 'http://www.wikidata.org/entity/Q7693967', 'Teddy', '1922', '', 'male organism']

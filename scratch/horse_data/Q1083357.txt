@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1083357', 'Goldikova', 'http://www.wikidata.org/entity/Q63980977', 'Born Gold', 'http://www.wikidata.org/entity/Q4750541', 'Anabaa', '2005', '', 'female organism']

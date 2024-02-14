@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7855323', 'Turkish Trousers', '', '', '', '', '1968', '', 'female organism']

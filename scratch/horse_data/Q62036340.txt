@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62036340', 'Anna Bella', 'http://www.wikidata.org/entity/Q62036353', 'Drone mare', 'http://www.wikidata.org/entity/Q62028275', 'Shuttle', '1807', '', 'female organism']

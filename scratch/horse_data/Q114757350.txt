@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114757350', 'Snow Endeavor', '', '', 'http://www.wikidata.org/entity/Q11297908', 'King Haiseiko', '1994', '2014', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321038', 'トゥナンテ', '', '', 'http://www.wikidata.org/entity/Q11304531', 'Sakura Yutaka O', '1995', '2015', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242764', 'Castledale', '', '', '', '', '2001', '', 'male organism']

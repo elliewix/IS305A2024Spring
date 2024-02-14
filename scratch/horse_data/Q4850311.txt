@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4850311', 'Bald Galloway', 'http://www.wikidata.org/entity/Q61987229', 'Grey Whynot', 'http://www.wikidata.org/entity/Q61987222', "St. Victor's Barb", '1705', '', 'male organism']

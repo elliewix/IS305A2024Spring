@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28230679', 'Knight of Ellerslie', '', '', 'http://www.wikidata.org/entity/Q123308156', 'Eolus', '1881', '', 'male organism']

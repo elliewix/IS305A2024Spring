@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241683', 'Cassaleria', '', '', '', '', '1979', '', 'male organism']

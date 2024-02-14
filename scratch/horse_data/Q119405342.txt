@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119405342', 'Beatrix', '', '', 'http://www.wikidata.org/entity/Q117977278', 'Étudiant', '1911', '', 'female organism']

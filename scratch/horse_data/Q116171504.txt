@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116171504', 'Byerley Turk mare', '', '', 'http://www.wikidata.org/entity/Q1018502', 'Byerley Turk', '1690', '', 'female organism']

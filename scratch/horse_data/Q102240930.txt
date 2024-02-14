@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240930', 'Tribal Line', '', '', '', '', '1968', '', 'male organism']

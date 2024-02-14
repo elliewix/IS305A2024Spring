@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64005546', 'Mother Siegel', 'http://www.wikidata.org/entity/Q61997903', 'Galopin mare', 'http://www.wikidata.org/entity/Q5503342', "Friar's Balsam", '1897', '', 'female organism']

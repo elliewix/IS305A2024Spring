@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7631793', 'Subotica', '', '', '', '', '1988', '', 'male organism']

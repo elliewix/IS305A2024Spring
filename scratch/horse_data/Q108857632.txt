@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108857632', 'Diamond mare', '', '', '', '', '1840', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5448002', 'Figure', '', '', '', '', '', '', 'male organism']

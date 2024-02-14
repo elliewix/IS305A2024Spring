@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22306650', 'Boran', 'http://www.wikidata.org/entity/Q22320887', 'Bethora', 'http://www.wikidata.org/entity/Q22320845', 'Mourne', '1960', '', 'male organism']

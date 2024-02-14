@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242549', 'Adonis', '', '', '', '', '1996', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339761', 'マイネルデスポット', '', '', 'http://www.wikidata.org/entity/Q7165242', 'Pentire', '1998', '', 'male organism']

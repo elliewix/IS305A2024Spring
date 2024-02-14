@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7490322', 'Sharp Humor', '', '', 'http://www.wikidata.org/entity/Q5283060', 'Distorted Humor', '2003', '', 'male organism']

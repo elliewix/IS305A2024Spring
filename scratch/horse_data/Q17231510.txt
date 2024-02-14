@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17231510', 'Karada Legend', '', '', 'http://www.wikidata.org/entity/Q11334069', 'French Deputy', '2011', '', 'male organism']

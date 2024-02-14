@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239905', 'Hannibal', '', '', '', '', '1949', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52716740', 'Mitra', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2008', '', 'male organism']

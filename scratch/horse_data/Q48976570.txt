@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48976570', 'Lycius', '', '', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1988', '', 'male organism']

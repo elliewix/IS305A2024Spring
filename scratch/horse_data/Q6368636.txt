@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6368636', 'Karasi', '', '', 'http://www.wikidata.org/entity/Q6347319', 'Kahyasi', '1995', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55091137', 'Satiety', 'http://www.wikidata.org/entity/Q55091158', 'Wifey', 'http://www.wikidata.org/entity/Q6086160', 'Isonomy', '', '', 'male organism']

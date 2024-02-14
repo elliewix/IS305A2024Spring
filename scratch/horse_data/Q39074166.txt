@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q39074166', 'Ulysses', 'http://www.wikidata.org/entity/Q6546080', 'Light Shift', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2013', '', 'male organism']

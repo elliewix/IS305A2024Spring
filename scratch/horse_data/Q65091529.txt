@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65091529', 'Beau Vite', '', '', '', '', '', '', '']

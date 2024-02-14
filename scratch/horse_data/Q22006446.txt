@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006446', 'Blue Canari', '', '', 'http://www.wikidata.org/entity/Q338164', 'Acatenango', '2001', '', 'male organism']

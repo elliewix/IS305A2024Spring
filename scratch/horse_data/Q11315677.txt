@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315677', 'タイキファイヤー', 'http://www.wikidata.org/entity/Q11288587', 'Welsh Muffin', 'http://www.wikidata.org/entity/Q11164164', 'Miswaki', '1997', '', 'male organism']

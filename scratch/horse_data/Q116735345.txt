@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735345', 'Satono O', '', '', '', '', '1972', '', 'male organism']

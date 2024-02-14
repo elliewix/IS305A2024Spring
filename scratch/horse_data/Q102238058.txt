@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238058', 'Roycrofter', '', '', '', '', '1923', '', 'male organism']

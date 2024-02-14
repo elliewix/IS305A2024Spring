@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25221438', 'Nihilator', '', '', '', '', '1982', '', '']

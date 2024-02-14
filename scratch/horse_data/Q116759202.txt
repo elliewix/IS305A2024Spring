@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116759202', 'Kojak', '', '', '', '', '1992', '', 'male organism']

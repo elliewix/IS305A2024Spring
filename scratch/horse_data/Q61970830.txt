@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970830', 'Banja Luka', 'http://www.wikidata.org/entity/Q61970834', 'Legato', 'http://www.wikidata.org/entity/Q5299829', 'Double Jay', '1968', '', 'female organism']

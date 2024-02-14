@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115198482', 'Belmondo', 'http://www.wikidata.org/entity/Q115211203', 'Rolande', 'http://www.wikidata.org/entity/Q115210751', 'Omega', '1983', '', 'male organism']

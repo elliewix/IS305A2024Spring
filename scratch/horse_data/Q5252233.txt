@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5252233', 'Dehere', '', '', 'http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '1991', '2014', 'male organism']

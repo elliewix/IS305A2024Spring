@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22248717', 'Laudanum', 'http://www.wikidata.org/entity/Q22306662', 'Monta Bella', 'http://www.wikidata.org/entity/Q22306650', 'Boran', '1967', '1996', 'male organism']

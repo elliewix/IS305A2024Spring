@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108188870', 'Delicieuse', 'http://www.wikidata.org/entity/Q108366765', 'Tapissiere', 'http://www.wikidata.org/entity/Q22329688', 'Jus de Pomme', '1947', '', 'female organism']

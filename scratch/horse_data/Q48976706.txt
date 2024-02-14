@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48976706', 'Timarida', '', '', '', '', '1992', '', '']

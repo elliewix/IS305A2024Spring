@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108170498', 'Argentan I', 'http://www.wikidata.org/entity/Q115011800', 'Worms', 'http://www.wikidata.org/entity/Q115009223', 'Absatz', '1967', '', 'male organism']

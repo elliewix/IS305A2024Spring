@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124350455', 'Devine du Bois', '', '', '', '', '1991', '2016', 'female organism']

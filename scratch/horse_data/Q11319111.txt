@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319111', 'テイトオー', '', '', 'http://www.wikidata.org/entity/Q11315435', 'Solonaway', '1963', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6481025', 'Lamb Chop', '', '', 'http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', '1960', '', 'female organism']

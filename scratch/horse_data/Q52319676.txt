@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52319676', 'Silver State', 'http://www.wikidata.org/entity/Q65093871', 'Silverskaya', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2013', '', 'male organism']

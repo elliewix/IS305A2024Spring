@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117707938', 'Lincoln View Douglas', 'http://www.wikidata.org/entity/Q118171145', 'Lincoln View Karene', 'http://www.wikidata.org/entity/Q117885183', 'Lincoln View La Rem', '1964', '', 'male organism']

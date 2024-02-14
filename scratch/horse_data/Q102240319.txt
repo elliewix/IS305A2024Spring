@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240319', 'Easy Spur', '', '', '', '', '1956', '', 'male organism']

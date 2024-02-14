@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q110880635', 'La Verite', '', '', '', '', '2017', '', 'male organism']

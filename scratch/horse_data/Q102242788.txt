@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242788', 'Noble Causeway', '', '', '', '', '2002', '', 'male organism']

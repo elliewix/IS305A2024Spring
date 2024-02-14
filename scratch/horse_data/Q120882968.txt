@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120882968', '77 Samhan', 'http://www.wikidata.org/entity/Q120919900', 'Gidran I', 'http://www.wikidata.org/entity/Q120882709', 'Samhan', '1830', '', 'female organism']

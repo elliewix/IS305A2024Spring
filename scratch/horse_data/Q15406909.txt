@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q15406909', 'Spanker', 'http://www.wikidata.org/entity/Q117360106', 'Old Morocco mare', 'http://www.wikidata.org/entity/Q11317641', "D'Arcy Yellow Turk", '1675', '', 'male organism']

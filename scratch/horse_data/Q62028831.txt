@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028831', 'Highflyer mare', 'http://www.wikidata.org/entity/Q62028834', 'Alfred mare', 'http://www.wikidata.org/entity/Q915971', 'Highflyer', '1780', '', 'female organism']

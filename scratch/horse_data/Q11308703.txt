@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308703', 'Symboli Rudolf', '', '', 'http://www.wikidata.org/entity/Q11329825', 'Partholon', '1981', '2011', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108169667', 'Feder', '', '', '', '', '1958', '', 'female organism']

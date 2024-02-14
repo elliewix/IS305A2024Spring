@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1897960', 'trotting horse', '', '', '', '', '', '', '']

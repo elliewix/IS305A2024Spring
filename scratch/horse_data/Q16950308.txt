@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16950308', 'Combat', 'http://www.wikidata.org/entity/Q22006484', 'Commotion', 'http://www.wikidata.org/entity/Q4905755', 'Big Game', '1944', '', 'male organism']

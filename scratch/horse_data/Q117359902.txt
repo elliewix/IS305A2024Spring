@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359902', 'Lister Turk mare', '', '', 'http://www.wikidata.org/entity/Q62035648', 'Lister Turk', '1700', '', 'female organism']

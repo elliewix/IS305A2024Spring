@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023149', 'Vixen', 'http://www.wikidata.org/entity/Q62023158', 'Spot mare', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1753', '', 'female organism']

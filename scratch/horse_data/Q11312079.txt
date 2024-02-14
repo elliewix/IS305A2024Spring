@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312079', 'Star Ballerina', '', '', 'http://www.wikidata.org/entity/Q7336008', 'Risen Star', '1990', '2011', 'female organism']

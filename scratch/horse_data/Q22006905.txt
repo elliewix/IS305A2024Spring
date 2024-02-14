@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006905', 'Prince Bishop', '', '', 'http://www.wikidata.org/entity/Q5310663', 'Dubawi', '2007', '', '']

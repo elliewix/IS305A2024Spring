@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11295327', 'Kawakami Princess', '', '', 'http://www.wikidata.org/entity/Q11297913', 'King Halo', '2003', '', 'female organism']

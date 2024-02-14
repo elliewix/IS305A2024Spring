@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107534548', 'Mehrali', '', '', '', '', '1939', '', 'male organism']

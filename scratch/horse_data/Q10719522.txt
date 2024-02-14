@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10719522', 'Wega', 'http://www.wikidata.org/entity/Q18202358', 'La Fair', '', '', '2001', '', 'female organism']

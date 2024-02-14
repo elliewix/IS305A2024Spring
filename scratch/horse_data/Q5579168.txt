@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5579168', 'Golden Attraction', '', '', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1993', '', 'female organism']

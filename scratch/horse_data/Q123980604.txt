@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123980604', 'Butt Cut', '', '', 'http://www.wikidata.org/entity/Q123998414', 'Jack Traveler', '1876', '', 'female organism']

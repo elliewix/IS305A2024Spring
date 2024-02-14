@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122956840', 'Rigolo 7915', '', '', 'http://www.wikidata.org/entity/Q122957982', 'Producteur 4280', '1886', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7636337', 'Sulk', '', '', '', '', '1999', '', '']

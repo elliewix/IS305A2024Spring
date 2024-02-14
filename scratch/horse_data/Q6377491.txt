@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6377491', 'Katie Lee', '', '', '', '', '2006', '', 'female organism']

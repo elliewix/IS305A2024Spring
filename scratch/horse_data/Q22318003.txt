@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22318003', 'Nankin', 'http://www.wikidata.org/entity/Q67392632', 'Constellation', 'http://www.wikidata.org/entity/Q26719877', 'Fra Diavolo', '1957', '', 'male organism']

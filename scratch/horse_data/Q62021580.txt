@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021580', 'Anvil', 'http://www.wikidata.org/entity/Q62021583', 'Feather mare', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1777', '', 'male organism']

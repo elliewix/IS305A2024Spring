@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108642865', 'Golden Key', 'http://www.wikidata.org/entity/Q111345075', 'Lock and Key', 'http://www.wikidata.org/entity/Q6469266', 'Ladas', '1901', '', 'female organism']

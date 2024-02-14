@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994134', 'Thalestris', 'http://www.wikidata.org/entity/Q61994138', 'Rival', 'http://www.wikidata.org/entity/Q61993758', 'Alexander', '1809', '', 'female organism']

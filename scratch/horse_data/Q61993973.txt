@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993973', 'Mentor', 'http://www.wikidata.org/entity/Q61993993', 'Shakespeare mare', 'http://www.wikidata.org/entity/Q61993976', 'Justice', '1784', '', 'male organism']

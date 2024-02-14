@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87751198', 'Lord at War', '', '', 'http://www.wikidata.org/entity/Q87751209', 'General', '1980', '', 'male organism']

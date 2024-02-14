@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7311437', 'Relko', 'http://www.wikidata.org/entity/Q61969765', 'Relance', 'http://www.wikidata.org/entity/Q21996565', 'Tanerko', '1960', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221613', 'Admire Cosmos', '', '', 'http://www.wikidata.org/entity/Q11284105', 'Admire Max', '2007', '2012', 'male organism']

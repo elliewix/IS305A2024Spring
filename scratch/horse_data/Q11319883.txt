@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319883', 'テンモン', '', '', 'http://www.wikidata.org/entity/Q11348445', 'Remand (horse)', '1978', '', 'female organism']

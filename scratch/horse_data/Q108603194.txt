@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108603194', 'Weica', '', '', '', '', '1982', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117383373', 'Amima', 'http://www.wikidata.org/entity/Q117383382', 'Augusta', 'http://www.wikidata.org/entity/Q7636587', 'Sultan', '1830', '', 'female organism']

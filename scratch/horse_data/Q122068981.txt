@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122068981', "L'Amie", '', '', 'http://www.wikidata.org/entity/Q117195187', 'Coco II 714', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87755938', 'Sarcasm', 'http://www.wikidata.org/entity/Q61969477', 'Banter', 'http://www.wikidata.org/entity/Q87755940', 'Teniers', '1833', '', 'female organism']

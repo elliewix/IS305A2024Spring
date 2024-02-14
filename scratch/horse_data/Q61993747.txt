@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993747', 'Windhound', 'http://www.wikidata.org/entity/Q61993752', 'Phryne', 'http://www.wikidata.org/entity/Q61993750', 'Pantaloon', '1847', '', 'male organism']

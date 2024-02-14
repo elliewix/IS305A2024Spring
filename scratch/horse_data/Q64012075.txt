@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012075', 'Snip mare', 'http://www.wikidata.org/entity/Q64012082', "Parker's Lady Thigh", 'http://www.wikidata.org/entity/Q7547775', 'Snip', '1749', '', 'female organism']

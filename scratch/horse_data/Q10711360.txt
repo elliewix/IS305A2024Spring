@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10711360', 'Utah Bulwark', '', '', '', '', '1979', '1995', '']

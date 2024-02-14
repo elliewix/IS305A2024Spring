@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7459795', 'Sergeant Reckless', '', '', '', '', '1948', '1968', 'female organism']

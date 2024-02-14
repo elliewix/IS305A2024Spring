@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312364', 'ステーツマン', '', '', 'http://www.wikidata.org/entity/Q4925007', 'Blandford', '1930', '', 'male organism']

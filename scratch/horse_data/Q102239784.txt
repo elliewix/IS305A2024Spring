@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239784', 'Black George', '', '', '', '', '1947', '', 'male organism']

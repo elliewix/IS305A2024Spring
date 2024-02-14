@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023137', 'Amadis', 'http://www.wikidata.org/entity/Q62004360', 'Fanny', 'http://www.wikidata.org/entity/Q62011281', 'Don Quixote', '1807', '', 'male organism']

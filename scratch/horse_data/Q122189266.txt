@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122189266', 'Guignolet 70477', 'http://www.wikidata.org/entity/Q122189566', 'Frosine 46195', 'http://www.wikidata.org/entity/Q122189290', 'Coco 57241', '1906', '', 'male organism']

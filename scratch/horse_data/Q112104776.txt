@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112104776', 'Götz', '', '', '', '', '1961', '', 'male organism']

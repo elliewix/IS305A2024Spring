@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115091608', 'Bel Avenir', '', '', '', '', '1945', '', 'male organism']

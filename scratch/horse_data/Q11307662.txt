@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11307662', 'Shadai Kagura', '', '', 'http://www.wikidata.org/entity/Q7301055', 'Real Shadai', '1986', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117746172', 'Bayard 9661', '', '', 'http://www.wikidata.org/entity/Q117746522', 'Duke de Chartres', '', '', 'male organism']

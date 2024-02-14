@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62045288', 'Patty', 'http://www.wikidata.org/entity/Q62045453', 'Miss Patch', 'http://www.wikidata.org/entity/Q62045342', 'Tim', '1760', '', 'female organism']

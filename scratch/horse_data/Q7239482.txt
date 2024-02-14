@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7239482', 'Precipitation', 'http://www.wikidata.org/entity/Q61978414', 'Double Life', 'http://www.wikidata.org/entity/Q11326832', 'Hurry On', '1933', '1957', 'male organism']

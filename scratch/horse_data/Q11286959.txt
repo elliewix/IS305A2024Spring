@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286959', 'Ibuki Maikagura', '', '', 'http://www.wikidata.org/entity/Q7301055', 'Real Shadai', '1988', '2009', 'male organism']

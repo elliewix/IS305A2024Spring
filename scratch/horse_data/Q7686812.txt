@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7686812', 'Tartan Bearer', '', '', 'http://www.wikidata.org/entity/Q17021458', 'Spectrum', '2005', '', 'male organism']

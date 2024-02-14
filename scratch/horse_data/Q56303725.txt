@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56303725', 'Valko Jenilat', '', '', '', '', '2009', '', '']

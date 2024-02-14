@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11318343', 'チヤンピオンスター', '', '', 'http://www.wikidata.org/entity/Q11311127', 'Swift Swallow', '1984', '', 'male organism']

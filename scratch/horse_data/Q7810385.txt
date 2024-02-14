@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7810385', 'Tiutchev', '', '', 'http://www.wikidata.org/entity/Q11315477', 'Soviet Star', '1993', '', '']

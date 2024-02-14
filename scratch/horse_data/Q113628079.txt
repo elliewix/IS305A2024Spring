@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113628079', 'Dollar Macker', '', '', '', '', '2013', '', '']

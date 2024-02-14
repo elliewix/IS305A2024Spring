@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q19871468', 'Acclamation', '', '', 'http://www.wikidata.org/entity/Q7897788', 'Unusual Heat', '2006', '', 'male organism']

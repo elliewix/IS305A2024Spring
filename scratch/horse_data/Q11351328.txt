@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11351328', 'Wako Chikako', '', '', 'http://www.wikidata.org/entity/Q11348703', 'Rivlia', '1990', '2016', 'female organism']

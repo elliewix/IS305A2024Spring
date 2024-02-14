@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q73010337', 'Ria Amelia', '', '', '', '', '2017', '', 'female organism']

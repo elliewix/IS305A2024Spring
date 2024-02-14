@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2957840', 'Charisma', '', '', '', '', '1972', '2003', 'male organism']

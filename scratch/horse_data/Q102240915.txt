@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240915', 'Rancho Lejos', '', '', '', '', '1967', '', 'male organism']

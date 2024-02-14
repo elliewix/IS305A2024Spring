@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547191', 'Broad Ripple', 'http://www.wikidata.org/entity/Q107547181', 'Hocus Pocus', 'http://www.wikidata.org/entity/Q107547180', 'Stimulus', '1934', '', 'female organism']

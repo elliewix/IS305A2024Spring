@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7427676', 'Savabeel', '', '', 'http://www.wikidata.org/entity/Q8063464', 'Zabeel', '2001', '', 'male organism']

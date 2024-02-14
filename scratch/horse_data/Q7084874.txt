@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7084874', 'Old Rosebud', '', '', '', '', '1911', '', 'male organism']

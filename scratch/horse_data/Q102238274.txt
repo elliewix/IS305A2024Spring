@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238274', 'Distraction', '', '', '', '', '1925', '', 'male organism']

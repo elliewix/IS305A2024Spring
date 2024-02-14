@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7435392', 'Scorpion', '', '', 'http://www.wikidata.org/entity/Q3322808', 'Montjeu', '2002', '', 'male organism']

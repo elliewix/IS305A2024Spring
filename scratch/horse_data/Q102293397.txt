@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102293397', 'Solomini', '', '', '', '', '2015', '', '']

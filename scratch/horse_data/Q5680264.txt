@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5680264', 'Hastings', '', '', 'http://www.wikidata.org/entity/Q7576290', 'Spendthrift', '1893', '1917', 'male organism']

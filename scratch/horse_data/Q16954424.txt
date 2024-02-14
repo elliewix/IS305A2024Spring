@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16954424', 'Bula', '', '', '', '', '1965', '', '']

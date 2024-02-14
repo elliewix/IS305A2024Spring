@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7355284', 'Rockhill Native', '', '', '', '', '1977', '', 'male organism']

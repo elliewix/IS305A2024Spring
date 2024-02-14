@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7629759', 'Stymie', 'http://www.wikidata.org/entity/Q61997422', 'Stop Watch', 'http://www.wikidata.org/entity/Q61997410', 'Equestrian', '1941', '1962', 'male organism']

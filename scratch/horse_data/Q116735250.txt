@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735250', "Shirl's Speight", '', '', 'http://www.wikidata.org/entity/Q25172098', 'Speightstown', '2017', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4874043', 'Bay Middleton', 'http://www.wikidata.org/entity/Q5139039', 'Cobweb', 'http://www.wikidata.org/entity/Q7636587', 'Sultan', '1833', '1857', 'male organism']

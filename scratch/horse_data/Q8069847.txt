@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8069847', 'Zev', '', '', 'http://www.wikidata.org/entity/Q7733993', 'The Finn', '1920', '1943', 'male organism']

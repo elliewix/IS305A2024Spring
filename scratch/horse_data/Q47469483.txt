@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47469483', 'Le Vent Se Leve', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2015', '', 'male organism']

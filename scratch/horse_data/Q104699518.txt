@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104699518', 'American Winner', '', '', '', '', '1990', '2018', '']

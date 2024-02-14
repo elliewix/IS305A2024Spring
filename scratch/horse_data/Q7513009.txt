@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7513009', 'Signorinetta', '', '', '', '', '1905', '', 'female organism']

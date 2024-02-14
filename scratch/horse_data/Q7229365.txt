@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7229365', 'Popkins', '', '', '', '', '1967', '', 'female organism']

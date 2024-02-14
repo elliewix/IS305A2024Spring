@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1827691', 'Lirung', '', '', '', '', '1982', '1987', 'male organism']

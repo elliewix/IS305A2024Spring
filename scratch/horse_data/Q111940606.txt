@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111940606', "L'Homme Presse", '', '', '', '', '', '', '']

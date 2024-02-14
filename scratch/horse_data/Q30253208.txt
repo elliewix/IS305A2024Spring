@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30253208', 'Tapwrit', 'http://www.wikidata.org/entity/Q61969073', 'Appealing Zophie', 'http://www.wikidata.org/entity/Q16953076', 'Tapit', '2014', '', 'male organism']

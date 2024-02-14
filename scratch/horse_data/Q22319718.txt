@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22319718', 'Capitol I', 'http://www.wikidata.org/entity/Q108144628', 'Folia', 'http://www.wikidata.org/entity/Q108180864', 'Capitano', '1975', '1999', 'male organism']

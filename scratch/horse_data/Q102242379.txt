@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242379', 'Pyramid Peak', '', '', '', '', '1992', '', 'male organism']

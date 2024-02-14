@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114988508', 'Irak E', '', '', 'http://www.wikidata.org/entity/Q22338059', 'Ukase', '1974', '', 'male organism']

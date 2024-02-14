@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333074', 'フサイチアソート', '', '', 'http://www.wikidata.org/entity/Q11322215', 'Twining', '2005', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116788747', 'Elite Power', '', '', '', '', '', '', '']

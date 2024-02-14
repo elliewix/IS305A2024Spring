@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7784490', 'Think Big', '', '', '', '', '1970', '1995', '']

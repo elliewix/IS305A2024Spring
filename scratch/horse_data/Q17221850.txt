@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221850', 'ウインドミル', '', '', 'http://www.wikidata.org/entity/Q11335853', 'プレストウコウ', '1985', '', 'male organism']

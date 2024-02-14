@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25172109', 'Sultanina', '', '', 'http://www.wikidata.org/entity/Q3875179', 'New Approach', '2010', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7796267', 'Thormanby', '', '', 'http://www.wikidata.org/entity/Q61993747', 'Windhound', '1857', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6115293', 'Jack Spigot', 'http://www.wikidata.org/entity/Q62022198', 'Sorcerer mare', 'http://www.wikidata.org/entity/Q61994328', 'Marmion', '1818', '', 'male organism']

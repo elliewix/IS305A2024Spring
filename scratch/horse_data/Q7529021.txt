@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7529021', 'Sir Thomas', 'http://www.wikidata.org/entity/Q61988110', 'Sportsmistress', 'http://www.wikidata.org/entity/Q62023202', 'Pontac', '1785', '', 'male organism']

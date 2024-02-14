@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238529', 'Crack Brigade', '', '', '', '', '1927', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236173', 'Jacobin', '', '', '', '', '1884', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2221206', 'Sandro Boy', 'http://www.wikidata.org/entity/Q108133137', 'Wiadora', 'http://www.wikidata.org/entity/Q108132799', 'Sandro', '1993', '', 'male organism']

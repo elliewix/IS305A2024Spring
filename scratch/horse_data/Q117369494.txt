@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369494', 'Cullen Arabian', '', '', '', '', '1740', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314327', 'Sedan', '', '', '', '', '1955', '', 'male organism']

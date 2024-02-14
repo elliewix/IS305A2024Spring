@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11289546', 'Eishin Guymon', '', '', 'http://www.wikidata.org/entity/Q7442093', 'Seattle Dancer', '1993', '', 'male organism']

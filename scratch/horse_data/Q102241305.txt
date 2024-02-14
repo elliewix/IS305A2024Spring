@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241305', 'Amano', '', '', '', '', '1973', '', 'male organism']

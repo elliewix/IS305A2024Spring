@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5504448', 'Friesan Fire', '', '', 'http://www.wikidata.org/entity/Q1968208', 'A.P. Indy', '2006', '', 'male organism']

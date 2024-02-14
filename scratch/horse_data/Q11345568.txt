@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345568', 'Yukino Bijin', '', '', 'http://www.wikidata.org/entity/Q11304531', 'Sakura Yutaka O', '1990', '2016', 'female organism']

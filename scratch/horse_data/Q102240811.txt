@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240811', 'Te Vega', '', '', '', '', '1965', '', 'male organism']

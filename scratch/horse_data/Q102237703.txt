@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237703', 'Klondyke', '', '', '', '', '1921', '', 'male organism']

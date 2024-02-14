@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022230', 'Precipitate mare', 'http://www.wikidata.org/entity/Q62022261', 'Young Tiffany', 'http://www.wikidata.org/entity/Q62022055', 'Precipitate', '1797', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4808479', 'Assassin', 'http://www.wikidata.org/entity/Q62021696', 'Angelica', 'http://www.wikidata.org/entity/Q7655653', 'Sweetbriar', '1779', '', 'male organism']

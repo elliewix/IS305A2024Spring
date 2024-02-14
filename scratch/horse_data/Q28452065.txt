@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28452065', 'Almanzor', '', '', '', '', '2013', '', 'male organism']

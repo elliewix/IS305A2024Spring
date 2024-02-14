@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123246825', 'Écu Pierji', '', '', '', '', '2014', '', '']

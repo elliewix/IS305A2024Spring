@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305091', 'Summer Wind', 'http://www.wikidata.org/entity/Q11308487', 'Shin Wind', 'http://www.wikidata.org/entity/Q7676023', 'Taiki Shuttle', '2005', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969387', 'Cowl', 'http://www.wikidata.org/entity/Q5189804', 'Crucifix', 'http://www.wikidata.org/entity/Q4874043', 'Bay Middleton', '1842', '', 'male organism']

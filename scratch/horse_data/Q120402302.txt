@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120402302', 'Blackhome Donnet Lyn', 'http://www.wikidata.org/entity/Q120356403', 'College Lynda', 'http://www.wikidata.org/entity/Q120402665', 'Rolling Acres Leonet', '1979', '', 'male organism']

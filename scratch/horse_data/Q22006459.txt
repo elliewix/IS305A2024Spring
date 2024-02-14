@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006459', 'Legal Case', '', '', 'http://www.wikidata.org/entity/Q636053', 'Alleged', '1986', '', 'male organism']

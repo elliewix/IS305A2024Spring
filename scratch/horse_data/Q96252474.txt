@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96252474', 'Echo', 'http://www.wikidata.org/entity/Q106649479', 'Vilna', 'http://www.wikidata.org/entity/Q96096846', 'Normand', '1882', '', 'male organism']

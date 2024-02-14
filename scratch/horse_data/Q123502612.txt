@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123502612', 'Devise', 'http://www.wikidata.org/entity/Q123506471', 'Joyeuse', 'http://www.wikidata.org/entity/Q22320475', 'Juriste', '1969', '', 'female organism']

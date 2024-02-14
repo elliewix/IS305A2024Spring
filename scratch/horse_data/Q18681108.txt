@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18681108', 'Tomu', '', '', '', '', '1924', '', '']

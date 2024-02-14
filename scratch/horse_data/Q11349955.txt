@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349955', 'Relic', '', '', 'http://www.wikidata.org/entity/Q7968524', 'War Relic', '1945', '', 'male organism']

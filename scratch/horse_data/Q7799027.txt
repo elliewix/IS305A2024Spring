@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7799027', 'Thunder Rumble', '', '', '', '', '1989', '2015', 'male organism']

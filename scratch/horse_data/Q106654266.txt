@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106654266', 'Allstar B', '', '', '', '', '2005', '', 'male organism']

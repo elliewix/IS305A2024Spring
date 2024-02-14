@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313394', 'Sri Pekan', '', '', 'http://www.wikidata.org/entity/Q7304776', 'Red Ransom', '1992', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006575', 'Shalaa', '', '', 'http://www.wikidata.org/entity/Q11287797', 'Invincible Spirit', '2013', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q88587108', 'Manfred', '', '', '', '', '1922', '1940', 'male organism']

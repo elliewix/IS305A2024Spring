@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107182483', 'Harper Hanover', '', '', '', '', '1932', '1942', '']

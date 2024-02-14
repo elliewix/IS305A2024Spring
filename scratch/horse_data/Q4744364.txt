@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4744364', 'American Lion', '', '', 'http://www.wikidata.org/entity/Q11318930', 'Tiznow', '2007', '', 'male organism']

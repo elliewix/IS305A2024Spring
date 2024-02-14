@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240322', 'The Chosen One', '', '', '', '', '1956', '', 'male organism']

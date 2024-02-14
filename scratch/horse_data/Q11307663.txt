@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11307663', 'Shadai Sophia', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1980', '1985', 'female organism']

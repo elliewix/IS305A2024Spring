@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998430', 'Sir Peter Mare', 'http://www.wikidata.org/entity/Q61998441', 'Deceit', 'http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', '1802', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17223897', 'Denim and Ruby', '', '', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2010', '', 'female organism']

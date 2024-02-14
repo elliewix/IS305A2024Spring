@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116937551', 'オイワケヒカリ', '', '', '', '', '', '', 'female organism']

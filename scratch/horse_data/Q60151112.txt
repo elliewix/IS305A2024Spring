@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60151112', 'Pialotta', '', '', '', '', '1991', '', 'female organism']

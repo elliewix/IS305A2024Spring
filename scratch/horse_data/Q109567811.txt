@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109567811', 'Beauté du Turkménistan', 'http://www.wikidata.org/entity/Q109610240', 'Anna Verdy', 'http://www.wikidata.org/entity/Q109567842', 'Ata Khojanok', '', '', 'female organism']

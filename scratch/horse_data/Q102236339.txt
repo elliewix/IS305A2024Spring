@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236339', 'His Lordship', '', '', '', '', '1896', '', 'male organism']

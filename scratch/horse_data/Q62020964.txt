@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62020964', 'Oiseau', 'http://www.wikidata.org/entity/Q62020995', 'Ruler mare', 'http://www.wikidata.org/entity/Q62020970', 'Camillus', '1809', '', 'male organism']

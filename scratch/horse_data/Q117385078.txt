@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117385078', 'Pantaloon', 'http://www.wikidata.org/entity/Q62016624', 'Nutcracker', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1778', '', 'male organism']

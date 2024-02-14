@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360090', 'Northern Nanny', 'http://www.wikidata.org/entity/Q117360110', 'Byerley Turk mare', 'http://www.wikidata.org/entity/Q117360097', 'Highland Laddie', '1717', '', 'female organism']

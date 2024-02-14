@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239557', 'Pellicle', '', '', '', '', '1943', '', 'male organism']

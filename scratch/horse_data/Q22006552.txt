@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006552', 'Elnadim', '', '', 'http://www.wikidata.org/entity/Q1104509', 'Danzig', '1994', '', 'male organism']

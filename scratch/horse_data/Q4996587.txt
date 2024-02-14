@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4996587', 'Bull Lea', 'http://www.wikidata.org/entity/Q107545706', 'Rose Leaves', 'http://www.wikidata.org/entity/Q4996565', 'Bull Dog', '1935', '', 'male organism']

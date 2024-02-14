@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969175', 'White Knight', '', '', 'http://www.wikidata.org/entity/Q7527323', 'Sir Hugo', '1895', '', 'male organism']

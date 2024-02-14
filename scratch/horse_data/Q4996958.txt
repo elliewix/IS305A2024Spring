@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4996958', 'Bullish Luck', '', '', 'http://www.wikidata.org/entity/Q7373571', 'Royal Academy', '1999', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780106', 'T M Jinsoku', '', '', 'http://www.wikidata.org/entity/Q11299831', 'Kurofune', '2012', '', 'male organism']

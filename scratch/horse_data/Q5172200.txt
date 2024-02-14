@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5172200', 'Coronation', 'http://www.wikidata.org/entity/Q62028012', 'Ruby', 'http://www.wikidata.org/entity/Q7527266', 'Sir Hercules', '1838', '', 'male organism']

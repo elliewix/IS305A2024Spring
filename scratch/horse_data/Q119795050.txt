@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119795050', 'Deliala 188301', 'http://www.wikidata.org/entity/Q119795083', 'Dorothea 169630', 'http://www.wikidata.org/entity/Q117949869', 'Treviso 144394', '1925', '', 'female organism']

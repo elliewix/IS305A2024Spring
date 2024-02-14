@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116937411', 'Takeda Hikaru', '', '', '', '', '1964', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17018740', 'Son of Love', '', '', '', '', '1976', '', 'male organism']

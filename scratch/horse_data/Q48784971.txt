@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48784971', 'Lavery', '', '', '', '', '1996', '', '']

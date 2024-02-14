@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1096659', 'Imperiál', '', '', '', '', '1960', '1989', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20895892', 'Exclusive', '', '', 'http://www.wikidata.org/entity/Q16967340', 'Polar Falcon', '1995', '', 'female organism']

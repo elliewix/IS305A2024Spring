@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q59780223', 'Game Winner', 'http://www.wikidata.org/entity/Q62017075', 'Indyan Giving', 'http://www.wikidata.org/entity/Q5032129', 'Candy Ride', '2016', '', 'male organism']

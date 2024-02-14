@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315712', 'Tight Spot', '', '', 'http://www.wikidata.org/entity/Q11330029', 'His Majesty', '1987', '', 'male organism']

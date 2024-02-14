@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022951', 'Young Cartouch mare', 'http://www.wikidata.org/entity/Q62016554', 'Ebony', 'http://www.wikidata.org/entity/Q62022953', 'Young Cartouch', '1750', '', 'female organism']

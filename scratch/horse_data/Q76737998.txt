@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q76737998', 'Cosma', '', '', 'http://www.wikidata.org/entity/Q66615599', 'Couleur Rubin', '2000', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17299873', 'Stopchargingmaria', '', '', '', '', '2011', '', 'female organism']

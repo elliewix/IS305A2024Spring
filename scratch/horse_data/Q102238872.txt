@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238872', 'Bazaar', '', '', '', '', '1931', '', 'female organism']

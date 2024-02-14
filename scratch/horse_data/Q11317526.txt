@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317526', 'Dandy Lute', '', '', 'http://www.wikidata.org/entity/Q11348515', 'Luthier', '1972', '', 'male organism']

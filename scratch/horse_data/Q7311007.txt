@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7311007', 'Reliance', 'http://www.wikidata.org/entity/Q61969765', 'Relance', 'http://www.wikidata.org/entity/Q7683836', 'Tantieme', '1962', '', 'male organism']

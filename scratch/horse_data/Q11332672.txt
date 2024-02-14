@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11332672', 'Federalist', 'http://www.wikidata.org/entity/Q11317504', 'Dance Partner', 'http://www.wikidata.org/entity/Q5374096', 'Empire Maker', '2007', '', 'male organism']

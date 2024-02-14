@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q92866880', 'Quick Thinker', '', '', '', '', '', '', 'male organism']

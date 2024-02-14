@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117942496', 'Iago 768', 'http://www.wikidata.org/entity/Q119357120', 'Cossette', 'http://www.wikidata.org/entity/Q117942755', 'Utopia 731', '1877', '', 'male organism']

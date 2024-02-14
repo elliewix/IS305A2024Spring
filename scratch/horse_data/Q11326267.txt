@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326267', 'ハギノカムイオー', 'http://www.wikidata.org/entity/Q11286800', 'Itto', 'http://www.wikidata.org/entity/Q11319254', 'Tesco Boy', '1979', '', 'male organism']

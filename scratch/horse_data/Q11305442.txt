@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305442', 'Sans Adieu', '', '', 'http://www.wikidata.org/entity/Q11334069', 'French Deputy', '2002', '2008', 'female organism']

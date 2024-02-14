@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120447514', 'Lucasia Sir William', 'http://www.wikidata.org/entity/Q120447723', 'Drake Farms Ann', 'http://www.wikidata.org/entity/Q117940846', 'Justamere Showtime', '1977', '', 'male organism']

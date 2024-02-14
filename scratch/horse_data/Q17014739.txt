@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17014739', 'Quick As Lightning', '', '', 'http://www.wikidata.org/entity/Q4983454', 'Buckpasser', '1977', '', 'female organism']

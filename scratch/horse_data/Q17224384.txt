@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224384', 'ハッピースプリント', '', '', 'http://www.wikidata.org/entity/Q11283903', 'Ammirare', '2011', '', 'male organism']

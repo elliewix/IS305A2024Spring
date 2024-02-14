@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023143', 'Folly', 'http://www.wikidata.org/entity/Q62023149', 'Vixen', 'http://www.wikidata.org/entity/Q3081024', 'Marske', '1771', '', 'female organism']

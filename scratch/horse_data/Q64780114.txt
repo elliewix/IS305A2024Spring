@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780114', 'Gold Sash', '', '', 'http://www.wikidata.org/entity/Q11320008', 'Dictus', '1988', '2012', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22319193', 'Berçeuse', '', '', 'http://www.wikidata.org/entity/Q7293563', 'Rantzau', '1967', '', 'female organism']

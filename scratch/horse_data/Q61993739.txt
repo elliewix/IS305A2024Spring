@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993739', 'Morganette', 'http://www.wikidata.org/entity/Q61993743', 'Lady Morgan', 'http://www.wikidata.org/entity/Q17021634', 'Springfield', '1884', '', 'female organism']

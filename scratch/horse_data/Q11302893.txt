@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11302893', 'Coronation', '', '', 'http://www.wikidata.org/entity/Q5729825', 'Djebel', '1946', '', 'female organism']

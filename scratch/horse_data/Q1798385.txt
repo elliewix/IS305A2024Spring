@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1798385', 'Järvsöfaks', '', '', '', '', '1994', '', 'male organism']

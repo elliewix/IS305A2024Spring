@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239643', 'W. L. Sickle', '', '', '', '', '1944', '', 'male organism']

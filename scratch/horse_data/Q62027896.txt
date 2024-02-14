@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027896', 'Wildgoose', 'http://www.wikidata.org/entity/Q62027899', 'Coheiress', 'http://www.wikidata.org/entity/Q915971', 'Highflyer', '1792', '', 'female organism']

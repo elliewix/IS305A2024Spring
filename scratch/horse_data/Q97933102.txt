@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q97933102', 'Speech', '', '', 'http://www.wikidata.org/entity/Q98079379', 'Mr Speaker', '2017', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6485060', 'Landscape', '', '', 'http://www.wikidata.org/entity/Q7376018', 'Rubens', '1813', '', 'female organism']

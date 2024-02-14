@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339171', 'Posse', '', '', 'http://www.wikidata.org/entity/Q7516003', 'Silver Deputy', '2000', '', 'male organism']

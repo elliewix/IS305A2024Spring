@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012067', 'Cardinal Puff mare', 'http://www.wikidata.org/entity/Q64012094', 'Tatler mare', 'http://www.wikidata.org/entity/Q64012070', 'Cardinal Puff', '1777', '', 'female organism']

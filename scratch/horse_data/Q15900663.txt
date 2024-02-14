@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q15900663', 'Bullish Cash', '', '', '', '', '2002', '', 'male organism']

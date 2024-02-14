@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994005', 'Aleppo', 'http://www.wikidata.org/entity/Q62033488', 'Hautboy mare', 'http://www.wikidata.org/entity/Q1166352', 'Darley Arabian', '1711', '', 'male organism']

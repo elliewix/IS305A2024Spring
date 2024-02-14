@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117370046', 'Don Cossack mare', 'http://www.wikidata.org/entity/Q117371111', 'Mistake', 'http://www.wikidata.org/entity/Q117370103', 'Don Cossack', '1821', '', 'female organism']

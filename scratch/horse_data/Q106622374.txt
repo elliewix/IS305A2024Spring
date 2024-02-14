@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106622374', 'Canturo', '', '', 'http://www.wikidata.org/entity/Q64826947', 'Cantus', '1995', '', 'male organism']

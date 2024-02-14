@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970643', 'West Acre', 'http://www.wikidata.org/entity/Q55071372', 'Narrate', 'http://www.wikidata.org/entity/Q5472988', 'Forty Niner', '1995', '', 'male organism']

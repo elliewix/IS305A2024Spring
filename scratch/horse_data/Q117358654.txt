@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358654', 'Boudrow mare', 'http://www.wikidata.org/entity/Q117359992', 'Squirrel mare', 'http://www.wikidata.org/entity/Q117358671', 'Boudrow', '1788', '', 'female organism']

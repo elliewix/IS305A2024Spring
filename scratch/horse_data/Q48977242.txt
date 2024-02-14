@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48977242', 'Gay Spartan', '', '', '', '', '1971', '', '']

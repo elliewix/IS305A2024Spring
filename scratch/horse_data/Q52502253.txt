@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52502253', 'Bacchus', '', '', '', '', '', '', 'male organism']

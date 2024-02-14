@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62014805', 'Joskin', '', '', 'http://www.wikidata.org/entity/Q7984352', 'West Australian', '1856', '', 'male organism']

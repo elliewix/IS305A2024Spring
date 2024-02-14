@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30936388', 'Sarastro', '', '', 'http://www.wikidata.org/entity/Q11338126', 'White Muzzle', '2010', '', 'male organism']

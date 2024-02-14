@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305671', 'Thunder Gulch', '', '', 'http://www.wikidata.org/entity/Q11296295', 'Gulch', '1992', '2018', 'male organism']

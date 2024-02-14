@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242467', 'Shammy Davis', '', '', '', '', '1994', '', 'male organism']

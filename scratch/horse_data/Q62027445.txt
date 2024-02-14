@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027445', 'Prophet mare', 'http://www.wikidata.org/entity/Q62022298', 'Virago', 'http://www.wikidata.org/entity/Q62027449', 'Prophet', '1777', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4812409', 'At Talaq', '', '', 'http://www.wikidata.org/entity/Q7351567', 'Roberto', '1981', '1995', 'male organism']

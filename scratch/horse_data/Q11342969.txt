@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342969', 'ミレニアムバイオ', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1998', '', 'male organism']

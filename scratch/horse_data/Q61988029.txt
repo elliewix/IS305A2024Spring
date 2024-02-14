@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61988029', 'Clinkerina', 'http://www.wikidata.org/entity/Q17013955', 'Pewett', 'http://www.wikidata.org/entity/Q61988034', 'Clinker', '1812', '', 'female organism']

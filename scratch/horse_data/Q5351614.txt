@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5351614', 'El Mokhtar', '', '', '', '', '1971', '1983', 'male organism']

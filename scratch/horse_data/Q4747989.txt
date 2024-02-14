@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4747989', 'Amounis', '', '', '', '', '1922', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17222505', 'クリスマス', '', '', 'http://www.wikidata.org/entity/Q2879150', 'Bago', '2011', '', 'female organism']

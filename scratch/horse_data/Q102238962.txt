@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238962', 'Whopper', '', '', '', '', '1932', '', 'male organism']

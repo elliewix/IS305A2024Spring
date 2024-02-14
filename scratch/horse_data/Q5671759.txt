@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5671759', 'Amani', '', '', '', '', '2008', '', 'female organism']

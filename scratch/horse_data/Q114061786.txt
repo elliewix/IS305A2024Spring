@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114061786', 'Art House', '', '', 'http://www.wikidata.org/entity/Q11311521', 'Screen Hero', '2019', '', 'female organism']

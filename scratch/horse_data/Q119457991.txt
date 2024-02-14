@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119457991', 'Africus 862', 'http://www.wikidata.org/entity/Q119458104', 'Rosalind 1475', 'http://www.wikidata.org/entity/Q119581954', 'Waterloo 2199', '1875', '', 'male organism']

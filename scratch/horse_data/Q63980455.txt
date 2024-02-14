@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63980455', 'Foinnualla', '', '', 'http://www.wikidata.org/entity/Q4915976', 'Birdcatcher', '1843', '', 'female organism']

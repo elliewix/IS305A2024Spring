@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240239', 'Ebony Pearl', '', '', '', '', '1955', '', 'male organism']

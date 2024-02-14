@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30930565', 'Neorealism', '', '', 'http://www.wikidata.org/entity/Q11325271', 'Neo Universe', '2011', '', 'male organism']

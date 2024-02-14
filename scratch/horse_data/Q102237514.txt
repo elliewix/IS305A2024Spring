@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237514', 'Prince K.', '', '', '', '', '1920', '', 'male organism']

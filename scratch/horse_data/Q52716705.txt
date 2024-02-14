@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52716705', 'Gendarme', 'http://www.wikidata.org/entity/Q11330997', 'Believe', 'http://www.wikidata.org/entity/Q6418416', "Kitten's Joy", '2015', '', 'male organism']

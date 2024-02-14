@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117385841', 'Hunting Squirrel', '', '', '', '', '1750', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236888', 'Hodge', '', '', '', '', '1911', '', 'male organism']

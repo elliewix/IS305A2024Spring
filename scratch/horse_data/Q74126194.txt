@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q74126194', 'Yamanin Imprime', '', '', '', '', '2014', '', 'female organism']

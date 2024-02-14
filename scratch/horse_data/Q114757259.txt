@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114757259', 'Nishino Ōkan', '', '', '', '', '1975', '', 'male organism']

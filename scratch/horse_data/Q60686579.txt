@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60686579', 'Mr Stunning', '', '', 'http://www.wikidata.org/entity/Q87721670', 'Exceed And Excel', '2012', '', 'male organism']

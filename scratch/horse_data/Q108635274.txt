@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108635274', 'Querqueville', 'http://www.wikidata.org/entity/Q108639225', 'Cancale', 'http://www.wikidata.org/entity/Q108638995', 'Vas-y donc', '1938', '', 'female organism']

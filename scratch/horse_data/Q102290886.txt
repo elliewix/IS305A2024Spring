@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290886', 'Mubtaahij', '', '', '', '', '2012', '', 'male organism']

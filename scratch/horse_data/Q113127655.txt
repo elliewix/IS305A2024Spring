@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113127655', 'Akai Ito', '', '', 'http://www.wikidata.org/entity/Q11296691', 'Kizuna', '2017', '', 'female organism']

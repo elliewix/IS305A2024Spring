@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236766', 'John Furlong', '', '', '', '', '1907', '', 'male organism']

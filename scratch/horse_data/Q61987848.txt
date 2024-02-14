@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987848', 'Galla Colours', '', '', 'http://www.wikidata.org/entity/Q4252720', 'Sir Gallahad', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65964494', 'Camarade Rapide', 'http://www.wikidata.org/entity/Q65964511', 'Allegria de Grandchamp', 'http://www.wikidata.org/entity/Q3147477', 'Ibrahim', '1968', '1987', 'female organism']

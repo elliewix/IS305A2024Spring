@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237888', 'Sweeping Away', '', '', '', '', '1922', '', 'male organism']

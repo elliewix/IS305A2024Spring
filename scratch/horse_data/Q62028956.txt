@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028956', 'Miss Twickenham', 'http://www.wikidata.org/entity/Q62028961', 'Electress', 'http://www.wikidata.org/entity/Q7355380', 'Rockingham', '1838', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117385662', "Miss Darcy's pet mare", 'http://www.wikidata.org/entity/Q117385692', 'Sedbury Royal mare', '', '', '1690', '', 'female organism']

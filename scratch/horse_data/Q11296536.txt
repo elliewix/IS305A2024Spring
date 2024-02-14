@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11296536', 'Garnet', '', '', 'http://www.wikidata.org/entity/Q11321199', 'Tosa Midori', '1955', '', 'female organism']

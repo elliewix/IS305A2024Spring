@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62015578', 'Cobbea', '', '', 'http://www.wikidata.org/entity/Q7538004', 'Skyscraper', '1802', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5384587', 'Equipoise', 'http://www.wikidata.org/entity/Q61997479', 'Swinging', 'http://www.wikidata.org/entity/Q61997442', 'Pennant', '1928', '', 'male organism']

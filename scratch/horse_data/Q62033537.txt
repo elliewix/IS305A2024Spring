@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033537', 'Fawn', 'http://www.wikidata.org/entity/Q62027989', 'Jerboa', 'http://www.wikidata.org/entity/Q7546256', 'Smolensko', '1823', '', 'female organism']

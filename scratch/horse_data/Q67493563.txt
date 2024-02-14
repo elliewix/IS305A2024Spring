@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67493563', 'Denko Ange', '', '', 'http://www.wikidata.org/entity/Q6810332', 'Meisho Samson', '2013', '', 'female organism']

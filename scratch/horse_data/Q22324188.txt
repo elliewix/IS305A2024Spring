@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22324188', 'Corland', 'http://www.wikidata.org/entity/Q108586345', 'Thyra', 'http://www.wikidata.org/entity/Q1131753', 'Cor de la Bryere', '1989', '2017', 'male organism']

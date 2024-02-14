@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17222793', 'コレクターアイテム', '', '', 'http://www.wikidata.org/entity/Q4309360', "Heart's Cry", '2010', '', 'female organism']

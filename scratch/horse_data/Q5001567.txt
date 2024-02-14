@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5001567', 'Bushranger', '', '', '', '', '1930', '', '']

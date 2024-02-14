@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63980539', 'Luna', 'http://www.wikidata.org/entity/Q62021677', 'Proserpine', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1779', '', 'female organism']

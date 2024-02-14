@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021760', 'Jewess', 'http://www.wikidata.org/entity/Q62022043', 'Calendulae', 'http://www.wikidata.org/entity/Q6915664', 'Moses', '1827', '', 'female organism']

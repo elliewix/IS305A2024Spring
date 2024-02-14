@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314519', 'セリーセクレタリー', '', '', 'http://www.wikidata.org/entity/Q7283646', 'Rahy', '1994', '', 'male organism']

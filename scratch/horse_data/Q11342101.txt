@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342101', 'Miss Marumichi', 'http://www.wikidata.org/entity/Q11297547', 'Cupid', 'http://www.wikidata.org/entity/Q11325587', 'Never Beat', '1965', '', 'female organism']

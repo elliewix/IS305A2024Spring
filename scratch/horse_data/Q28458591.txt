@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28458591', 'Sandwich', '', '', 'http://www.wikidata.org/entity/Q7419031', 'Sansovino', '1928', '', '']

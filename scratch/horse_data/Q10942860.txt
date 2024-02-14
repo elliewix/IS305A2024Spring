@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10942860', 'Armada', '', '', 'http://www.wikidata.org/entity/Q11321092', 'Towkay', '2001', '', 'male organism']

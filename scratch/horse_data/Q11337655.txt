@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337655', 'Hokuto Vega', '', '', '', '', '1990', '', 'female organism']

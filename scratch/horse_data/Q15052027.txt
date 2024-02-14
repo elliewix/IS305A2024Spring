@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q15052027', 'Trêve', '', '', 'http://www.wikidata.org/entity/Q11344363', 'Motivator', '2010', '', 'female organism']

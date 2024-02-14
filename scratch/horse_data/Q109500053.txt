@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109500053', 'Arab', 'http://www.wikidata.org/entity/Q109500532', 'Ata Gul', 'http://www.wikidata.org/entity/Q109500565', 'Ag Ishan', '1930', '', 'male organism']

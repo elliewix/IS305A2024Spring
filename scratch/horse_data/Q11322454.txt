@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322454', 'トーワウィナー', '', '', 'http://www.wikidata.org/entity/Q11324600', 'Nihon Pillow Winner', '1990', '', 'male organism']

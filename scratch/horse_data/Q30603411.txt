@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30603411', 'Gun Runner', 'http://www.wikidata.org/entity/Q61994467', 'Quiet Giant', 'http://www.wikidata.org/entity/Q5032129', 'Candy Ride', '2013', '', 'male organism']

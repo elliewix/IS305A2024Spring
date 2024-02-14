@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987574', 'Lady Windermere', 'http://www.wikidata.org/entity/Q61987520', 'Brigid', 'http://www.wikidata.org/entity/Q21997743', 'Lake Coniston', '1997', '', 'female organism']

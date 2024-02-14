@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106803665', 'Aramis Bar', '', '', '', '', '2016', '2021', '']

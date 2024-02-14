@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022298', 'Virago', 'http://www.wikidata.org/entity/Q62022307', 'Regulus mare', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1764', '', 'female organism']

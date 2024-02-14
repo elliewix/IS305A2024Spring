@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993988', 'Childers mare', '', '', 'http://www.wikidata.org/entity/Q4865372', "Bartlett's Childers", '', '', 'female organism']

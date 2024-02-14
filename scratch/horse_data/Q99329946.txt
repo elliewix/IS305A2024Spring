@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q99329946', 'Scolari', '', '', '', '', '2004', '', 'male organism']

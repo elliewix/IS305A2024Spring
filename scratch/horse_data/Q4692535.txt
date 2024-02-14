@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4692535', 'Agile', '', '', '', '', '1902', '', 'male organism']

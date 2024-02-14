@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96193973', 'Reveuse', 'http://www.wikidata.org/entity/Q108857650', 'Sympathie', 'http://www.wikidata.org/entity/Q96142797', 'Lavater', '1878', '', 'female organism']

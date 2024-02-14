@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117370698', 'Brown Betty', 'http://www.wikidata.org/entity/Q117370748', 'The Massey Mare', 'http://www.wikidata.org/entity/Q11327706', 'Basto', '1713', '', 'female organism']

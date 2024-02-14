@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111337028', 'Spotted Beauty', 'http://www.wikidata.org/entity/Q111337068', 'Silver Beauty', 'http://www.wikidata.org/entity/Q114218', "Man o' War", '1941', '', 'female organism']

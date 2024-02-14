@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67479332', 'Muguet du Manoir', 'http://www.wikidata.org/entity/Q67587846', 'Caméra', 'http://www.wikidata.org/entity/Q67377760', 'Artichaut', '1978', '2000', 'male organism']

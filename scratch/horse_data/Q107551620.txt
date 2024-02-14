@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107551620', 'Teddy Beau', 'http://www.wikidata.org/entity/Q107551614', 'Beautiful Lady', 'http://www.wikidata.org/entity/Q7693967', 'Teddy', '1934', '', 'male organism']

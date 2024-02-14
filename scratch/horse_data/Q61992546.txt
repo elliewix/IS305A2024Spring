@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61992546', 'Dungannon', 'http://www.wikidata.org/entity/Q61988104', 'Aspasia', 'http://www.wikidata.org/entity/Q1203752', 'Eclipse', '1780', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239359', 'Gay Bit', '', '', '', '', '1941', '', 'male organism']

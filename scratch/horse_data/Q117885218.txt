@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117885218', 'Seducteur 8850', 'http://www.wikidata.org/entity/Q120450632', 'Rosalie 5688', 'http://www.wikidata.org/entity/Q117885192', 'Fenelon 2682', '1884', '', 'male organism']

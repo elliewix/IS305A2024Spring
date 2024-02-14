@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16991684', 'Election', 'http://www.wikidata.org/entity/Q62027327', 'Chestnut Skim', 'http://www.wikidata.org/entity/Q5577568', 'Gohanna', '1804', '', 'male organism']

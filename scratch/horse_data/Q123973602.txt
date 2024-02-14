@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123973602', 'Ultimus', '', '', 'http://www.wikidata.org/entity/Q5152235', 'Commando', '1906', '', 'male organism']

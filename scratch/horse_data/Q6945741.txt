@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6945741', 'My Juliet', '', '', '', '', '1972', '', 'female organism']

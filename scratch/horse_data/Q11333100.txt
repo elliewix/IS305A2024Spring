@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333100', 'フジエスミリオーネ', '', '', 'http://www.wikidata.org/entity/Q11289550', 'Eishin Sandy', '2001', '', 'male organism']

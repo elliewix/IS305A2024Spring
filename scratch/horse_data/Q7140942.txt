@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7140942', 'Party Politics', '', '', '', '', '1984', '', '']

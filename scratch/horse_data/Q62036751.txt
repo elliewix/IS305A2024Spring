@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62036751', 'Miss Stephenson', 'http://www.wikidata.org/entity/Q62036849', 'Precipitate mare', 'http://www.wikidata.org/entity/Q7563356', 'Sorcerer', '1814', '', 'female organism']

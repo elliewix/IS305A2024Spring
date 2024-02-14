@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7548189', 'Snow Bride', 'http://www.wikidata.org/entity/Q16826417', 'Awaasif', 'http://www.wikidata.org/entity/Q2907399', 'Blushing Groom', '1986', '', 'female organism']

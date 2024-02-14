@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322435', 'トーヨーシアトル', '', '', 'http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '1993', '', 'male organism']

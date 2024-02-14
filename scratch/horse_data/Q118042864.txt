@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118042864', 'Sénégal', '', '', 'http://www.wikidata.org/entity/Q118042573', 'Joyeaux', '1902', '', 'male organism']

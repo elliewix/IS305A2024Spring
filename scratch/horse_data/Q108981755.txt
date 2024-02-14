@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108981755', 'César', '', '', 'http://www.wikidata.org/entity/Q108937002', 'Serpolet-rouan', '', '', 'male organism']

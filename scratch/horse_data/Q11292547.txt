@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11292547', 'Oriental Art', '', '', 'http://www.wikidata.org/entity/Q6810492', 'Mejiro McQueen', '1997', '2015', 'female organism']

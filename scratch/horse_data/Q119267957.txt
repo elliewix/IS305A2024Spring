@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119267957', 'Aboukir 85', '', '', 'http://www.wikidata.org/entity/Q117942496', 'Iago 768', '1881', '', 'male organism']

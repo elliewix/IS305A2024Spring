@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6880434', 'Mistral Højris', '', '', '', '', '1995', '', 'male organism']

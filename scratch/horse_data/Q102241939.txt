@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241939', 'Masterful Advocate', '', '', '', '', '1984', '', 'male organism']

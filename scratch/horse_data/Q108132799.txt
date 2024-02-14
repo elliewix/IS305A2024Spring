@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108132799', 'Sandro', 'http://www.wikidata.org/entity/Q108133282', 'Duerte', 'http://www.wikidata.org/entity/Q108132948', 'Sacramento Song', '1974', '2005', 'male organism']

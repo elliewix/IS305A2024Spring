@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006676', 'Casamento', '', '', 'http://www.wikidata.org/entity/Q7487429', 'Shamardal', '2008', '2020', 'male organism']

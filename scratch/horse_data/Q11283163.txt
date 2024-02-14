@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283163', 'Asa Denko', '', '', '', '', '1964', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7252228', 'Proud Birdie', '', '', 'http://www.wikidata.org/entity/Q7252229', 'Proud Clarion', '1973', '', 'male organism']

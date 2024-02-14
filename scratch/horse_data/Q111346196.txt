@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111346196', 'Joyeuse', 'http://www.wikidata.org/entity/Q111346332', 'Quêteuse', 'http://www.wikidata.org/entity/Q108166890', 'Centaure du Bois', '1953', '', 'female organism']

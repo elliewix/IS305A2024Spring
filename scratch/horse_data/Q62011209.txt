@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62011209', 'Margrave mare', 'http://www.wikidata.org/entity/Q117373126', 'Patty Primrose', 'http://www.wikidata.org/entity/Q6760727', 'Margrave', '1836', '', 'female organism']

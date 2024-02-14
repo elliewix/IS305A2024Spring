@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55079177', 'Case Ace', 'http://www.wikidata.org/entity/Q55079318', 'Sweetheart', 'http://www.wikidata.org/entity/Q7693967', 'Teddy', '1934', '', 'male organism']

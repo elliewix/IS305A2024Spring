@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311453', 'Sugino Hayakaze', '', '', 'http://www.wikidata.org/entity/Q5275039', 'Diesis', '1993', '2002', 'male organism']

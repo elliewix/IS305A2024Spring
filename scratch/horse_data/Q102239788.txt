@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239788', 'Royal Mustang', '', '', '', '', '1948', '', 'male organism']

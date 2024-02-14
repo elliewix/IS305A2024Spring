@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11516006', 'Tsukitomo', '', '', 'http://www.wikidata.org/entity/Q114218', "Man o' War", '1932', '', 'male organism']

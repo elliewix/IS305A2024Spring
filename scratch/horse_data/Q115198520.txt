@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115198520', 'Amarilla', 'http://www.wikidata.org/entity/Q115215203', 'Pumarilla', 'http://www.wikidata.org/entity/Q115215311', 'Wahtamin', '1982', '', 'female organism']

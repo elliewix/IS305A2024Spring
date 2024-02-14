@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56304300', 'Candor Hall', '', '', '', '', '', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239553', 'Bob Murphy', '', '', '', '', '1943', '', 'male organism']

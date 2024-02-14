@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236214', 'Bill Letcher', '', '', '', '', '1887', '', 'male organism']

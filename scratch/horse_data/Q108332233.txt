@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108332233', 'Eteuse', '', '', '', '', '1948', '', 'female organism']

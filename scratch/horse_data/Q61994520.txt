@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994520', 'Candy Girl', '', '', 'http://www.wikidata.org/entity/Q5032144', 'Candy Stripes', '1990', '', 'female organism']

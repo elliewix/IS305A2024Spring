@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5416586', 'Evening Attire', '', '', 'http://www.wikidata.org/entity/Q4922037', 'Black Tie Affair', '1998', '2019', '']

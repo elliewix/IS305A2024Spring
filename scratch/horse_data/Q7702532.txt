@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7702532', 'Terlingua', 'http://www.wikidata.org/entity/Q55091557', 'Crimson Saint', 'http://www.wikidata.org/entity/Q1151926', 'Secretariat', '1976', '2008', 'female organism']

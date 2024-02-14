@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237021', 'The Cock', '', '', '', '', '1913', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11332700', 'Fenomeno', '', '', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2009', '', 'male organism']

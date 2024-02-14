@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3066299', 'Fan Idole', '', '', '', '', '1993', '', 'female organism']

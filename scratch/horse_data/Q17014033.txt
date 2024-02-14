@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17014033', 'Pindarrie', 'http://www.wikidata.org/entity/Q17013446', 'Parasol', 'http://www.wikidata.org/entity/Q7180538', 'Phantom', '1817', '', 'male organism']

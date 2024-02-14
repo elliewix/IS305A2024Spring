@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239230', 'Blue Pair', '', '', '', '', '1938', '', 'male organism']

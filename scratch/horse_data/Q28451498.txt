@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28451498', 'Shirley', '', '', 'http://www.wikidata.org/entity/Q370429', 'Lexington', '1873', '', '']

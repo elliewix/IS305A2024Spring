@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7374268', 'Royal Heroine', '', '', '', '', '1980', '', 'female organism']

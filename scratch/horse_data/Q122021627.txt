@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122021627', 'Konilda 150770', 'http://www.wikidata.org/entity/Q122022139', 'Hilda 110384', 'http://www.wikidata.org/entity/Q119521054', 'Kontact', '1918', '', 'female organism']

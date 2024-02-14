@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11295685', 'Colonel Symboli', '', '', 'http://www.wikidata.org/entity/Q11329825', 'Partholon', '1971', '', 'male organism']

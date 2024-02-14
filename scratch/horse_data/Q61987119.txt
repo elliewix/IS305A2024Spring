@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987119', 'Langar', '', '', 'http://www.wikidata.org/entity/Q7448391', 'Selim', '1817', '', 'male organism']

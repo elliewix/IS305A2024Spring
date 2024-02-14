@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22321017', 'Orientale', '', '', 'http://www.wikidata.org/entity/Q3147477', 'Ibrahim', '1960', '', 'female organism']

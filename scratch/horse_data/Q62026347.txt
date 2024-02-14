@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026347', 'Infant mare', 'http://www.wikidata.org/entity/Q62026356', 'Whittington mare', 'http://www.wikidata.org/entity/Q62026348', 'Infant', '1760', '', 'female organism']

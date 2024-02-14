@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735378', 'Shonan Apollon', '', '', 'http://www.wikidata.org/entity/Q11284105', 'Admire Max', '2010', '', 'male organism']

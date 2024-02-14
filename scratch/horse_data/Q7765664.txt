@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7765664', 'The Spaniard', '', '', 'http://www.wikidata.org/entity/Q7429092', 'Sayajirao', '1962', '', 'male organism']

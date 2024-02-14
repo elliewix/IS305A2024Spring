@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16682133', 'Ursulo de Crouay', '', '', '', '', '1986', '2017', 'male organism']

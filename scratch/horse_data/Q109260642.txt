@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260642', 'Contested', '', '', 'http://www.wikidata.org/entity/Q5557464', 'Ghostzapper', '2009', '', 'female organism']

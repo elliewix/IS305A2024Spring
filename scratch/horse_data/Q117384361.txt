@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384361', 'Purity', 'http://www.wikidata.org/entity/Q61998508', "Pratt's Old Mare", 'http://www.wikidata.org/entity/Q1101198', 'Matchem', '1774', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798580', 'Danon Come On', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2006', '2015', 'male organism']

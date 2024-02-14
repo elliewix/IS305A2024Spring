@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7089739', 'Omar Khayyam', '', '', '', '', '1914', '', 'male organism']

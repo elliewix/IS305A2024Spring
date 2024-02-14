@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5471591', 'Fort Marcy', '', '', '', '', '1964', '', 'male organism']

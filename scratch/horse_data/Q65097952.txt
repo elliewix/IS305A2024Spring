@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65097952', 'Katchina Mail', 'http://www.wikidata.org/entity/Q111320908', 'Elvira Mail', 'http://www.wikidata.org/entity/Q1027559', 'Calvaro Z', '1998', '', 'female organism']

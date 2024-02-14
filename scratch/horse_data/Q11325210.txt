@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11325210', 'Native Heart', '', '', 'http://www.wikidata.org/entity/Q7601241', 'Star of Cozzene', '1998', '', 'male organism']

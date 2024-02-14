@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311431', 'Ski Captain', '', '', 'http://www.wikidata.org/entity/Q3499831', 'Storm Bird', '1992', '', 'male organism']

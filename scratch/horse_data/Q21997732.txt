@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21997732', 'Kingsway', '', '', 'http://www.wikidata.org/entity/Q5430908', 'Fairway', '1940', '', 'male organism']

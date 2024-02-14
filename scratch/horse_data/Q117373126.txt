@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117373126', 'Patty Primrose', 'http://www.wikidata.org/entity/Q117382537', 'Sybil', 'http://www.wikidata.org/entity/Q117373248', 'Confederate', '1830', '', 'female organism']

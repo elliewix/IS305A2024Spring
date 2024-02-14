@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7672792', 'Ta Wee', '', '', 'http://www.wikidata.org/entity/Q6044492', 'Intentionally', '1966', '', 'female organism']

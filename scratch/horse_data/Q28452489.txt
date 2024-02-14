@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28452489', 'Alice Springs', '', '', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2013', '', 'female organism']

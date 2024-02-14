@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124354200', 'Farceur', 'http://www.wikidata.org/entity/Q124356141', 'Une Farce', '', '', '1993', '2006', 'male organism']

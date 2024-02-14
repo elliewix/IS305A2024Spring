@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20043565', 'Omega Vendetta', 'http://www.wikidata.org/entity/Q11330881', 'Behind the Mask', 'http://www.wikidata.org/entity/Q8069153', 'Zenno Rob Roy', '2011', '2019', 'male organism']

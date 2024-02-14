@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342250', 'ミッドナイトベット', '', '', 'http://www.wikidata.org/entity/Q5915750', 'Housebuster', '1994', '', 'male organism']

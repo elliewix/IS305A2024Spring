@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8025083', 'Wing Commander', '', '', '', '', '', '', 'male organism']

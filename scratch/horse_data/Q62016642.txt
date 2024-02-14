@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016642', 'Beppo', 'http://www.wikidata.org/entity/Q62016646', 'Pitti', 'http://www.wikidata.org/entity/Q61993570', 'Marco', '1903', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4698434', 'Airborne', '', '', 'http://www.wikidata.org/entity/Q7239482', 'Precipitation', '1943', '', 'male organism']

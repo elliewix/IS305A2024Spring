@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347243', 'ラファール', '', '', '', '', '1968', '', 'female organism']

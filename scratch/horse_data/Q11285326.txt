@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11285326', 'Andre Amon', '', '', 'http://www.wikidata.org/entity/Q11348502', 'Ryu Pharos', '1979', '', 'male organism']

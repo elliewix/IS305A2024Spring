@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7961094', 'Wakeful', '', '', '', '', '1896', '', 'female organism']

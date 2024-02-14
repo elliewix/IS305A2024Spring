@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235794', 'Gold Mine', '', '', '', '', '1872', '', 'female organism']

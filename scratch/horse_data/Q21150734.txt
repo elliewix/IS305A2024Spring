@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21150734', 'Peruán', '', '', '', '', '1988', '2017', 'male organism']

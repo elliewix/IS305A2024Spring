@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6785517', 'Mastery', '', '', 'http://www.wikidata.org/entity/Q7635985', 'Sulamani', '2006', '', 'male organism']

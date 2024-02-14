@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q79839793', 'シングンマイケル', '', '', '', '', '2014', '', 'male organism']

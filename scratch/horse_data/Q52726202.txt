@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52726202', 'Soliman', '', '', 'http://www.wikidata.org/entity/Q52554965', 'James Watt', '1896', '1916', 'male organism']

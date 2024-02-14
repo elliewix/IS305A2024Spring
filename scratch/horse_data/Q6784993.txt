@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6784993', 'Master Charlie', '', '', '', '', '1922', '', 'male organism']

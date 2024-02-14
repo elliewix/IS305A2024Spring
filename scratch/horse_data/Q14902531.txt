@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q14902531', 'Almutawakel', '', '', 'http://www.wikidata.org/entity/Q6723556', 'Machiavellian', '1995', '', 'male organism']

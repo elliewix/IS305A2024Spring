@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5174045', 'Cosmic Bomb', '', '', 'http://www.wikidata.org/entity/Q7180681', 'Pharamond', '1944', '', 'male organism']

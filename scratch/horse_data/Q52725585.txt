@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52725585', 'Glazard', '', '', 'http://www.wikidata.org/entity/Q52377186', 'Corlay', '', '', 'male organism']

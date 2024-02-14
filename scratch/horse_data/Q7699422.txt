@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7699422', 'Tenacious', '', '', 'http://www.wikidata.org/entity/Q5068876', 'Challedon', '1954', '', 'male organism']

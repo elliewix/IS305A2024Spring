@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341209', 'マルカラスカル', '', '', 'http://www.wikidata.org/entity/Q11300176', 'Grass Wonder', '2002', '', 'male organism']

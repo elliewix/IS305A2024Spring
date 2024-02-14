@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17022737', 'Zabara', '', '', 'http://www.wikidata.org/entity/Q21996664', 'Persian Gulf', '1949', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315902', 'タカエノカオリ', '', '', 'http://www.wikidata.org/entity/Q11352175', 'Venture', '1971', '', 'female organism']

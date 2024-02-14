@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107862900', 'Snow Lantern', '', '', '', '', '', '', '']

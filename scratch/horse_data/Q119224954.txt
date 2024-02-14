@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119224954', 'Bayard I', '', '', 'http://www.wikidata.org/entity/Q119299906', 'Picador', '', '', 'male organism']

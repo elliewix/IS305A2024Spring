@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240809', 'Proper Proof', '', '', '', '', '1965', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7623813', 'Strike the Gold', '', '', 'http://www.wikidata.org/entity/Q4738646', 'Alydar', '1988', '2011', 'male organism']

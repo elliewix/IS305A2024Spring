@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384779', 'sister to Westbury', 'http://www.wikidata.org/entity/Q117384781', 'Spot mare', 'http://www.wikidata.org/entity/Q5196119', "Curwen's Bay Barb", '1713', '', 'female organism']

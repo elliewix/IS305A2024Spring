@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286810', 'イツセイ', '', '', 'http://www.wikidata.org/entity/Q11314399', 'Theft', '1948', '', 'male organism']

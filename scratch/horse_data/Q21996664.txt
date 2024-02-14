@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21996664', 'Persian Gulf', '', '', 'http://www.wikidata.org/entity/Q4842833', 'Bahram', '1940', '1964', 'male organism']

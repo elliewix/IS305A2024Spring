@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5367290', 'Pretty Polly', '', '', '', '', '1901', '', 'female organism']

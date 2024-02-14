@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11351036', 'Robe Tissage', '', '', 'http://www.wikidata.org/entity/Q7968431', 'War Emblem', '2010', '', 'female organism']

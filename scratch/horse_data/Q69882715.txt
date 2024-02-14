@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q69882715', 'Earthlight', '', '', 'http://www.wikidata.org/entity/Q7487429', 'Shamardal', '2017', '', 'male organism']

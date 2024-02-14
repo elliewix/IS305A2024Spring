@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345213', 'ヤマニンバリメラ', '', '', '', '', '1971', '', 'male organism']

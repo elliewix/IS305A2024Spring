@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11304463', 'Success Brocken', 'http://www.wikidata.org/entity/Q11304462', 'Success Beauty', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2005', '', 'male organism']

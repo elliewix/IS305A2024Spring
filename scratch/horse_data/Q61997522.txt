@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997522', 'Saint Editha', '', '', '', '', '1873', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55608516', 'Craig an Eran', 'http://www.wikidata.org/entity/Q62011467', 'Maid of the Mist', 'http://www.wikidata.org/entity/Q7641634', 'Sunstar', '1918', '', 'male organism']

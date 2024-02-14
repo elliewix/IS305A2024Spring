@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117383433', 'Justice mare', 'http://www.wikidata.org/entity/Q117383441', 'Parsley', 'http://www.wikidata.org/entity/Q61993976', 'Justice', '1795', '', 'female organism']

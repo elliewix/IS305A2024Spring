@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970525', 'Bosworth', '', '', 'http://www.wikidata.org/entity/Q7560561', 'Son-in-Law', '1926', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7581996', 'Square Angel', '', '', 'http://www.wikidata.org/entity/Q7268310', 'Quadrangle', '1970', '', 'female organism']

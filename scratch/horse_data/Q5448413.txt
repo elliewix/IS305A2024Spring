@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5448413', 'Filho da Puta', 'http://www.wikidata.org/entity/Q55091250', 'Mrs Barnet', 'http://www.wikidata.org/entity/Q55091237', 'Haphazard', '1812', '1835', 'male organism']

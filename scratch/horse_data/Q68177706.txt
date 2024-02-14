@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q68177706', 'Sottsass', '', '', 'http://www.wikidata.org/entity/Q109044603', 'Siyouni', '2016', '', 'male organism']

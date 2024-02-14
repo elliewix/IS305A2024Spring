@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7271851', 'Quiet American', '', '', 'http://www.wikidata.org/entity/Q5434454', 'Fappiano', '1986', '', 'male organism']

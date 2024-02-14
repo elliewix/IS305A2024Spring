@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120649213', 'Susie Degas', 'http://www.wikidata.org/entity/Q120648814', 'Tillie Degas', 'http://www.wikidata.org/entity/Q120649604', 'Mr Chief', '', '', 'female organism']

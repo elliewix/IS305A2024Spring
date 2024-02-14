@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6760727', 'Margrave', 'http://www.wikidata.org/entity/Q62011224', 'Election mare', 'http://www.wikidata.org/entity/Q52555773', 'Muley', '1829', '', 'male organism']

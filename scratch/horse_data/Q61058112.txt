@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61058112', 'Cat Coin', '', '', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2012', '', 'female organism']

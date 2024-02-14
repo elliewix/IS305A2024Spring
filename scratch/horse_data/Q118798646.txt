@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798646', 'Mandarin Hero', '', '', 'http://www.wikidata.org/entity/Q7488402', 'Shanghai Bobby', '2020', '', 'male organism']

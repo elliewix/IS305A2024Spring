@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316104', 'タスカータソルテ', '', '', 'http://www.wikidata.org/entity/Q11310148', 'Jungle Pocket', '2004', '2010', 'male organism']

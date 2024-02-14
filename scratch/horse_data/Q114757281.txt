@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114757281', 'Admire Royal', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2007', '', 'male organism']

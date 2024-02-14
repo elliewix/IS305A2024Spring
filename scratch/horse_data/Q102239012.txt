@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239012', 'Sangreal', '', '', '', '', '1933', '', 'male organism']

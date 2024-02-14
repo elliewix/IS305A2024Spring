@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297564', 'Kyoto City', '', '', 'http://www.wikidata.org/entity/Q11304765', 'Soccer Boy', '1991', '2011', 'male organism']

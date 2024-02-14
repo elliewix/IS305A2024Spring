@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119791186', 'Coet 212838', 'http://www.wikidata.org/entity/Q119791157', 'Colo 194276', '', '', '', '', 'female organism']

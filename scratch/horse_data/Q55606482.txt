@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55606482', 'Camaree', '', '', '', '', '1947', '', '']

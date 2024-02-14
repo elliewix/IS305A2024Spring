@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115161014', 'Bira', 'http://www.wikidata.org/entity/Q115198855', 'Vira', 'http://www.wikidata.org/entity/Q115161078', 'Samber', '1983', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7516106', 'Silver Knight', '', '', '', '', '1967', '', 'male organism']

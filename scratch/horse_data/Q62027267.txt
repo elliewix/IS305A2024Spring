@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027267', 'Flyer', 'http://www.wikidata.org/entity/Q62027270', 'Squirrel mare', 'http://www.wikidata.org/entity/Q7655653', 'Sweetbriar', '1777', '', 'female organism']

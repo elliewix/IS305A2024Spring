@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111320472', 'Zermola', '', '', '', '', '1963', '', 'female organism']

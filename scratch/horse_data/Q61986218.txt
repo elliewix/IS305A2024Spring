@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61986218', 'Rosebery', 'http://www.wikidata.org/entity/Q61986273', 'Ladylike', 'http://www.wikidata.org/entity/Q61986226', 'Speculum', '1872', '', 'male organism']

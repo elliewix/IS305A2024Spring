@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987229', 'Grey Whynot', 'http://www.wikidata.org/entity/Q116113940', 'Royal mare', 'http://www.wikidata.org/entity/Q61987235', 'Whynot', '1695', '', 'female organism']

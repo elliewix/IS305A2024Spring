@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242464', 'Crimson Classic', '', '', '', '', '1994', '', 'male organism']

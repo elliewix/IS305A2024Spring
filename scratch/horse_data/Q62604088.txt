@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62604088', 'G & C Wolf', '', '', '', '', '2010', '', 'male organism']

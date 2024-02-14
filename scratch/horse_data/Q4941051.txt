@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4941051', 'Bona Vista', 'http://www.wikidata.org/entity/Q61978873', 'Vista', 'http://www.wikidata.org/entity/Q4886992', 'Bend Or', '1889', '1909', 'male organism']

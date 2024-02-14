@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1679759', 'Jalisco B', 'http://www.wikidata.org/entity/Q22318493', 'Tanagra', 'http://www.wikidata.org/entity/Q2649831', 'Alme', '1975', '1994', 'male organism']

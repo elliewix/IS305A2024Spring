@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123998467', 'Martins Cold Deck', 'http://www.wikidata.org/entity/Q123998477', 'Ram Cat', '', '', '1868', '', 'male organism']

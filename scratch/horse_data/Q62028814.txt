@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028814', 'Goldfinder mare', 'http://www.wikidata.org/entity/Q62028825', 'Lady Bolingbroke', 'http://www.wikidata.org/entity/Q11303946', 'Goldfinder', '1779', '', 'female organism']

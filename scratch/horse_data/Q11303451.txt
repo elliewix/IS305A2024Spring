@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303451', 'Koyo Chikara', '', '', '', '', '1973', '', 'male organism']

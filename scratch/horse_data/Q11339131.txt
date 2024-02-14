@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339131', 'ポジー', '', '', 'http://www.wikidata.org/entity/Q11345209', 'Yamaninsky', '1990', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4801562', 'Artsplace', '', '', 'http://www.wikidata.org/entity/Q4666824', 'Abercrombie', '1988', '2006', 'male organism']

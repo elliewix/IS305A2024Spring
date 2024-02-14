@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235768', 'Bob Woolley', '', '', '', '', '1872', '', 'male organism']

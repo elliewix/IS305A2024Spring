@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119412901', 'Lyndon', 'http://www.wikidata.org/entity/Q119414324', 'Linda Maginot', 'http://www.wikidata.org/entity/Q119413038', 'Lee Don', '1951', '', 'male organism']

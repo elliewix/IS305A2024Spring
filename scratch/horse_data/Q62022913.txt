@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022913', 'Lonsdale mare', 'http://www.wikidata.org/entity/Q62022916', 'Bonny Lass', 'http://www.wikidata.org/entity/Q62022914', 'Lonsdale Bay Arabian', '1736', '', 'female organism']

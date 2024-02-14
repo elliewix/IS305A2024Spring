@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111887935', 'Claire de Noellet', 'http://www.wikidata.org/entity/Q54007285', 'Princesse blanche', '', '', '1990', '2022', 'female organism']

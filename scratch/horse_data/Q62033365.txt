@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033365', 'sister to Mambrino', 'http://www.wikidata.org/entity/Q62028501', 'Cade mare', 'http://www.wikidata.org/entity/Q5377768', 'Engineer', '1771', '', 'female organism']

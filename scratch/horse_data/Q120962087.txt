@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120962087', 'Incitato Senior', 'http://www.wikidata.org/entity/Q121073782', '532 Capelano', 'http://www.wikidata.org/entity/Q121073737', 'Curioso', '1802', '', 'male organism']

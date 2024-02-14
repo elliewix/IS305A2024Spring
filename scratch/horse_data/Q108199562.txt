@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108199562', 'Consul', 'http://www.wikidata.org/entity/Q108284025', 'Isolde', 'http://www.wikidata.org/entity/Q108188977', 'Cottage Son', '1960', '', 'male organism']

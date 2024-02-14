@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5578391', 'Golan', '', '', 'http://www.wikidata.org/entity/Q17021458', 'Spectrum', '1998', '', 'male organism']

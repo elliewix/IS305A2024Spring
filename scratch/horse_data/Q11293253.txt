@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11293253', 'Osumi Tycoon', '', '', 'http://www.wikidata.org/entity/Q6494747', 'Last Tycoon', '1991', '', 'male organism']

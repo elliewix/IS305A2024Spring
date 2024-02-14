@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11324101', 'Nantallah', 'http://www.wikidata.org/entity/Q107547198', 'Shimmer', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1953', '', 'male organism']

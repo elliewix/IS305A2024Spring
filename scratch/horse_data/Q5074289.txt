@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5074289', 'Charger Bar', '', '', '', '', '1968', '', 'female organism']

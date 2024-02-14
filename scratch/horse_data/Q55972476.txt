@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55972476', 'American Patriot', '', '', 'http://www.wikidata.org/entity/Q18148153', 'War Front', '2013', '', 'male organism']

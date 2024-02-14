@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11352094', 'Vintner Mare', '', '', 'http://www.wikidata.org/entity/Q117359978', "Curwen's Arabian", '1677', '', 'female organism']

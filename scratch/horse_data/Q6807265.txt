@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6807265', 'Medora', '', '', 'http://www.wikidata.org/entity/Q7448391', 'Selim', '1811', '', 'female organism']

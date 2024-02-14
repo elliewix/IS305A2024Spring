@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241719', 'Chumming', '', '', '', '', '1980', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108370476', 'Maureen', 'http://www.wikidata.org/entity/Q111705721', 'Saint Prisca', 'http://www.wikidata.org/entity/Q7560561', 'Son-in-Law', '1931', '', 'female organism']

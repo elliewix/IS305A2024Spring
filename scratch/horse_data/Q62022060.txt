@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022060', 'Dundas Herod mare', 'http://www.wikidata.org/entity/Q61998496', 'Maiden', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1779', '', 'female organism']

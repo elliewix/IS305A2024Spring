@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5577568', 'Gohanna', 'http://www.wikidata.org/entity/Q61998489', 'Herod mare', 'http://www.wikidata.org/entity/Q61998471', 'Mercury', '1790', '1815', 'male organism']

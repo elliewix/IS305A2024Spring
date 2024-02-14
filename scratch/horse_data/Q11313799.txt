@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313799', 'スーパーハリケーン', '', '', 'http://www.wikidata.org/entity/Q11345211', 'Yamanin Zephyr', '2002', '2006', 'male organism']

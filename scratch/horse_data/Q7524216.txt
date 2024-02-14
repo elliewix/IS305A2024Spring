@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7524216', 'Singspiel', 'http://www.wikidata.org/entity/Q5571543', 'Glorious Song', 'http://www.wikidata.org/entity/Q13575295', 'In The Wings', '1992', '2010', 'male organism']

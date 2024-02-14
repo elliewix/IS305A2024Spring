@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033294', 'Spitfire', 'http://www.wikidata.org/entity/Q62033324', 'Young Sir Peter mare', 'http://www.wikidata.org/entity/Q11337003', 'Beningbrough', '1800', '', 'female organism']

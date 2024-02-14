@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326295', 'ハクタイユー', '', '', 'http://www.wikidata.org/entity/Q11350796', 'ロングエース', '1979', '', 'male organism']

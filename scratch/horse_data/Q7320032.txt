@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7320032', 'Rhadamanthus', 'http://www.wikidata.org/entity/Q62027267', 'Flyer', 'http://www.wikidata.org/entity/Q61993976', 'Justice', '1787', '', 'male organism']

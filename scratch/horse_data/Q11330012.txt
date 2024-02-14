@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330012', 'Hishi Masaru', '', '', 'http://www.wikidata.org/entity/Q11346360', 'Rising Flame', '1955', '1962', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236308', 'Parson', '', '', '', '', '1893', '', 'male organism']

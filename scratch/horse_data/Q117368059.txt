@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117368059', 'Worry', 'http://www.wikidata.org/entity/Q117368215', 'Sal', 'http://www.wikidata.org/entity/Q62021006', 'Woful', '1826', '', 'female organism']

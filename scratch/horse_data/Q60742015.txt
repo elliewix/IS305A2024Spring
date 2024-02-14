@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60742015', 'Rafha', 'http://www.wikidata.org/entity/Q63539999', 'Eljazzi', 'http://www.wikidata.org/entity/Q6437123', 'Kris', '1987', '', 'female organism']

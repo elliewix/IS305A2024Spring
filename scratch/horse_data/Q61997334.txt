@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997334', 'Hagioscope', 'http://www.wikidata.org/entity/Q61997340', 'Sophia', 'http://www.wikidata.org/entity/Q61986226', 'Speculum', '1878', '', 'male organism']

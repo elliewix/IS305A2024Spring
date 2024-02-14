@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122032756', 'Helix 70340', 'http://www.wikidata.org/entity/Q122040877', 'Coquette 49554', 'http://www.wikidata.org/entity/Q122027636', 'Dynamo 41462', '1907', '', 'male organism']

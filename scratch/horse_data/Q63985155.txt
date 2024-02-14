@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63985155', 'Janissary', 'http://www.wikidata.org/entity/Q6155198', 'Jannette', 'http://www.wikidata.org/entity/Q6086160', 'Isonomy', '1887', '', 'male organism']

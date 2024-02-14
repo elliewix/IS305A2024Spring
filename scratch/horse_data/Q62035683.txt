@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62035683', 'Monarque', 'http://www.wikidata.org/entity/Q62036159', 'Poetess', 'http://www.wikidata.org/entity/Q62035692', 'The Emperor', '1852', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q201598', 'Bucephalus', '', '', '', '', '-353', '-324', 'male organism']

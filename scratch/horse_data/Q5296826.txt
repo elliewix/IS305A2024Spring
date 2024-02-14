@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5296826', 'Donovan', '', '', 'http://www.wikidata.org/entity/Q1492693', 'Galopin', '1886', '', 'male organism']

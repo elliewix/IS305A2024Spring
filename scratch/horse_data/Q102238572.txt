@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238572', 'Sweep All', '', '', '', '', '1928', '', 'male organism']

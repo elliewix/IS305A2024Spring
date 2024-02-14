@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341506', 'Man of Purser', '', '', 'http://www.wikidata.org/entity/Q11316382', 'Tayasu Tsuyoshi', '2003', '', 'male organism']

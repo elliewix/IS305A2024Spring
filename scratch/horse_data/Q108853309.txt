@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108853309', 'Marcellus', 'http://www.wikidata.org/entity/Q108899348', 'Briséis', 'http://www.wikidata.org/entity/Q7448391', 'Selim', '1819', '', 'male organism']

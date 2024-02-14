@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18559382', 'Admetus', '', '', 'http://www.wikidata.org/entity/Q17015200', 'Reform', '1970', '', '']

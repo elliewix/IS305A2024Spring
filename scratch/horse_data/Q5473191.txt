@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5473191', 'Forward Gal', '', '', 'http://www.wikidata.org/entity/Q65071712', 'Native Charger', '1968', '', 'female organism']

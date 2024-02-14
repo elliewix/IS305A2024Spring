@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6188906', 'Jet Ski Lady', '', '', 'http://www.wikidata.org/entity/Q3553272', 'Vaguely Noble', '1988', '', 'female organism']

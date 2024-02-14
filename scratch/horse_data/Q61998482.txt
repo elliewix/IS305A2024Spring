@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998482', 'Tartar mare', 'http://www.wikidata.org/entity/Q117359869', 'sister to Mogul mare', 'http://www.wikidata.org/entity/Q61970253', 'Tartar', '1757', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63467683', 'Belong To Me', 'http://www.wikidata.org/entity/Q63467766', 'Belonging', 'http://www.wikidata.org/entity/Q1104509', 'Danzig', '1989', '', 'male organism']

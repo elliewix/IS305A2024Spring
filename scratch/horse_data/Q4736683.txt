@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4736683', 'Altibr', '', '', 'http://www.wikidata.org/entity/Q5275039', 'Diesis', '', '', '']

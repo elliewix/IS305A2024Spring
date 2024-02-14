@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28449482', 'Hayil', '', '', 'http://www.wikidata.org/entity/Q5243161', 'Dayjur', '1995', '', '']

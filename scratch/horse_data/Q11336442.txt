@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11336442', 'Hennessy', 'http://www.wikidata.org/entity/Q55071921', 'Island Kitty', 'http://www.wikidata.org/entity/Q3499832', 'Storm Cat', '1993', '2007', 'male organism']

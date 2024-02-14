@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798589', 'Gloria Mundi', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2018', '', 'male organism']

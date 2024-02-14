@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5036590', 'Captain Christy', '', '', '', '', '1967', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63980516', 'Prime Minister', 'http://www.wikidata.org/entity/Q63980529', 'Miss Hornpipe Teazle', 'http://www.wikidata.org/entity/Q17017349', 'Sancho', '1810', '', 'male organism']

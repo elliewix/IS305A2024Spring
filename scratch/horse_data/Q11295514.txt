@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11295514', 'Company', 'http://www.wikidata.org/entity/Q111797753', 'Brilliant Very', 'http://www.wikidata.org/entity/Q11342787', 'Miracle Admire', '2001', '2018', 'male organism']

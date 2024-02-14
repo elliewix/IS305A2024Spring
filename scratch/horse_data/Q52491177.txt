@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52491177', 'Quadriga', 'http://www.wikidata.org/entity/Q52490894', 'Historiette III', '', '', '1938', '', 'female organism']

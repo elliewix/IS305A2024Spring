@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237025', 'Kinney', '', '', '', '', '1913', '', 'male organism']

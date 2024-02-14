@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780097', 'トーセンガーネット', '', '', 'http://www.wikidata.org/entity/Q11283071', 'Agnes Digital', '', '', 'female organism']

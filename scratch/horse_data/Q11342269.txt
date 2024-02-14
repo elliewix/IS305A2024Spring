@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342269', 'ミツアキサイレンス', '', '', 'http://www.wikidata.org/entity/Q11289550', 'Eishin Sandy', '1997', '', 'male organism']

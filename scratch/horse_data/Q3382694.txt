@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3382694', 'Pieraz', '', '', '', '', '1983', '', 'male organism']

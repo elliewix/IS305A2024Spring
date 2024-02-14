@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6223811', 'John Bull', 'http://www.wikidata.org/entity/Q61993735', 'Xantippe', 'http://www.wikidata.org/entity/Q61993726', 'Fortitude', '1789', '', 'male organism']

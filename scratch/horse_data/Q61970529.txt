@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970529', 'Malatesta', 'http://www.wikidata.org/entity/Q61970531', 'Parisina', 'http://www.wikidata.org/entity/Q11282151', 'Isinglass', '1898', '', 'female organism']

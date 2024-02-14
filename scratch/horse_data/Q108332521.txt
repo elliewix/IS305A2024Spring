@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108332521', 'Herquemoulin', 'http://www.wikidata.org/entity/Q108347251', 'Chique Caennaise', 'http://www.wikidata.org/entity/Q26719877', 'Fra Diavolo', '1951', '', 'male organism']

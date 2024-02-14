@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260752', 'Zadar', '', '', 'http://www.wikidata.org/entity/Q11322365', 'Tosen Ra', '2016', '', 'male organism']

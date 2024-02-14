@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11860558', 'Golda Apache', '', '', '', '', '1997', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q39070082', 'Caucasus', 'http://www.wikidata.org/entity/Q7271979', 'Quill', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1972', '', 'male organism']

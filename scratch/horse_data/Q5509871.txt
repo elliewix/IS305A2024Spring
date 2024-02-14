@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5509871', 'Fusaichi Pegasus', '', '', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1997', '2023', 'male organism']

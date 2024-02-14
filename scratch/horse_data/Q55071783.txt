@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071783', 'Thurio', 'http://www.wikidata.org/entity/Q117383982', 'Verona', 'http://www.wikidata.org/entity/Q5184109', 'Cremorne', '1875', '', 'male organism']

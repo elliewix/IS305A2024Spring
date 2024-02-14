@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237327', 'Leonardo II', '', '', '', '', '1918', '', 'male organism']

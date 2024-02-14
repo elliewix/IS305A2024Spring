@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033141', 'Snip mare', 'http://www.wikidata.org/entity/Q62033145', 'Cottingham mare', 'http://www.wikidata.org/entity/Q7547775', 'Snip', '1758', '', 'female organism']

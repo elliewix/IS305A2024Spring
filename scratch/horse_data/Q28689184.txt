@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28689184', 'Rey de Oro', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2014', '', 'male organism']

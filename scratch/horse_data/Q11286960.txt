@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286960', 'Ibuki Rise Up', '', '', '', '', '1998', '', 'male organism']

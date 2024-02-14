@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027457', 'Jenny Spinner', 'http://www.wikidata.org/entity/Q62027463', 'Greyhound mare', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1740', '', 'female organism']

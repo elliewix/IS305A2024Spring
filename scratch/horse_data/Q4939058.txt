@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939058', 'Bold Forbes', 'http://www.wikidata.org/entity/Q107545713', 'Comely Nell', 'http://www.wikidata.org/entity/Q107545712', 'Irish Castle', '1973', '2000', 'male organism']

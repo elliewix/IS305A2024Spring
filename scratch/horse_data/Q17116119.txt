@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17116119', 'Social Outcast', '', '', '', '', '1950', '', 'male organism']

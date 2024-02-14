@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96243517', 'Niger', 'http://www.wikidata.org/entity/Q108857893', 'Miss Bell', 'http://www.wikidata.org/entity/Q96244400', 'The Norfolk Phœnomenon', '1869', '1891', 'male organism']

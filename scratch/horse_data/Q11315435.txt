@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315435', 'Solonaway', '', '', '', '', '1946', '', 'male organism']

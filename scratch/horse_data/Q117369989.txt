@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369989', 'Grace Darling', 'http://www.wikidata.org/entity/Q117370046', 'Don Cossack mare', 'http://www.wikidata.org/entity/Q62021650', 'Defence', '1832', '', 'female organism']

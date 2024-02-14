@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7514393', 'Silence Suzuka', 'http://www.wikidata.org/entity/Q11351304', 'Wakia', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1994', '1998', 'male organism']

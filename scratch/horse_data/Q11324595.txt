@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11324595', 'ニホンカイユーノス', '', '', '', '', '1994', '2009', 'male organism']

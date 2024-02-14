@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87759597', 'Stamp', 'http://www.wikidata.org/entity/Q87759598', 'Receipt', 'http://www.wikidata.org/entity/Q5371990', 'Emilius', '1842', '', 'female organism']

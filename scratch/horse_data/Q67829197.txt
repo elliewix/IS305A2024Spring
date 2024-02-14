@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67829197', 'Logician', '', '', 'http://www.wikidata.org/entity/Q2720508', 'Frankel', '2016', '', 'male organism']

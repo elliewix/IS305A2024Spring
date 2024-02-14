@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236288', 'Al Boyer', '', '', '', '', '1891', '', 'male organism']

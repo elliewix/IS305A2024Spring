@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317516', 'ダンツフレーム', '', '', 'http://www.wikidata.org/entity/Q4962908', "Brian's Time", '1998', '2005', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322827', 'ドモナラズ', '', '', 'http://www.wikidata.org/entity/Q11284680', 'Afleet', '2005', '', 'male organism']

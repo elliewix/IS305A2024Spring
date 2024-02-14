@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7459919', 'Shaamit', '', '', 'http://www.wikidata.org/entity/Q11343140', 'Mtoto', '1993', '', 'male organism']

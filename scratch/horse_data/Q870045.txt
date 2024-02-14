@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q870045', 'Ratina Z', 'http://www.wikidata.org/entity/Q108138203', 'Argentina', 'http://www.wikidata.org/entity/Q22955711', 'Ramiro Z', '1982', '2010', 'female organism']

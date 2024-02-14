@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7374103', 'Royal Delta', '', '', 'http://www.wikidata.org/entity/Q5374096', 'Empire Maker', '2008', '2017', 'female organism']

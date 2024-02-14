@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6006267', 'Imperatrice', 'http://www.wikidata.org/entity/Q55097694', 'Cinquepace', 'http://www.wikidata.org/entity/Q55097659', 'Caruso', '1938', '', 'female organism']

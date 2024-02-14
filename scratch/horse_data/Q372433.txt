@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q372433', 'Tikkanen', '', '', 'http://www.wikidata.org/entity/Q5180163', 'Cozzene', '1991', '', 'male organism']

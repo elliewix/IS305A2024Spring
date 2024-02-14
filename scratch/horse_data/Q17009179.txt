@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17009179', 'Madam Gay', '', '', 'http://www.wikidata.org/entity/Q2332219', 'Star Appeal', '1978', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7361576', 'Roman Arch', '', '', '', '', '1998', '', '']

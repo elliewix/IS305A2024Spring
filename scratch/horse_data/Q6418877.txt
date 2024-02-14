@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6418877', 'Kiwi', '', '', '', '', '1977', '1995', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24189577', 'Halwes', '', '', '', '', '1959', '', '']

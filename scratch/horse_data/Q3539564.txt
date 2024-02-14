@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3539564', 'Triptych', 'http://www.wikidata.org/entity/Q7842029', 'Trillion', 'http://www.wikidata.org/entity/Q3433509', 'Riverman', '1982', '', 'female organism']

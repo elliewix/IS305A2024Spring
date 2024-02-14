@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66587268', 'Lantinus 3', 'http://www.wikidata.org/entity/Q108170639', 'April Sun', '', '', '1998', '', 'male organism']

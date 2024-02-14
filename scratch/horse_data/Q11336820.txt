@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11336820', 'Vega', 'http://www.wikidata.org/entity/Q115173906', 'Antique Value', 'http://www.wikidata.org/entity/Q7821904', 'Tony Bin', '1990', '2006', 'female organism']

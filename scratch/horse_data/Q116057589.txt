@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116057589', 'Gallipoly', '', '', '', '', '1803', '', 'male organism']

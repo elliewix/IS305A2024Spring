@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326497', 'ハッピールイス', '', '', '', '', '1982', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994418', 'Rantipole', 'http://www.wikidata.org/entity/Q61994422', 'Joan', 'http://www.wikidata.org/entity/Q4925119', 'Blank', '1769', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113905748', 'Rosa Mundi', 'http://www.wikidata.org/entity/Q11347962', 'Lisadell', 'http://www.wikidata.org/entity/Q1151926', 'Secretariat', '1977', '', 'female organism']

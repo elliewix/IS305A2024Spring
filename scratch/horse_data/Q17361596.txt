@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17361596', 'Asterus', '', '', 'http://www.wikidata.org/entity/Q7693967', 'Teddy', '1923', '', 'male organism']

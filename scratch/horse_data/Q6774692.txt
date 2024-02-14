@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6774692', 'Martial', '', '', 'http://www.wikidata.org/entity/Q5762129', 'Hill Gail', '1957', '', 'male organism']

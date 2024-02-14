@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340544', 'マッピーウェーブ', '', '', '', '', '1999', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301070', 'Keiwan Viking', '', '', '', '', '1993', '', 'male organism']

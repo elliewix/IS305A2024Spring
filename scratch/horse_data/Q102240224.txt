@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240224', 'Chance It Tony', '', '', '', '', '1955', '', 'male organism']

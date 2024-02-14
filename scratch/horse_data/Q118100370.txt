@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118100370', 'Ksar', '', '', '', '', '2020', '', '']

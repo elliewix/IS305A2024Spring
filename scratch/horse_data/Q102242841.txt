@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242841', 'Z Humor', '', '', '', '', '2005', '', 'male organism']

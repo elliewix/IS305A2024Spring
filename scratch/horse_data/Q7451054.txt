@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7451054', 'Sensitive Prince', '', '', 'http://www.wikidata.org/entity/Q1032366', 'Majestic Prince', '1975', '', 'male organism']

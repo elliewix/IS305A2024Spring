@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q74114887', 'Wavering Monarch', 'http://www.wikidata.org/entity/Q107546742', 'Uncommitted', 'http://www.wikidata.org/entity/Q107546741', 'Majestic Light', '1979', '', 'male organism']

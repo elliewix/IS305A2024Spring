@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109984443', 'Impressionist', '', '', '', '', '2018', '', '']

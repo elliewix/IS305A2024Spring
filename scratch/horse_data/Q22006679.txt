@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006679', 'American Post', '', '', 'http://www.wikidata.org/entity/Q11337300', 'Bering', '2001', '', 'male organism']

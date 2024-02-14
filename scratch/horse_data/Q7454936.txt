@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7454936', 'Serjeant', 'http://www.wikidata.org/entity/Q61988104', 'Aspasia', 'http://www.wikidata.org/entity/Q1203752', 'Eclipse', '1781', '', 'male organism']

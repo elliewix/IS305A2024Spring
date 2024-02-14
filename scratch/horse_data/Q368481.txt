@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q368481', 'Bonfire', '', '', 'http://www.wikidata.org/entity/Q108135580', 'Welt As', '1983', '2013', 'male organism']

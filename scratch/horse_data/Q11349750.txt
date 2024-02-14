@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349750', 'Red Spada', '', '', 'http://www.wikidata.org/entity/Q7676023', 'Taiki Shuttle', '2006', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107303009', 'Déesse Môme', '', '', '', '', '2013', '', 'female organism']

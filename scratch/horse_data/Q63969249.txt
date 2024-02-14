@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969249', 'Scandal', 'http://www.wikidata.org/entity/Q63969257', 'Haphazard mare', 'http://www.wikidata.org/entity/Q7448391', 'Selim', '1822', '', 'female organism']

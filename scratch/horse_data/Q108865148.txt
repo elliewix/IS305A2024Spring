@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108865148', 'Talent', 'http://www.wikidata.org/entity/Q108865113', 'Tavbecca', 'http://www.wikidata.org/entity/Q108865481', 'Egerton', '2011', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994072', 'Golumpus', 'http://www.wikidata.org/entity/Q61994075', 'Catherine', 'http://www.wikidata.org/entity/Q5577568', 'Gohanna', '1802', '', 'male organism']

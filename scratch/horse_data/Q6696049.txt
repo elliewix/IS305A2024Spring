@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6696049', 'Lucarno', '', '', 'http://www.wikidata.org/entity/Q5318887', 'Dynaformer', '2004', '', 'male organism']

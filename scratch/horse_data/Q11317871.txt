@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317871', 'チエリオ', '', '', 'http://www.wikidata.org/entity/Q11335651', 'Primero', '1950', '', 'female organism']

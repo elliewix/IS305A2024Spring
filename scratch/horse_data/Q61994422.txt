@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994422', 'Joan', '', '', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1757', '', 'female organism']

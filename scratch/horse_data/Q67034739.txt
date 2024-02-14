@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67034739', "Quabri de l'Isle", '', '', 'http://www.wikidata.org/entity/Q3192701', 'Kannan', '2004', '', 'male organism']

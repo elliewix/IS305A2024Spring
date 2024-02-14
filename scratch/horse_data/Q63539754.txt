@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63539754', 'Traffic', 'http://www.wikidata.org/entity/Q63539928', 'Traverse', 'http://www.wikidata.org/entity/Q4975349', 'Broomstick', '1923', '', 'female organism']

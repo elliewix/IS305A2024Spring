@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317417', 'Darjina', '', '', 'http://www.wikidata.org/entity/Q11306420', 'Zamindar', '2004', '', 'female organism']

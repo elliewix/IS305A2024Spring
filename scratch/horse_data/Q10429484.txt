@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10429484', 'Big Star', '', '', '', '', '1980', '1990', '']

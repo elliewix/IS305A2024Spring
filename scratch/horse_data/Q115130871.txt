@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115130871', 'Gotthard', 'http://www.wikidata.org/entity/Q115171495', 'Ampa', '', '', '1949', '', 'male organism']

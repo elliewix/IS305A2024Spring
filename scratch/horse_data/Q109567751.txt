@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109567751', 'Kizyl', 'http://www.wikidata.org/entity/Q109610222', 'Bénéfique', 'http://www.wikidata.org/entity/Q109567822', 'Everdy Teleke', '1930', '', 'male organism']

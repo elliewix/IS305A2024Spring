@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978463', 'Zonah', 'http://www.wikidata.org/entity/Q61978473', 'Gambetta', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '', '', 'female organism']

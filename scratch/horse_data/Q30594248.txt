@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30594248', 'Bethrah', '', '', 'http://www.wikidata.org/entity/Q6766369', 'Marju', '2007', '', '']

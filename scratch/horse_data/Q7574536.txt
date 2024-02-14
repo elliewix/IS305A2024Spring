@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7574536', 'Special Effort', '', '', '', '', '1979', '2006', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11290979', 'Erimo Chic', '', '', 'http://www.wikidata.org/entity/Q3013377', 'Dancing Brave', '1993', '2014', 'female organism']

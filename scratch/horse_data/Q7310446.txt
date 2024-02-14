@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7310446', 'Reipas', '', '', '', '', '1948', '', 'male organism']

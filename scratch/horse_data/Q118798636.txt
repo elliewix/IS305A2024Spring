@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798636', 'Irogotoshi', '', '', 'http://www.wikidata.org/entity/Q56252567', 'Vincennes', '2017', '', 'male organism']

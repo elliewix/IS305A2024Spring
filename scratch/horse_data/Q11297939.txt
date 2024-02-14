@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297939', 'Kinteki', '', '', 'http://www.wikidata.org/entity/Q11306904', 'Shian Mor', '1933', '', 'male organism']

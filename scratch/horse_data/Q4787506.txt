@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4787506', 'Arctic Cosmos', '', '', 'http://www.wikidata.org/entity/Q7055948', 'North Light', '2007', '', 'male organism']

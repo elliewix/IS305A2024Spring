@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111341910', "Issu d'Amblie", 'http://www.wikidata.org/entity/Q123956660', 'Tourte', 'http://www.wikidata.org/entity/Q123947964', 'Bois de Clessy', '1930', '', 'male organism']

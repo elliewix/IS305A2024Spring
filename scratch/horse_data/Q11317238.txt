@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317238', 'Danon Chantilly', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2007', '', 'male organism']

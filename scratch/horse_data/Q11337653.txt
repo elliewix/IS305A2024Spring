@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337653', 'ホクトビーナス', '', '', 'http://www.wikidata.org/entity/Q11341313', 'Maruzensky', '1986', '', 'female organism']

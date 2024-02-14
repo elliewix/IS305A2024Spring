@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360069', 'Dodsworth mare', 'http://www.wikidata.org/entity/Q117360076', 'Willoughby Barb mare', 'http://www.wikidata.org/entity/Q117360075', 'Dodsworth', '1676', '', 'female organism']

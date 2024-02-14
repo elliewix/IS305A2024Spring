@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240126', "King O' Swords", '', '', '', '', '1953', '', 'male organism']

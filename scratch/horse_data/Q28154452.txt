@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28154452', 'Simbir', '', '', '', '', '1970', '', '']

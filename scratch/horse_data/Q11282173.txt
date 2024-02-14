@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11282173', 'Icecapade', '', '', 'http://www.wikidata.org/entity/Q3307189', 'Nearctic', '1969', '', 'male organism']

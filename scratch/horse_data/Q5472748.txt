@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5472748', 'Fortria', '', '', 'http://www.wikidata.org/entity/Q25169453', 'Fortina', '1952', '', '']

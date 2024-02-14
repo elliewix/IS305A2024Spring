@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115088847', "Rafale d'orage", '', '', 'http://www.wikidata.org/entity/Q22317774', 'Foudre de guerre', '1983', '', 'female organism']

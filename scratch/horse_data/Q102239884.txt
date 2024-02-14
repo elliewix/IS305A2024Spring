@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239884', 'Big Stretch', '', '', '', '', '1948', '', 'male organism']

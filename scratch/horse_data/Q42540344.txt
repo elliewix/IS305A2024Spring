@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q42540344', 'Pips Pride', 'http://www.wikidata.org/entity/Q61985819', 'Elkie Brooks', 'http://www.wikidata.org/entity/Q61985586', 'Efisio', '1990', '', 'male organism']

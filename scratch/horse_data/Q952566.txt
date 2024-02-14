@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q952566', 'Traveller', '', '', '', '', '1857', '1871', 'male organism']

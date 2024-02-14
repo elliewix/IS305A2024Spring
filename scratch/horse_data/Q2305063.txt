@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2305063', 'Nearco', 'http://www.wikidata.org/entity/Q55097829', 'Nogara', 'http://www.wikidata.org/entity/Q7180849', 'Pharos', '1935', '1957', 'male organism']

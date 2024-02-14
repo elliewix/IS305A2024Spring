@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q19356024', 'Protectionist', '', '', 'http://www.wikidata.org/entity/Q1945364', 'Monsun', '2010', '', 'male organism']

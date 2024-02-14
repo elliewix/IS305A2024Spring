@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21997711', 'Warrior Queen', '', '', 'http://www.wikidata.org/entity/Q7271851', 'Quiet American', '', '', 'female organism']

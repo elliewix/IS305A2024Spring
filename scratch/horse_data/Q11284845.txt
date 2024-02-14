@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11284845', 'Amazon Warrior', '', '', 'http://www.wikidata.org/entity/Q6399291', 'Khaled', '1960', '', 'female organism']

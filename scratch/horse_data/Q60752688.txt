@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60752688', 'Magna Grecia', 'http://www.wikidata.org/entity/Q63539991', 'Cabaret', 'http://www.wikidata.org/entity/Q11287797', 'Invincible Spirit', '2016', '', 'male organism']

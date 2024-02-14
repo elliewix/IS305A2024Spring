@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322393', 'トーホウアラン', '', '', 'http://www.wikidata.org/entity/Q5215257', 'Dance in the Dark', '2003', '', 'male organism']

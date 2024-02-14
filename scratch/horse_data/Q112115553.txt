@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112115553', 'Négresse', '', '', '', '', '1860', '', 'female organism']

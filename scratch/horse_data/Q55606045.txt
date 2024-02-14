@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55606045', 'Brulette', 'http://www.wikidata.org/entity/Q61994590', 'Seaweed', 'http://www.wikidata.org/entity/Q61994587', 'Bruleur', '', '', 'female organism']

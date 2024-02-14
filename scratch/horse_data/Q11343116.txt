@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343116', 'Mutafaweq', 'http://www.wikidata.org/entity/Q62011351', 'The Caretaker', 'http://www.wikidata.org/entity/Q11308429', 'Silver Hawk', '1996', '', 'male organism']

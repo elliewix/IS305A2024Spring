@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55090832', 'Coeur a Coeur', 'http://www.wikidata.org/entity/Q55090844', 'Ballantrae', 'http://www.wikidata.org/entity/Q7693967', 'Teddy', '1921', '', 'female organism']

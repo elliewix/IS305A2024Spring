@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546738', 'Irradiate', 'http://www.wikidata.org/entity/Q5757377', 'High Voltage', 'http://www.wikidata.org/entity/Q2245980', 'Ribot', '1966', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11334680', 'ブランドソール', '', '', 'http://www.wikidata.org/entity/Q11335651', 'Primero', '1938', '1961', 'female organism']

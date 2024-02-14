@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3482333', 'Shirayuki', '', '', '', '', '1921', '1947', 'male organism']

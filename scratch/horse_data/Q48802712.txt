@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48802712', 'Cash for Keeps', '', '', '', '', '', '', 'male organism']

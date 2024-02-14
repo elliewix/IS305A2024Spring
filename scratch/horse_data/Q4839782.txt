@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4839782', 'Backtalk', '', '', 'http://www.wikidata.org/entity/Q7544171', 'Smarty Jones', '2007', '', 'male organism']

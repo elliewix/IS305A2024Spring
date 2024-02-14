@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313719', 'Super Shinzan', '', '', 'http://www.wikidata.org/entity/Q7497845', 'Shinzan', '1987', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5578901', 'Gold and Black', '', '', '', '', '1972', '', '']

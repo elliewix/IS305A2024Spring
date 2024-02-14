@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22320501', 'Relique', 'http://www.wikidata.org/entity/Q108332317', 'Histoire', 'http://www.wikidata.org/entity/Q108332267', 'Laurier Thym', '1961', '', 'female organism']

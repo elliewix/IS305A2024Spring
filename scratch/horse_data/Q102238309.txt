@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238309', 'Strolling Player', '', '', '', '', '1925', '', 'male organism']

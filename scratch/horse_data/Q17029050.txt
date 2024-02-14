@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17029050', 'Rich Tradition', '', '', 'http://www.wikidata.org/entity/Q7368474', 'Rosemont', '1956', '', 'female organism']

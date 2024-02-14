@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114345892', 'Courtly Dee', '', '', 'http://www.wikidata.org/entity/Q7003920', 'Never Bend', '1968', '1995', 'female organism']

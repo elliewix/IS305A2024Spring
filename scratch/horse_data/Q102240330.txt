@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240330', 'Troilus', '', '', '', '', '1956', '', 'male organism']

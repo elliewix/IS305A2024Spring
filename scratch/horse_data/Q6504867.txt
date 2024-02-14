@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6504867', 'Lawrin', '', '', '', '', '1935', '', 'male organism']

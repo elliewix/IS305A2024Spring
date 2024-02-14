@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998108', 'Sinntara', '', '', 'http://www.wikidata.org/entity/Q6493229', 'Lashkari', '1989', '', 'female organism']

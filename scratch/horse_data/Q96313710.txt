@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96313710', 'Jadis', '', '', 'http://www.wikidata.org/entity/Q96313685', 'Serviteur', '1882', '', 'male organism']

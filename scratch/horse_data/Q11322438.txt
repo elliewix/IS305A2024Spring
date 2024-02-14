@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322438', 'トーヨーレインボー', '', '', 'http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '1994', '2014', 'male organism']

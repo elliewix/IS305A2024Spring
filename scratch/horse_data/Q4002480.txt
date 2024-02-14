@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4002480', 'Uberta de Mores', '', '', '', '', '', '', '']

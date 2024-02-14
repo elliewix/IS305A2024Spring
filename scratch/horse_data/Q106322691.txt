@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106322691', 'Computer Patch', '', '', 'http://www.wikidata.org/entity/Q87721670', 'Exceed And Excel', '2016', '', 'male organism']

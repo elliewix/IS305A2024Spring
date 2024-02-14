@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117370623', 'Brisk', 'http://www.wikidata.org/entity/Q117359855', 'Coneyskins dam', 'http://www.wikidata.org/entity/Q1166352', 'Darley Arabian', '1711', '', 'male organism']

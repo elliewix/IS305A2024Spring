@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237015', 'Franklin', '', '', '', '', '1913', '', 'male organism']

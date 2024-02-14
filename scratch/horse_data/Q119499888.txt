@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119499888', 'Pompadour 781', 'http://www.wikidata.org/entity/Q119499957', 'Lisa', 'http://www.wikidata.org/entity/Q117732706', 'Brilliant 756', '1877', '', 'male organism']

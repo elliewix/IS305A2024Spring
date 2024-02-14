@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108857525', 'Miss Pierce', 'http://www.wikidata.org/entity/Q108857530', 'Lady Pierce', 'http://www.wikidata.org/entity/Q108857377', 'Succès', '1857', '', 'female organism']

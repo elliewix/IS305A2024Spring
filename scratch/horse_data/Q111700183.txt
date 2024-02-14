@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111700183', 'Ivanoe', '', '', '', '', '1925', '1946', 'male organism']

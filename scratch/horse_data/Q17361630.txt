@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17361630', 'Rockfella', 'http://www.wikidata.org/entity/Q7355213', 'Rockfel', 'http://www.wikidata.org/entity/Q3038706', 'Hyperion', '1941', '', 'male organism']

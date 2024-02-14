@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4883367', 'Bella Paola', '', '', '', '', '1955', '', 'female organism']

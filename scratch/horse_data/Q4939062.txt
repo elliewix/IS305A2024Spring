@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939062', 'Bold Personality', '', '', '', '', '1977', '', 'male organism']

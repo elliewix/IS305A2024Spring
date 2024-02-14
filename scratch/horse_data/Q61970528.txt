@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970528', 'Pladda', '', '', 'http://www.wikidata.org/entity/Q7180267', 'Phalaris', '1926', '', 'female organism']

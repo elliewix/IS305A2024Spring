@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240229', 'A Dragon Killer', '', '', '', '', '1955', '', 'male organism']

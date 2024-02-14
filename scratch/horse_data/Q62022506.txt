@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022506', 'Wynn Arabian mare', '', '', 'http://www.wikidata.org/entity/Q62022186', 'Wynn Arabian', '', '', 'female organism']

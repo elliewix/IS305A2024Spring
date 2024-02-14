@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119999596', 'Hunter', '', '', '', '', '2011', '', 'male organism']

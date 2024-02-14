@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113945969', 'Super Bantam', '', '', 'http://www.wikidata.org/entity/Q28689639', 'Apollo Sonic', '2019', '', 'female organism']

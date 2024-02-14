@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17067257', 'Liberty Counsel', '', '', '', '', '2007', '', '']

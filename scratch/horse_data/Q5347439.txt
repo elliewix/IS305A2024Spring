@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5347439', 'Efficient', '', '', 'http://www.wikidata.org/entity/Q8063464', 'Zabeel', '2003', '', '']

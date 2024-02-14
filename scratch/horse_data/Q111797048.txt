@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111797048', 'Shamal', '', '', 'http://www.wikidata.org/entity/Q11313287', 'Smart Falcon', '2018', '', 'male organism']

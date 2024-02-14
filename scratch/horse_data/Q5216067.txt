@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5216067', 'Dangerous', 'http://www.wikidata.org/entity/Q62021655', 'Defiance', 'http://www.wikidata.org/entity/Q61992557', 'Tramp', '1830', '', 'male organism']

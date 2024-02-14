@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340287', 'Musket', '', '', '', '', '1867', '', 'male organism']

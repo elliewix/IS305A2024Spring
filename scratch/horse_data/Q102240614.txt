@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240614', 'Mr. Pak', '', '', '', '', '1962', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4785285', 'Arch', '', '', 'http://www.wikidata.org/entity/Q6437279', 'Kris S.', '1995', '2016', 'male organism']

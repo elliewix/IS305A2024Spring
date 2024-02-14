@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006534', 'Shavian', '', '', 'http://www.wikidata.org/entity/Q6437123', 'Kris', '1987', '', 'male organism']

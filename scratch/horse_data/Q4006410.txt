@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4006410', 'Urbino de Ozieri', '', '', '', '', '1973', '2003', 'male organism']

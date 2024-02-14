@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119247743', 'Comet 104', '', '', 'http://www.wikidata.org/entity/Q119241611', 'French Monarch', '', '', 'male organism']

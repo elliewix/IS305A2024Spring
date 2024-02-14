@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987509', 'Young Marske', 'http://www.wikidata.org/entity/Q62015475', 'Blank mare', 'http://www.wikidata.org/entity/Q3081024', 'Marske', '1771', '', 'male organism']

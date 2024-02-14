@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237141', 'Under Fire', '', '', '', '', '1916', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987588', 'Victoria Cross', 'http://www.wikidata.org/entity/Q61987605', 'Glowing Tribute', 'http://www.wikidata.org/entity/Q3492865', 'Spectacular Bid', '1983', '', 'female organism']

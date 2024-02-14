@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26827913', 'Sandford Lad', '', '', '', '', '1970', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237001', 'Tetan', '', '', '', '', '1912', '', 'male organism']

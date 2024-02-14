@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236403', 'Sannazarro', '', '', '', '', '1898', '', 'male organism']

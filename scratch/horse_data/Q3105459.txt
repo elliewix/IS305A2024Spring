@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3105459', 'Gigant Neo', '', '', '', '', '1998', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22318160', 'Dirka', 'http://www.wikidata.org/entity/Q111339786', 'Ondine de Baugy', 'http://www.wikidata.org/entity/Q22318003', 'Nankin', '1969', '1995', 'female organism']

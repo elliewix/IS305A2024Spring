@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108937496', 'Uriel', 'http://www.wikidata.org/entity/Q108857525', 'Miss Pierce', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1876', '', 'male organism']

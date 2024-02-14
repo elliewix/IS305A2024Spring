@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071938', 'Monarchy', '', '', '', '', '', '', 'female organism']

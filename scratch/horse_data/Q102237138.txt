@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237138', 'American Eagle', '', '', '', '', '1915', '', 'male organism']

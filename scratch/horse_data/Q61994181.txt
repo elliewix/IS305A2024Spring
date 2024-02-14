@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994181', 'K D Princess', 'http://www.wikidata.org/entity/Q61994188', "Tammy's Turn", 'http://www.wikidata.org/entity/Q61994185', 'Bold Commander', '1971', '', 'female organism']

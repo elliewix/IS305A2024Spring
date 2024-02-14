@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315676', 'タイキバカラ', '', '', 'http://www.wikidata.org/entity/Q7569964', 'Southern Halo', '2001', '', 'male organism']

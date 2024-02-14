@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11309502', 'Jigg', 'http://www.wikidata.org/entity/Q61970438', 'Charming Jenny', 'http://www.wikidata.org/entity/Q1018502', 'Byerley Turk', '1701', '', 'male organism']

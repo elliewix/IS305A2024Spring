@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61787365', 'Last Draft', 'http://www.wikidata.org/entity/Q11341304', 'Marcellina', 'http://www.wikidata.org/entity/Q14355572', 'Novellist', '2016', '', 'male organism']

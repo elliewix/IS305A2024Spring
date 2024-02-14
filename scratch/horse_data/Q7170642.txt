@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7170642', 'Personality', 'http://www.wikidata.org/entity/Q4688884', 'Affectionately', 'http://www.wikidata.org/entity/Q5639203', 'Hail To Reason', '1967', '1990', 'male organism']

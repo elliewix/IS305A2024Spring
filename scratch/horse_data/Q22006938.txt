@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006938', 'Wiking', '', '', '', '', '1979', '', 'male organism']

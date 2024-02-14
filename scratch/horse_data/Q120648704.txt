@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120648704', 'Lakeshore Gigolo', 'http://www.wikidata.org/entity/Q120648741', 'Lakeshore Brooke', 'http://www.wikidata.org/entity/Q120648731', "Topperhope's Don", '', '', 'male organism']

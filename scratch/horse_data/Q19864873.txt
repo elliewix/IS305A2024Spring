@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q19864873', 'Epitome', '', '', 'http://www.wikidata.org/entity/Q7637732', 'Summing', '1985', '', 'female organism']

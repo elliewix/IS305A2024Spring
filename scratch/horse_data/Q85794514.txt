@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q85794514', 'Prince Foote', '', '', '', '', '', '', 'male organism']

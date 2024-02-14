@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7505534', 'Shut Out', '', '', 'http://www.wikidata.org/entity/Q5384587', 'Equipoise', '1939', '1964', 'male organism']

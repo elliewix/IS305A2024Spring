@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11327513', 'Boundary', '', '', 'http://www.wikidata.org/entity/Q1104509', 'Danzig', '1990', '2012', 'male organism']

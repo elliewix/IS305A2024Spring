@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022946', 'South', 'http://www.wikidata.org/entity/Q62016582', 'Soreheels mare', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1750', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17750779', 'Bork Rigel', '', '', '', '', '1988', '2013', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55097811', 'Mumtaz Begum', 'http://www.wikidata.org/entity/Q6935523', 'Mumtaz Mahal', 'http://www.wikidata.org/entity/Q4926043', 'Blenheim', '1932', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115165775', 'Pizzicati', 'http://www.wikidata.org/entity/Q123511560', 'Quinola D', 'http://www.wikidata.org/entity/Q123510683', 'Galifol', '1981', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987198', 'Paynator', '', '', 'http://www.wikidata.org/entity/Q11321911', 'Trumpator', '1791', '', 'male organism']

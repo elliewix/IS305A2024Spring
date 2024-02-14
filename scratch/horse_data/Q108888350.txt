@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108888350', 'Wamba', 'http://www.wikidata.org/entity/Q7162558', 'Penelope', 'http://www.wikidata.org/entity/Q61993666', 'Merlin', '1923', '', 'male organism']

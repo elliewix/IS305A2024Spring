@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997043', 'Gdynia', 'http://www.wikidata.org/entity/Q61997049', 'Classicist', 'http://www.wikidata.org/entity/Q7527349', 'Sir Ivor', '1978', '', 'female organism']

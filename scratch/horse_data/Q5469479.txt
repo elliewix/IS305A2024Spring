@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5469479', 'Forever Yours', '', '', '', '', '1933', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317193', 'ダテテンリュウ', '', '', 'http://www.wikidata.org/entity/Q11288372', 'Wildeal', '1967', '', 'male organism']

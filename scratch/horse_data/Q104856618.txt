@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104856618', 'Art Collector', '', '', '', '', '2017', '2023', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1012807', 'Lammtarra', 'http://www.wikidata.org/entity/Q7548189', 'Snow Bride', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1992', '2014', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25172023', 'US Army Ranger', 'http://www.wikidata.org/entity/Q30609809', 'Moonstone', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2013', '', '']

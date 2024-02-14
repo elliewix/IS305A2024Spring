@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6869637', 'Minting', 'http://www.wikidata.org/entity/Q61987980', 'Mint Sauce', 'http://www.wikidata.org/entity/Q6679741', 'Lord Lyon', '1883', '', 'male organism']

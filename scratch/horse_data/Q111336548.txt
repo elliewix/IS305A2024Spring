@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111336548', 'Nighty Fontaine', 'http://www.wikidata.org/entity/Q111336817', 'Elyria', 'http://www.wikidata.org/entity/Q111336713', 'Dark Tiger', '1979', '2008', 'female organism']

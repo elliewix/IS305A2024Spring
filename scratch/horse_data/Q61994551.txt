@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994551', 'Alannya', '', '', 'http://www.wikidata.org/entity/Q7311437', 'Relko', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322439', 'トーヨーリファール', '', '', 'http://www.wikidata.org/entity/Q7310849', 'Relaunch', '1990', '', 'male organism']

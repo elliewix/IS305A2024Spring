@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4801503', 'Arts and Letters', '', '', 'http://www.wikidata.org/entity/Q2245980', 'Ribot', '1966', '', 'male organism']

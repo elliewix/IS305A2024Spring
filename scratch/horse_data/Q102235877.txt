@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235877', 'Early Light', '', '', '', '', '1874', '', 'female organism']

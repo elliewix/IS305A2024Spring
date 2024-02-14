@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115091877', 'Wella I', 'http://www.wikidata.org/entity/Q115092051', 'Lyrik', 'http://www.wikidata.org/entity/Q115002217', 'Lord', '1984', '', 'female organism']

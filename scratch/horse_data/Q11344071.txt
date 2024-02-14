@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11344071', 'メルシーエイタイム', '', '', 'http://www.wikidata.org/entity/Q5096670', 'Chief Bearhart', '2002', '2015', 'male organism']

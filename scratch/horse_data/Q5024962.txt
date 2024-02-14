@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5024962', 'Camarine', 'http://www.wikidata.org/entity/Q7376029', 'Rubens mare', '', '', '1828', '', 'female organism']

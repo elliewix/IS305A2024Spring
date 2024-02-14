@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4890071', 'Benny the Bull', '', '', '', '', '2003', '', 'male organism']

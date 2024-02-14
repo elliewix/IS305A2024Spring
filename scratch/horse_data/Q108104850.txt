@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108104850', 'Birmane', 'http://www.wikidata.org/entity/Q108134435', 'Royce de Kreisker', '', '', '2011', '', 'female organism']

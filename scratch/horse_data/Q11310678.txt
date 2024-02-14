@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11310678', "Jolie's Shinju", '', '', 'http://www.wikidata.org/entity/Q11310679', "Jolie's Halo", '2005', '', 'female organism']

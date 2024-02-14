@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17223838', 'Tsukino Ichiban', '', '', 'http://www.wikidata.org/entity/Q11342941', 'Mill George', '1989', '', 'male organism']

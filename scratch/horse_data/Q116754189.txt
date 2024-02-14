@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116754189', 'Cassandra Z', 'http://www.wikidata.org/entity/Q116759053', 'Astara', 'http://www.wikidata.org/entity/Q22321341', 'Carthago', '1997', '', 'female organism']

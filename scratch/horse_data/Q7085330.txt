@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7085330', 'Old Trieste', '', '', 'http://www.wikidata.org/entity/Q1968208', 'A.P. Indy', '1995', '', 'male organism']

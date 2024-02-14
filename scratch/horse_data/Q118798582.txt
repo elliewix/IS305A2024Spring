@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798582', 'Seven Colors', '', '', 'http://www.wikidata.org/entity/Q17222744', 'Copano Rickey', '2020', '', 'female organism']

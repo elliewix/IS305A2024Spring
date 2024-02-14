@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62037182', 'Merman', 'http://www.wikidata.org/entity/Q62037296', 'Mermaid', 'http://www.wikidata.org/entity/Q11251240', 'Whalebone', '1826', '', 'male organism']

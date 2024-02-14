@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11350924', 'Rose of Suzuka', '', '', 'http://www.wikidata.org/entity/Q5430970', 'Fairy King', '1992', '', 'female organism']

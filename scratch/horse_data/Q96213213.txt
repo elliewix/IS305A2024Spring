@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96213213', 'Turlurette', 'http://www.wikidata.org/entity/Q108195957', 'Niska', 'http://www.wikidata.org/entity/Q96096846', 'Normand', '1879', '', 'female organism']

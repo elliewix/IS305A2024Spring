@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108133928', 'Andachtige', '', '', 'http://www.wikidata.org/entity/Q26236952', 'Grannus', '1980', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970521', 'Plassy', 'http://www.wikidata.org/entity/Q61970528', 'Pladda', 'http://www.wikidata.org/entity/Q61970525', 'Bosworth', '1932', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62044137', 'Ierne', 'http://www.wikidata.org/entity/Q62044709', 'Gamahoe mare', 'http://www.wikidata.org/entity/Q62044159', 'Bagot', '1790', '', 'female organism']

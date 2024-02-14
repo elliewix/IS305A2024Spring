@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123496499', 'Adria', '', '', 'http://www.wikidata.org/entity/Q77035386', 'Ramzes', '1954', '', 'female organism']

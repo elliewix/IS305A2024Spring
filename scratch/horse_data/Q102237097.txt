@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237097', 'Star Master', '', '', '', '', '1914', '', 'male organism']

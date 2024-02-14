@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119260292', 'Fleur-de-Lys 532', 'http://www.wikidata.org/entity/Q119260319', 'Lina', 'http://www.wikidata.org/entity/Q119255900', 'Favori', '1882', '', 'male organism']

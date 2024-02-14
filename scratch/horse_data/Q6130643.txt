@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6130643', 'Youmzain', '', '', 'http://www.wikidata.org/entity/Q3485021', 'Sinndar', '2003', '', 'male organism']

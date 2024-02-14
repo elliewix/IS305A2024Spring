@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321441', 'Tomy Lee', '', '', 'http://www.wikidata.org/entity/Q7851301', 'Tudor Minstrel', '1956', '', 'male organism']

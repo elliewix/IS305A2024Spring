@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65120913', 'Lamplighter', '', '', 'http://www.wikidata.org/entity/Q7576290', 'Spendthrift', '1889', '', 'male organism']

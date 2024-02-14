@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382773', 'Nutwith', 'http://www.wikidata.org/entity/Q117382787', 'Comus mare', 'http://www.wikidata.org/entity/Q62033035', 'Tomboy', '1840', '', 'male organism']

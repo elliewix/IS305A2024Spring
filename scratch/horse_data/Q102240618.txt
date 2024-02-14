@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240618', 'Swift Ruler', '', '', '', '', '1962', '', 'male organism']

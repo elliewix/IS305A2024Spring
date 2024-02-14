@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5509773', 'Furthest Land', '', '', 'http://www.wikidata.org/entity/Q6145306', 'Smart Strike', '2005', '', '']

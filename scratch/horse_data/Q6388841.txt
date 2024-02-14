@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6388841', 'Kendal', 'http://www.wikidata.org/entity/Q61978433', 'Windermere', 'http://www.wikidata.org/entity/Q4886992', 'Bend Or', '1883', '', 'male organism']

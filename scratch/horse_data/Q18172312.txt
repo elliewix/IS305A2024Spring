@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18172312', 'Relkino', '', '', 'http://www.wikidata.org/entity/Q7311437', 'Relko', '1973', '', 'male organism']

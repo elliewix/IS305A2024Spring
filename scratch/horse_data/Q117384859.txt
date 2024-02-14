@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384859', 'Silvertail', 'http://www.wikidata.org/entity/Q117384867', 'Rattle mare', 'http://www.wikidata.org/entity/Q117384861', "Heneage's Whitenose", '1737', '', 'female organism']

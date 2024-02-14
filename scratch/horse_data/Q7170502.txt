@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7170502', 'Personal Ensign', '', '', 'http://www.wikidata.org/entity/Q7246040', 'Private Account', '1984', '2010', 'female organism']

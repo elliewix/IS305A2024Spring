@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104166515', 'Nifrane', 'http://www.wikidata.org/entity/Q108182198', 'Ifrane', 'http://www.wikidata.org/entity/Q104166644', 'Fury de la Cense', '1979', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117370358', 'Highflyer mare', 'http://www.wikidata.org/entity/Q61994027', 'Giantess', 'http://www.wikidata.org/entity/Q915971', 'Highflyer', '1784', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994216', 'Toll Booth', '', '', 'http://www.wikidata.org/entity/Q4983454', 'Buckpasser', '', '', 'female organism']

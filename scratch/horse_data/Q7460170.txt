@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7460170', 'Shackleford', '', '', 'http://www.wikidata.org/entity/Q5469248', 'Forestry', '2008', '', 'male organism']

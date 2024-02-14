@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242131', 'Dr. Bobby A.', '', '', '', '', '1987', '', 'male organism']

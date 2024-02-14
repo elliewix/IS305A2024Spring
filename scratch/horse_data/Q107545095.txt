@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545095', 'Tellaris', 'http://www.wikidata.org/entity/Q107545083', 'Donatella', 'http://www.wikidata.org/entity/Q7180713', 'Pharis', '1947', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22306697', 'Elf III', 'http://www.wikidata.org/entity/Q22329546', 'Osyris', 'http://www.wikidata.org/entity/Q3147477', 'Ibrahim', '1970', '1991', 'male organism']

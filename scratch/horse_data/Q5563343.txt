@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5563343', 'Gio Ponti', '', '', 'http://www.wikidata.org/entity/Q11319116', 'Tale of the Cat', '2005', '', 'male organism']

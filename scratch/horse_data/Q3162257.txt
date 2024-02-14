@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3162257', 'Jappeloup de Luze', '', '', '', '', '1975', '1991', 'male organism']

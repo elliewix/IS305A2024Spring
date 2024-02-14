@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11302252', 'Kotono Asabuki', '', '', '', '', '1975', '', 'male organism']

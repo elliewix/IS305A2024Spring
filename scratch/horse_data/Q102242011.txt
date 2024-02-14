@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242011', 'Granacus', '', '', '', '', '1985', '', 'male organism']

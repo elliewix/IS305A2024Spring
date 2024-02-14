@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17225263', 'モナクカバキチ', '', '', '', '', '1999', '', 'male organism']

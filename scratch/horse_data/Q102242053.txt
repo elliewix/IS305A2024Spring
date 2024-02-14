@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242053', 'Clever Trevor', '', '', '', '', '1986', '', 'male organism']

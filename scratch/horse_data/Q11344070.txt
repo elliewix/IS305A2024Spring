@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11344070', 'メルシーアトラ', 'http://www.wikidata.org/entity/Q11340901', 'マミーブルー', '', '', '1987', '', 'male organism']

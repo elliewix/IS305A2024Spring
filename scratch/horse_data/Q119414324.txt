@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119414324', 'Linda Maginot', 'http://www.wikidata.org/entity/Q119414512', 'Black Beauty Laet', 'http://www.wikidata.org/entity/Q119415354', 'Maginot', '1943', '', 'female organism']

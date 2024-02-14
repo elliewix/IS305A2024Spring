@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111356934', 'Quella de Paulstra', '', '', '', '', '1960', '', 'female organism']

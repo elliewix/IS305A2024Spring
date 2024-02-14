@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64005556', 'Eulogy', 'http://www.wikidata.org/entity/Q55091215', 'Martha Lynn', 'http://www.wikidata.org/entity/Q64005562', 'Euclid', '1843', '', 'female organism']

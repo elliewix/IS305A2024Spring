@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107551612', 'Datine', 'http://www.wikidata.org/entity/Q107551605', 'Cyrilla', 'http://www.wikidata.org/entity/Q61997355', 'Roi Herode', '1917', '', 'female organism']

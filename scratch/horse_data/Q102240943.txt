@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240943', 'Going Straight', '', '', '', '', '1968', '', 'male organism']

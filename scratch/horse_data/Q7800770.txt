@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7800770', 'Tidal Light', '', '', '', '', '1983', '', 'female organism']

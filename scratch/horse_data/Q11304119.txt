@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11304119', 'Sidewinder', 'http://www.wikidata.org/entity/Q11303876', 'Golden Jack', 'http://www.wikidata.org/entity/Q7821904', 'Tony Bin', '1998', '', 'male organism']

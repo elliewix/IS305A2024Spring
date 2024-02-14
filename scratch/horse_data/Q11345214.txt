@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345214', 'ヤマニンパラダイス', '', '', 'http://www.wikidata.org/entity/Q1104509', 'Danzig', '1992', '2018', 'female organism']

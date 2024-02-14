@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10981990', "Asakusa Den'en", '', '', 'http://www.wikidata.org/entity/Q7524216', 'Singspiel', '1999', '', 'male organism']

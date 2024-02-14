@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5193763', 'Cum Laude Laurie', 'http://www.wikidata.org/entity/Q7243613', 'Primonetta', 'http://www.wikidata.org/entity/Q5639203', 'Hail To Reason', '1974', '', 'female organism']

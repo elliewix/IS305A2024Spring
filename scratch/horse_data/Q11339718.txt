@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339718', 'マイターン', '', '', 'http://www.wikidata.org/entity/Q11304516', 'Sakura Chiyono O', '1995', '', 'male organism']

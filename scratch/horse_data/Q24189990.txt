@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24189990', 'Palentino', '', '', 'http://www.wikidata.org/entity/Q7701154', 'Teofilo', '2012', '', '']

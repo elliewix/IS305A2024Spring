@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112727108', 'Arrivo', 'http://www.wikidata.org/entity/Q61570875', 'Esmeraldina', 'http://www.wikidata.org/entity/Q20047186', 'Duramente', '2018', '', 'male organism']

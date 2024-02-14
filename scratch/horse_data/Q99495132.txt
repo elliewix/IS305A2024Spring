@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q99495132', 'Babbitt', '', '', 'http://www.wikidata.org/entity/Q6960385', 'Nakayama Festa', '2017', '', 'male organism']

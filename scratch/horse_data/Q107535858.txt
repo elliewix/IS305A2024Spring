@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107535858', 'Stalina', 'http://www.wikidata.org/entity/Q107534538', 'Boscabell', 'http://www.wikidata.org/entity/Q107534523', 'Stalino', '1949', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236211', 'Bootmaker', '', '', '', '', '1886', '', 'male organism']

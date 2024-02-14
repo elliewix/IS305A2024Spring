@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108853865', 'Cleveland', '', '', 'http://www.wikidata.org/entity/Q108854008', 'Barnabe', '1818', '', 'male organism']

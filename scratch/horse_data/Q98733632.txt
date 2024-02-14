@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q98733632', 'Win Tenderness', '', '', '', '', '', '', 'male organism']

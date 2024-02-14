@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q41796305', 'Conquerant', 'http://www.wikidata.org/entity/Q108853236', 'Elisa', 'http://www.wikidata.org/entity/Q96193963', 'Kapirat', '1858', '1880', 'male organism']

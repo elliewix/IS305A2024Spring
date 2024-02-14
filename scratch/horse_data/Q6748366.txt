@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6748366', 'Mane Minister', '', '', 'http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '1988', '', 'male organism']

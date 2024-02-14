@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236412', 'Amur', '', '', '', '', '1898', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62039192', 'Delhi', 'http://www.wikidata.org/entity/Q62039233', 'Pawn Junior', 'http://www.wikidata.org/entity/Q7204539', 'Plenipotentiary', '1838', '', 'female organism']

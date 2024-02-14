@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20724385', 'Chaman', '', '', 'http://www.wikidata.org/entity/Q2881504', 'Baloubet du Rouet', '1999', '', 'male organism']

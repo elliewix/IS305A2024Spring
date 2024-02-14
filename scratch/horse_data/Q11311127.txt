@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311127', 'Swift Swallow', '', '', 'http://www.wikidata.org/entity/Q1969034', 'Northern Dancer', '1977', '', 'male organism']

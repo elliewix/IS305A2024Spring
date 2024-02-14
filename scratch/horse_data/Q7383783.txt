@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7383783', 'Ryafan', '', '', 'http://www.wikidata.org/entity/Q11347791', 'Lear Fan', '1994', '', 'female organism']

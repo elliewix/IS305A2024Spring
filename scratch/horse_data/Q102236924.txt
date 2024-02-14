@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236924', 'Leo Ray', '', '', '', '', '1912', '', 'male organism']

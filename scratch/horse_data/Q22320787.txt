@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22320787', 'Amarpour', '', '', '', '', '1966', '', 'male organism']

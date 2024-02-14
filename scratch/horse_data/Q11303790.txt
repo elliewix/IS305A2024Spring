@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303790', 'Gokai', 'http://www.wikidata.org/entity/Q11345553', 'Yu Miroku', 'http://www.wikidata.org/entity/Q11309878', 'Judge Angelucci', '1993', '2019', 'male organism']

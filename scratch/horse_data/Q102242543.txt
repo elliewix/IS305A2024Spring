@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242543', 'Stephen Got Even', '', '', '', '', '1996', '', 'male organism']

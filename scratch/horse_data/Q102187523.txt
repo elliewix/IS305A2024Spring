@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102187523', 'Balgowan', '', '', '', '', '1888', '', 'male organism']

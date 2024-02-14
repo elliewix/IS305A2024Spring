@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q81778286', 'キングオブザロード', '', '', '', '', '', '', 'male organism']

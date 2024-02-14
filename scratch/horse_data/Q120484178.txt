@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120484178', 'Aboukir 45234', '', '', '', '', '', '', 'male organism']

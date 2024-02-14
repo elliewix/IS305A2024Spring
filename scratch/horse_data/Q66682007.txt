@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66682007', 'Japan', '', '', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2016', '', 'male organism']

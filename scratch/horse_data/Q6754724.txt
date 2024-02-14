@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6754724', 'Maram', '', '', '', '', '2006', '2012', 'female organism']

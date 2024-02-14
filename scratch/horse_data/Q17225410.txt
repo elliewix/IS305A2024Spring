@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17225410', 'Ridill', '', '', 'http://www.wikidata.org/entity/Q4693122', 'Agnes Tachyon', '2007', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q70239594', 'Amazone B', '', '', 'http://www.wikidata.org/entity/Q41675104', 'Passeport', '1924', '', 'female organism']

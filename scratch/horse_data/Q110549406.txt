@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q110549406', 'Zuidpool', '', '', '', '', '1981', '', 'male organism']

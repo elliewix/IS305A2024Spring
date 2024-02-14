@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28691138', 'Riccardo', '', '', 'http://www.wikidata.org/entity/Q11333084', 'Fusaichi Richard', '2011', '', 'male organism']

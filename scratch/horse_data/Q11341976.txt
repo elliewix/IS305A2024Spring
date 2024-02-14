@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341976', 'ミサワボタン', '', '', '', '', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780101', 'Chuwa Wizard', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2015', '', 'male organism']

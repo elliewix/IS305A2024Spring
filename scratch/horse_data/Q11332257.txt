@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11332257', 'Fantast', '', '', 'http://www.wikidata.org/entity/Q11285909', 'Yellow God', '1975', '', 'male organism']

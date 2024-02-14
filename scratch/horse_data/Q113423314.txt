@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113423314', 'Leo Ryuho', '', '', 'http://www.wikidata.org/entity/Q3013377', 'Dancing Brave', '1995', '', 'male organism']

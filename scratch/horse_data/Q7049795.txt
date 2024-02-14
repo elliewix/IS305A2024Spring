@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7049795', 'Noor', '', '', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1945', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283167', 'Asahi Emperor', '', '', '', '', '1983', '2018', 'male organism']

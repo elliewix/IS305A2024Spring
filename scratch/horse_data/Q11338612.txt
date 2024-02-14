@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11338612', 'ボストニアン', '', '', 'http://www.wikidata.org/entity/Q11314399', 'Theft', '1950', '', 'male organism']

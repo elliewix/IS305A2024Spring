@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7270420', 'Queen L.', '', '', '', '', '1986', '2013', 'female organism']

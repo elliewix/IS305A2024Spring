@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16983963', 'Herringbone', '', '', '', '', '1940', '', 'female organism']

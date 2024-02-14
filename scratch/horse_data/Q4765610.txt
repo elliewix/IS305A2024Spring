@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4765610', 'Anita Peabody', '', '', 'http://www.wikidata.org/entity/Q6702150', 'Luke McLuke', '1925', '1934', 'female organism']

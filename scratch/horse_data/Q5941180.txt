@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5941180', 'Humorist', 'http://www.wikidata.org/entity/Q6187946', 'Jest', 'http://www.wikidata.org/entity/Q7226534', 'Polymelus', '1918', '', 'male organism']

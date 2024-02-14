@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242799', 'Bandini', '', '', '', '', '2002', '', 'male organism']

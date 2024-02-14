@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108689655', 'Quiryda', 'http://www.wikidata.org/entity/Q108690591', 'Japonaise', '', '', '1938', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735398', 'Kafuji Take', '', '', 'http://www.wikidata.org/entity/Q11335584', 'Precise End', '2012', '', 'male organism']

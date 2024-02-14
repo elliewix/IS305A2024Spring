@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55079388', 'Geisha', '', '', 'http://www.wikidata.org/entity/Q5281854', 'Discovery', '', '', 'female organism']

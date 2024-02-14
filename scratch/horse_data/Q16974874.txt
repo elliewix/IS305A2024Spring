@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16974874', 'Environment Friend', '', '', 'http://www.wikidata.org/entity/Q5180163', 'Cozzene', '1988', '', 'male organism']

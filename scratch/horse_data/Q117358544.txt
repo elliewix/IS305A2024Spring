@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358544', 'Golden Boss', 'http://www.wikidata.org/entity/Q117358556', 'Golden Hen', 'http://www.wikidata.org/entity/Q61978488', 'The Boss', '1920', '', 'male organism']

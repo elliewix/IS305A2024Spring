@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348838', 'Lure', '', '', 'http://www.wikidata.org/entity/Q1104509', 'Danzig', '1989', '2017', 'male organism']

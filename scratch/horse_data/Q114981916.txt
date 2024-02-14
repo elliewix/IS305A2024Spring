@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114981916', 'Gold Trip', '', '', '', '', '2017', '', 'male organism']

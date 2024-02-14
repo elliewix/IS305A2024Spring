@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798594', 'Tamamo Black Tie', '', '', 'http://www.wikidata.org/entity/Q16834745', 'Declaration of War', '2020', '', 'male organism']

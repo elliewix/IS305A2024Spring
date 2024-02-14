@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18680855', 'Lohdutus', '', '', '', '', '1929', '1955', 'male organism']

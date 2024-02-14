@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330729', 'ビッグサンデー', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1994', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5299729', 'Double Discount', '', '', 'http://www.wikidata.org/entity/Q7046735', 'Nodouble', '1973', '', '']

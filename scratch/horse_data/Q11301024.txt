@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301024', 'K.T.Tiger', '', '', '', '', '1989', '', 'male organism']

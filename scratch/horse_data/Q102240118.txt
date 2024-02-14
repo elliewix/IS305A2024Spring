@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240118', 'Pintor Lea', '', '', 'http://www.wikidata.org/entity/Q116772902', 'Goya', '1953', '', 'male organism']

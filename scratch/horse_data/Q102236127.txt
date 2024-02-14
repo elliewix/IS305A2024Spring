@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236127', 'Jim Gore', '', '', 'http://www.wikidata.org/entity/Q5766174', 'Hindoo', '1884', '', 'male organism']

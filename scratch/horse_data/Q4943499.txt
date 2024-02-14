@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4943499', 'Boomerang', '', '', '', '', '1966', '1983', 'male organism']

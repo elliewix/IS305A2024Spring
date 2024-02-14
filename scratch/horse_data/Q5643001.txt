@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5643001', 'Halling', '', '', 'http://www.wikidata.org/entity/Q5275039', 'Diesis', '1991', '', 'male organism']

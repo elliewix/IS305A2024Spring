@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62036159', 'Poetess', 'http://www.wikidata.org/entity/Q62036311', 'Ada', 'http://www.wikidata.org/entity/Q25394775', 'Royal Oak', '1838', '', 'female organism']

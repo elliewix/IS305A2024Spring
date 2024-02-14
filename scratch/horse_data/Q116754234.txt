@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116754234', 'Chellano Z', 'http://www.wikidata.org/entity/Q116757080', 'Fayence', 'http://www.wikidata.org/entity/Q63040445', 'Contender', '1995', '', 'male organism']

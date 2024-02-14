@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11338117', 'ホワイトフォンテン', '', '', '', '', '1970', '', 'male organism']

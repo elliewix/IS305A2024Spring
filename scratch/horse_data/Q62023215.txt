@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023215', 'Bay Brocklesby', 'http://www.wikidata.org/entity/Q62023219', 'Brocklesby', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1731', '', 'female organism']

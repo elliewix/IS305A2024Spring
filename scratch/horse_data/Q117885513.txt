@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117885513', 'Eloise', '', '', 'http://www.wikidata.org/entity/Q117195146', 'Vidocq 732', '1875', '', 'female organism']

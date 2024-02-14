@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11294504', 'Kanetsu Cross', '', '', 'http://www.wikidata.org/entity/Q11316319', 'Tamamo Cross', '1991', '2017', 'male organism']

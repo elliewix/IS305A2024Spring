@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2099366', 'Affirmed', '', '', 'http://www.wikidata.org/entity/Q5419688', 'Exclusive Native', '1975', '2001', 'male organism']

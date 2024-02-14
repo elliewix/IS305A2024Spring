@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006601', 'Sally Brown', '', '', 'http://www.wikidata.org/entity/Q17014262', 'Posse', '1982', '2000', 'female organism']

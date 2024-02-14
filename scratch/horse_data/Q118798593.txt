@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798593', 'Emu', '', '', 'http://www.wikidata.org/entity/Q5654487', 'Harbinger', '2020', '', 'female organism']

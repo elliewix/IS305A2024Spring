@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6446002', 'Kurifuji', '', '', 'http://www.wikidata.org/entity/Q11321111', 'Tournesol', '1940', '1964', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30603619', 'Ballymore', '', '', 'http://www.wikidata.org/entity/Q7283258', 'Ragusa', '1969', '', 'male organism']

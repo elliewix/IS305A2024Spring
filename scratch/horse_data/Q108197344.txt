@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108197344', 'Wisma', '', '', 'http://www.wikidata.org/entity/Q1026643', 'Caletto II', '1984', '', 'female organism']

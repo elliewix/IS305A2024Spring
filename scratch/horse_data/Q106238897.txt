@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106238897', 'Tiger Tanaka', '', '', '', '', '', '', '']

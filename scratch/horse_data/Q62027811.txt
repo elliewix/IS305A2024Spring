@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027811', 'Sorcerer mare', 'http://www.wikidata.org/entity/Q62027813', 'Virgin', 'http://www.wikidata.org/entity/Q7563356', 'Sorcerer', '1810', '', 'female organism']

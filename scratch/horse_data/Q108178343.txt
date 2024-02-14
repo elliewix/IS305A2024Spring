@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108178343', 'Jura van St Maarten', 'http://www.wikidata.org/entity/Q114975139', 'Landlady', 'http://www.wikidata.org/entity/Q22329202', 'Nimmerdor', '1993', '', 'female organism']

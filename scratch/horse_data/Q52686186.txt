@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52686186', 'Saxon Warrior', 'http://www.wikidata.org/entity/Q6796910', 'Maybe', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2015', '', 'male organism']

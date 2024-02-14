@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236116', 'Sir Joseph', '', '', '', '', '1883', '', 'male organism']

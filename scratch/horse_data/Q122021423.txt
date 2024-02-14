@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122021423', 'Konilda K.', 'http://www.wikidata.org/entity/Q122021627', 'Konilda 150770', 'http://www.wikidata.org/entity/Q122021193', 'Kommandor', '1926', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4780432', 'Apology', '', '', '', '', '1871', '', 'female organism']

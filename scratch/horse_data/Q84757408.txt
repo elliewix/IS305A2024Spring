@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q84757408', 'Davidson du Pont', '', '', '', '', '2013', '', '']

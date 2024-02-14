@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61986273', 'Ladylike', '', '', 'http://www.wikidata.org/entity/Q11324950', 'Newminster', '1854', '', 'female organism']

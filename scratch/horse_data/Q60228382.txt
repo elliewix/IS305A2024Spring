@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60228382', 'Best Solution', '', '', '', '', '2014', '', 'male organism']

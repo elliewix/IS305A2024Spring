@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322537', 'Dokan Yashima', '', '', 'http://www.wikidata.org/entity/Q11316062', 'Takeshiba O', '1980', '', 'male organism']

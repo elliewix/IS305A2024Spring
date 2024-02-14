@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111320216', 'Fantus', '', '', '', '', '1964', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11346734', 'Russian Roubles', '', '', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1980', '', 'male organism']

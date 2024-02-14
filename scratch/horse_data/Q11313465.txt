@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313465', 'スルガスンプジョウ', '', '', '', '', '1971', '', 'male organism']

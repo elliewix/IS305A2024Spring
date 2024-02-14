@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545090', 'Tornado', 'http://www.wikidata.org/entity/Q107545074', 'Roseola', 'http://www.wikidata.org/entity/Q7829049', 'Tourbillon', '1939', '', 'male organism']

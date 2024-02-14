@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52716724', 'Mikki Swallow', '', '', 'http://www.wikidata.org/entity/Q11322364', 'Tosen Homareboshi', '2014', '', 'male organism']

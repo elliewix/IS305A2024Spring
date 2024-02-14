@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345916', 'ユーセイトップラン', '', '', 'http://www.wikidata.org/entity/Q11342941', 'Mill George', '1993', '', 'male organism']

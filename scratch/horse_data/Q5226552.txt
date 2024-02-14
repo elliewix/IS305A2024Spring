@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5226552', 'Dash For Cash', '', '', 'http://www.wikidata.org/entity/Q7355147', 'Rocket Wrangler', '1973', '', 'male organism']

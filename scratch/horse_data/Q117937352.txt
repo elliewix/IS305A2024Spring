@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117937352', 'Coquet 58597', 'http://www.wikidata.org/entity/Q119260758', 'Coquette 47264', 'http://www.wikidata.org/entity/Q117937740', 'Laurietin 29953', '', '', 'male organism']

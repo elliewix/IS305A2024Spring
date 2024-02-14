@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343421', 'メイワパッサー', '', '', 'http://www.wikidata.org/entity/Q4983454', 'Buckpasser', '1975', '', 'male organism']

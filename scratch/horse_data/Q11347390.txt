@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347390', 'ラプソデー', '', '', '', '', '1954', '', 'male organism']

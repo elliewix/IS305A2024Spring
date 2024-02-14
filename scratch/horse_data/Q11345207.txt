@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345207', 'Yamanin Charade', '', '', 'http://www.wikidata.org/entity/Q11345209', 'Yamaninsky', '1983', '', 'female organism']

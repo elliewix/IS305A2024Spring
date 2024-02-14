@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17019277', 'St Patrick', '', '', 'http://www.wikidata.org/entity/Q17041157', 'Walton', '1817', '', 'male organism']

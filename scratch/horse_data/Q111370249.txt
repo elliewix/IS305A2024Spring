@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111370249', 'Chin Chin', 'http://www.wikidata.org/entity/Q115284099', 'Larese', 'http://www.wikidata.org/entity/Q111370290', 'Constant', '1978', '2007', 'male organism']

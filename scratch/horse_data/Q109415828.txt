@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109415828', 'Amazing Star', '', '', '', '', '2014', '2021', 'male organism']

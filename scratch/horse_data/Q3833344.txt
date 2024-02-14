@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3833344', 'Lisa America', '', '', '', '', '2005', '', 'female organism']

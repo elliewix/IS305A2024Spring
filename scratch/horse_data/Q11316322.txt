@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316322', 'タマモホットプレイ', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2001', '', 'male organism']

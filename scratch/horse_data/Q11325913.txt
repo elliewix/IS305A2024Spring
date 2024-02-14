@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11325913', 'ノーブルグラス', '', '', 'http://www.wikidata.org/entity/Q11342941', 'Mill George', '1991', '', 'female organism']

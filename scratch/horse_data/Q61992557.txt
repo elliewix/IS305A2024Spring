@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61992557', 'Tramp', 'http://www.wikidata.org/entity/Q62022922', 'Gohanna mare', 'http://www.wikidata.org/entity/Q61976427', 'Dick Andrews', '1810', '', 'male organism']

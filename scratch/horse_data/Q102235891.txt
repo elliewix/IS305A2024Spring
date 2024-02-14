@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235891', 'Solicitor', '', '', '', '', '1875', '', 'male organism']

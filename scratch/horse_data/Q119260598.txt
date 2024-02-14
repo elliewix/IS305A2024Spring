@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119260598', 'Oseange 1210', 'http://www.wikidata.org/entity/Q120750048', 'Coquette', 'http://www.wikidata.org/entity/Q119241630', 'Favora 765', '1881', '', 'male organism']

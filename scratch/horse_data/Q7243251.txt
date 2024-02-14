@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7243251', 'Prime Defender', '', '', '', '', '2004', '2012', 'male organism']

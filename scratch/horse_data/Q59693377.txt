@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q59693377', 'Wellesley Arabian', '', '', '', '', '1803', '1811', 'male organism']

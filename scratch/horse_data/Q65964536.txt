@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65964536', 'Athlet Z', 'http://www.wikidata.org/entity/Q115171183', 'Golfamt', 'http://www.wikidata.org/entity/Q2649831', 'Alme', '1979', '2005', 'male organism']

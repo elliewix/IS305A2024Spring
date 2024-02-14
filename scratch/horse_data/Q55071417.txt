@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071417', 'Tularia', 'http://www.wikidata.org/entity/Q107535865', 'Suntop', 'http://www.wikidata.org/entity/Q7852437', 'Tulyar', '1955', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21072624', 'Gravelines', '', '', '', '', '1972', '', 'male organism']

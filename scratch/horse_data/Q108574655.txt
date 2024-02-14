@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108574655', 'Holle', 'http://www.wikidata.org/entity/Q108576785', 'Ilona', 'http://www.wikidata.org/entity/Q108576687', 'Logenschliesser', '1949', '', 'female organism']

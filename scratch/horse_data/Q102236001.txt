@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236001', 'Newsboy', '', '', '', '', '1879', '', 'male organism']

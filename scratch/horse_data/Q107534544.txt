@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107534544', 'Planetoid', '', '', '', '', '1934', '', 'female organism']

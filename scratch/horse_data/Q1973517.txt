@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1973517', 'Nebos', '', '', 'http://www.wikidata.org/entity/Q5044188', 'Caro', '1976', '', 'male organism']

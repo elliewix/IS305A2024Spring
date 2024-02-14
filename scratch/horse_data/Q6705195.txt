@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6705195', 'Luskin Star', '', '', '', '', '1974', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224608', 'ピットカーン', '', '', 'http://www.wikidata.org/entity/Q7178336', 'Petingo', '1971', '', 'male organism']

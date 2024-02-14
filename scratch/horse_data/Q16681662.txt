@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16681662', 'Ultra Ducal', '', '', '', '', '1986', '', '']

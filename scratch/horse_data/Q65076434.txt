@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65076434', 'Hall Mark', '', '', '', '', '1930', '', '']

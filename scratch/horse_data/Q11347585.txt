@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347585', 'ランドプリンス', '', '', 'http://www.wikidata.org/entity/Q11319254', 'Tesco Boy', '1969', '', 'male organism']

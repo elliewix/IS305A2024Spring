@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987152', 'Decoy', 'http://www.wikidata.org/entity/Q61987156', 'Finesse', 'http://www.wikidata.org/entity/Q5448413', 'Filho da Puta', '1830', '', 'female organism']

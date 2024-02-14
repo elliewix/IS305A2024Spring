@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16826417', 'Awaasif', 'http://www.wikidata.org/entity/Q61998573', 'Royal Statute', 'http://www.wikidata.org/entity/Q7548260', 'Snow Knight', '1979', '', 'female organism']

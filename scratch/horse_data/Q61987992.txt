@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987992', 'Humphrey Clinker', 'http://www.wikidata.org/entity/Q61988029', 'Clinkerina', 'http://www.wikidata.org/entity/Q61988007', 'Comus', '1822', '', 'male organism']

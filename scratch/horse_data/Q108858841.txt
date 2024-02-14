@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108858841', 'Fire Phenomenon', '', '', 'http://www.wikidata.org/entity/Q108771054', 'The Norfolk Cob', '1840', '', 'female organism']

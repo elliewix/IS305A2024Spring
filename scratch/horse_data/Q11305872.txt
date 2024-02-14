@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305872', 'Sundridge', 'http://www.wikidata.org/entity/Q61986095', 'Sierra', 'http://www.wikidata.org/entity/Q16961395', 'Amphion', '1898', '1923', 'male organism']

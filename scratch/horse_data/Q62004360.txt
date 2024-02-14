@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62004360', 'Fanny', '', '', 'http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', '1796', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348075', 'Return Ace', '', '', 'http://www.wikidata.org/entity/Q11330652', 'Bizen Nishiki', '1988', '1999', 'male organism']

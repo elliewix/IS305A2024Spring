@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3269685', 'Lyphard', 'http://www.wikidata.org/entity/Q61994529', 'Goofed', 'http://www.wikidata.org/entity/Q1969034', 'Northern Dancer', '1969', '2005', 'male organism']

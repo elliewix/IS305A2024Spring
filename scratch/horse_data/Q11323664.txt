@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11323664', 'ナオキ', 'http://www.wikidata.org/entity/Q11289602', 'Eight Crown', '', '', '1969', '', 'male organism']

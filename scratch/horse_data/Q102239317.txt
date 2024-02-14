@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239317', 'Boot and Spur', '', '', '', '', '1939', '', 'male organism']

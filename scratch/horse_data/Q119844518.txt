@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119844518', 'Duroc 453', '', '', 'http://www.wikidata.org/entity/Q117910732', 'Philibert 760', '1881', '', 'male organism']

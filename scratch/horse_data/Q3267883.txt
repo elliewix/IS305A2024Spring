@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3267883', "Lutin d'Isigny", '', '', 'http://www.wikidata.org/entity/Q57012129', 'Firstly', '1977', '2003', 'male organism']

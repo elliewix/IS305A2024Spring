@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122020425', 'Koncarcalyps II', 'http://www.wikidata.org/entity/Q122021423', 'Konilda K.', 'http://www.wikidata.org/entity/Q119416964', 'Koncarcalyps', '1933', '', 'male organism']

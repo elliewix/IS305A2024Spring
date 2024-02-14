@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24053297', 'Jolanda', 'http://www.wikidata.org/entity/Q24053322', 'Elysette', 'http://www.wikidata.org/entity/Q22329202', 'Nimmerdor', '1991', '', 'female organism']

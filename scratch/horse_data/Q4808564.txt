@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4808564', 'Assault', 'http://www.wikidata.org/entity/Q104203710', 'Igual', 'http://www.wikidata.org/entity/Q4939079', 'Bold Venture', '1943', '1971', 'male organism']

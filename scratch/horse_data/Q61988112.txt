@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61988112', 'Sportsman', '', '', 'http://www.wikidata.org/entity/Q5016340', 'Cade', '1753', '', 'male organism']

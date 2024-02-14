@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30594811', 'Special Tiara', '', '', 'http://www.wikidata.org/entity/Q6380563', 'Kayf Tara', '2007', '2019', 'male organism']

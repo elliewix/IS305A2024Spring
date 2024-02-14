@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q57875134', 'Schon Glanz', 'http://www.wikidata.org/entity/Q7595808', 'Stacelita', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2016', '', 'female organism']

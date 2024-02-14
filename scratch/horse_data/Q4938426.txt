@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4938426', 'Bois Roussel', 'http://www.wikidata.org/entity/Q7205228', 'Plucky Liege', '', '', '1935', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7851301', 'Tudor Minstrel', 'http://www.wikidata.org/entity/Q55071640', 'Sansonnet', 'http://www.wikidata.org/entity/Q7114671', 'Owen Tudor', '1944', '', 'male organism']

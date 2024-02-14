@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354716', 'Looby mare', 'http://www.wikidata.org/entity/Q117354769', 'Margery', 'http://www.wikidata.org/entity/Q117354718', 'Bolton Looby', '1745', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5087563', 'Chateaugay', 'http://www.wikidata.org/entity/Q61989020', 'Banquet Bell', 'http://www.wikidata.org/entity/Q7653826', 'Swaps', '1960', '1985', 'male organism']

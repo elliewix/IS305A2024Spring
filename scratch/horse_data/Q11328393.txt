@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11328393', 'バンザイ', '', '', 'http://www.wikidata.org/entity/Q11316983', 'ダイヤモンドウェッディング', '1921', '', 'male organism']

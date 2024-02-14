@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108099888', 'Djalisco du Guet', '', '', 'http://www.wikidata.org/entity/Q1679759', 'Jalisco B', '1991', '', 'male organism']

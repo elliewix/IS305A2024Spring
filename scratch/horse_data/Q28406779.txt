@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28406779', "Mummy's Pet", '', '', 'http://www.wikidata.org/entity/Q17019812', 'Sing Sing', '1968', '1986', 'male organism']

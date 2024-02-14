@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239807', 'Hall of Fame', '', '', '', '', '1948', '', 'male organism']

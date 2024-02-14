@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238785', 'Spicson', '', '', '', '', '1930', '', 'male organism']

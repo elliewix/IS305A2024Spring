@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61992487', 'Florence', '', '', 'http://www.wikidata.org/entity/Q370429', 'Lexington', '1869', '', 'female organism']

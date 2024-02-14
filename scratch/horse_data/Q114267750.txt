@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114267750', 'Brightia Pulse', '', '', 'http://www.wikidata.org/entity/Q11316799', 'Daitaku Riva', '2005', '', 'female organism']

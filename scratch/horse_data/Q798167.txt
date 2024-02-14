@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q798167', 'Devil Diver', '', '', '', '', '1939', '1961', 'male organism']

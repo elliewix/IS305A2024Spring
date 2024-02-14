@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2047206', 'Borysthenes', '', '', '', '', '', '', '']

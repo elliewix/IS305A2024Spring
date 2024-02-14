@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11306934', 'Shakespeare', 'http://www.wikidata.org/entity/Q61993766', 'Amorett', 'http://www.wikidata.org/entity/Q11337990', 'Hobgoblin', '1745', '', 'male organism']

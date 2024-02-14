@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240967', 'Knight Counter', '', '', '', '', '1968', '', 'male organism']

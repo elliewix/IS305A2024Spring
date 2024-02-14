@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3375675', 'Persik', '', '', '', '', '1969', '2001', 'male organism']

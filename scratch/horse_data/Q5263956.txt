@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5263956', 'Desert King', 'http://www.wikidata.org/entity/Q61987314', 'Sabaah', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '1994', '', 'male organism']

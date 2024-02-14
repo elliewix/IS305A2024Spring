@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64011936', 'Partiality', 'http://www.wikidata.org/entity/Q64011941', 'Favourite', 'http://www.wikidata.org/entity/Q16997754', 'Middleton', '1830', '', 'female organism']

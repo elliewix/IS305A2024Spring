@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7695192', 'Tejano Run', '', '', '', '', '1992', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25171608', 'Formidable', 'http://www.wikidata.org/entity/Q61985695', 'Native Partner', 'http://www.wikidata.org/entity/Q11332888', 'Forli', '1975', '', 'male organism']

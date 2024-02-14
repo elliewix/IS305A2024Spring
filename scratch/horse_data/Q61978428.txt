@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978428', 'Tredennis', 'http://www.wikidata.org/entity/Q61969292', 'St Marguerite', 'http://www.wikidata.org/entity/Q6388841', 'Kendal', '1898', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240011', 'Hasseyampa', '', '', '', '', '1951', '', 'male organism']

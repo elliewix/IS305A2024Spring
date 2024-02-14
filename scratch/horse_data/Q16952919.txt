@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16952919', 'Take Charge Indy', 'http://www.wikidata.org/entity/Q22006406', 'Take Charge Lady', 'http://www.wikidata.org/entity/Q1968208', 'A.P. Indy', '2009', '', 'male organism']

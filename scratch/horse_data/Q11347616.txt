@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347616', 'ランフォルセ', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2006', '', 'male organism']

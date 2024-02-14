@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358709', 'Mermaid', 'http://www.wikidata.org/entity/Q117358714', 'Basto mare', 'http://www.wikidata.org/entity/Q117358711', 'Sutton Turk', '1720', '', 'female organism']

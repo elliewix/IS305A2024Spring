@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60763260', 'Zalaiyka', '', '', '', '', '1995', '', '']

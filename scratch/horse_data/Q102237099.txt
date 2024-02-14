@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237099', 'Stargazer', '', '', '', '', '1914', '', 'male organism']

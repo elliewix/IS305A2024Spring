@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q75594605', 'Mister Davier', '', '', '', '', '2000', '', 'male organism']

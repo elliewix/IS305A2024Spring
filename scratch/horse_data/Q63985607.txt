@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63985607', 'Wire', 'http://www.wikidata.org/entity/Q7162558', 'Penelope', 'http://www.wikidata.org/entity/Q7975736', 'Waxy', '1811', '', 'female organism']

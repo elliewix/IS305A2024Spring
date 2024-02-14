@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342006', 'ミスオンワード', '', '', '', '', '1954', '', 'female organism']

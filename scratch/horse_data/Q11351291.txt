@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11351291', 'Wakakumo', 'http://www.wikidata.org/entity/Q11298827', 'Okataka', 'http://www.wikidata.org/entity/Q11294566', 'Cover Up II', '1963', '', 'female organism']

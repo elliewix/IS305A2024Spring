@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48817066', 'Snow Marten', '', '', '', '', '1912', '', '']

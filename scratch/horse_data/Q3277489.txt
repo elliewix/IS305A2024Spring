@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3277489', 'Ponder', 'http://www.wikidata.org/entity/Q61989075', 'Miss Rushin', 'http://www.wikidata.org/entity/Q7164808', 'Pensive', '1946', '1958', 'male organism']

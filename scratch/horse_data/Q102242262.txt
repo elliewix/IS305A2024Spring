@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242262', 'Kissin Kris', '', '', '', '', '1990', '', 'male organism']

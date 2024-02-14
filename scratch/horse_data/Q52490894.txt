@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52490894', 'Historiette III', '', '', 'http://www.wikidata.org/entity/Q52490695', 'Templier', '1929', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108567053', 'Dolli', '', '', '', '', '1945', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7861201', 'Typhoon II', 'http://www.wikidata.org/entity/Q104203492', 'Dolly Varden', '', '', '1894', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47469486', 'アグネステスコ', '', '', 'http://www.wikidata.org/entity/Q11319254', 'Tesco Boy', '1978', '', 'female organism']

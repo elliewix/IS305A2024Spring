@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283149', 'Asakusa Kings', '', '', 'http://www.wikidata.org/entity/Q11338126', 'White Muzzle', '2004', '', 'male organism']

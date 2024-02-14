@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028907', 'Capella', 'http://www.wikidata.org/entity/Q62028920', 'Miss Cape', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1773', '', 'female organism']

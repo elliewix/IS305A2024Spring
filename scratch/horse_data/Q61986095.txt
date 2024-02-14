@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61986095', 'Sierra', '', '', 'http://www.wikidata.org/entity/Q17021634', 'Springfield', '', '', 'female organism']

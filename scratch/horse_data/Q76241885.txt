@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q76241885', 'Scarlet Color', '', '', '', '', '2015', '', 'female organism']

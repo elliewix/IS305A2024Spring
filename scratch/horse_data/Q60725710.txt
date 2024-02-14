@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60725710', 'Zacramento', '', '', 'http://www.wikidata.org/entity/Q31884517', 'Cardento', '2005', '', 'male organism']

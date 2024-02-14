@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7548865', 'Snurge', '', '', 'http://www.wikidata.org/entity/Q5352537', 'Ela-Mana-Mou', '1987', '2006', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7544480', 'Smetanka', '', '', '', '', '1770', '', 'male organism']

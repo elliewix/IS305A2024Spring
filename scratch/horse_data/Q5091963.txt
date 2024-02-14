@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5091963', 'Cherimoya', 'http://www.wikidata.org/entity/Q61970586', 'Svelte', 'http://www.wikidata.org/entity/Q61970582', 'Cherry Tree', '1908', '', 'female organism']

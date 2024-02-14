@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4868813', 'Bates Motel', '', '', 'http://www.wikidata.org/entity/Q7527349', 'Sir Ivor', '1979', '', 'male organism']

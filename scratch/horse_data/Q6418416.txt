@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6418416', "Kitten's Joy", '', '', 'http://www.wikidata.org/entity/Q5351892', 'El Prado', '2001', '', 'male organism']

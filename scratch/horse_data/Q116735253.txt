@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735253', 'オマタセシマシタ', '', '', 'http://www.wikidata.org/entity/Q11310148', 'Jungle Pocket', '2020', '', 'female organism']

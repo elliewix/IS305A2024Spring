@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7959779', 'Wahid', '', '', 'http://www.wikidata.org/entity/Q14902531', 'Almutawakel', '2002', '', 'male organism']

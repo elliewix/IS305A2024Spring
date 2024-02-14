@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993589', 'Solon', '', '', 'http://www.wikidata.org/entity/Q7984352', 'West Australian', '1861', '', 'male organism']

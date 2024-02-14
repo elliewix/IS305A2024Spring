@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26252557', 'Narcotique de Muze II', 'http://www.wikidata.org/entity/Q66771671', 'Qerly Chin', 'http://www.wikidata.org/entity/Q2658690', 'Darco', '1997', '', 'female organism']

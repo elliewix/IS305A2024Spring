@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7939315', 'Vodka', '', '', 'http://www.wikidata.org/entity/Q11316237', 'Tanino Gimlet', '2004', '2019', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61592268', 'El Rey Magnum RCF', '', '', 'http://www.wikidata.org/entity/Q121047077', 'Basilio CS', '2017', '', 'male organism']

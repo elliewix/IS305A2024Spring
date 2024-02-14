@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16825188', 'Annie Power', '', '', 'http://www.wikidata.org/entity/Q2279439', 'Shirocco', '2008', '', 'female organism']

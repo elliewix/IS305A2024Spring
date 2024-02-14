@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7134162', 'Parading', '', '', 'http://www.wikidata.org/entity/Q7259595', 'Pulpit', '2003', '', 'male organism']

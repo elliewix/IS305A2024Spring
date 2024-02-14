@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30932391', 'Admire Lead', '', '', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2013', '', 'female organism']

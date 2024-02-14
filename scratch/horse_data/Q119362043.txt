@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119362043', 'Don Degas', '', '', 'http://www.wikidata.org/entity/Q119362068', 'Jehovah', '1924', '', 'male organism']

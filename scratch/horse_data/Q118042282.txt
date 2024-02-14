@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118042282', 'Bambin', '', '', 'http://www.wikidata.org/entity/Q118042070', 'Rustique 28646', '1890', '', 'male organism']

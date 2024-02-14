@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11351547', 'Wonder Acute', '', '', 'http://www.wikidata.org/entity/Q5074405', 'Charismatic', '2006', '', 'male organism']

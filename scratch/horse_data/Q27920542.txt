@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27920542', 'Yoshinoichibambosi', '', '', 'http://www.wikidata.org/entity/Q11322439', 'トーヨーリファール', '2001', '', 'male organism']

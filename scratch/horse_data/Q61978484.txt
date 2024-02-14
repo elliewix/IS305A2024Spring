@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978484', "Knight's Daughter", '', '', 'http://www.wikidata.org/entity/Q61978487', 'Sir Cosmo', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22286419', 'Smart Little Lena', '', '', '', '', '1979', '2010', 'male organism']

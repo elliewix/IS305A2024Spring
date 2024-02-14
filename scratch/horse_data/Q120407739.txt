@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120407739', 'K. D. S. Any', 'http://www.wikidata.org/entity/Q120409388', 'Sally Ann', 'http://www.wikidata.org/entity/Q120410587', 'K.D.S. Lockinvar', '', '', 'female organism']

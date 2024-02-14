@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100450973', 'Stella Velocie', '', '', 'http://www.wikidata.org/entity/Q2879150', 'Bago', '2018', '', 'male organism']

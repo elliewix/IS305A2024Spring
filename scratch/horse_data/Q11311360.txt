@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311360', 'Scarlet Ink', '', '', 'http://www.wikidata.org/entity/Q5185707', 'Crimson Satan', '1971', '', 'female organism']

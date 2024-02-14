@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1005232', 'Rock of Gibraltar', '', '', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '1999', '2022', 'male organism']

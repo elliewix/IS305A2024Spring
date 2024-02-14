@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120376675', 'Iowa King 11945', '', '', 'http://www.wikidata.org/entity/Q120375641', 'Colored Gentleman 4531', '1887', '', 'male organism']

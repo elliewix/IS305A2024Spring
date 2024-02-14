@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q74046703', 'Quadrilateral', '', '', 'http://www.wikidata.org/entity/Q2720508', 'Frankel', '2017', '', 'female organism']

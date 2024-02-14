@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109044603', 'Siyouni', '', '', 'http://www.wikidata.org/entity/Q11331695', 'Pivotal', '', '', 'male organism']

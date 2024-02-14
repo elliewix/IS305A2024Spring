@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11344190', 'Mendez', '', '', 'http://www.wikidata.org/entity/Q15615760', 'Bellypha', '1981', '1995', 'male organism']

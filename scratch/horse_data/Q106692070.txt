@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106692070', 'Uranus', '', '', 'http://www.wikidata.org/entity/Q52554965', 'James Watt', '1898', '', 'male organism']

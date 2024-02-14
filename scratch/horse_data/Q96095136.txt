@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96095136', 'Young Rattler', '', '', 'http://www.wikidata.org/entity/Q96208513', 'Rattler', '1811', '1836', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236546', 'Red Gauntlet', '', '', '', '', '1904', '', 'male organism']

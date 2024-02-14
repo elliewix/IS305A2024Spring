@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994587', 'Bruleur', '', '', '', '', '1910', '', 'male organism']

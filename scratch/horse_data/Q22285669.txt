@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22285669', 'Ethan Allen', '', '', '', '', '', '', 'male organism']

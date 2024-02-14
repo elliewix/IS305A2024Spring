@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115092278', 'Étoile Nantaise', 'http://www.wikidata.org/entity/Q115103026', 'Polka', 'http://www.wikidata.org/entity/Q115101499', 'Fujiyama', '1970', '', 'female organism']

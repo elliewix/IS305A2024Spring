@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56887821', 'Quirinal', 'http://www.wikidata.org/entity/Q111700238', 'Kieltje', 'http://www.wikidata.org/entity/Q108337120', 'Kultimate', '1960', '', 'male organism']

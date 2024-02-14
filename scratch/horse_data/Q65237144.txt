@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65237144', 'Arctos', '', '', 'http://www.wikidata.org/entity/Q11284089', 'Admire Aura', '2015', '', 'male organism']

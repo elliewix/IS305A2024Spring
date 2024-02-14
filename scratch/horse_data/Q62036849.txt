@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62036849', 'Precipitate mare', 'http://www.wikidata.org/entity/Q62036922', 'Woodpecker mare', 'http://www.wikidata.org/entity/Q62022055', 'Precipitate', '1796', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108853813', 'Cleveland mare', '', '', 'http://www.wikidata.org/entity/Q108853865', 'Cleveland', '1833', '', 'female organism']

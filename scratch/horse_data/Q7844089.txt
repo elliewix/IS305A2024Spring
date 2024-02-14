@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7844089', 'Tristan', '', '', 'http://www.wikidata.org/entity/Q5741736', 'Hermit', '1878', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7419031', 'Sansovino', '', '', 'http://www.wikidata.org/entity/Q7659386', 'Swynford', '1921', '', 'male organism']

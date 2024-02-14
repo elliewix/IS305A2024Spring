@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q77799261', 'Kemono', '', '', '', '', '2015', '', 'male organism']

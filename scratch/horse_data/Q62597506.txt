@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62597506', 'Thundering Blue', '', '', '', '', '', '', 'male organism']

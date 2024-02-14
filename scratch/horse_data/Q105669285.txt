@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105669285', 'Statue of Liberty', '', '', '', '', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48965961', 'U S Navy Flag', 'http://www.wikidata.org/entity/Q6880577', 'Misty for Me', 'http://www.wikidata.org/entity/Q18148153', 'War Front', '2015', '', 'male organism']

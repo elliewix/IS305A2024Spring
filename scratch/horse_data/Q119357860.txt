@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119357860', 'Cocotte', '', '', 'http://www.wikidata.org/entity/Q117942496', 'Iago 768', '', '', 'female organism']

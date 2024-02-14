@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64362252', 'Anthony Van Dyck', '', '', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2016', '2020', 'male organism']

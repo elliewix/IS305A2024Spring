@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65970003', 'Allerdings', '', '', '', '', '2000', '', 'male organism']

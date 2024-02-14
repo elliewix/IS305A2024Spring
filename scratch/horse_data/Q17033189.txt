@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17033189', 'War Command', '', '', 'http://www.wikidata.org/entity/Q18148153', 'War Front', '2011', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119261900', 'Bourote', '', '', 'http://www.wikidata.org/entity/Q117229448', 'Superior 730', '', '', 'female organism']

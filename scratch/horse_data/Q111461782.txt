@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111461782', 'Dinarth Henol', 'http://www.wikidata.org/entity/Q111461789', 'Irfon Marvel', '', '', '1927', '1954', 'female organism']

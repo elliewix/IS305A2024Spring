@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121839986', 'A Shin Memphis', 'http://www.wikidata.org/entity/Q11319347', 'テネシーガール', 'http://www.wikidata.org/entity/Q6804991', "Medaglia d'Oro", '', '', 'female organism']

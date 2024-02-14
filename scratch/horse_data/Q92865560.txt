@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q92865560', 'Bivouac', '', '', '', '', '', '', 'male organism']

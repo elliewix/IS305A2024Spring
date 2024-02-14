@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330011', 'ヒシマサヒデ', '', '', 'http://www.wikidata.org/entity/Q11330012', 'Hishi Masaru', '1962', '', 'male organism']

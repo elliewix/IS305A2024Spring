@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61986072', 'Doctrine', '', '', 'http://www.wikidata.org/entity/Q4831676', 'Ayrshire', '1899', '', 'female organism']

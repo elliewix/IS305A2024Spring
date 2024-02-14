@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321151', 'トキノキロク', '', '', 'http://www.wikidata.org/entity/Q11346360', 'Rising Flame', '1957', '', 'female organism']

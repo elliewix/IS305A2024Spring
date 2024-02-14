@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283748', 'Achieve Star', '', '', 'http://www.wikidata.org/entity/Q11307511', 'シプリアニ', '1969', '', 'female organism']

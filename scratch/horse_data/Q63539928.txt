@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63539928', 'Traverse', 'http://www.wikidata.org/entity/Q63539939', 'Perverse', 'http://www.wikidata.org/entity/Q17027108', 'Tracery', '1915', '', 'female organism']

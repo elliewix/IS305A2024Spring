@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547172', 'Good Deal', '', '', '', '', '1932', '', 'female organism']

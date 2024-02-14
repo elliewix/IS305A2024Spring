@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11304891', 'Satono Progress', '', '', 'http://www.wikidata.org/entity/Q7676023', 'Taiki Shuttle', '2005', '', 'male organism']

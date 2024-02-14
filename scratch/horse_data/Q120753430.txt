@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120753430', 'Jersey 3419', '', '', '', '', '1909', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52716757', 'Suzuka Devious', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2011', '', 'male organism']

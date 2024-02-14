@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48790628', "Pharaoh's Delight", '', '', '', '', '1987', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545702', 'Blanche', '', '', '', '', '1912', '', 'female organism']

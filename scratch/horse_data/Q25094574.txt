@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25094574', 'GTR Patricks Vindicator', '', '', '', '', '1994', '', 'male organism']

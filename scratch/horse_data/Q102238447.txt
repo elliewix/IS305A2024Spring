@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238447', 'Paul Bunyan', '', '', '', '', '1926', '', 'male organism']

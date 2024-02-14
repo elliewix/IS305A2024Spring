@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17116138', 'Straw Bear', '', '', 'http://www.wikidata.org/entity/Q5275039', 'Diesis', '2001', '', '']

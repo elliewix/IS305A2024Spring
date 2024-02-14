@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17116197', 'Time Supply', '', '', '', '', '1931', '', 'male organism']

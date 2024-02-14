@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314231', 'セキテイリュウオー', '', '', 'http://www.wikidata.org/entity/Q11321101', 'Tosho Boy', '1989', '2011', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108861079', 'Esther', 'http://www.wikidata.org/entity/Q108861295', 'Royale Topaze', 'http://www.wikidata.org/entity/Q108861266', 'Rivoli', '1882', '', 'female organism']

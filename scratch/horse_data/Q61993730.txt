@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993730', 'Snap mare', 'http://www.wikidata.org/entity/Q61993733', 'Milksop', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1761', '', 'female organism']

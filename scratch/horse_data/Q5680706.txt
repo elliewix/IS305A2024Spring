@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5680706', 'Hasty Road', 'http://www.wikidata.org/entity/Q63539693', 'Traffic Court', 'http://www.wikidata.org/entity/Q63539565', 'Roman', '1951', '', 'male organism']

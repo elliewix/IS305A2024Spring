@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240934', 'Bold and Able', '', '', '', '', '1968', '', 'male organism']

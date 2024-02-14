@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47469478', 'Wagnerian', 'http://www.wikidata.org/entity/Q64780096', 'Miss Encore', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2015', '2022', 'male organism']

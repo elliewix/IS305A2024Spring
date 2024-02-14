@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242128', 'Power Lunch', '', '', '', '', '1987', '', 'male organism']

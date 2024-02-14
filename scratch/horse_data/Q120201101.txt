@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120201101', 'Mirabeau 6043', 'http://www.wikidata.org/entity/Q120201358', 'Elise 6042', 'http://www.wikidata.org/entity/Q120200226', 'Luther III 1792', '1884', '1886', 'male organism']

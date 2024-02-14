@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333264', 'フジノパーシア', '', '', '', '', '1971', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5599305', 'Great Heavens', 'http://www.wikidata.org/entity/Q18148112', 'Magnificient Style', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2009', '', 'female organism']

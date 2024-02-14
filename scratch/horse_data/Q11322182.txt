@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322182', 'トロットスター', '', '', '', '', '1996', '2015', 'male organism']

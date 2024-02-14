@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119790693', 'Colene 191001', 'http://www.wikidata.org/entity/Q118063332', 'Coreen 117580', '', '', '1926', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63467407', 'Country House', 'http://www.wikidata.org/entity/Q63468172', 'Quake Lake', 'http://www.wikidata.org/entity/Q6675258', 'Lookin At Lucky', '2016', '', 'male organism']

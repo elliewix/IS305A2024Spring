@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119783743', 'Ilus 68658', 'http://www.wikidata.org/entity/Q119789386', 'Frisette 73357', 'http://www.wikidata.org/entity/Q119783411', 'Hocher 69395', '1908', '', 'male organism']

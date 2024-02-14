@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545086', 'Bimlette', 'http://www.wikidata.org/entity/Q61998372', 'Bloodroot', 'http://www.wikidata.org/entity/Q4913736', 'Bimelech', '1944', '', 'female organism']

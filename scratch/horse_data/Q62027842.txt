@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027842', 'Editha', 'http://www.wikidata.org/entity/Q62027849', 'Elfrida', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1781', '', 'female organism']

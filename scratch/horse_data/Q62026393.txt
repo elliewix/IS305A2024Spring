@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026393', 'Salome', '', '', '', '', '1733', '', 'female organism']

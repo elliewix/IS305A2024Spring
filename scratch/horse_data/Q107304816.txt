@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107304816', 'Effix de Brion', '', '', '', '', '2014', '', 'male organism']

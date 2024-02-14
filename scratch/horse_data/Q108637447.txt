@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108637447', 'Cyrus', '', '', '', '', '1924', '', 'male organism']

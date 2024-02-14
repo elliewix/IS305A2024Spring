@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237197', 'Sailor', '', '', '', '', '1916', '', 'male organism']

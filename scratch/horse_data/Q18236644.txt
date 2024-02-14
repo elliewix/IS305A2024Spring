@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18236644', 'Hokei', '', '', '', '', '1934', '', 'male organism']

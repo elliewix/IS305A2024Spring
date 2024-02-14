@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3073260', 'Flambeau C', '', '', '', '', '1971', '2001', 'male organism']

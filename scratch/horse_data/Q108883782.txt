@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108883782', 'La Snail', 'http://www.wikidata.org/entity/Q108883711', 'La Séduisante', '', '', '1825', '', 'female organism']

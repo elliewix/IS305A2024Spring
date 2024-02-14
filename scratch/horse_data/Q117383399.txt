@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117383399', 'Guildford Nan', 'http://www.wikidata.org/entity/Q117383433', 'Justice mare', 'http://www.wikidata.org/entity/Q117383403', 'Guildford', '1805', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242842', 'Cool Coal Man', '', '', '', '', '2005', '', 'male organism']

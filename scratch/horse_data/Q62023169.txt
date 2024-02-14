@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023169', 'Regulus mare', 'http://www.wikidata.org/entity/Q62023171', 'Steady mare', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1756', '', 'female organism']

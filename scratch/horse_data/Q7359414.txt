@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7359414', 'Rogilla', '', '', '', '', '1927', '', '']

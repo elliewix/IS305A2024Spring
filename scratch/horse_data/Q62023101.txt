@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023101', 'Cressida', 'http://www.wikidata.org/entity/Q8058135', 'Young Giantess', 'http://www.wikidata.org/entity/Q62004410', 'Whiskey', '1807', '', 'female organism']

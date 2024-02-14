@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382537', 'Sybil', 'http://www.wikidata.org/entity/Q62023135', 'Galatea', 'http://www.wikidata.org/entity/Q117382552', 'Interpreter', '1822', '', 'female organism']

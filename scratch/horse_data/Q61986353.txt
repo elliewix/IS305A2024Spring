@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61986353', 'Captive Princess', '', '', 'http://www.wikidata.org/entity/Q61986358', 'Captivation', '1913', '', 'female organism']

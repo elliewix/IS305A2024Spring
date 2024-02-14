@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337629', 'ホウセイ', '', '', 'http://www.wikidata.org/entity/Q18236644', 'Hokei', '1945', '', 'male organism']

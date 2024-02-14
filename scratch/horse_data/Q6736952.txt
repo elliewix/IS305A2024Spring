@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6736952', 'Mairzy Doates', '', '', 'http://www.wikidata.org/entity/Q7046735', 'Nodouble', '1976', '', 'female organism']

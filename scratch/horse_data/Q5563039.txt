@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5563039', 'Ginger Gold', '', '', '', '', '1999', '', 'female organism']

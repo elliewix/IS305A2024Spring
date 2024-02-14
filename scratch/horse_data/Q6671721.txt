@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6671721', 'Lonesome Glory', '', '', 'http://www.wikidata.org/entity/Q39070230', 'Transworld', '1988', '', '']

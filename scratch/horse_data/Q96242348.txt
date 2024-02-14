@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96242348', 'Express', '', '', 'http://www.wikidata.org/entity/Q96096846', 'Normand', '1882', '', 'male organism']

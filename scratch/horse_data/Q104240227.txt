@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104240227', 'Fair Empress', '', '', 'http://www.wikidata.org/entity/Q102236127', 'Jim Gore', '1899', '', 'female organism']

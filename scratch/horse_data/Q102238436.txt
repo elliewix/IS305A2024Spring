@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238436', 'Minotaur', '', '', '', '', '1926', '', 'male organism']

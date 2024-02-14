@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7368009', 'Rose of Kingston', '', '', '', '', '1978', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117386794', 'Hobgoblin mare', 'http://www.wikidata.org/entity/Q117386882', 'Snake mare', 'http://www.wikidata.org/entity/Q11337990', 'Hobgoblin', '1732', '', 'female organism']

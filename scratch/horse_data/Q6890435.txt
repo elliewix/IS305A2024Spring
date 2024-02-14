@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6890435', 'Mogambo', '', '', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1983', '', 'male organism']

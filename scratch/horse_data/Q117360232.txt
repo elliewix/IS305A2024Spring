@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360232', 'Spanker mare', '', '', 'http://www.wikidata.org/entity/Q15406909', 'Spanker', '1685', '', 'female organism']

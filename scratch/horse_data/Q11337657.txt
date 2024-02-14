@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337657', 'ホクトライデン', '', '', 'http://www.wikidata.org/entity/Q18016266', 'エルシド', '1972', '', 'male organism']

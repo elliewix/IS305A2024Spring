@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66364482', 'Rainbow Amber', '', '', 'http://www.wikidata.org/entity/Q11285398', 'Amber Shadai', '', '', 'male organism']

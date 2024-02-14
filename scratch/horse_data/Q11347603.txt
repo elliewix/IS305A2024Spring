@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347603', 'ランニングゲイル', '', '', 'http://www.wikidata.org/entity/Q11347607', 'ランニングフリー', '1994', '', 'male organism']

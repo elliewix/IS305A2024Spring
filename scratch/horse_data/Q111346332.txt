@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111346332', 'Quêteuse', '', '', '', '', '1938', '', 'female organism']

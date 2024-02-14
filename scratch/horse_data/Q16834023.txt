@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16834023', 'Crimplene', '', '', '', '', '1997', '', 'female organism']

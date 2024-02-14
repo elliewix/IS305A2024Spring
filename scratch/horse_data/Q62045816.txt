@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62045816', 'Legacy', '', '', 'http://www.wikidata.org/entity/Q62045859', 'Young Snip', '1762', '', 'female organism']

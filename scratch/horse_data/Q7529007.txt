@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7529007', 'Sir Tatton Sykes', 'http://www.wikidata.org/entity/Q62011209', 'Margrave mare', 'http://www.wikidata.org/entity/Q61987506', 'Melbourne', '1843', '', 'male organism']

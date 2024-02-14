@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6817327', 'Menow', 'http://www.wikidata.org/entity/Q4713073', 'Alcibiades', 'http://www.wikidata.org/entity/Q7180681', 'Pharamond', '1935', '1964', 'male organism']

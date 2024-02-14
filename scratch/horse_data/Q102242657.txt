@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242657', 'Private Emblem', '', '', '', '', '1999', '', 'male organism']

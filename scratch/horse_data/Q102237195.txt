@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237195', 'Be Frank', '', '', '', '', '1916', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11287555', 'Inter My Way', '', '', 'http://www.wikidata.org/entity/Q11324558', 'Nippo Teio', '1990', '', 'male organism']

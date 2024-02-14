@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66504176', 'Larissa', 'http://www.wikidata.org/entity/Q66504184', 'Delia I', 'http://www.wikidata.org/entity/Q66504180', 'Coronado', '1996', '', 'female organism']

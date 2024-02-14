@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7357442', 'Rodrigo de Triano', '', '', 'http://www.wikidata.org/entity/Q5351334', 'El Gran Senor', '1989', '2014', 'male organism']

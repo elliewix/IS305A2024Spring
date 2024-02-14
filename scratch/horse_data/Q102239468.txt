@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239468', 'Burning Dream', '', '', '', '', '1942', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48817564', 'Our Lassie', 'http://www.wikidata.org/entity/Q63980379', 'Yours', 'http://www.wikidata.org/entity/Q4831676', 'Ayrshire', '1900', '', 'female organism']

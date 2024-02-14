@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330510', 'Victory Up', '', '', 'http://www.wikidata.org/entity/Q11283161', 'Assatis', '1993', '', 'male organism']

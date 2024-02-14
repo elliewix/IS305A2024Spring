@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319083', 'テイエムトッパズレ', '', '', 'http://www.wikidata.org/entity/Q11319077', 'T M Opera O', '2003', '', 'male organism']

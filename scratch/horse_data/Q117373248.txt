@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117373248', 'Confederate', 'http://www.wikidata.org/entity/Q117373398', 'Maritornes', 'http://www.wikidata.org/entity/Q61988007', 'Comus', '1821', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7548260', 'Snow Knight', 'http://www.wikidata.org/entity/Q61998778', 'Snow Blossom', 'http://www.wikidata.org/entity/Q61998657', 'Firestreak', '1971', '', 'male organism']

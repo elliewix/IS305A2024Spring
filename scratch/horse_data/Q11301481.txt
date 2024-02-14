@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301481', 'Gay Mecene', '', '', 'http://www.wikidata.org/entity/Q3553272', 'Vaguely Noble', '1975', '1998', 'male organism']

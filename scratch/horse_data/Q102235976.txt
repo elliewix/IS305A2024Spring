@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235976', 'Apollo', '', '', '', '', '1879', '', 'male organism']

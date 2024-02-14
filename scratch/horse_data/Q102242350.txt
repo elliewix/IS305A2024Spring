@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242350', 'Valiant Nature', '', '', '', '', '1991', '', 'male organism']

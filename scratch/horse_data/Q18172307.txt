@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18172307', 'Mukhadram', '', '', 'http://www.wikidata.org/entity/Q7487429', 'Shamardal', '2009', '', 'male organism']

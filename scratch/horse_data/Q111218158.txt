@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111218158', 'A Shin Click', 'http://www.wikidata.org/entity/Q112735675', 'Eishin Sansan', 'http://www.wikidata.org/entity/Q11349271', 'Rulership', '2014', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28768592', 'Cigale du Taillis', 'http://www.wikidata.org/entity/Q115165775', 'Pizzicati', 'http://www.wikidata.org/entity/Q1679759', 'Jalisco B', '1990', '2008', 'female organism']

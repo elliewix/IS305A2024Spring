@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286543', 'Ishino Arashi', '', '', '', '', '1972', '', 'male organism']

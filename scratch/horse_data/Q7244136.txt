@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7244136', 'Prince Leopold', 'http://www.wikidata.org/entity/Q61998417', 'Gramarie', 'http://www.wikidata.org/entity/Q61998396', 'Hedley', '1813', '', 'male organism']

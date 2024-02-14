@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384863', 'Halls Arabian', '', '', '', '', '1715', '', 'male organism']

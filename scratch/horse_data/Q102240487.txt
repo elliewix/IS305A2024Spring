@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240487', 'Lee Town', '', '', '', '', '1959', '', 'male organism']

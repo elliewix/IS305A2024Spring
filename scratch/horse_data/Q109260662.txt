@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260662', 'Trust', '', '', '', '', '', '', '']

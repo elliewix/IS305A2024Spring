@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330006', 'ヒシスピード', '', '', 'http://www.wikidata.org/entity/Q11330011', 'ヒシマサヒデ', '1974', '', 'male organism']

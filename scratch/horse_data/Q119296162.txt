@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119296162', 'Lavater', '', '', 'http://www.wikidata.org/entity/Q119296212', 'Champeaux', '1886', '', 'male organism']

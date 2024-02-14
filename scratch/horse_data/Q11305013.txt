@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305013', 'Subject', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2005', '', 'male organism']

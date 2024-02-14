@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123514295', 'Natte', 'http://www.wikidata.org/entity/Q123514481', 'Nathalie', 'http://www.wikidata.org/entity/Q123514463', 'Kephir', '1947', '', 'female organism']

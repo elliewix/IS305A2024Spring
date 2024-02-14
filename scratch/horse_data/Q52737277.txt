@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52737277', 'Jornac', '', '', 'http://www.wikidata.org/entity/Q3074614', 'Flying Fox', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7178293', 'Peteski', '', '', 'http://www.wikidata.org/entity/Q2099366', 'Affirmed', '1990', '', 'male organism']

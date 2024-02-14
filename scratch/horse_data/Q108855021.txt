@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108855021', 'Young Topper mare', 'http://www.wikidata.org/entity/Q108899302', 'Cleveland mare', 'http://www.wikidata.org/entity/Q108855027', 'Young Topper', '1820', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5170682', 'Corinthian', '', '', 'http://www.wikidata.org/entity/Q7259595', 'Pulpit', '2003', '', 'male organism']

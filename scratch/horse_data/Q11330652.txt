@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330652', 'Bizen Nishiki', '', '', 'http://www.wikidata.org/entity/Q11317526', 'Dandy Lute', '1981', '1999', 'male organism']

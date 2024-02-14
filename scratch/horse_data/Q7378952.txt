@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7378952', 'Rule of Law', '', '', 'http://www.wikidata.org/entity/Q3197083', 'Kingmambo', '2001', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5601802', 'Greek Money', '', '', '', '', '1959', '', 'male organism']

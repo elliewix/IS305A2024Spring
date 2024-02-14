@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5167289', 'Cool Dawn', '', '', '', '', '1988', '', '']

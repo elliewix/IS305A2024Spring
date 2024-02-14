@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11290025', 'Escape Hatch', '', '', 'http://www.wikidata.org/entity/Q11342022', 'ミスタージヨージ', '2000', '', 'male organism']

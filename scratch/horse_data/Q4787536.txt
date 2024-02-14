@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4787536', 'Arctic Prince', '', '', '', '', '1948', '', 'male organism']

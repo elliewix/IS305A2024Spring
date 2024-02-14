@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308589', 'Shinko Lovely', '', '', 'http://www.wikidata.org/entity/Q2932844', 'Caerleon', '1989', '2011', 'female organism']

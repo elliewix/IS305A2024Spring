@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071687', 'Lady Josephine', 'http://www.wikidata.org/entity/Q55071730', 'Americus Girl', 'http://www.wikidata.org/entity/Q11305872', 'Sundridge', '1912', '', 'female organism']

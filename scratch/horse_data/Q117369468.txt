@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369468', 'Cullen Arabian mare', 'http://www.wikidata.org/entity/Q117369548', 'Miss Cade', 'http://www.wikidata.org/entity/Q117369494', 'Cullen Arabian', '1756', '', 'female organism']

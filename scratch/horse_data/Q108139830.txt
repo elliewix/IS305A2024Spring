@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108139830', 'Jokinal de Bornival', 'http://www.wikidata.org/entity/Q108139992', 'Lady Wokina', 'http://www.wikidata.org/entity/Q2649831', 'Alme', '1986', '', 'male organism']

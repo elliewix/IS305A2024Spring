@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62014622', 'Gilded Wave', '', '', 'http://www.wikidata.org/entity/Q5518861', 'Gallant Fox', '1938', '', 'female organism']

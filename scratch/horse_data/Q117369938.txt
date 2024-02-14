@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369938', 'Amazon', 'http://www.wikidata.org/entity/Q117369989', 'Grace Darling', 'http://www.wikidata.org/entity/Q7828730', 'Touchstone', '1850', '', 'female organism']

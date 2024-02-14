@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52319651', 'Blast Onepiece', '', '', 'http://www.wikidata.org/entity/Q5654487', 'Harbinger', '2015', '', 'male organism']

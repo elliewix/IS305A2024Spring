@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10457170', 'Colombian Necktie', '', '', '', '', '2002', '', '']

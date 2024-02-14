@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108858858', 'W. Burgess Fireaway', '', '', '', '', '1844', '', 'male organism']

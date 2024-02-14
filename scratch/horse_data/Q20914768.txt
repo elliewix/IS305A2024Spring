@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20914768', 'Jokivarren Kunkku', '', '', '', '', '2008', '', 'male organism']

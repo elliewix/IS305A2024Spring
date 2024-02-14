@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q74127406', 'Vow And Declare', '', '', '', '', '', '', 'male organism']

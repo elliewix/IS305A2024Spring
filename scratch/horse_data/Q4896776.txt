@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4896776', 'Best Pal', '', '', '', '', '1988', '', 'male organism']

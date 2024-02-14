@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8065632', 'Zamazaan', '', '', 'http://www.wikidata.org/entity/Q5419348', 'Exbury', '1965', '', 'male organism']

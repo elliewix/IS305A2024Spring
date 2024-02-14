@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107194741', 'Järvsö Anna', '', '', '', '', '1988', '2017', '']

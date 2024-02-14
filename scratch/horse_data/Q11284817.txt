@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11284817', 'Apollo Dolce', '', '', 'http://www.wikidata.org/entity/Q11292216', 'Officer', '2005', '', 'male organism']

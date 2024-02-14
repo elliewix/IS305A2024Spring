@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978473', 'Gambetta', '', '', 'http://www.wikidata.org/entity/Q6944949', 'My Babu', '', '', 'female organism']

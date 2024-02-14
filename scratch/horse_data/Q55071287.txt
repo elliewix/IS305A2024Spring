@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071287', 'Personable Lady', 'http://www.wikidata.org/entity/Q55071293', 'Porthole', 'http://www.wikidata.org/entity/Q7044914', 'No Robbery', '1981', '', 'female organism']

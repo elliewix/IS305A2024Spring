@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61988066', 'Rally', 'http://www.wikidata.org/entity/Q62027348', 'Fancy', 'http://www.wikidata.org/entity/Q11321911', 'Trumpator', '1790', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115284335', 'Goldi', '', '', 'http://www.wikidata.org/entity/Q115285799', 'Goya', '1976', '', 'female organism']

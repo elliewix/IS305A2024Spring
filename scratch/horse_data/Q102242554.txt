@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242554', 'Impeachment', '', '', '', '', '1997', '', 'male organism']

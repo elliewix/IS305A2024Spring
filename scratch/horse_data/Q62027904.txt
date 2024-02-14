@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027904', 'Manilla', 'http://www.wikidata.org/entity/Q62027906', 'Old England mare', 'http://www.wikidata.org/entity/Q11303946', 'Goldfinder', '1777', '', 'female organism']

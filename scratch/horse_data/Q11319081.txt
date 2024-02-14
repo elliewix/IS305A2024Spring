@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319081', 'テイエムジャンボ', '', '', 'http://www.wikidata.org/entity/Q11299199', 'Crystal Glitters', '1991', '', 'male organism']

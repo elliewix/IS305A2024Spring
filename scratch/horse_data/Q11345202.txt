@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345202', 'Yamanin Appeal', '', '', 'http://www.wikidata.org/entity/Q11314922', 'Zeddaan', '1983', '', 'male organism']

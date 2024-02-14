@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316323', 'Tamayuz', '', '', 'http://www.wikidata.org/entity/Q6983136', 'Nayef', '2005', '', 'male organism']

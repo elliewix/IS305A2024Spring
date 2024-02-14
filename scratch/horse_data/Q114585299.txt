@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114585299', 'Meikei Pega Star', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2010', '2016', 'male organism']

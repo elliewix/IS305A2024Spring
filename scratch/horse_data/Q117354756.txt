@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354756', 'Duc de Chartres Hawker mare', '', '', 'http://www.wikidata.org/entity/Q117354761', 'Chartres Hawker', '1690', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4699589', 'Ajax', 'http://www.wikidata.org/entity/Q111344408', 'Amie', 'http://www.wikidata.org/entity/Q3074614', 'Flying Fox', '1901', '', 'male organism']

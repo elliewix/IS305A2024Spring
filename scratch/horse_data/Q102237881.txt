@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237881', 'Almadel', '', '', '', '', '1922', '', 'male organism']

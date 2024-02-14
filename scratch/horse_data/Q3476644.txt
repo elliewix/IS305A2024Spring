@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3476644', 'Sea Bird', '', '', '', '', '1962', '', 'male organism']

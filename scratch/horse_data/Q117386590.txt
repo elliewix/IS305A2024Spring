@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117386590', 'Othello', 'http://www.wikidata.org/entity/Q117386715', "Somerset's Favorite", 'http://www.wikidata.org/entity/Q5954159', 'Crab', '1746', '', 'male organism']

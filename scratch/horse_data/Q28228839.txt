@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28228839', 'Jacobus', '', '', '', '', '1880', '', '']

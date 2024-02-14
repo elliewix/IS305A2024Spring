@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11332208', 'ファンシミン', '', '', '', '', '1967', '', 'female organism']

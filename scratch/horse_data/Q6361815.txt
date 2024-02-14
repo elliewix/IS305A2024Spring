@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6361815', 'Kane Hekili', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2002', '2016', 'male organism']

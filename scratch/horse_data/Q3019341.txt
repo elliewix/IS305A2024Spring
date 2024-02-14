@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3019341', 'Daylami', '', '', 'http://www.wikidata.org/entity/Q5303807', 'Doyoun', '1994', '', 'male organism']

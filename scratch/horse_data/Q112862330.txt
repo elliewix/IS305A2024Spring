@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112862330', 'Asvel', '', '', 'http://www.wikidata.org/entity/Q11296343', 'Gallon', '1923', '', 'female organism']

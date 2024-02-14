@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111797685', 'Tanino Create', '', '', '', '', '1992', '', 'male organism']

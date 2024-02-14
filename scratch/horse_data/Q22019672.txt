@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22019672', 'Lalabel', '', '', 'http://www.wikidata.org/entity/Q11303924', 'Gold Allure', '2012', '', 'female organism']

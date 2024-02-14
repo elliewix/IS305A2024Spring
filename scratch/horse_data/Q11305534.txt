@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305534', 'サンクリント', '', '', '', '', '2000', '', 'male organism']

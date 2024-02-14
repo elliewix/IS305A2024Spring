@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997089', 'Wisdom', 'http://www.wikidata.org/entity/Q61997138', 'Aline', 'http://www.wikidata.org/entity/Q61997132', 'Blinkhoolie', '1873', '', 'male organism']

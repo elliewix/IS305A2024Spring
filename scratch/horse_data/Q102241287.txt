@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241287', 'Fashion Sale', '', '', '', '', '1972', '', 'male organism']

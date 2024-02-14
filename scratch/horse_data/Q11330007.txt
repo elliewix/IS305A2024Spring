@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330007', 'Hishi Amazon', 'http://www.wikidata.org/entity/Q11301026', 'Katies', 'http://www.wikidata.org/entity/Q7777558', 'Theatrical', '1991', '2019', 'female organism']

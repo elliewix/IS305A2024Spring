@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384003', "King o' Scots", 'http://www.wikidata.org/entity/Q117384009', 'Katherine Logie', 'http://www.wikidata.org/entity/Q6412111', 'King Tom', '1867', '', 'male organism']

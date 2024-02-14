@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358530', 'Gold Bridge', 'http://www.wikidata.org/entity/Q117384156', 'Flying Diadem', 'http://www.wikidata.org/entity/Q117358544', 'Golden Boss', '1929', '', 'male organism']

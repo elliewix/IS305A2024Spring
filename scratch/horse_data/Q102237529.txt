@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237529', 'Bo McMillan', '', '', '', '', '1920', '', 'male organism']

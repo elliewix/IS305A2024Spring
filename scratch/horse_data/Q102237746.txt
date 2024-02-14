@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237746', 'Captain Hal', '', '', '', '', '1922', '', 'male organism']

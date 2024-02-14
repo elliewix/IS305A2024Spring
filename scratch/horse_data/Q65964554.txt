@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65964554', 'Emeraude Rouge', 'http://www.wikidata.org/entity/Q108148440', 'Ramona la Rouge', 'http://www.wikidata.org/entity/Q65964569', 'Qredo de Paulstra', '1992', '2008', 'female organism']

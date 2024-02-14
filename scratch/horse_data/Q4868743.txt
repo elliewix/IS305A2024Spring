@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4868743', 'Bateau', '', '', 'http://www.wikidata.org/entity/Q114218', "Man o' War", '1925', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96483402', 'Crocus', 'http://www.wikidata.org/entity/Q108858841', 'Fire Phenomenon', 'http://www.wikidata.org/entity/Q108858849', "Hood's Fireaway", '1858', '', 'male organism']

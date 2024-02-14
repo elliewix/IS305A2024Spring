@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6148589', 'Viva Pataca', '', '', 'http://www.wikidata.org/entity/Q6766369', 'Marju', '2002', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384797', 'Stanyan mare', 'http://www.wikidata.org/entity/Q117384820', 'Gipsy', 'http://www.wikidata.org/entity/Q117384799', 'Stanyan Arabian', '1725', '', 'female organism']

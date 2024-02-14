@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5299514', 'Dotties Pick', '', '', '', '', '1952', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343349', 'メイショウオウドウ', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1995', '', 'male organism']

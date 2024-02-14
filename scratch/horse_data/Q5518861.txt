@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5518861', 'Gallant Fox', 'http://www.wikidata.org/entity/Q62014628', 'Marguerite', 'http://www.wikidata.org/entity/Q4252720', 'Sir Gallahad', '1927', '1953', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237372', 'Letterman', '', '', '', '', '1919', '', 'male organism']

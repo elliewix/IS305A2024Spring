@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q54957768', 'Cambuscan', '', '', 'http://www.wikidata.org/entity/Q11324950', 'Newminster', '1861', '', 'male organism']

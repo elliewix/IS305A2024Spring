@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122189566', 'Frosine 46195', '', '', '', '', '', '', 'female organism']

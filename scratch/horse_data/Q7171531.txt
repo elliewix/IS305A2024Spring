@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7171531', 'Pet Bully', '', '', '', '', '1948', '', 'male organism']

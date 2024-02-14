@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16835533', 'Australia', 'http://www.wikidata.org/entity/Q3358137', 'Ouija Board', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2011', '', 'male organism']

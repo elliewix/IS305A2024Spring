@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242362', 'Eltish', '', '', '', '', '1992', '', 'male organism']

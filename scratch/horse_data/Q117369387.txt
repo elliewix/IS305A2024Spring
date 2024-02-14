@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369387', 'Drowsy', 'http://www.wikidata.org/entity/Q62027906', 'Old England mare', 'http://www.wikidata.org/entity/Q62022527', 'Drone', '1790', '', 'female organism']

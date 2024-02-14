@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358714', 'Basto mare', 'http://www.wikidata.org/entity/Q117358718', 'Makeless mare', 'http://www.wikidata.org/entity/Q11327706', 'Basto', '1715', '', 'female organism']

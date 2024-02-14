@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994150', 'Santoi', 'http://www.wikidata.org/entity/Q61994155', 'Merry Wife', 'http://www.wikidata.org/entity/Q61994152', "Queen's Birthday", '1903', '', 'male organism']

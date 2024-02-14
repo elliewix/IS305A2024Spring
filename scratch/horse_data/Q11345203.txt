@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345203', 'ヤマニンアラバスタ', '', '', 'http://www.wikidata.org/entity/Q5579708', 'Golden Pheasant', '2001', '2013', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347074', 'ラッキーゲラン', '', '', 'http://www.wikidata.org/entity/Q11347077', 'Lucky Soverign', '1986', '', 'male organism']

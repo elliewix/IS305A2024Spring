@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116960398', 'Kamehameha', '', '', '', '', '2020', '', '']

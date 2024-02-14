@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322359', 'トーセンキャプテン', 'http://www.wikidata.org/entity/Q11305776', 'Sunday Picnic', 'http://www.wikidata.org/entity/Q11310148', 'Jungle Pocket', '2004', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117368750', 'Bedlamite', 'http://www.wikidata.org/entity/Q87755934', 'Maniac', 'http://www.wikidata.org/entity/Q117368810', 'Welbeck', '1823', '', 'male organism']

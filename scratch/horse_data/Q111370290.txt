@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111370290', 'Constant', '', '', 'http://www.wikidata.org/entity/Q1131753', 'Cor de la Bryere', '1972', '', 'male organism']

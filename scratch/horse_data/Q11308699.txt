@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308699', 'Symboli Indy', '', '', 'http://www.wikidata.org/entity/Q1968208', 'A.P. Indy', '1996', '2001', 'male organism']

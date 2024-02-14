@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106681388', 'Medina Spirit', 'http://www.wikidata.org/entity/Q106715558', 'Mongolian Changa', 'http://www.wikidata.org/entity/Q107002488', 'Protonico', '2018', '2021', 'male organism']

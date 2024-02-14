@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108570395', 'Jordi', 'http://www.wikidata.org/entity/Q108570528', '139 Demeter', 'http://www.wikidata.org/entity/Q108570482', '532 Shagya X-3', '1928', '', 'female organism']

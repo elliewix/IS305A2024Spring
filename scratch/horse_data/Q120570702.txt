@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120570702', 'Quenza du Manoir', '', '', 'http://www.wikidata.org/entity/Q120490073', 'Czar of Livingstone Valley', '2004', '', 'female organism']

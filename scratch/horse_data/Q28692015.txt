@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28692015', 'All Blush', '', '', 'http://www.wikidata.org/entity/Q7968431', 'War Emblem', '2012', '', 'male organism']

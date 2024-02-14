@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315983', 'タカラスチール', '', '', 'http://www.wikidata.org/entity/Q11312238', 'Steel Heart', '1982', '1992', 'female organism']

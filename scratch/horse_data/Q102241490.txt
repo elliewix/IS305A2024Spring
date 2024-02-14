@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241490', "Bold 'n Rulling", '', '', '', '', '1977', '', 'male organism']

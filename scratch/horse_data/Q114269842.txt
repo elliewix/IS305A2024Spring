@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114269842', 'Cool Hotarubi', '', '', 'http://www.wikidata.org/entity/Q11340626', 'Matsurida Gogh', '2012', '2022', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62011410', 'Admiral Drake', 'http://www.wikidata.org/entity/Q7205228', 'Plucky Liege', 'http://www.wikidata.org/entity/Q55608516', 'Craig an Eran', '1931', '', 'male organism']

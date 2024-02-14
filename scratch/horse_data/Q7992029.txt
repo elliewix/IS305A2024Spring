@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7992029', 'Wheel of Fortune', 'http://www.wikidata.org/entity/Q87758099', 'Queen Bertha', 'http://www.wikidata.org/entity/Q64011858', 'Adventurer', '1876', '', 'female organism']

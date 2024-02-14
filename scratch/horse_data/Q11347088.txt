@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347088', 'Lucky Ruler', 'http://www.wikidata.org/entity/Q11322357', 'Toast', '', '', '1974', '', 'male organism']

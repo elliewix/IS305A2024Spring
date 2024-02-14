@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105669684', 'Efforia', '', '', 'http://www.wikidata.org/entity/Q11290535', 'Epiphaneia', '2018', '', 'male organism']

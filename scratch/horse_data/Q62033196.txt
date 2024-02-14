@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033196', 'Trentham mare', 'http://www.wikidata.org/entity/Q62033198', 'December', 'http://www.wikidata.org/entity/Q62022926', 'Trentham', '', '', 'female organism']

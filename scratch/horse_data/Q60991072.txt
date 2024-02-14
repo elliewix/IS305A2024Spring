@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60991072', 'Figlia Pura', '', '', 'http://www.wikidata.org/entity/Q5654487', 'Harbinger', '2016', '', 'female organism']

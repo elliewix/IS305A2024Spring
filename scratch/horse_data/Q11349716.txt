@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349716', "Let's Go Kirishima", '', '', 'http://www.wikidata.org/entity/Q11343621', 'Mejiro Ryan', '2005', '', 'male organism']

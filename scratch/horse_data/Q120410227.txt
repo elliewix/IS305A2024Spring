@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120410227', "Patrick's Princess", '', '', 'http://www.wikidata.org/entity/Q120410843', "Patrick's  King", '', '', 'female organism']

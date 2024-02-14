@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028701', 'sister to Hoity Toity', 'http://www.wikidata.org/entity/Q62028814', 'Goldfinder mare', 'http://www.wikidata.org/entity/Q915971', 'Highflyer', '1788', '', 'female organism']

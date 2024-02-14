@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311371', 'Sugano Oji', '', '', 'http://www.wikidata.org/entity/Q11304517', 'Sakura Toko', '1991', '2005', 'male organism']

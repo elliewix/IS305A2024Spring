@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308702', 'シンボリモントルー', '', '', 'http://www.wikidata.org/entity/Q11344265', 'Mogami', '1985', '', 'male organism']

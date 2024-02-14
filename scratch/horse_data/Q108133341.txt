@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108133341', 'Drina', 'http://www.wikidata.org/entity/Q111317636', 'Alsterpalme', 'http://www.wikidata.org/entity/Q111317613', 'Domspatz', '1970', '', 'female organism']

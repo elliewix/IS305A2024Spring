@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969101', 'Successful Dancer', '', '', '', '', '1989', '', 'female organism']

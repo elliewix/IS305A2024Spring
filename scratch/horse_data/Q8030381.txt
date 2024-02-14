@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8030381', 'Wollow', '', '', '', '', '1973', '', 'male organism']

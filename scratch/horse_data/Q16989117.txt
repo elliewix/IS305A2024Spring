@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16989117', 'Kingman', 'http://www.wikidata.org/entity/Q8069027', 'Zenda', 'http://www.wikidata.org/entity/Q11287797', 'Invincible Spirit', '2011', '', 'male organism']

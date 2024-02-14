@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7232999', 'Poseidon', '', '', '', '', '1903', '', 'male organism']

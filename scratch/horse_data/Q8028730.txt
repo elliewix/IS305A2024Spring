@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8028730', 'Wizard', '', '', 'http://www.wikidata.org/entity/Q7563356', 'Sorcerer', '1806', '', 'male organism']

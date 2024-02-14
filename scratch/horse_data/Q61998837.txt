@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998837', 'Jacinto', 'http://www.wikidata.org/entity/Q61998850', 'Cascade', 'http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', '1962', '', 'male organism']

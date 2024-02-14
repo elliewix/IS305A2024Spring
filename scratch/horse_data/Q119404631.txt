@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119404631', 'Miss Karen Degas', '', '', 'http://www.wikidata.org/entity/Q119404772', 'Rem Degas', '1957', '', 'female organism']

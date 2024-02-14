@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11344757', 'モンテファスト', '', '', 'http://www.wikidata.org/entity/Q11308892', 'Sea Hawk', '1978', '2010', 'male organism']

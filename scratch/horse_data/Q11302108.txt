@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11302108', 'Cosmo Sunbeam', '', '', 'http://www.wikidata.org/entity/Q11306348', 'Zagreb', '2001', '2006', 'male organism']

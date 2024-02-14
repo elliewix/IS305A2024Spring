@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242772', "Don't Get Mad", '', '', '', '', '2002', '', 'male organism']

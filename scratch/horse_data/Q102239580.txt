@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239580', 'Marine Victory', '', '', '', '', '1943', '', 'male organism']

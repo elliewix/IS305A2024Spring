@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239768', 'On the Mark', '', '', '', '', '1947', '', 'male organism']

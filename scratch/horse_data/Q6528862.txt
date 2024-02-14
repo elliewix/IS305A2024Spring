@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6528862', 'Leroidesanimaux', '', '', 'http://www.wikidata.org/entity/Q5032144', 'Candy Stripes', '2000', '2016', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7922739', 'Vert Amande', '', '', '', '', '1988', '', 'male organism']

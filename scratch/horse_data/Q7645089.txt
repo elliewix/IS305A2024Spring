@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7645089', 'Supreme Rock', '', '', '', '', '1988', '2013', 'male organism']

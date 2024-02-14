@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4856485', 'Banks Hill', 'http://www.wikidata.org/entity/Q3128095', 'Hasili', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '1998', '', 'female organism']

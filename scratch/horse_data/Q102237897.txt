@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237897', 'The Bat', '', '', '', '', '1922', '', 'male organism']

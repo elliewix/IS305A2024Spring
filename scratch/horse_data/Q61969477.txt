@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969477', 'Banter', 'http://www.wikidata.org/entity/Q61993756', 'Boadicea', 'http://www.wikidata.org/entity/Q61969510', 'Master Henry', '1826', '', 'female organism']

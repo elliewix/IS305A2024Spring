@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7493187', 'Sheilas Reward', '', '', '', '', '1947', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66505487', 'Mr. Blue', '', '', '', '', '1988', '2006', 'male organism']

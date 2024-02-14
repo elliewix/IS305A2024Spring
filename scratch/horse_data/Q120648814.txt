@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120648814', 'Tillie Degas', '', '', 'http://www.wikidata.org/entity/Q119362043', 'Don Degas', '1937', '', 'female organism']

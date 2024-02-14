@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6031304', 'Informed Decision', '', '', 'http://www.wikidata.org/entity/Q6898052', 'Monarchos', '2005', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5092417', 'Cherry Lass', '', '', 'http://www.wikidata.org/entity/Q11282151', 'Isinglass', '1902', '', 'female organism']

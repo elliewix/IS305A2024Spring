@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316557', 'ターター', '', '', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3485331', 'Sissi de la Lande III', 'http://www.wikidata.org/entity/Q111325677', 'Otesse', 'http://www.wikidata.org/entity/Q76007046', 'Histrion', '1984', '', 'female organism']

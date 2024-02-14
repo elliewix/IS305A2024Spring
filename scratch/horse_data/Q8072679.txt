@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8072679', 'Zippy Chippy', '', '', '', '', '1991', '2022', 'male organism']

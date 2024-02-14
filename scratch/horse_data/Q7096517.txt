@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7096517', 'Opening Verse', '', '', 'http://www.wikidata.org/entity/Q7751596', 'The Minstrel', '1986', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7378670', 'Ruhlmann', '', '', '', '', '1985', '2008', 'male organism']

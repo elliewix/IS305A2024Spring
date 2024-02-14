@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q110739598', 'Christopher Vance', '', '', '', '', '', '', 'male organism']

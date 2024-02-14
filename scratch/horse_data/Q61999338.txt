@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61999338', 'Selim mare', 'http://www.wikidata.org/entity/Q61999356', 'Maiden', 'http://www.wikidata.org/entity/Q7448391', 'Selim', '1812', '', 'female organism']

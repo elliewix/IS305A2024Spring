@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11902965', 'Karuso', '', '', '', '', '1993', '', '']

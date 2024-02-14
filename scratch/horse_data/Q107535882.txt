@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107535882', 'Winver', 'http://www.wikidata.org/entity/Q107535878', 'Windsor Lady', 'http://www.wikidata.org/entity/Q107535876', 'Vertex', '1972', '', 'female organism']

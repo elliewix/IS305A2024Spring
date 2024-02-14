@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24260839', 'Hello Gorgeous', '', '', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1977', '', '']

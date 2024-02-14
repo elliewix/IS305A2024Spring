@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283196', 'Asahoko', '', '', 'http://www.wikidata.org/entity/Q11329960', 'Hikaru Meiji', '1960', '', 'male organism']

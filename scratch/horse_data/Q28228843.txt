@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28228843', 'Saunterer', '', '', 'http://www.wikidata.org/entity/Q6509406', 'Leamington', '1878', '', '']

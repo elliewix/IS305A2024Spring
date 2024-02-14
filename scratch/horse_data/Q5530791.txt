@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5530791', 'Gen. Duke', 'http://www.wikidata.org/entity/Q8027754', 'Wistful', 'http://www.wikidata.org/entity/Q4996587', 'Bull Lea', '1954', '', 'male organism']

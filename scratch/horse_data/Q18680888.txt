@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18680888', 'Murto', '', '', '', '', '', '', 'male organism']

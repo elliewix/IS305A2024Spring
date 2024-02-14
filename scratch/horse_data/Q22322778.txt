@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22322778', 'Var Vella', '', '', '', '', '1965', '', 'male organism']

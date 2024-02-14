@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321221', 'トチノミネフジ', '', '', '', '', '1990', '1996', 'male organism']

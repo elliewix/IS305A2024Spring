@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7637732', 'Summing', '', '', 'http://www.wikidata.org/entity/Q61994233', 'Verbatim', '1978', '', 'male organism']

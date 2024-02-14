@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11346713', 'ラグビーボール', '', '', 'http://www.wikidata.org/entity/Q7024658', 'Nice Dancer', '1983', '1997', 'male organism']

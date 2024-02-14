@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q69111907', 'Power', '', '', '', '', '2016', '', '']

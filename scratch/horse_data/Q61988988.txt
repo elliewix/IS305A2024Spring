@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61988988', 'Tuberose', 'http://www.wikidata.org/entity/Q62036381', 'Grey Starling', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1772', '', 'female organism']

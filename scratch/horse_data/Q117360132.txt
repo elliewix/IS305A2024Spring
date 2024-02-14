@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360132', "Wastell's Turk mare", 'http://www.wikidata.org/entity/Q117360192', 'Blacklegs mare', 'http://www.wikidata.org/entity/Q117360185', "Wastell's Turk", '1703', '', 'female organism']

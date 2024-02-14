@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1203752', 'Eclipse', 'http://www.wikidata.org/entity/Q7577285', 'Spilletta', 'http://www.wikidata.org/entity/Q3081024', 'Marske', '1764', '1789', 'male organism']

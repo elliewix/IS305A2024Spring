@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11298647', 'Kushiro King', '', '', 'http://www.wikidata.org/entity/Q5272127', 'Diatome', '1982', '', 'male organism']

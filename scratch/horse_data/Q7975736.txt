@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7975736', 'Waxy', 'http://www.wikidata.org/entity/Q61987472', 'Maria', 'http://www.wikidata.org/entity/Q7235103', 'Potoooooooo', '1790', '1818', 'male organism']

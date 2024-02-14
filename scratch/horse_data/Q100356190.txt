@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100356190', 'Le Loup Garou', '', '', 'http://www.wikidata.org/entity/Q17361607', 'Prince Bio', '1956', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6502209', 'Lava Man', '', '', '', '', '2001', '', 'male organism']

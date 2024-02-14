@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18379729', 'Wild Man From Borneo', '', '', '', '', '1888', '', '']

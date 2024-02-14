@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118114230', 'Ardent 141', '', '', 'http://www.wikidata.org/entity/Q117748161', 'Brilliant 755', '1881', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119417147', 'Koncarness', 'http://www.wikidata.org/entity/Q119418545', 'Carchepet', 'http://www.wikidata.org/entity/Q119521054', 'Kontact', '1918', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120599419', 'Pegasus', 'http://www.wikidata.org/entity/Q120599439', 'Peggys Pride', 'http://www.wikidata.org/entity/Q117923999', 'South Valley did-it', '1985', '', 'male organism']

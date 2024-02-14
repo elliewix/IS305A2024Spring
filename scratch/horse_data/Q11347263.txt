@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347263', 'ラフドゥード', '', '', 'http://www.wikidata.org/entity/Q7524216', 'Singspiel', '2003', '', 'female organism']

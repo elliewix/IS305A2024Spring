@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239682', 'Model Cadet', '', '', 'http://www.wikidata.org/entity/Q102239315', 'Requested', '1946', '', 'male organism']

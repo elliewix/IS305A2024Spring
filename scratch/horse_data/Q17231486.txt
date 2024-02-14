@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17231486', 'アルコセニョーラ', '', '', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2004', '', 'female organism']

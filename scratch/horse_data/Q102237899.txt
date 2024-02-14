@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237899', 'Lee O. Cotner', '', '', '', '', '1922', '', 'male organism']

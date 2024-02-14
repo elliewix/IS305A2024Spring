@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17225145', 'ミナミモア', '', '', 'http://www.wikidata.org/entity/Q11306904', 'Shian Mor', '1938', '', 'male organism']

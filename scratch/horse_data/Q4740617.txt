@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4740617', 'Amato', 'http://www.wikidata.org/entity/Q62027727', 'Jane Shaw', 'http://www.wikidata.org/entity/Q7919270', 'Velocipede', '1835', '1841', 'male organism']

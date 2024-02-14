@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027979', 'sister to Contest', 'http://www.wikidata.org/entity/Q62027981', 'Naylor', 'http://www.wikidata.org/entity/Q4925119', 'Blank', '1762', '', 'female organism']

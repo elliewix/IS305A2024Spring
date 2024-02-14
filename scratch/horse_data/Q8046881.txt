@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8046881', 'Yahoo', '', '', '', '', '1981', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006492', 'Felicitation', '', '', 'http://www.wikidata.org/entity/Q5148692', 'Colorado', '1930', '', 'male organism']

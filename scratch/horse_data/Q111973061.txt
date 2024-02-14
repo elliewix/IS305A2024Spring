@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111973061', 'Medicine Woman', '', '', '', '', '', '2021', 'female organism']

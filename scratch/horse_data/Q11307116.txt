@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11307116', 'シゲルホームラン', '', '', '', '', '1990', '', 'male organism']

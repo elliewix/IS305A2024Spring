@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61570867', 'Amour Briller', 'http://www.wikidata.org/entity/Q11336735', 'ヘヴンリーロマンス', 'http://www.wikidata.org/entity/Q6145306', 'Smart Strike', '2011', '', 'female organism']

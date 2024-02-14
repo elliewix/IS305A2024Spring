@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994101', 'Lucy', 'http://www.wikidata.org/entity/Q61994106', 'Frenzy', 'http://www.wikidata.org/entity/Q166541', 'Florizel', '1789', '', 'female organism']

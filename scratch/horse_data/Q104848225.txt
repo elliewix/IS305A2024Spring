@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104848225', 'Buckaroo', 'http://www.wikidata.org/entity/Q107545102', 'Stepping High', 'http://www.wikidata.org/entity/Q4983454', 'Buckpasser', '1975', '', 'male organism']

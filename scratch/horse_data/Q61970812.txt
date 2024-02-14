@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970812', 'Sequins', '', '', 'http://www.wikidata.org/entity/Q61970818', 'Northern Fashion', '1987', '', 'female organism']

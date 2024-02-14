@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116759053', 'Astara', 'http://www.wikidata.org/entity/Q116759150', 'Otasja', 'http://www.wikidata.org/entity/Q114987630', 'Farn', '1982', '', 'female organism']

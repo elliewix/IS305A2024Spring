@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96241594', 'Barrabas', 'http://www.wikidata.org/entity/Q96313151', 'Fleur de mai', 'http://www.wikidata.org/entity/Q96313137', 'Jactator', '1879', '', 'male organism']

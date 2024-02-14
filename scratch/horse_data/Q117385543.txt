@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117385543', 'Fox mare', 'http://www.wikidata.org/entity/Q117385774', 'Bald Galloway mare', 'http://www.wikidata.org/entity/Q62033435', 'Fox', '1730', '', 'female organism']

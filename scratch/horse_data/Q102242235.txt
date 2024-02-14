@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242235', 'Technology', '', '', 'http://www.wikidata.org/entity/Q113903653', 'Time for a Change', '1989', '', 'male organism']

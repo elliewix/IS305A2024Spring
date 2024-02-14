@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q97156820', 'Lys de Darmen', 'http://www.wikidata.org/entity/Q115022802', 'Darmen', 'http://www.wikidata.org/entity/Q111325691', 'Et Hop', '1977', '', 'male organism']

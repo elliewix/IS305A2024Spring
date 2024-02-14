@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241151', 'Royal and Regal', '', '', '', '', '1970', '', 'male organism']

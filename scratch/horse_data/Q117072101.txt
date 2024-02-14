@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117072101', 'Akim du Cap Vert', '', '', '', '', '2010', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17361614', 'ヒロサクラ', '', '', 'http://www.wikidata.org/entity/Q11316729', 'Diolite', '1940', '', 'male organism']

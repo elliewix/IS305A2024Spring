@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108337173', 'Gamine', '', '', 'http://www.wikidata.org/entity/Q22329688', 'Jus de Pomme', '1950', '', 'female organism']

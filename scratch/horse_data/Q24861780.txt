@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24861780', 'Smart Odin', '', '', 'http://www.wikidata.org/entity/Q11317238', 'Danon Chantilly', '2013', '', 'male organism']

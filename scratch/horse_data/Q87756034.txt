@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87756034', 'Champion', 'http://www.wikidata.org/entity/Q87756134', 'Podagra', 'http://www.wikidata.org/entity/Q7448391', 'Selim', '1812', '', 'male organism']

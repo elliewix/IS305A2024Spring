@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978865', 'Golden Locks', '', '', 'http://www.wikidata.org/entity/Q61978867', 'Delpini', '1793', '', 'female organism']

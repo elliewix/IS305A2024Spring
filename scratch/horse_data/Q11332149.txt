@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11332149', 'Faridat', 'http://www.wikidata.org/entity/Q11330997', 'Believe', 'http://www.wikidata.org/entity/Q3197083', 'Kingmambo', '2005', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5283060', 'Distorted Humor', '', '', 'http://www.wikidata.org/entity/Q5472988', 'Forty Niner', '1993', '', 'male organism']

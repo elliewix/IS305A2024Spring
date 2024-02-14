@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11855462', 'Com Karat', '', '', '', '', '', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111797129', 'Soul Rush', '', '', 'http://www.wikidata.org/entity/Q11349271', 'Rulership', '2018', '', 'male organism']

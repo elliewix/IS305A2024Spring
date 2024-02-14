@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18680885', 'Mokomani', '', '', '', '', '2003', '', '']

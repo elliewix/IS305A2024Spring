@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382877', 'Regulus mare', 'http://www.wikidata.org/entity/Q117382888', "sister to Hartley's Roan stallion", 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1753', '', 'female organism']

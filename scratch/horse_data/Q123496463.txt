@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123496463', 'Perseus', 'http://www.wikidata.org/entity/Q123496499', 'Adria', '', '', '1959', '', 'male organism']

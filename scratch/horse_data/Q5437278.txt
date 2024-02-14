@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5437278', 'Fatal Bullet', '', '', 'http://www.wikidata.org/entity/Q7303822', 'Red Bullet', '2005', '', '']

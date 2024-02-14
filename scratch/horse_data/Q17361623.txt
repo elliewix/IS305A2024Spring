@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17361623', 'Tehran', 'http://www.wikidata.org/entity/Q61999000', 'Stafaralla', 'http://www.wikidata.org/entity/Q4938426', 'Bois Roussel', '1941', '', 'male organism']

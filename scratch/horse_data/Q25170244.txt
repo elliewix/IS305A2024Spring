@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25170244', 'Habat', '', '', 'http://www.wikidata.org/entity/Q11326627', 'Habitat', '1971', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25172058', 'Creator', 'http://www.wikidata.org/entity/Q61994221', 'Morena', 'http://www.wikidata.org/entity/Q16953076', 'Tapit', '2013', '', 'male organism']

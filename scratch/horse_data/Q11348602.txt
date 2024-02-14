@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348602', 'リンカーン', 'http://www.wikidata.org/entity/Q11300768', 'Grace Admire', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '2000', '', 'male organism']

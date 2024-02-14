@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96419350', 'Sicótico', '', '', '', '', '', '', '']

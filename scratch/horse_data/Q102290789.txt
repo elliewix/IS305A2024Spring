@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290789', 'Optimizer', '', '', '', '', '2009', '', 'male organism']

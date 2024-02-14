@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321082', 'Tokai Teio', '', '', 'http://www.wikidata.org/entity/Q11308703', 'Symboli Rudolf', '1988', '2013', 'male organism']

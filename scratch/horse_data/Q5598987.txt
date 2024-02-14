@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5598987', 'Great Communicator', '', '', '', '', '1983', '', 'male organism']

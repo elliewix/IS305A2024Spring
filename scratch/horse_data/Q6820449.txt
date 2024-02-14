@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6820449', 'Merry Hampton', 'http://www.wikidata.org/entity/Q61994029', 'Doll Tearsheet', 'http://www.wikidata.org/entity/Q5646159', 'Hampton', '1884', '', 'male organism']

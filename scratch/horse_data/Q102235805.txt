@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235805', 'Lizzie Stone', '', '', '', '', '1873', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993970', 'Wowski', 'http://www.wikidata.org/entity/Q61987472', 'Maria', 'http://www.wikidata.org/entity/Q61993973', 'Mentor', '1797', '', 'female organism']

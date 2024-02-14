@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1026643', 'Caletto II', 'http://www.wikidata.org/entity/Q108199296', 'Deka', 'http://www.wikidata.org/entity/Q1131753', 'Cor de la Bryere', '1978', '1984', 'male organism']

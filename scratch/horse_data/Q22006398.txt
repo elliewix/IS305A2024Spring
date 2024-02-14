@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006398', 'Gleneagles', '', '', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2012', '', 'male organism']

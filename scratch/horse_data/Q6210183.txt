@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6210183', 'Joe Hancock', '', '', '', '', '1926', '', '']

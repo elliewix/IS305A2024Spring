@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4741133', 'Ambassador of Luck', '', '', '', '', '1979', '', 'female organism']

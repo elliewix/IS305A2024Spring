@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301225', 'ケルトス', '', '', 'http://www.wikidata.org/entity/Q11301313', 'Kendor', '1998', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7573112', 'Spaniel', '', '', 'http://www.wikidata.org/entity/Q11251240', 'Whalebone', '1828', '', 'male organism']

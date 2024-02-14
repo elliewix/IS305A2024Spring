@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028920', 'Miss Cape', 'http://www.wikidata.org/entity/Q62028921', 'Black Eyes', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1758', '', 'female organism']

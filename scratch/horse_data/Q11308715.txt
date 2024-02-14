@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308715', 'Shimmoedake', '', '', 'http://www.wikidata.org/entity/Q11307511', 'シプリアニ', '1969', '', 'female organism']

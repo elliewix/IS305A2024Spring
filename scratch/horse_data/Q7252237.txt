@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7252237', 'Proud Truth', '', '', 'http://www.wikidata.org/entity/Q5597761', 'Graustark', '1982', '', 'male organism']

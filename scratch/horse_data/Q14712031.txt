@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q14712031', 'Black Jack', '', '', '', '', '', '', 'male organism']

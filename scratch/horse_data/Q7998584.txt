@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7998584', 'Wide Country', '', '', '', '', '1988', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117983514', 'Buster 111148', 'http://www.wikidata.org/entity/Q117983213', 'Arlene', 'http://www.wikidata.org/entity/Q119779678', 'Perfection 86112', '1914', '', 'male organism']

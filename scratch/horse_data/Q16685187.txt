@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16685187', 'Eleazar', '', '', 'http://www.wikidata.org/entity/Q3195446', 'Kerjacques', '1970', '', 'male organism']

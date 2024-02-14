@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5518860', 'Gallant Bloom', '', '', 'http://www.wikidata.org/entity/Q5518868', 'Gallant Man', '1966', '', 'female organism']

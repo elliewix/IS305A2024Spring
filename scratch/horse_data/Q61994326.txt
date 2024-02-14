@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994326', 'Clare', 'http://www.wikidata.org/entity/Q61994330', 'Harpalice', 'http://www.wikidata.org/entity/Q61994328', 'Marmion', '1824', '', 'female organism']

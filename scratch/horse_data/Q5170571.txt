@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5170571', 'Corinne', 'http://www.wikidata.org/entity/Q4968666', 'Briseis', 'http://www.wikidata.org/entity/Q7975736', 'Waxy', '1815', '', 'female organism']

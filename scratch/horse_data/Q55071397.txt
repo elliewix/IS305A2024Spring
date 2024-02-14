@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071397', 'State', 'http://www.wikidata.org/entity/Q55071938', 'Monarchy', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1974', '', 'female organism']

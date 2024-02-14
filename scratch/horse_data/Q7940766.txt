@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7940766', 'Voltaire', 'http://www.wikidata.org/entity/Q115036640', 'Gogo Moeve', 'http://www.wikidata.org/entity/Q5509548', 'Furioso II', '1979', '2004', 'male organism']

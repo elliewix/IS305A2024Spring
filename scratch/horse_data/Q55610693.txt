@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55610693', 'Electra', '', '', '', '', '1906', '', '']

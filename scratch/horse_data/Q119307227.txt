@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119307227', 'Bernadotte', 'http://www.wikidata.org/entity/Q119308154', 'Jeanne 560', 'http://www.wikidata.org/entity/Q119307933', 'Malbranche 293', '1875', '', 'male organism']

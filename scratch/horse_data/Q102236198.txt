@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236198', 'Col. Zeb Ward', '', '', '', '', '1885', '', 'male organism']

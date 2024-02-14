@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17361621', 'Djeddah', '', '', 'http://www.wikidata.org/entity/Q5729825', 'Djebel', '1945', '', 'male organism']

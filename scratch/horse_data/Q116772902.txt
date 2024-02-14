@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116772902', 'Goya', '', '', 'http://www.wikidata.org/entity/Q7829049', 'Tourbillon', '1934', '', 'male organism']

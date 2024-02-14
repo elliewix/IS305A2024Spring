@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242791', 'Sun King', '', '', '', '', '2002', '', 'male organism']

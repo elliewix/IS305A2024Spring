@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5170313', 'Coretta', '', '', 'http://www.wikidata.org/entity/Q2932844', 'Caerleon', '1994', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61570887', 'Danon Chaser', 'http://www.wikidata.org/entity/Q48771716', 'Samitar', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2016', '', 'male organism']

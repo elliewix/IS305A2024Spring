@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5438069', 'Faugh-a-Ballagh', 'http://www.wikidata.org/entity/Q62043944', 'Guiccioli', 'http://www.wikidata.org/entity/Q7527266', 'Sir Hercules', '1841', '', 'male organism']

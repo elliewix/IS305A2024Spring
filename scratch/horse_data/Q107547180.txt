@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547180', 'Stimulus', '', '', '', '', '1922', '', 'male organism']

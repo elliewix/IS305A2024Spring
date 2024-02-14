@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q757832', 'Admire Don', 'http://www.wikidata.org/entity/Q11336820', 'Vega', 'http://www.wikidata.org/entity/Q7804636', 'Timber Country', '1999', '', 'male organism']

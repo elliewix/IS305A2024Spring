@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6896441', 'Mollie McCarty', '', '', '', '', '1873', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11323704', 'Nakayama Knight', '', '', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2008', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6470787', 'Ladysman', '', '', 'http://www.wikidata.org/entity/Q7227476', 'Pompey', '1930', '', 'male organism']

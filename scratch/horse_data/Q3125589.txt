@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3125589', 'Hadol du Vivier', 'http://www.wikidata.org/entity/Q3547593', 'Ua Uka', '', '', '1973', '1992', 'male organism']

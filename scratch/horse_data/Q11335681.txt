@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11335681', 'Princely Gift', '', '', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1951', '', 'male organism']

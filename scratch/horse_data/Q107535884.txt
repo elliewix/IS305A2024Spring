@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107535884', 'Sailaway', 'http://www.wikidata.org/entity/Q107535880', 'Quick Wit', 'http://www.wikidata.org/entity/Q5684231', 'Hawaii', '1976', '', 'female organism']

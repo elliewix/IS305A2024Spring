@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5523857', "Garrett's Miss Pawhuska", '', '', '', '', '1946', '', 'female organism']

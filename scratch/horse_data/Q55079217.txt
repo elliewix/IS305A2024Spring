@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55079217', 'Beloved', 'http://www.wikidata.org/entity/Q55079274', 'Bill and Coo', 'http://www.wikidata.org/entity/Q7993841', 'Whisk Broom II', '', '', 'female organism']

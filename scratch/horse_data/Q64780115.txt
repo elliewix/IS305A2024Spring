@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780115', 'ハッピーグリン', '', '', 'http://www.wikidata.org/entity/Q11350883', 'Lohengrin', '2015', '', 'male organism']

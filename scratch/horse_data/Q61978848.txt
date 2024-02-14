@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978848', 'Filagree', 'http://www.wikidata.org/entity/Q61978852', 'Web', 'http://www.wikidata.org/entity/Q7562778', 'Soothsayer', '1815', '', 'female organism']

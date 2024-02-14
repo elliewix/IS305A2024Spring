@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24912048', 'Awtaad', '', '', 'http://www.wikidata.org/entity/Q5034741', 'Cape Cross', '2013', '', '']

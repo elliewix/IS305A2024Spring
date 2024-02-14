@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104236321', 'Kentucky Pride', '', '', 'http://www.wikidata.org/entity/Q4996587', 'Bull Lea', '1955', '', 'male organism']

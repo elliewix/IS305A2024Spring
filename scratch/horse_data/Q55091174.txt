@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55091174', 'St Angela', 'http://www.wikidata.org/entity/Q55091186', 'Adeline', 'http://www.wikidata.org/entity/Q6412111', 'King Tom', '1865', '', 'female organism']

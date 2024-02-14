@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236871', 'Yankee Notions', '', '', '', '', '1910', '', 'male organism']

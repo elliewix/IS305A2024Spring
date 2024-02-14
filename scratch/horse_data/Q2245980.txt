@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2245980', 'Ribot', 'http://www.wikidata.org/entity/Q108168114', 'Romanella', 'http://www.wikidata.org/entity/Q7699707', 'Tenerani', '1952', '1972', 'male organism']

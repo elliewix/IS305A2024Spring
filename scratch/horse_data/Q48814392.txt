@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48814392', 'Sicarelle', '', '', '', '', '1953', '', '']

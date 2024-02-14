@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7677594', 'Take Control', 'http://www.wikidata.org/entity/Q4832461', 'Azeri', 'http://www.wikidata.org/entity/Q1968208', 'A.P. Indy', '2007', '', 'male organism']

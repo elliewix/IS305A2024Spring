@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384747', 'Coalition', 'http://www.wikidata.org/entity/Q117384748', 'sister to Antelope', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1749', '', 'male organism']

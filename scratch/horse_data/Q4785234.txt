@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4785234', 'Arcangues', '', '', 'http://www.wikidata.org/entity/Q3461340', 'Sagace', '1988', '2006', 'male organism']

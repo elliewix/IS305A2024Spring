@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5261020', 'Deputy Commander', '', '', 'http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '1994', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286652', 'Isono Roubles', '', '', 'http://www.wikidata.org/entity/Q11346734', 'Russian Roubles', '1988', '2013', 'female organism']

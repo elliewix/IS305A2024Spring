@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17020220', 'My Dad George', '', '', 'http://www.wikidata.org/entity/Q16989123', 'Dark Star', '1967', '', 'male organism']

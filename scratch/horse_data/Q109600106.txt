@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109600106', 'Teorema', '', '', 'http://www.wikidata.org/entity/Q16851858', 'Just A Way', '2016', '', 'female organism']

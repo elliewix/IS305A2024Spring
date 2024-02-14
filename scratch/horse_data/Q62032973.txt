@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62032973', 'Liverpool', 'http://www.wikidata.org/entity/Q62032993', 'Whisker mare', 'http://www.wikidata.org/entity/Q61992557', 'Tramp', '1828', '', 'male organism']

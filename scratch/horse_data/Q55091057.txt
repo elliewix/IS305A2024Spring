@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55091057', 'Durban', 'http://www.wikidata.org/entity/Q55091070', 'Banshee', 'http://www.wikidata.org/entity/Q5316304', 'Durbar', '', '', 'female organism']

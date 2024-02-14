@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7968431', 'War Emblem', 'http://www.wikidata.org/entity/Q87750582', 'Sweetest Lady', 'http://www.wikidata.org/entity/Q17361617', 'Our Emblem', '1999', '2020', 'male organism']

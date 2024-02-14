@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119779678', 'Perfection 86112', 'http://www.wikidata.org/entity/Q119779348', 'Galante 68661', 'http://www.wikidata.org/entity/Q119783743', 'Ilus 68658', '', '', 'male organism']

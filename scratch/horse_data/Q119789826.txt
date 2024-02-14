@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119789826', 'Frisquette 37220', 'http://www.wikidata.org/entity/Q119789698', 'Marmotte 12192', '', '', '', '', 'female organism']

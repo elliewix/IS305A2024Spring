@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7374633', 'Royal Oath', '', '', 'http://www.wikidata.org/entity/Q3197083', 'Kingmambo', '2003', '', 'male organism']

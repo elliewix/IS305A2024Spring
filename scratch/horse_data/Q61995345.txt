@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61995345', 'Economist', '', '', 'http://www.wikidata.org/entity/Q7993846', 'Whisker', '1825', '', 'male organism']

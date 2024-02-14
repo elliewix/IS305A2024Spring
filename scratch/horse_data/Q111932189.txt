@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111932189', 'Presage Lift', 'http://www.wikidata.org/entity/Q109260658', 'Supreme Gift', 'http://www.wikidata.org/entity/Q5654487', 'Harbinger', '2019', '', 'female organism']

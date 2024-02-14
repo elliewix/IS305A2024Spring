@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28452622', 'Journey', '', '', 'http://www.wikidata.org/entity/Q5310663', 'Dubawi', '2012', '', '']

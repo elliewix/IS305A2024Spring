@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305945', 'Sampson', '', '', 'http://www.wikidata.org/entity/Q11335028', 'Blaze', '1745', '', 'male organism']

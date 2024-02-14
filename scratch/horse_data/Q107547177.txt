@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547177', 'Delleana', '', '', '', '', '1925', '', 'female organism']

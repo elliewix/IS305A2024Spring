@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17026089', 'Tolomeo', '', '', '', '', '1980', '', 'male organism']

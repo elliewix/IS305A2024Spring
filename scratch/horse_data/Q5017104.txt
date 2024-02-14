@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5017104', 'Cafe Prince', '', '', '', '', '1970', '', '']

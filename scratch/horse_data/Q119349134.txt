@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119349134', 'Voltaire', '', '', 'http://www.wikidata.org/entity/Q119352708', 'Monarque', '', '', 'male organism']

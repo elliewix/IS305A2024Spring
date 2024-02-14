@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5429939', 'Fair Trial', 'http://www.wikidata.org/entity/Q17361627', 'Lady Juror', 'http://www.wikidata.org/entity/Q5430908', 'Fairway', '1932', '1958', 'male organism']

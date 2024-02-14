@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11329960', 'Hikaru Meiji', 'http://www.wikidata.org/entity/Q11286498', 'Isabelline', 'http://www.wikidata.org/entity/Q4938426', 'Bois Roussel', '1954', '', 'male organism']

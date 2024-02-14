@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7304192', 'Red God', '', '', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1954', '1979', 'male organism']

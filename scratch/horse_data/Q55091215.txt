@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55091215', 'Martha Lynn', 'http://www.wikidata.org/entity/Q55091224', 'Leda', 'http://www.wikidata.org/entity/Q55091222', 'Mulatto', '1837', '', 'female organism']

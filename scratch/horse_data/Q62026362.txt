@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026362', 'Brother to Whitenose', 'http://www.wikidata.org/entity/Q62026366', 'Sister to Blaze', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1736', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6501801', 'Lauries Dancer', '', '', 'http://www.wikidata.org/entity/Q1969034', 'Northern Dancer', '1968', '', 'female organism']

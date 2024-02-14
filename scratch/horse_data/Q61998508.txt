@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998508', "Pratt's Old Mare", 'http://www.wikidata.org/entity/Q61998518', 'Mogul mare', 'http://www.wikidata.org/entity/Q11311529', 'Squirt', '1750', '', 'female organism']

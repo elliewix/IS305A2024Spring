@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236915', 'Royal II', '', '', '', '', '1912', '', 'male organism']

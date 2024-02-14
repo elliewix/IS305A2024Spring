@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56461611', 'Quenada ZQuenada', '', '', 'http://www.wikidata.org/entity/Q22009389', 'Quick Star', '', '', 'female organism']

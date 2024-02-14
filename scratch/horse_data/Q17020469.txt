@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17020469', 'To-Agori-Mou', '', '', '', '', '1978', '', 'male organism']

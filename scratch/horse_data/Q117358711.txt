@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358711', 'Sutton Turk', '', '', '', '', '1712', '', 'male organism']

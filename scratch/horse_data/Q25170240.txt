@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25170240', 'Emmson', '', '', 'http://www.wikidata.org/entity/Q5352537', 'Ela-Mana-Mou', '1985', '', '']

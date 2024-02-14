@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109565906', 'Bayram Kor', '', '', '', '', '1910', '', 'male organism']

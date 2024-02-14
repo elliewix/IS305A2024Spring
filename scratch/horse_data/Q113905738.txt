@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113905738', 'Brilliant Protege', 'http://www.wikidata.org/entity/Q107546738', 'Irradiate', 'http://www.wikidata.org/entity/Q1151926', 'Secretariat', '1975', '', 'male organism']

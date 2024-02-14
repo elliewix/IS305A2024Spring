@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119520606', 'Silver Dawn Koncarno', 'http://www.wikidata.org/entity/Q119520594', 'Evelyn Kontact', '', '', '1938', '', 'male organism']

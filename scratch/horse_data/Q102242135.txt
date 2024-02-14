@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242135', 'Pendleton Ridge', '', '', '', '', '1987', '', 'male organism']

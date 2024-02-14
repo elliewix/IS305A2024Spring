@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1889092', 'Manduro', '', '', 'http://www.wikidata.org/entity/Q1945364', 'Monsun', '2002', '', 'male organism']

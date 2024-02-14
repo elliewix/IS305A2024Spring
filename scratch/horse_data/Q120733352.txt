@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120733352', "L'Ardent", '', '', '', '', '1805', '', 'male organism']

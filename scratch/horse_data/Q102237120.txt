@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237120', 'Escoba', '', '', '', '', '1915', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315964', 'タカマガハラ', '', '', 'http://www.wikidata.org/entity/Q11299394', 'Kurino Hana', '1957', '', 'male organism']

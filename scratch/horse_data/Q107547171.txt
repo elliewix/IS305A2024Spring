@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547171', 'Kassala', '', '', '', '', '1926', '', 'female organism']

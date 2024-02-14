@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978875', 'Verdure', 'http://www.wikidata.org/entity/Q61978878', 'May Bloom', 'http://www.wikidata.org/entity/Q6412111', 'King Tom', '1867', '', 'female organism']

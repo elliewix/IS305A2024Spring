@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16961003', 'Sabirli', '', '', 'http://www.wikidata.org/entity/Q7623813', 'Strike the Gold', '2001', '2010', 'male organism']

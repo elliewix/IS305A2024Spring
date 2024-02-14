@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939071', 'Bold Ruritana', '', '', '', '', '1990', '', 'male organism']

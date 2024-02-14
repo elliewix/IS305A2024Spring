@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q42618881', 'Maskul', '', '', 'http://www.wikidata.org/entity/Q11347791', 'Lear Fan', '1994', '2017', 'male organism']

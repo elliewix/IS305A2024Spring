@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369273', 'Snip mare', 'http://www.wikidata.org/entity/Q62026224', 'Sister to Regulus', 'http://www.wikidata.org/entity/Q7547775', 'Snip', '1757', '', 'female organism']

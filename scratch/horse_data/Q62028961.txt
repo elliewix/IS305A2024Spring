@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028961', 'Electress', 'http://www.wikidata.org/entity/Q117369714', 'Stamford mare', 'http://www.wikidata.org/entity/Q16991684', 'Election', '1819', '', 'female organism']

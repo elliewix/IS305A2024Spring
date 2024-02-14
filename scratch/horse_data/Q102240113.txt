@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240113', 'Come On Red', '', '', '', '', '1953', '', 'male organism']

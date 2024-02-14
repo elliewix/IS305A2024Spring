@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016640', 'Rector', '', '', 'http://www.wikidata.org/entity/Q52555773', 'Muley', '1823', '', 'male organism']

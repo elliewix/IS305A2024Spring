@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119701290', 'Rosalie', '', '', 'http://www.wikidata.org/entity/Q119268089', "Margot-d'Amilly 795", '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11300985', 'Keiai Gerbera', '', '', 'http://www.wikidata.org/entity/Q7544171', 'Smarty Jones', '2006', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301911', 'Kogane Taifu', '', '', 'http://www.wikidata.org/entity/Q11340052', 'Magnitude', '1987', '', 'male organism']

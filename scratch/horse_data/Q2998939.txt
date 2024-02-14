@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2998939', 'Coup de Folie', '', '', '', '', '1982', '', '']

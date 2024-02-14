@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66477430', 'Sanacion', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '', '', 'male organism']

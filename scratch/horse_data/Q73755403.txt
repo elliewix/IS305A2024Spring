@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q73755403', 'Peyo', '', '', '', '', '2003', '', 'male organism']

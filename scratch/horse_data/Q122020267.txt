@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122020267', 'Beau Calypse', '', '', 'http://www.wikidata.org/entity/Q122020425', 'Koncarcalyps II', '1939', '', 'male organism']

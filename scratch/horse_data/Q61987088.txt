@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987088', 'Isoletta', 'http://www.wikidata.org/entity/Q61987091', 'Lady Muncaster', 'http://www.wikidata.org/entity/Q6086160', 'Isonomy', '1891', '', 'female organism']

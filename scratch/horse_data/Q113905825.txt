@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113905825', 'Tweak', 'http://www.wikidata.org/entity/Q7672792', 'Ta Wee', 'http://www.wikidata.org/entity/Q1151926', 'Secretariat', '1976', '', 'female organism']

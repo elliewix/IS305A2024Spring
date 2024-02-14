@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339754', 'マイネルエクソン', '', '', 'http://www.wikidata.org/entity/Q7535640', 'Skip Away', '2000', '', 'male organism']

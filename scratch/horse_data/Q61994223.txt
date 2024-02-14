@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994223', 'Privately Held', '', '', 'http://www.wikidata.org/entity/Q7246040', 'Private Account', '1994', '', 'male organism']

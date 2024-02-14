@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52554865', 'Loudeac', 'http://www.wikidata.org/entity/Q52554876', 'Bonne Fortune', 'http://www.wikidata.org/entity/Q96207595', 'Bolero', '1933', '', 'male organism']

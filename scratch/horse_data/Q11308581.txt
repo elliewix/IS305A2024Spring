@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308581', 'Shingen', '', '', 'http://www.wikidata.org/entity/Q11338126', 'White Muzzle', '2003', '', 'male organism']

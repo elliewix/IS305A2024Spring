@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260746', 'Meine Theresia', 'http://www.wikidata.org/entity/Q11339751', 'Meine Nouvelle', 'http://www.wikidata.org/entity/Q7368666', 'Roses in May', '2007', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993669', 'Castrel', 'http://www.wikidata.org/entity/Q4720491', 'Alexander mare', 'http://www.wikidata.org/entity/Q11327618', 'Buzzard', '', '', 'male organism']

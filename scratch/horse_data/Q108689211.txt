@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108689211', 'Lorette', 'http://www.wikidata.org/entity/Q108689447', 'Histoire de rire', 'http://www.wikidata.org/entity/Q108689266', 'Fringant', '1955', '', 'female organism']

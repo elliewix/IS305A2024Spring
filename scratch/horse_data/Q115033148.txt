@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115033148', 'Obri de Fondelyn', '', '', 'http://www.wikidata.org/entity/Q115041941', 'Attila', '1958', '', 'female organism']

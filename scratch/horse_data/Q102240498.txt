@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240498', 'Prego', '', '', '', '', '1959', '', 'male organism']

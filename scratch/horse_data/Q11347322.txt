@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347322', 'ラブミーチャン', '', '', 'http://www.wikidata.org/entity/Q11304297', 'South Vigorous', '2007', '', 'female organism']

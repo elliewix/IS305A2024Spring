@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17021458', 'Spectrum', '', '', 'http://www.wikidata.org/entity/Q3417786', 'Rainbow Quest', '1992', '', 'male organism']

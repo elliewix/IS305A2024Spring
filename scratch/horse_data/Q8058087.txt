@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8058087', 'Young Eclipse', 'http://www.wikidata.org/entity/Q62016569', 'Juno', 'http://www.wikidata.org/entity/Q1203752', 'Eclipse', '1778', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61985998', 'Comparison', 'http://www.wikidata.org/entity/Q61986001', 'Combine', 'http://www.wikidata.org/entity/Q8020926', 'William the Third', '1910', '', 'female organism']

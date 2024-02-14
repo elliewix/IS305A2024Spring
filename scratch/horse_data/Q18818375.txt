@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18818375', 'Kane Mikasa', '', '', '', '', '1974', '', 'male organism']

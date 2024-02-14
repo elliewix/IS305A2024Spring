@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345339', 'Yamapit', 'http://www.wikidata.org/entity/Q11297547', 'Cupid', 'http://www.wikidata.org/entity/Q11315435', 'Solonaway', '1964', '1970', 'female organism']

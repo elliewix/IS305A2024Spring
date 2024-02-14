@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319438', 'テルテンリュウ', '', '', 'http://www.wikidata.org/entity/Q11350796', 'ロングエース', '1976', '', 'male organism']

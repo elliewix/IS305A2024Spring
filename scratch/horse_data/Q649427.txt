@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q649427', 'Bucephalus', '', '', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1764', '', 'male organism']

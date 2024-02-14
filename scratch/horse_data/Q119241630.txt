@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119241630', 'Favora 765', 'http://www.wikidata.org/entity/Q119256601', 'Marguerite', 'http://www.wikidata.org/entity/Q119241611', 'French Monarch', '1868', '', 'male organism']

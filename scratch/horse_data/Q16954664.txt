@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16954664', 'Buskin', '', '', 'http://www.wikidata.org/entity/Q5644286', 'Hamburg', '1910', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q85783717', 'Manuel', '', '', '', '', '2013', '2020', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308267', 'Shiyono Roman', '', '', 'http://www.wikidata.org/entity/Q11348786', 'リードワンダー', '1985', '2013', 'female organism']

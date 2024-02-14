@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006397', 'Buoy', '', '', 'http://www.wikidata.org/entity/Q4822299', 'Aureole', '1970', '', 'male organism']

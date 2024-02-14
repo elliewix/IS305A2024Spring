@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006591', 'Magnificent Star', '', '', '', '', '1988', '', 'female organism']

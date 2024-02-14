@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17012629', 'Noble Mission', 'http://www.wikidata.org/entity/Q6410495', 'Kind', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2009', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348118', 'リッキー', '', '', '', '', '1998', '', 'male organism']

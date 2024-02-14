@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17019952', 'Outstrip', '', '', '', '', '2011', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11334107', 'フレーモア', '', '', 'http://www.wikidata.org/entity/Q11306904', 'Shian Mor', '1931', '', 'male organism']

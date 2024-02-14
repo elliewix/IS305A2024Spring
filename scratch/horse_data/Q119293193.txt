@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119293193', "Épis d'or d'Atout", '', '', 'http://www.wikidata.org/entity/Q119293284', 'Alaska des Hâtes', '2014', '2020', 'male organism']

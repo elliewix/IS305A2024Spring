@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022944', 'Miss South', 'http://www.wikidata.org/entity/Q62022951', 'Young Cartouch mare', 'http://www.wikidata.org/entity/Q62022946', 'South', '1758', '', 'female organism']

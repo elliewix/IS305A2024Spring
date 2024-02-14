@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61988110', 'Sportsmistress', 'http://www.wikidata.org/entity/Q62023225', 'Golden Locks', 'http://www.wikidata.org/entity/Q61988112', 'Sportsman', '1765', '', 'female organism']

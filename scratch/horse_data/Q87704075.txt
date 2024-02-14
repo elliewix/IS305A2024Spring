@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87704075', 'Maltese Diosa', '', '', '', '', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q88910978', 'Galore Creek', '', '', '', '', '', '', 'male organism']

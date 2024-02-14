@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121986916', 'Abel 36474', 'http://www.wikidata.org/entity/Q120644856', 'Rosette 13393', 'http://www.wikidata.org/entity/Q121912623', 'Madere 11562', '1890', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115285799', 'Goya', '', '', 'http://www.wikidata.org/entity/Q115130871', 'Gotthard', '1971', '1975', 'male organism']

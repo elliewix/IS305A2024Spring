@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4906451', 'Big Spruce', '', '', 'http://www.wikidata.org/entity/Q11291079', 'Herbager', '1969', '', 'male organism']

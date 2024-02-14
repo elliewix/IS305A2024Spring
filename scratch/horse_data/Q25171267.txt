@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25171267', 'Srikandi', '', '', 'http://www.wikidata.org/entity/Q5310663', 'Dubawi', '2010', '', '']

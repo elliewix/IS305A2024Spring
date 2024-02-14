@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115211024', 'Compromise', '', '', 'http://www.wikidata.org/entity/Q2305063', 'Nearco', '1954', '', 'male organism']

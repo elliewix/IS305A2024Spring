@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55632898', 'Sergeant York (horse)', '', '', '', '', '', '', 'male organism']

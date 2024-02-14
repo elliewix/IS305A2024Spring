@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124327786', 'Glengarry', '', '', 'http://www.wikidata.org/entity/Q7796267', 'Thormanby', '1866', '', 'male organism']

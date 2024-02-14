@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4925119', 'Blank', 'http://www.wikidata.org/entity/Q61993766', 'Amorett', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1740', '', 'male organism']

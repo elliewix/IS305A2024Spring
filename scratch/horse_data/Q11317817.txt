@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317817', 'チェレブリタ', '', '', 'http://www.wikidata.org/entity/Q11334556', 'Black Hawk', '2005', '2010', 'female organism']

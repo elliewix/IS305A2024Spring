@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11285527', 'Archipenko', '', '', 'http://www.wikidata.org/entity/Q3197083', 'Kingmambo', '2004', '2017', 'male organism']

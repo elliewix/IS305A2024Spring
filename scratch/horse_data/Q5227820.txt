@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5227820', 'Dauber', '', '', '', '', '1935', '', 'male organism']

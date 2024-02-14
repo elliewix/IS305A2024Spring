@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7937143', 'Vito', '', '', '', '', '1925', '', 'male organism']

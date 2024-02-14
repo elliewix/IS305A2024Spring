@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96243973', 'Narcisse', 'http://www.wikidata.org/entity/Q96243914', 'Becassine', 'http://www.wikidata.org/entity/Q41796302', 'Phaeton', '1891', '', 'male organism']

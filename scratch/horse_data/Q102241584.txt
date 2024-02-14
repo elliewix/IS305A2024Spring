@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241584', 'Flying Nashua', '', '', '', '', '1978', '', 'male organism']

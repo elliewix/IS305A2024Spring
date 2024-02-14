@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7683451', "Tank's Prospect", '', '', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1982', '1995', 'male organism']

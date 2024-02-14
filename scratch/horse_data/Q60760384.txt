@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60760384', 'Vazirabad', '', '', '', '', '2012', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21511848', 'Bold Eagle', '', '', 'http://www.wikidata.org/entity/Q3421558', 'Ready Cash', '2011', '', 'male organism']

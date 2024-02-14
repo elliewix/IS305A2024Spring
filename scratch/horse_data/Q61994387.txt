@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994387', 'Fanny', '', '', 'http://www.wikidata.org/entity/Q61970253', 'Tartar', '1751', '', 'female organism']

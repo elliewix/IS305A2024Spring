@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7301910', 'Rebecca Sharp', '', '', '', '', '1994', '', '']

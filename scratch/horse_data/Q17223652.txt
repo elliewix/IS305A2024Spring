@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17223652', 'ソールレデイ', 'http://www.wikidata.org/entity/Q22002371', 'Valiant Lady', 'http://www.wikidata.org/entity/Q11321111', 'Tournesol', '1936', '', 'female organism']

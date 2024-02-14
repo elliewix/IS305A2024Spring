@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62032998', 'Otis', 'http://www.wikidata.org/entity/Q62033002', 'Election mare', 'http://www.wikidata.org/entity/Q62016682', 'Bustard', '1820', '', 'female organism']

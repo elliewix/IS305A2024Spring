@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343231', 'ムーテイイチ', '', '', 'http://www.wikidata.org/entity/Q11343230', 'ムーティエ', '1968', '', 'female organism']

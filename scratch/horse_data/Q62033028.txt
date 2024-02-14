@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033028', 'Tomboy mare', 'http://www.wikidata.org/entity/Q62033115', 'Tesane', 'http://www.wikidata.org/entity/Q62033035', 'Tomboy', '1838', '', 'female organism']

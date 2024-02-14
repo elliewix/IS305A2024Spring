@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343256', 'ムービースター', '', '', 'http://www.wikidata.org/entity/Q11320008', 'Dictus', '1986', '', 'male organism']

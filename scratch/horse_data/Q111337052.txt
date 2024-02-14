@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111337052', 'Nykio', 'http://www.wikidata.org/entity/Q111337063', 'Perle Fine III', 'http://www.wikidata.org/entity/Q26719877', 'Fra Diavolo', '1957', '', 'male organism']

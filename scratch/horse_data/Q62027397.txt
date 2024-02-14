@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027397', 'Omar', 'http://www.wikidata.org/entity/Q62027404', 'sister to Hector', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1752', '', 'male organism']

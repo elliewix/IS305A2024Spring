@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7127680', 'Pall Mall', '', '', 'http://www.wikidata.org/entity/Q7127279', 'Palestine', '1955', '1978', 'male organism']

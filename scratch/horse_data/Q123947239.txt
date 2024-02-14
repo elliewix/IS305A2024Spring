@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123947239', 'Lis de la Vallée', '', '', '', '', '', '', 'male organism']

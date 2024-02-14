@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6753068', 'Manuella', 'http://www.wikidata.org/entity/Q62028948', 'Mandane', 'http://www.wikidata.org/entity/Q61976427', 'Dick Andrews', '1809', '', 'female organism']

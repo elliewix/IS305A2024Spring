@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236290', 'Tom Elmore', '', '', '', '', '1891', '', 'male organism']

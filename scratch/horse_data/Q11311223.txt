@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311223', 'Suehiro Jo O', '', '', '', '', '1990', '', 'female organism']

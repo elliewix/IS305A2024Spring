@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17636898', 'Podosis', '', '', '', '', '1981', '2012', 'male organism']

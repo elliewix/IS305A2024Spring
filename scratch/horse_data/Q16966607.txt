@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16966607', "Payton d'Oro", '', '', 'http://www.wikidata.org/entity/Q6804991', "Medaglia d'Oro", '2006', '', 'female organism']

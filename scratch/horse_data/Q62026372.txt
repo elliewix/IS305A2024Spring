@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026372', 'Telemachus', 'http://www.wikidata.org/entity/Q62026375', 'Skim mare', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1770', '', 'male organism']

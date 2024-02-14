@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17009763', 'Meadow Court', '', '', '', '', '1962', '', 'male organism']

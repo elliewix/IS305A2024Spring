@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319347', 'テネシーガール', '', '', '', '', '1997', '2010', 'female organism']

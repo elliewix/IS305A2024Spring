@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5034741', 'Cape Cross', 'http://www.wikidata.org/entity/Q17013471', 'Park Appeal', 'http://www.wikidata.org/entity/Q5602473', 'Green Desert', '1994', '', 'male organism']

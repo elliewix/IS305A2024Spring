@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240245', 'Warren G.', '', '', '', '', '1955', '', 'male organism']

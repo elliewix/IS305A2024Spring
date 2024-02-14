@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55603370', 'Aida', 'http://www.wikidata.org/entity/Q61993504', 'Queen Adelaide', 'http://www.wikidata.org/entity/Q1492693', 'Galopin', '1898', '1915', 'female organism']

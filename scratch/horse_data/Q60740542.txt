@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60740542', 'Stormy Liberal', '', '', '', '', '2012', '', '']

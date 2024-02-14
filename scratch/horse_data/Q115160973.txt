@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115160973', 'Persian Path S', '', '', 'http://www.wikidata.org/entity/Q11315479', 'Sovereign Path', '1966', '', 'male organism']

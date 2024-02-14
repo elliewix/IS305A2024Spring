@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7838201', 'Trempolino', 'http://www.wikidata.org/entity/Q61987306', 'Trephine', 'http://www.wikidata.org/entity/Q15633029', 'Sharpen Up', '1984', '', 'male organism']

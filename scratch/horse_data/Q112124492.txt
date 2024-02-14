@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112124492', 'Caretino', '', '', 'http://www.wikidata.org/entity/Q1026643', 'Caletto II', '1983', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780102', 'アイアンテーラー', '', '', 'http://www.wikidata.org/entity/Q11303924', 'Gold Allure', '2014', '2019', 'female organism']

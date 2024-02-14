@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106622041', 'Nirvana Basters', '', '', 'http://www.wikidata.org/entity/Q26244634', 'Rosire', '2001', '', 'male organism']

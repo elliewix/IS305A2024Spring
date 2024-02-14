@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028864', 'Partner mare', '', '', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1732', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4881745', 'Bel Sheba', 'http://www.wikidata.org/entity/Q62004231', 'Belthazar', 'http://www.wikidata.org/entity/Q62004213', 'Lt. Stevens', '1970', '1995', 'female organism']

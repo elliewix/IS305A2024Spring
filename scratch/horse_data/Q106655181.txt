@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106655181', 'St Damien', 'http://www.wikidata.org/entity/Q55097751', 'Distant Shore', 'http://www.wikidata.org/entity/Q280168', 'St. Simon', '1889', '', 'male organism']

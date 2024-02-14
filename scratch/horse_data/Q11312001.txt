@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312001', 'Star Affair', '', '', 'http://www.wikidata.org/entity/Q7600767', 'Star Kingdom', '1962', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5378624', 'A.T. Eko', '', '', '', '', '', '', 'male organism']

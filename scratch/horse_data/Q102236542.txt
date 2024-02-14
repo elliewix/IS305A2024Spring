@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236542', 'Ovelando', '', '', '', '', '1904', '', 'male organism']

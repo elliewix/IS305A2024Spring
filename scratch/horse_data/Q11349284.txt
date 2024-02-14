@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349284', 'ルーヴル', '', '', 'http://www.wikidata.org/entity/Q4750541', 'Anabaa', '1999', '2004', 'male organism']

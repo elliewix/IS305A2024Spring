@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61684144', "Admiral's Voyage", '', '', 'http://www.wikidata.org/entity/Q16952484', 'Crafty Admiral', '1959', '', 'male organism']

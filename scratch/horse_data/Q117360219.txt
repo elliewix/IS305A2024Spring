@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360219', 'Halifax Bushy Molly', 'http://www.wikidata.org/entity/Q117360227', 'Halifax Farmer mare', 'http://www.wikidata.org/entity/Q117360222', 'Hampton Court Litton Arabian', '1717', '', 'female organism']

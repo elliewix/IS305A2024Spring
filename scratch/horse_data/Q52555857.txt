@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52555857', 'Nuncio', 'http://www.wikidata.org/entity/Q108839642', 'Alley', 'http://www.wikidata.org/entity/Q7204539', 'Plenipotentiary', '1839', '', 'male organism']

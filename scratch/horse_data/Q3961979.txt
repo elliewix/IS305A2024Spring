@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3961979', 'Sir Barton', 'http://www.wikidata.org/entity/Q61994241', 'Lady Sterling', 'http://www.wikidata.org/entity/Q7600891', 'Star Shoot', '1916', '', 'male organism']

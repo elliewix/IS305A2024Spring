@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117368633', 'Splitvote', 'http://www.wikidata.org/entity/Q62028961', 'Electress', 'http://www.wikidata.org/entity/Q117368684', 'St Luke', '1841', '', 'female organism']

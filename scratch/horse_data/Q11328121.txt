@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11328121', 'バリモスニセイ', '', '', 'http://www.wikidata.org/entity/Q4852230', 'Ballymoss', '1961', '', 'male organism']

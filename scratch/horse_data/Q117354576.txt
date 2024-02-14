@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354576', 'Bridgework', 'http://www.wikidata.org/entity/Q117358524', 'Feale Bridge', 'http://www.wikidata.org/entity/Q117354579', 'Occupy', '1955', '', 'female organism']

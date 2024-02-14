@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108689266', 'Fringant', '', '', '', '', '1949', '', 'male organism']

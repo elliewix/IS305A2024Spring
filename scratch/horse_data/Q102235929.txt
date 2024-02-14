@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235929', 'Quito', '', '', '', '', '1877', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65964452', 'Karielle', 'http://www.wikidata.org/entity/Q65964494', 'Camarade Rapide', 'http://www.wikidata.org/entity/Q22324035', 'Uriel', '1976', '', 'female organism']

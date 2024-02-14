@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124310539', 'Luzig de Chouannais', 'http://www.wikidata.org/entity/Q120435295', 'Ariane de Vanoise', '', '', '2021', '', 'female organism']

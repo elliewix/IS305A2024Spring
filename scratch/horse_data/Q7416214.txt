@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7416214', 'Sandford Prince', '', '', '', '', '1985', '', 'male organism']

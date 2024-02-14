@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242032', 'Awe Inspiring', '', '', '', '', '1986', '', 'male organism']

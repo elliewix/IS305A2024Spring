@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122976300', 'Sanawa', '', '', '', '', '2006', '', '']

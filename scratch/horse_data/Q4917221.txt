@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4917221', 'Biscay', '', '', 'http://www.wikidata.org/entity/Q7600767', 'Star Kingdom', '1965', '', 'male organism']

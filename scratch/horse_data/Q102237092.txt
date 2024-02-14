@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237092', 'Guy Fortune', '', '', '', '', '1914', '', 'male organism']

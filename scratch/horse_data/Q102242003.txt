@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242003', 'Cefis', '', '', '', '', '1985', '', 'male organism']

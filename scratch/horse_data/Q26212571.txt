@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26212571', 'Harkaway', '', '', 'http://www.wikidata.org/entity/Q61995345', 'Economist', '', '', 'male organism']

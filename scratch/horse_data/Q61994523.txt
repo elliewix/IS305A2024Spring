@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994523', 'Bubble Company', '', '', 'http://www.wikidata.org/entity/Q3269685', 'Lyphard', '1977', '', 'female organism']

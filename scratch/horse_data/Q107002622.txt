@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107002622', 'Bonnie Blade', '', '', '', '', '1976', '', 'female organism']

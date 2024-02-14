@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317763', 'チェックメイト', '', '', 'http://www.wikidata.org/entity/Q11307903', 'Shaadi', '1995', '2001', 'male organism']

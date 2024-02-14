@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7268234', 'Quack', '', '', 'http://www.wikidata.org/entity/Q7668083', 'T.V. Lark', '1969', '1995', 'male organism']

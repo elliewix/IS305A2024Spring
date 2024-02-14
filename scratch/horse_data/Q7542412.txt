@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7542412', 'Sly Fox', '', '', '', '', '1895', '', 'male organism']

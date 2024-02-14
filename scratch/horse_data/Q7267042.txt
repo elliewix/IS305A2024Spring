@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7267042', 'Qasr al-Hosn', '', '', '', '', '', '', '']

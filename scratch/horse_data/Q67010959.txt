@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67010959', 'Idéal de la Loge', '', '', 'http://www.wikidata.org/entity/Q17177327', 'Dollar du Mûrier', '1996', '', 'male organism']

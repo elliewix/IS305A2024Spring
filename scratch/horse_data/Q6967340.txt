@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6967340', 'Nasrullah', 'http://www.wikidata.org/entity/Q55097811', 'Mumtaz Begum', 'http://www.wikidata.org/entity/Q2305063', 'Nearco', '1940', '1959', 'male organism']

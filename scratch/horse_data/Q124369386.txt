@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124369386', 'Konnie Lou', '', '', 'http://www.wikidata.org/entity/Q124369402', 'Koncope', '1952', '', 'female organism']

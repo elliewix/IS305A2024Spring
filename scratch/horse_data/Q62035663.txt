@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62035663', 'Akaster Turk mare', '', '', 'http://www.wikidata.org/entity/Q62035668', 'Akaster Turk', '1710', '', 'female organism']

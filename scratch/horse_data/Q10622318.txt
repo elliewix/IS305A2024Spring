@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10622318', 'Peleng', '', '', '', '', '1978', '2002', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62014493', 'Adorada', 'http://www.wikidata.org/entity/Q62014622', 'Gilded Wave', 'http://www.wikidata.org/entity/Q62014555', 'Hierocles', '1947', '', 'female organism']

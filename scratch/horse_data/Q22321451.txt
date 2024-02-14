@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22321451', 'Rita la Rouge', '', '', 'http://www.wikidata.org/entity/Q22306589', 'Grand Veneur', '1983', '', 'female organism']

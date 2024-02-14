@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319295', 'テツノジョージ', '', '', 'http://www.wikidata.org/entity/Q11291911', 'Osaichi George', '1993', '', 'male organism']

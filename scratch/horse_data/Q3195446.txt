@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3195446', 'Kerjacques', 'http://www.wikidata.org/entity/Q52554848', 'Arlette III', '', '', '1954', '1981', 'male organism']

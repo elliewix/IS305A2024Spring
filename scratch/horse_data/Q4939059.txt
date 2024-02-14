@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939059', 'Bold Lad', '', '', 'http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', '1964', '', 'male organism']

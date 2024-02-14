@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333077', 'フサイチジャンク', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '2003', '', 'male organism']

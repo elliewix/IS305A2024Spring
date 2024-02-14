@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111834799', 'Stay Inside', '', '', '', '', '', '', 'male organism']

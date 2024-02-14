@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q92733773', 'Affection', '', '', '', '', '1914', '1934', 'female organism']

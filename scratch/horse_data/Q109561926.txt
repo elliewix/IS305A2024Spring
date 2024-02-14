@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109561926', 'Sha Durdy', 'http://www.wikidata.org/entity/Q109565982', 'Ishan', 'http://www.wikidata.org/entity/Q109565906', 'Bayram Kor', '1915', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7693967', 'Teddy', 'http://www.wikidata.org/entity/Q55079357', 'Rondeau', 'http://www.wikidata.org/entity/Q4699589', 'Ajax', '1913', '', 'male organism']

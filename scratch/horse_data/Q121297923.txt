@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121297923', 'Saklawi I', 'http://www.wikidata.org/entity/Q121297970', 'Saqlawi Jidraniyah', '', '', '1886', '', 'male organism']

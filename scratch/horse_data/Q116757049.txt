@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116757049', 'Nicol', 'http://www.wikidata.org/entity/Q116760846', 'Ruffia', 'http://www.wikidata.org/entity/Q116757060', 'Nimrod B', '1996', '', 'female organism']

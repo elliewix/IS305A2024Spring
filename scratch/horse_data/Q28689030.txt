@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28689030', 'Narita Homare', '', '', 'http://www.wikidata.org/entity/Q11293251', 'Osumi Shadai', '1995', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993750', 'Pantaloon', 'http://www.wikidata.org/entity/Q61999283', 'Idalia', 'http://www.wikidata.org/entity/Q61993669', 'Castrel', '1824', '', 'male organism']

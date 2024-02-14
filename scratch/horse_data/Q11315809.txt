@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315809', 'タイヨウ', '', '', 'http://www.wikidata.org/entity/Q11301477', 'Gay Time', '1963', '', 'male organism']

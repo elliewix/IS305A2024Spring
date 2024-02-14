@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239459', 'Bymeabond', '', '', '', '', '1942', '', 'male organism']

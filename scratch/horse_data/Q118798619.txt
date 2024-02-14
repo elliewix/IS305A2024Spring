@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798619', 'Skilfing', '', '', 'http://www.wikidata.org/entity/Q22006995', 'Kitasan Black', '2020', '2023', 'male organism']

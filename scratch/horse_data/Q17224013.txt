@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224013', 'To The World', 'http://www.wikidata.org/entity/Q11321029', 'To The Victory', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2011', '', 'male organism']

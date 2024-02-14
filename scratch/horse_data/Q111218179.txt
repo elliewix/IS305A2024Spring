@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111218179', "Jack d'Or", '', '', 'http://www.wikidata.org/entity/Q21996288', 'Maurice', '2018', '', 'male organism']

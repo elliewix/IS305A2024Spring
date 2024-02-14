@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117372280', 'Cathedral', 'http://www.wikidata.org/entity/Q117372456', 'Stolen Moments', 'http://www.wikidata.org/entity/Q11324950', 'Newminster', '1861', '', 'male organism']

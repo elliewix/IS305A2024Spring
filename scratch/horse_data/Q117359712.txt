@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359712', "Darcy's Yellow Turk mare", '', '', '', '', '1677', '', 'female organism']

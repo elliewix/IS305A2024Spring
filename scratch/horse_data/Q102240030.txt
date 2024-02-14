@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240030', 'Super Devil', '', '', '', '', '1951', '', 'male organism']

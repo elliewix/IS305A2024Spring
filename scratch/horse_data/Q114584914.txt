@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114584914', 'Pretty Chance', 'http://www.wikidata.org/entity/Q114584962', 'Future Sunday', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2017', '', 'female organism']

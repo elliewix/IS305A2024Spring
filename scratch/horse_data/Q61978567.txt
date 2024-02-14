@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978567', 'Orissa', '', '', 'http://www.wikidata.org/entity/Q7260926', 'Purchase', '1926', '', 'female organism']

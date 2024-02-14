@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7134437', 'Paradox', '', '', 'http://www.wikidata.org/entity/Q17038626', 'Sterling', '1882', '', 'male organism']

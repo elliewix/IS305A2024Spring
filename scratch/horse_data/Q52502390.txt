@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52502390', 'Theresine', 'http://www.wikidata.org/entity/Q52556395', 'Cocotte', 'http://www.wikidata.org/entity/Q52502831', 'Festival', '1864', '', 'female organism']

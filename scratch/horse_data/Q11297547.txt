@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297547', 'Cupid', '', '', '', '', '1957', '', 'female organism']

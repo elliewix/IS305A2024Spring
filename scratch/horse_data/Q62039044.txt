@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62039044', 'Skyscraper mare', 'http://www.wikidata.org/entity/Q62039093', 'Dragon mare', 'http://www.wikidata.org/entity/Q7538004', 'Skyscraper', '1800', '', 'female organism']

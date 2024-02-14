@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7527323', 'Sir Hugo', 'http://www.wikidata.org/entity/Q63986004', 'Manoeuvre', 'http://www.wikidata.org/entity/Q61997089', 'Wisdom', '1889', '', 'male organism']

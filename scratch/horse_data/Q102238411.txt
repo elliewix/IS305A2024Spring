@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238411', 'Windy City', '', '', '', '', '1926', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283487', 'アステリモア', '', '', 'http://www.wikidata.org/entity/Q11306904', 'Shian Mor', '1935', '', 'female organism']

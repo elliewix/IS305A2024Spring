@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123517007', 'Goldtret Z', 'http://www.wikidata.org/entity/Q123517093', 'Cassiopaia', 'http://www.wikidata.org/entity/Q115130871', 'Gotthard', '1968', '', 'female organism']

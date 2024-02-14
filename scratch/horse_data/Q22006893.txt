@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006893', 'Klairon Davis', '', '', '', '', '1989', '', '']

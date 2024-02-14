@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123956617', 'Parthénon', '', '', 'http://www.wikidata.org/entity/Q96313137', 'Jactator', '1871', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119445176', 'Electra 2740', 'http://www.wikidata.org/entity/Q119445113', "Fille d'Estraba 796", 'http://www.wikidata.org/entity/Q118125122', 'Luther 792', '1881', '', 'female organism']

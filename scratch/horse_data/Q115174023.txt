@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115174023', 'Eishin Itto O', '', '', 'http://www.wikidata.org/entity/Q5696914', 'Hector Protector', '1993', '1996', 'male organism']

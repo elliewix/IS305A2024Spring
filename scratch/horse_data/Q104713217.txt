@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104713217', 'Credit Winner', '', '', '', '', '1997', '', '']

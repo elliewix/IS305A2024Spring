@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027293', 'Syphon mare', 'http://www.wikidata.org/entity/Q61993993', 'Shakespeare mare', 'http://www.wikidata.org/entity/Q61988090', 'Syphon', '1770', '', 'female organism']

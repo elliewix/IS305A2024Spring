@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111336836', 'Sire', 'http://www.wikidata.org/entity/Q111336984', 'Sariegail', 'http://www.wikidata.org/entity/Q22320845', 'Mourne', '1965', '', 'male organism']

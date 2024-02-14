@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301487', 'Gale Sport', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1979', '', 'male organism']

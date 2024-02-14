@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119254699', 'Cocotte', '', '', 'http://www.wikidata.org/entity/Q119247990', "Décidé d'Amilly 720", '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260610', 'Auvergne', '', '', 'http://www.wikidata.org/entity/Q11313287', 'Smart Falcon', '2016', '', 'male organism']

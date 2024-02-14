@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61976486', 'Anne Campbell', '', '', 'http://www.wikidata.org/entity/Q7003920', 'Never Bend', '', '', 'female organism']

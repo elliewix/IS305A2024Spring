@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11287612', 'Intense Focus', '', '', 'http://www.wikidata.org/entity/Q3105301', "Giant's Causeway", '2006', '', 'male organism']

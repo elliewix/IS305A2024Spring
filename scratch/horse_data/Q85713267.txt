@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q85713267', 'Tabriz (cheval)', '', '', '', '', '1963', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016604', 'King of the Forest', 'http://www.wikidata.org/entity/Q62016607', 'Lioness', 'http://www.wikidata.org/entity/Q61997568', 'Scottish Chief', '1868', '', 'male organism']

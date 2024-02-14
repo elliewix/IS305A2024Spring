@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993603', 'Delpini mare', 'http://www.wikidata.org/entity/Q61993605', 'Tipple Cyder', 'http://www.wikidata.org/entity/Q61978867', 'Delpini', '1802', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7586803', 'St. Amant', '', '', 'http://www.wikidata.org/entity/Q7588068', 'St. Frusquin', '1901', '', 'male organism']

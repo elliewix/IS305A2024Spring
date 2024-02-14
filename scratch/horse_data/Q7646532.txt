@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7646532', 'Surplice', 'http://www.wikidata.org/entity/Q5189804', 'Crucifix', 'http://www.wikidata.org/entity/Q7828730', 'Touchstone', '1845', '', 'male organism']

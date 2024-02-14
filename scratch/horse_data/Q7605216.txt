@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7605216', 'Steady Power', '', '', 'http://www.wikidata.org/entity/Q7605209', 'Steady Growth', '1984', '', '']

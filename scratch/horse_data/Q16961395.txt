@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16961395', 'Amphion', 'http://www.wikidata.org/entity/Q61986301', 'Suicide', 'http://www.wikidata.org/entity/Q61986218', 'Rosebery', '1886', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60745930', 'Doc Quixote', '', '', '', '', '', '', 'male organism']

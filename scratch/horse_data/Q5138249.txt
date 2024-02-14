@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5138249', 'Coastal', 'http://www.wikidata.org/entity/Q4733360', 'Alluvial', 'http://www.wikidata.org/entity/Q1032366', 'Majestic Prince', '1976', '', 'male organism']

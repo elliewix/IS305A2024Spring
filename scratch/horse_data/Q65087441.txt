@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65087441', 'Lottery Winner', '', '', '', '', '1989', '', '']

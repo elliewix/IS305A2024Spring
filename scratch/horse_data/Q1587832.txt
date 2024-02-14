@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1587832', 'Haru Urara', '', '', 'http://www.wikidata.org/entity/Q11324558', 'Nippo Teio', '1996', '', 'female organism']

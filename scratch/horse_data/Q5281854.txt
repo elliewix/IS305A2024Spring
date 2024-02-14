@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5281854', 'Discovery', 'http://www.wikidata.org/entity/Q55091585', 'Ariadne', 'http://www.wikidata.org/entity/Q5282629', 'Display', '1931', '1958', 'male organism']

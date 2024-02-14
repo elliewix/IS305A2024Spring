@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118154327', 'Drake Farms Silver Laet', 'http://www.wikidata.org/entity/Q118154297', 'Dellaet', 'http://www.wikidata.org/entity/Q119073742', 'Drake Farms Egotist', '1957', '', 'male organism']

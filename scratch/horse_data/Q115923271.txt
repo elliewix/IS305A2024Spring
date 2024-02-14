@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115923271', 'Nino', '', '', 'http://www.wikidata.org/entity/Q55607733', 'Clarissimus', '1923', '', 'male organism']

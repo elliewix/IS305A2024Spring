@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7560627', 'Son of Briartic', '', '', '', '', '1979', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546045', 'Haste', 'http://www.wikidata.org/entity/Q107546035', 'Miss Malaprop', 'http://www.wikidata.org/entity/Q107546034', 'Maintenant', '1923', '', 'male organism']

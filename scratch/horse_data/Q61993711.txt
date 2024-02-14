@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993711', 'Hare', '', '', 'http://www.wikidata.org/entity/Q7655653', 'Sweetbriar', '1794', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7940799', 'Voltigeur', 'http://www.wikidata.org/entity/Q55091215', 'Martha Lynn', 'http://www.wikidata.org/entity/Q7940767', 'Voltaire', '1847', '1874', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240377', 'Dr. Miller', '', '', '', '', '1958', '', 'male organism']

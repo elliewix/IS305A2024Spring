@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240129', 'High King', '', '', '', '', '1953', '', 'male organism']

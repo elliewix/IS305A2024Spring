@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108188960', 'Corporal', 'http://www.wikidata.org/entity/Q108567011', 'Gimara', 'http://www.wikidata.org/entity/Q108188977', 'Cottage Son', '1963', '', 'male organism']

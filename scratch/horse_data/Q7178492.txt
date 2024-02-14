@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7178492', 'Petoski', '', '', 'http://www.wikidata.org/entity/Q17012529', 'Niniski', '1982', '', 'male organism']

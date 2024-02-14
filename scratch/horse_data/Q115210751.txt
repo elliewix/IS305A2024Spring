@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115210751', 'Omega', '', '', 'http://www.wikidata.org/entity/Q115210767', 'Lucky Boy', '1973', '', 'male organism']

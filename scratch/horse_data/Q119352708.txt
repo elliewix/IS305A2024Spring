@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119352708', 'Monarque', '', '', 'http://www.wikidata.org/entity/Q117195187', 'Coco II 714', '', '', 'male organism']

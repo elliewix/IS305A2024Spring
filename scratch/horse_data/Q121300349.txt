@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121300349', 'Gouvernant', '', '', 'http://www.wikidata.org/entity/Q3074614', 'Flying Fox', '1901', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11307553', 'シマユキ', '', '', 'http://www.wikidata.org/entity/Q11314399', 'Theft', '1950', '', 'male organism']

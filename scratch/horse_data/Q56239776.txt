@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56239776', 'Roaring Lion', '', '', 'http://www.wikidata.org/entity/Q6418416', "Kitten's Joy", '2015', '2019', 'male organism']

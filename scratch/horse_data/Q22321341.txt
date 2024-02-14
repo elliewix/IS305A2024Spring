@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22321341', 'Carthago', 'http://www.wikidata.org/entity/Q64831550', 'Perra', 'http://www.wikidata.org/entity/Q22319718', 'Capitol I', '1987', '2013', 'male organism']

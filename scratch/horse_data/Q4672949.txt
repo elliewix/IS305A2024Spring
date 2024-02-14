@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4672949', 'Ace Admiral', '', '', 'http://www.wikidata.org/entity/Q5705843', 'Heliopolis', '1945', '', 'male organism']

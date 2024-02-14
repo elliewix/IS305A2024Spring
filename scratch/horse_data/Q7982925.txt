@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7982925', 'Wenona Girl', '', '', 'http://www.wikidata.org/entity/Q8002454', 'Wilkes', '1957', '', 'female organism']

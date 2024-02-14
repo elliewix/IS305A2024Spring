@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798603', 'Hayabusa Nandekun', '', '', 'http://www.wikidata.org/entity/Q11303924', 'Gold Allure', '2016', '', 'male organism']

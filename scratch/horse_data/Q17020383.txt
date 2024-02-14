@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17020383', 'Natchez', 'http://www.wikidata.org/entity/Q5184205', 'Creole Maid', 'http://www.wikidata.org/entity/Q16849479', 'Jamestown', '1943', '', 'male organism']

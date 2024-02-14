@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52495057', 'Mina', '', '', 'http://www.wikidata.org/entity/Q52502253', 'Bacchus', '', '', 'female organism']

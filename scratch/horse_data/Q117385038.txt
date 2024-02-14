@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117385038', 'sister to Ruffler', 'http://www.wikidata.org/entity/Q117385040', "Dick Burton's mare", 'http://www.wikidata.org/entity/Q117385039', 'son of Brimmer', '1700', '', 'female organism']

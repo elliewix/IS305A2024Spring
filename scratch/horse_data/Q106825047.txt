@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106825047', 'Torpoint', '', '', '', '', '1900', '', 'male organism']

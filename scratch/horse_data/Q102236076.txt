@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236076', 'Admiral', '', '', '', '', '1881', '', 'male organism']

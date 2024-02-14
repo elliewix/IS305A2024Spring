@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117368440', 'Bribery', 'http://www.wikidata.org/entity/Q117368633', 'Splitvote', 'http://www.wikidata.org/entity/Q117368493', 'The Libel', '1851', '', 'female organism']

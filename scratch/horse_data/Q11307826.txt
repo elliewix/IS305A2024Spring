@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11307826', 'Shawanda', '', '', 'http://www.wikidata.org/entity/Q3485021', 'Sinndar', '2002', '', 'female organism']

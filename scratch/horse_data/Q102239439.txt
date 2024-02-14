@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239439', 'Diavolaw', '', '', '', '', '1941', '', 'male organism']

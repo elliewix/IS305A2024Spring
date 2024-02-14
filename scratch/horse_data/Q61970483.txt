@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970483', 'Barbarika', '', '', 'http://www.wikidata.org/entity/Q4868813', 'Bates Motel', '1985', '', 'female organism']

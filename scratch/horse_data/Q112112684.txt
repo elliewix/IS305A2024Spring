@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112112684', 'Scabieuse', 'http://www.wikidata.org/entity/Q112112724', 'Jachère', 'http://www.wikidata.org/entity/Q96240820', 'Qui Vive', '1896', '', 'female organism']

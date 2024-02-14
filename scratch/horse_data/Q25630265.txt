@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25630265', 'Arko III', 'http://www.wikidata.org/entity/Q108332012', 'Unika', 'http://www.wikidata.org/entity/Q76597764', 'Argentinus', '1994', '2021', 'male organism']

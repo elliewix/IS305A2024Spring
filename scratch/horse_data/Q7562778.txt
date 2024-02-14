@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7562778', 'Soothsayer', 'http://www.wikidata.org/entity/Q61978865', 'Golden Locks', 'http://www.wikidata.org/entity/Q7563356', 'Sorcerer', '1808', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022936', 'Makeless', 'http://www.wikidata.org/entity/Q117358722', "Darcy's Yellow Turk mare", 'http://www.wikidata.org/entity/Q62022937', 'Oglethorpe Arabian', '1690', '', 'male organism']

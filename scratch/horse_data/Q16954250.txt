@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16954250', 'Bryn Mawr', '', '', '', '', '1901', '', 'male organism']

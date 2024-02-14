@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18024215', 'Lombard', '', '', '', '', '1967', '1994', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337990', 'Hobgoblin', '', '', 'http://www.wikidata.org/entity/Q61994005', 'Aleppo', '1724', '', 'male organism']

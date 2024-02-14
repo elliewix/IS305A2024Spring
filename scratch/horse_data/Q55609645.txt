@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55609645', 'Diophon', '', '', '', '', '1921', '', 'male organism']

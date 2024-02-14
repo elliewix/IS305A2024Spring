@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17177327', 'Dollar du Mûrier', 'http://www.wikidata.org/entity/Q65964452', 'Karielle', 'http://www.wikidata.org/entity/Q1679759', 'Jalisco B', '1991', '2009', 'male organism']

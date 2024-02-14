@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3532595', 'Toscan', '', '', 'http://www.wikidata.org/entity/Q3195446', 'Kerjacques', '1963', '1979', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7756005', 'The Panther', '', '', 'http://www.wikidata.org/entity/Q17027108', 'Tracery', '1916', '', 'male organism']

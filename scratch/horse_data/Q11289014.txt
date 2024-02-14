@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11289014', 'Utsumi Jordan', '', '', 'http://www.wikidata.org/entity/Q11322180', 'Trot Thunder', '2000', '', 'male organism']

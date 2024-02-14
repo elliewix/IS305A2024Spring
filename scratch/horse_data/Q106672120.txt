@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106672120', 'Reseda', 'http://www.wikidata.org/entity/Q96241632', 'Camelia', 'http://www.wikidata.org/entity/Q96037199', 'Fuschia', '1895', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6034032', 'Inish Glora', '', '', 'http://www.wikidata.org/entity/Q7307910', 'Regal Classic', '1998', '', 'female organism']

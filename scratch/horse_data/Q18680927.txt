@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18680927', 'Patrikin Muisto', '', '', 'http://www.wikidata.org/entity/Q11886890', 'Patrik', '', '', 'male organism']

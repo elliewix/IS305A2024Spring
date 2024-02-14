@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20979720', 'Giacometti', '', '', '', '', '1971', '', 'male organism']

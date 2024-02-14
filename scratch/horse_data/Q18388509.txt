@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18388509', 'Dibidale', '', '', 'http://www.wikidata.org/entity/Q4692288', 'Aggressor', '1971', '', 'female organism']

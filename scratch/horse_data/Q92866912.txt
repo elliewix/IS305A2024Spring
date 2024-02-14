@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q92866912', 'Admire Eikan', '', '', '', '', '', '', 'male organism']

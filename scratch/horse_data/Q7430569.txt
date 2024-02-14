@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7430569', 'Scat Daddy', 'http://www.wikidata.org/entity/Q55071257', 'Love Style', 'http://www.wikidata.org/entity/Q6217141', 'Johannesburg', '2004', '2015', 'male organism']

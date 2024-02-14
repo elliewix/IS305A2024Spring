@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118512556', 'Tapit Trice', '', '', '', '', '2020', '', 'male organism']

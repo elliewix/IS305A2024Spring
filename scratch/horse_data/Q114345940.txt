@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114345940', 'Jun Light Bolt', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2017', '', 'male organism']

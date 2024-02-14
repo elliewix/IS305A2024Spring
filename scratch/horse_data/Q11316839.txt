@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316839', 'ダイナナホウシユウ', '', '', '', '', '1951', '', 'male organism']

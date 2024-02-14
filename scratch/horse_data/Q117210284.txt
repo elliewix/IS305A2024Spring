@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117210284', 'Isis 1744', 'http://www.wikidata.org/entity/Q119301182', 'Clara-Belle 874', 'http://www.wikidata.org/entity/Q117210263', 'Prince Chaldean', '1881', '', 'female organism']

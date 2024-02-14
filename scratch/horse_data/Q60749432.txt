@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60749432', 'Benbatl', '', '', '', '', '2014', '', 'male organism']

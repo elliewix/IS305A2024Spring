@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111336984', 'Sariegail', '', '', '', '', '1956', '', 'female organism']

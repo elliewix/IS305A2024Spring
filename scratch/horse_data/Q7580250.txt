@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7580250', 'Spread Eagle', '', '', '', '', '1792', '', 'male organism']

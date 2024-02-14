@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071275', 'Likeable Style', 'http://www.wikidata.org/entity/Q55071287', 'Personable Lady', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1990', '', 'female organism']

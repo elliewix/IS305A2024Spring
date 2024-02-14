@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q69541105', 'Siskin', '', '', '', '', '', '', 'male organism']

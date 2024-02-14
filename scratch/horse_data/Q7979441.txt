@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7979441', 'Weekend Surprise', 'http://www.wikidata.org/entity/Q61989054', 'Lassie Dear', 'http://www.wikidata.org/entity/Q1151926', 'Secretariat', '1980', '', 'female organism']

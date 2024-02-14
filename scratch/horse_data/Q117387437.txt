@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117387437', 'Surley mare', 'http://www.wikidata.org/entity/Q117387489', 'Coneyskins mare', 'http://www.wikidata.org/entity/Q117360026', 'Surley', '1726', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115089136', 'Zandor Z', '', '', '', '', '1989', '', 'male organism']

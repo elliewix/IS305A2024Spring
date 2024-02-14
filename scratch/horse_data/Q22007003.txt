@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22007003', 'Sambista', '', '', 'http://www.wikidata.org/entity/Q11311677', 'Suzuka Mambo', '2009', '', 'female organism']

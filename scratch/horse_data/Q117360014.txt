@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360014', 'Golden Ball', 'http://www.wikidata.org/entity/Q117360019', 'Jilt', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1735', '', 'male organism']

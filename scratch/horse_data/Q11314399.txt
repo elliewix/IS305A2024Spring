@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314399', 'Theft', '', '', 'http://www.wikidata.org/entity/Q7706757', 'Tetratema', '1932', '1950', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117885280', 'Seducteur', 'http://www.wikidata.org/entity/Q117885423', 'Eutine 9620', 'http://www.wikidata.org/entity/Q117885259', 'Indian', '1900', '', 'male organism']

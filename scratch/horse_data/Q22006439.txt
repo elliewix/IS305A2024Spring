@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006439', 'Sanglamore', '', '', 'http://www.wikidata.org/entity/Q15633029', 'Sharpen Up', '1987', '', 'male organism']

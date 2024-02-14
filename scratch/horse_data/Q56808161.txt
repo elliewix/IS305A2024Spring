@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56808161', 'Meisho Tekkon', '', '', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2015', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6389678', 'Kennedy Road', '', '', 'http://www.wikidata.org/entity/Q400989', 'Victoria Park', '1968', '1995', 'male organism']

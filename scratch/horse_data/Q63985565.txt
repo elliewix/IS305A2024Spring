@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63985565', 'Weatherbit', 'http://www.wikidata.org/entity/Q61987139', 'Miss Letty', 'http://www.wikidata.org/entity/Q62036576', 'Sheet Anchor', '1842', '', 'male organism']

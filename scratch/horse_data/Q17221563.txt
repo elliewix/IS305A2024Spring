@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221563', 'Authaal', '', '', 'http://www.wikidata.org/entity/Q2739031', 'Shergar', '1983', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4726816', 'Alipes', '', '', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1757', '', 'female organism']

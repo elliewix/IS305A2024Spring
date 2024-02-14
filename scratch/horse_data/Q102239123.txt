@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239123', 'Billionaire', '', '', '', '', '1934', '', 'male organism']

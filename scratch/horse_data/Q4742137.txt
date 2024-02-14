@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4742137', 'Ameerat', '', '', 'http://www.wikidata.org/entity/Q6770513', 'Mark of Esteem', '1998', '', 'female organism']

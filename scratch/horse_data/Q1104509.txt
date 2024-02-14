@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1104509', 'Danzig', 'http://www.wikidata.org/entity/Q61985951', 'Pas de Nom', 'http://www.wikidata.org/entity/Q1969034', 'Northern Dancer', '1977', '2006', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978884', 'Marigold', '', '', 'http://www.wikidata.org/entity/Q7693951', 'Teddington', '1860', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221691', 'アルドラゴン', '', '', 'http://www.wikidata.org/entity/Q4962908', "Brian's Time", '2001', '2014', 'male organism']

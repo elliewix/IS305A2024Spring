@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6946603', 'My Way de Solzen', '', '', '', '', '2000', '', '']

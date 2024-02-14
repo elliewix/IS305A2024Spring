@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012343', 'Jemima', 'http://www.wikidata.org/entity/Q64012347', 'Matchem Middleton', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1769', '', 'female organism']

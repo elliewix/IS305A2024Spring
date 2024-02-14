@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115265456', 'Omi Alice', '', '', 'http://www.wikidata.org/entity/Q11338126', 'White Muzzle', '2012', '2017', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120650488', 'Frederick Degas', 'http://www.wikidata.org/entity/Q120650243', 'Beauty Don', '', '', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17231561', 'Dai Koter', '', '', 'http://www.wikidata.org/entity/Q11330399', 'Hindostan', '1962', '1987', 'male organism']

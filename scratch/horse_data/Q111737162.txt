@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111737162', 'Axl Rose', '', '', '', '', '2016', '', 'male']

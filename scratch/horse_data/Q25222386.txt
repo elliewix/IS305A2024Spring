@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25222386', 'Lanfranco', '', '', 'http://www.wikidata.org/entity/Q7311437', 'Relko', '1982', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998806', 'Majano', 'http://www.wikidata.org/entity/Q61998813', 'Madgi Moto', 'http://www.wikidata.org/entity/Q61969856', 'Deiri', '1937', '', 'male organism']

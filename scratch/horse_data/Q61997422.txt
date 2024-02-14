@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997422', 'Stop Watch', '', '', '', '', '1933', '', 'female organism']

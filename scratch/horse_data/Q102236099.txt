@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236099', 'Playfair', '', '', '', '', '1882', '', 'male organism']

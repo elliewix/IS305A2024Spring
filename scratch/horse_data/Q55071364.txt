@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071364', 'Yarn', 'http://www.wikidata.org/entity/Q55071372', 'Narrate', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '', '', 'female organism']

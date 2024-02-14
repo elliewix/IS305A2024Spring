@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987110', 'Black Duchess', 'http://www.wikidata.org/entity/Q61987123', 'Black Corrie', 'http://www.wikidata.org/entity/Q55612259', 'Galliard', '', '', 'female organism']

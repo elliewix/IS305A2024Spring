@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111348323', 'Alpha Z', '', '', 'http://www.wikidata.org/entity/Q2649831', 'Alme', '1977', '', 'female organism']

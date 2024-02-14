@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339880', 'マウンテンストーン', '', '', 'http://www.wikidata.org/entity/Q11317506', 'ダンスホール', '1993', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7687650', 'Tasso', '', '', 'http://www.wikidata.org/entity/Q5434454', 'Fappiano', '1983', '', 'male organism']

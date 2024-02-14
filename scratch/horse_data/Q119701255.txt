@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119701255', 'Jugurtha 1699', 'http://www.wikidata.org/entity/Q119701290', 'Rosalie', 'http://www.wikidata.org/entity/Q119694546', 'Clement 1965', '1882', '', 'male organism']

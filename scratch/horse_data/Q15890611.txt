@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q15890611', 'Luger', '', '', '', '', '', '', 'male organism']

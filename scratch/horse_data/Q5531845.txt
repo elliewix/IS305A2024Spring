@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5531845', 'General Duke', '', '', 'http://www.wikidata.org/entity/Q370429', 'Lexington', '1865', '', 'male organism']

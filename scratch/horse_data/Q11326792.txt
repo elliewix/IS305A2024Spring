@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326792', 'Hollywood Wildcat', 'http://www.wikidata.org/entity/Q63539181', 'Miss Wildcatter', 'http://www.wikidata.org/entity/Q6437279', 'Kris S.', '1990', '2012', 'female organism']

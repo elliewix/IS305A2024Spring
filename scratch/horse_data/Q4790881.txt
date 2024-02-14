@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4790881', 'Arise', '', '', '', '', '1946', '', 'male organism']

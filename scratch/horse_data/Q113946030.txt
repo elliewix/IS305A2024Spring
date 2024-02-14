@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113946030', 'Narita Taisei', '', '', 'http://www.wikidata.org/entity/Q11316820', 'Dyna Gulliver', '1989', '', 'male organism']

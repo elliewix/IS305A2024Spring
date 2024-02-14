@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q39053610', 'Meneval', '', '', '', '', '1973', '', '']

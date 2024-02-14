@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242698', 'Read the Footnotes', '', '', '', '', '2001', '', 'male organism']

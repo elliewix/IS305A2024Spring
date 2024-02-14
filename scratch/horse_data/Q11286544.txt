@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286544', 'Ishino Sunday', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1993', '', 'male organism']

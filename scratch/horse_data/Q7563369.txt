@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7563369', 'Sorcery', 'http://www.wikidata.org/entity/Q62015578', 'Cobbea', 'http://www.wikidata.org/entity/Q7563356', 'Sorcerer', '1808', '', 'female organism']

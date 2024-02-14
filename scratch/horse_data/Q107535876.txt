@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107535876', 'Vertex', 'http://www.wikidata.org/entity/Q107535862', 'Kanace', 'http://www.wikidata.org/entity/Q107535860', 'The Rhymer', '1954', '', 'male organism']

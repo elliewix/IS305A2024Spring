@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67604032', 'Qahar Q.C.', '', '', '', '', '2011', '2019', '']

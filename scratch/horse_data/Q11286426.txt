@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286426', 'Ikuno Dictus', '', '', 'http://www.wikidata.org/entity/Q11320008', 'Dictus', '1987', '2019', 'female organism']

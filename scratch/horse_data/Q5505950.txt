@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5505950', 'Frontier', '', '', 'http://www.wikidata.org/entity/Q15698244', 'Orme', '1896', '', 'male organism']

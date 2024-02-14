@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022524', 'Drone mare', '', '', 'http://www.wikidata.org/entity/Q62022527', 'Drone', '1792', '', 'female organism']

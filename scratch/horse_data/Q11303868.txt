@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303868', 'Golden Wave', '', '', 'http://www.wikidata.org/entity/Q11342345', 'Minami Homare', '1951', '', 'male organism']

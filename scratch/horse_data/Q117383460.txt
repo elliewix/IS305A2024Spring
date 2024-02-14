@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117383460', 'Beauty', 'http://www.wikidata.org/entity/Q117383469', 'Cytherea', 'http://www.wikidata.org/entity/Q62032933', 'Lanercost', '1849', '', 'female organism']

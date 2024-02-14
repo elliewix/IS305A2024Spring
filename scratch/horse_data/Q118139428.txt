@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118139428', 'Money Catcher', '', '', '', '', '2017', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3074614', 'Flying Fox', 'http://www.wikidata.org/entity/Q61970235', 'Vampire', 'http://www.wikidata.org/entity/Q15698244', 'Orme', '1896', '1911', 'male organism']

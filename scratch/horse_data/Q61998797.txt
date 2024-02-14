@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998797', 'Flush Royal', '', '', 'http://www.wikidata.org/entity/Q61998806', 'Majano', '1945', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7751098', 'The Merry Monarch', '', '', '', '', '1842', '', 'male organism']

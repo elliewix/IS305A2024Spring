@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5287400', 'Doctor Syntax', 'http://www.wikidata.org/entity/Q62033389', 'Beningbrough mare', 'http://www.wikidata.org/entity/Q61987198', 'Paynator', '1811', '', 'male organism']

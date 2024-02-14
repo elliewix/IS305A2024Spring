@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241207', 'Triple Crown', '', '', '', '', '1971', '', 'male organism']

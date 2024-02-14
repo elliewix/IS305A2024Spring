@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3470938', 'Sampson', '', '', '', '', '1846', '', 'male organism']

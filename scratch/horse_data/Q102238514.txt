@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238514', 'Paraphrase', '', '', '', '', '1926', '', 'male organism']

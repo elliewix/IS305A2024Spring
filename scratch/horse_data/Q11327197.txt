@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11327197', 'ハーディービジョン', '', '', '', '', '1981', '', 'male organism']

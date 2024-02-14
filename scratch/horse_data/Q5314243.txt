@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5314243', 'Duncan', '', '', '', '', '2005', '', '']

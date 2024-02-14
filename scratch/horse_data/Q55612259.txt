@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55612259', 'Galliard', 'http://www.wikidata.org/entity/Q61987114', 'Mavis', 'http://www.wikidata.org/entity/Q1492693', 'Galopin', '1880', '', 'male organism']

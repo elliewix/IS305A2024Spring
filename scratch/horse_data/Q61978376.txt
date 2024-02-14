@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978376', 'Ibtisamm', '', '', 'http://www.wikidata.org/entity/Q39070082', 'Caucasus', '1981', '', 'female organism']

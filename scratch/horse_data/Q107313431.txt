@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107313431', 'Electioneer', '', '', '', '', '1868', '1890', '']

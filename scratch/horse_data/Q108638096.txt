@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108638096', 'Horloger', 'http://www.wikidata.org/entity/Q112112684', 'Scabieuse', 'http://www.wikidata.org/entity/Q108638235', 'Aunay', '1907', '', 'male organism']

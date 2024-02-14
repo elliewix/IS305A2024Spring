@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6505090', 'Lawyer Ron', '', '', 'http://www.wikidata.org/entity/Q6486046', 'Langfuhr', '2003', '', 'male organism']

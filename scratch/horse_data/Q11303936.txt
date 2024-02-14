@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303936', 'Gold City', '', '', '', '', '1984', '', 'male organism']

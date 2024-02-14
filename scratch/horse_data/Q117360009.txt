@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360009', 'Golden Ball mare', 'http://www.wikidata.org/entity/Q117360112', 'Bushy Molly', 'http://www.wikidata.org/entity/Q117360014', 'Golden Ball', '1745', '', 'female organism']

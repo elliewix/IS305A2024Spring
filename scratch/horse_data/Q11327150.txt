@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11327150', 'Hambletonian', 'http://www.wikidata.org/entity/Q62027908', 'Highflyer mare', 'http://www.wikidata.org/entity/Q6411576', 'King Fergus', '1792', '1818', 'male organism']

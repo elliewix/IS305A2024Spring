@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17225255', 'Mogumogu Pakupaku', '', '', 'http://www.wikidata.org/entity/Q11343356', 'Meisho Bowler', '2010', '', 'male organism']

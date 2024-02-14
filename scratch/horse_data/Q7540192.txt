@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7540192', "Slew o' Gold", 'http://www.wikidata.org/entity/Q4733360', 'Alluvial', 'http://www.wikidata.org/entity/Q1457136', 'Seattle Slew', '1980', '2007', 'male organism']

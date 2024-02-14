@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62034953', 'Katharine', 'http://www.wikidata.org/entity/Q62035005', 'Paymaster mare', 'http://www.wikidata.org/entity/Q61978867', 'Delpini', '1798', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5545919', 'George Washington', '', '', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '2003', '2007', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5741736', 'Hermit', 'http://www.wikidata.org/entity/Q63969303', 'Seclusion', 'http://www.wikidata.org/entity/Q11324950', 'Newminster', '1864', '', 'male organism']

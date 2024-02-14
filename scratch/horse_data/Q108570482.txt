@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108570482', '532 Shagya X-3', 'http://www.wikidata.org/entity/Q123496558', '117 Amurath-2', '', '', '1909', '', 'male organism']

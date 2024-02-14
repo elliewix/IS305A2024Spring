@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7127279', 'Palestine', '', '', 'http://www.wikidata.org/entity/Q5429939', 'Fair Trial', '1947', '', 'male organism']

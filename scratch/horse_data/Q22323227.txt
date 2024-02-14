@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22323227', 'Galiane', '', '', '', '', '1994', '', 'female organism']

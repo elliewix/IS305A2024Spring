@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60744393', 'Assessor', '', '', '', '', '1989', '', '']

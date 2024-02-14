@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237518', 'Bright Tomorrow', '', '', '', '', '1920', '', 'male organism']

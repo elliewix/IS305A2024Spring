@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q92866826', 'Persian King', '', '', '', '', '', '', 'male organism']

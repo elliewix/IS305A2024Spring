@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303789', 'Going Suzuka', '', '', 'http://www.wikidata.org/entity/Q11316820', 'Dyna Gulliver', '1993', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105713529', 'Avantage', '', '', '', '', '', '', '']

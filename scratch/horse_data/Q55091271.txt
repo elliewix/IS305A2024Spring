@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55091271', 'Papillon', 'http://www.wikidata.org/entity/Q61988995', 'Miss Cleveland', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1769', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22306772', 'Miss des Cresles', 'http://www.wikidata.org/entity/Q22329640', 'Urlurette', 'http://www.wikidata.org/entity/Q22320787', 'Amarpour', '1978', '1989', 'female organism']

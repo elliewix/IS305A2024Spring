@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30934980', 'Galilea', '', '', '', '', '1981', '', 'female organism']

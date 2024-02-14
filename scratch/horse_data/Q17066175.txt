@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17066175', 'Will Take Charge', 'http://www.wikidata.org/entity/Q22006406', 'Take Charge Lady', 'http://www.wikidata.org/entity/Q7882432', "Unbridled's Song", '2010', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5037586', 'Caractacus', 'http://www.wikidata.org/entity/Q62034701', 'Defenceless', 'http://www.wikidata.org/entity/Q62033517', 'Kingston', '1859', '1878', 'male organism']

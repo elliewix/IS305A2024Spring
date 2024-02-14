@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322362', 'トーセンダンス', 'http://www.wikidata.org/entity/Q11317464', 'Dancing Key', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '2002', '', 'male organism']

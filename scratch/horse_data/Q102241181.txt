@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241181', 'Pat McGroder', '', '', '', '', '1971', '', 'male organism']

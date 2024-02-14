@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q74125778', 'Resistencia', '', '', '', '', '2017', '', 'female organism']

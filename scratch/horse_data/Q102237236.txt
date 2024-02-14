@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237236', 'Patches', '', '', '', '', '1917', '', 'male organism']

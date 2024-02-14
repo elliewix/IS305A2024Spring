@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319074', 'テイエムアンコール', '', '', 'http://www.wikidata.org/entity/Q7096598', 'Opera House', '2004', '', 'male organism']

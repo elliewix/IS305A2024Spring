@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11329743', 'パンフレット', '', '', '', '', '1985', '', 'male organism']

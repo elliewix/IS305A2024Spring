@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63980558', 'Weazle', 'http://www.wikidata.org/entity/Q63980561', 'Eclipse mare', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1776', '', 'male organism']

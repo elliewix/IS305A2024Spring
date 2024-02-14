@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105638483', 'アレックス', '', '', '', '', '1984', '2021', 'male organism']

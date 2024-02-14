@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7374665', 'Royal Palace', '', '', 'http://www.wikidata.org/entity/Q4852230', 'Ballymoss', '1964', '', 'male organism']

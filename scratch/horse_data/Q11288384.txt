@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11288384', 'Wing Arrow', '', '', 'http://www.wikidata.org/entity/Q11283161', 'Assatis', '1995', '2019', 'male organism']

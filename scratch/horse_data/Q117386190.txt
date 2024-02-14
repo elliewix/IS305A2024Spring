@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117386190', 'Shireborn', 'http://www.wikidata.org/entity/Q117386262', 'sister to Bandy', 'http://www.wikidata.org/entity/Q11337990', 'Hobgoblin', '1739', '', 'female organism']

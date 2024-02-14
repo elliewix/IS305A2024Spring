@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8066638', 'Zarathustra', '', '', 'http://www.wikidata.org/entity/Q21996664', 'Persian Gulf', '1951', '1967', 'male organism']

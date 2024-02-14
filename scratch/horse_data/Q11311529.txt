@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311529', 'Squirt', '', '', 'http://www.wikidata.org/entity/Q4865372', "Bartlett's Childers", '1732', '', 'male organism']

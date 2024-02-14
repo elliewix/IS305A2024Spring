@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119299906', 'Picador', '', '', '', '', '', '', 'male organism']

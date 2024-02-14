@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312509', 'Strong Blood', '', '', 'http://www.wikidata.org/entity/Q11321082', 'Tokai Teio', '1999', '', 'male organism']

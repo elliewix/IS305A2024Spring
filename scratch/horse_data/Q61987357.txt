@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987357', 'Lady Hamburg', 'http://www.wikidata.org/entity/Q61987363', 'Lady Frivoles', 'http://www.wikidata.org/entity/Q5644286', 'Hamburg', '1908', '', 'female organism']

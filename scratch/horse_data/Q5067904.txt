@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5067904', 'Chain Reaction', '', '', 'http://www.wikidata.org/entity/Q5104797', 'Chop Chop', '1950', '', 'male organism']

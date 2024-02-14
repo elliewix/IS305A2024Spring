@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237726', 'Mr. Mutt', '', '', '', '', '1921', '', 'male organism']

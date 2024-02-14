@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798602', 'Season Rich', '', '', 'http://www.wikidata.org/entity/Q20047186', 'Duramente', '2020', '', 'male organism']

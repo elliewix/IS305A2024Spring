@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16997672', 'Meteora', '', '', 'http://www.wikidata.org/entity/Q64012420', 'Meteor', '1802', '', 'female organism']

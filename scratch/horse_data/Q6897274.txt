@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6897274', 'Momigi', '', '', '', '', '1972', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117982462', 'Turrenne', '', '', 'http://www.wikidata.org/entity/Q117982258', 'Sangrado', '', '', 'male organism']

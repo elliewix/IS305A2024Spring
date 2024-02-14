@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56303485', 'Red Hot Dynamite', '', '', '', '', '', '', '']

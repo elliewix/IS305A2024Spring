@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96209743', 'Nabucho', 'http://www.wikidata.org/entity/Q96212816', 'Gambade', 'http://www.wikidata.org/entity/Q96207395', 'Cherbourg', '1888', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26260811', 'Rahotep de Toscane', 'http://www.wikidata.org/entity/Q26260816', 'Fanny du Mûrier', 'http://www.wikidata.org/entity/Q2123116', 'Quidam de Revel', '2005', '', 'male organism']

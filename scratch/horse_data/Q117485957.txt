@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117485957', 'Freud de Kreisker', 'http://www.wikidata.org/entity/Q117485960', 'Shirel de Kreisker', 'http://www.wikidata.org/entity/Q117488223', 'Taalex', '2015', '', 'male organism']

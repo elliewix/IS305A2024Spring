@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111972934', 'President City', '', '', 'http://www.wikidata.org/entity/Q17231561', 'Dai Koter', '1983', '', 'male organism']

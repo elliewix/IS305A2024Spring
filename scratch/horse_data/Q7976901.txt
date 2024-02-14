@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7976901', 'Wayward Lass', '', '', '', '', '1978', '', 'male organism']

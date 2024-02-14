@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11327256', 'ハートランドヒリュ', '', '', 'http://www.wikidata.org/entity/Q11347583', 'ランドヒリュウ', '1996', '2006', 'male organism']

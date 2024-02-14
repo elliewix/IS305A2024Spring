@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6543729', 'Lido Palace', '', '', '', '', '1997', '', 'male organism']

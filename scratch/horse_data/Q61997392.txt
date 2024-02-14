@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997392', 'Exotic Treat', 'http://www.wikidata.org/entity/Q61997395', 'Rare Treat', 'http://www.wikidata.org/entity/Q3553272', 'Vaguely Noble', '1971', '', 'female organism']

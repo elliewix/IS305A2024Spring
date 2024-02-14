@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116173582', 'Archer', '', '', 'http://www.wikidata.org/entity/Q1018502', 'Byerley Turk', '1700', '', 'male organism']

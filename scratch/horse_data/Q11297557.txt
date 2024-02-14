@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297557', 'Kyoei Bowgun', '', '', '', '', '1989', '', 'male organism']

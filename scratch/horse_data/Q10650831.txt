@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10650831', 'Remington Crown', '', '', '', '', '1993', '', '']

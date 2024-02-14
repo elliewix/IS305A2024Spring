@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313287', 'Smart Falcon', '', '', 'http://www.wikidata.org/entity/Q11303924', 'Gold Allure', '2005', '', 'male organism']

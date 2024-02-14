@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735332', 'Logi Chalice', '', '', 'http://www.wikidata.org/entity/Q11317065', 'Daiwa Major', '2012', '', 'male organism']

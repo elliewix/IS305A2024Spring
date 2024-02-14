@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071607', 'Emali', 'http://www.wikidata.org/entity/Q55071629', 'Eclair', 'http://www.wikidata.org/entity/Q55071619', 'Umidwar', '', '', 'female organism']

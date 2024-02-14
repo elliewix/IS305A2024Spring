@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242678', 'Ten Cents A Shine', '', '', '', '', '2000', '', 'male organism']

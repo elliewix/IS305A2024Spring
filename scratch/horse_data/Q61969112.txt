@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969112', 'Intent', 'http://www.wikidata.org/entity/Q61969116', 'Liz F.', 'http://www.wikidata.org/entity/Q7968524', 'War Relic', '1948', '', 'male organism']

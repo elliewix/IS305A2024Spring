@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012082', "Parker's Lady Thigh", 'http://www.wikidata.org/entity/Q61994021', 'Grey Bloody Buttocks', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1740', '', 'female organism']

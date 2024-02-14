@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119255441', 'Biche', '', '', 'http://www.wikidata.org/entity/Q119247743', 'Comet 104', '', '', 'female organism']

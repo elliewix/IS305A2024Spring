@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109769633', 'Hambletonian mare', 'http://www.wikidata.org/entity/Q109768605', 'Sir Peter Mare', 'http://www.wikidata.org/entity/Q11327150', 'Hambletonian', '1804', '', 'female organism']

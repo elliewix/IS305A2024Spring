@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q41670944', 'Quorida de Treho', 'http://www.wikidata.org/entity/Q67479231', 'Dalais', 'http://www.wikidata.org/entity/Q3192701', 'Kannan', '2004', '', 'female organism']

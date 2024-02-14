@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11302197', 'Kodama', 'http://www.wikidata.org/entity/Q11308271', 'Shiraoki', '', '', '1957', '', 'male organism']

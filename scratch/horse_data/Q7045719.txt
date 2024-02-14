@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7045719', 'Noble Flaire', '', '', '', '', '1984', '2006', '']

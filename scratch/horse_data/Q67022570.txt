@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67022570', 'Ferrari Sisu', '', '', '', '', '2015', '', '']

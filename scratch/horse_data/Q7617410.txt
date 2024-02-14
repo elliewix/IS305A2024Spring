@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7617410', 'Sting', '', '', 'http://www.wikidata.org/entity/Q7581536', 'Spur', '1921', '', 'male organism']

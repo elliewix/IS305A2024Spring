@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111706348', 'Temoignage', '', '', 'http://www.wikidata.org/entity/Q7768577', 'The Tetrarch', '1918', '', 'female organism']

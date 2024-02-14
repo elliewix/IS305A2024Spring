@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119414512', 'Black Beauty Laet', '', '', 'http://www.wikidata.org/entity/Q117885283', 'Laet', '', '', 'female organism']

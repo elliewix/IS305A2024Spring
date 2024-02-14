@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66827935', 'Mer de Glace', '', '', 'http://www.wikidata.org/entity/Q11349271', 'Rulership', '2015', '', 'male organism']

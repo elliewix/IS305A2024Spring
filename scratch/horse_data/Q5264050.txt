@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5264050', 'Desert Vixen', '', '', 'http://www.wikidata.org/entity/Q11287793', 'In Reality', '1970', '', 'female organism']

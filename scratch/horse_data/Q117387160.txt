@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117387160', 'Aristotle', 'http://www.wikidata.org/entity/Q117387200', "Bladen's Crab mare", 'http://www.wikidata.org/entity/Q117369494', 'Cullen Arabian', '1755', '', 'male organism']

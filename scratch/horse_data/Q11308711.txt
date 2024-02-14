@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308711', 'Shimmei Fuji', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2007', '', 'female organism']

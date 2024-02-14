@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7832458', 'Traffic Judge', '', '', 'http://www.wikidata.org/entity/Q4725645', 'Alibhai', '1952', '', 'male organism']

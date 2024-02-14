@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7427035', 'Saucy Sue', '', '', 'http://www.wikidata.org/entity/Q7659386', 'Swynford', '1922', '', 'female organism']

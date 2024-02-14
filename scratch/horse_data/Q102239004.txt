@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239004', 'Merry Pete', '', '', '', '', '1933', '', 'male organism']

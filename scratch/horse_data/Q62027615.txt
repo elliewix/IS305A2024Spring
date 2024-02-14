@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027615', 'Cypher', 'http://www.wikidata.org/entity/Q61993983', 'Regulus mare', 'http://www.wikidata.org/entity/Q17021688', 'Squirrel', '1772', '', 'female organism']

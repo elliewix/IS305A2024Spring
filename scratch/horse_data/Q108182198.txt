@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108182198', 'Ifrane', '', '', '', '', '1974', '', 'female organism']

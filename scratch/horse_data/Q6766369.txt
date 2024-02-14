@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6766369', 'Marju', '', '', 'http://www.wikidata.org/entity/Q6494747', 'Last Tycoon', '1988', '', 'male organism']

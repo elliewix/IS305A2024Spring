@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121011081', 'Suakim', '', '', 'http://www.wikidata.org/entity/Q121011056', 'Sultan', '1963', '', 'male organism']

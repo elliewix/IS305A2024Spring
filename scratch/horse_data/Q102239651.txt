@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239651', 'Riskolater', '', '', '', '', '1944', '', 'male organism']

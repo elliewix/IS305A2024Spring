@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7587244', 'St. Bass', '', '', '', '', '1908', '', 'male organism']

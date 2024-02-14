@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q68177897', 'Ghaiyyath', '', '', 'http://www.wikidata.org/entity/Q5310663', 'Dubawi', '2015', '', 'male organism']

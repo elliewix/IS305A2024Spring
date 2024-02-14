@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121844854', 'Dantsu Kitcho', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '', '', 'male organism']

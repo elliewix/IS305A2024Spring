@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56450185', "Galet d'Auzay", '', '', '', '', '1994', '', 'male organism']

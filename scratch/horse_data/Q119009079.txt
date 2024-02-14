@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119009079', 'Shin Horisky', '', '', 'http://www.wikidata.org/entity/Q11338026', 'Horisky', '1988', '', 'male organism']

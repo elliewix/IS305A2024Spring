@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124369228', 'Déesse Sabes', 'http://www.wikidata.org/entity/Q120484451', 'Trouspinette', 'http://www.wikidata.org/entity/Q120356117', 'Hannah Hill Kemo Sabe', '2013', '2015', 'female organism']

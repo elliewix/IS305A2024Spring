@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22338059', 'Ukase', 'http://www.wikidata.org/entity/Q111346196', 'Joyeuse', 'http://www.wikidata.org/entity/Q3147477', 'Ibrahim', '1964', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987605', 'Glowing Tribute', 'http://www.wikidata.org/entity/Q61987612', 'Admiring', 'http://www.wikidata.org/entity/Q5597761', 'Graustark', '1973', '', 'female organism']

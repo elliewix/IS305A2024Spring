@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290869', 'We Miss Artie', '', '', '', '', '2011', '', 'male organism']

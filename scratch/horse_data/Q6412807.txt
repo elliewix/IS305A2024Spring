@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6412807', 'Kingman', '', '', 'http://www.wikidata.org/entity/Q124327786', 'Glengarry', '1888', '', 'male organism']

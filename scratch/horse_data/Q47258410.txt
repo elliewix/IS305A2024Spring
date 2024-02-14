@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47258410', 'Chatelet Girl', 'http://www.wikidata.org/entity/Q115090660', 'Sigma II', 'http://www.wikidata.org/entity/Q47258644', 'Quabri de Laleu', '1990', '', 'female organism']

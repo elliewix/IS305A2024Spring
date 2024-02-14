@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119289396', 'Acton 1298', 'http://www.wikidata.org/entity/Q119289608', 'Sophie', 'http://www.wikidata.org/entity/Q117732706', 'Brilliant 756', '1879', '', 'male organism']

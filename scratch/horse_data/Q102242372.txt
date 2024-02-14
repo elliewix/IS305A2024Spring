@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242372', 'Dazzling Falls', '', '', 'http://www.wikidata.org/entity/Q104236355', 'Taylors Falls', '1992', '', 'male organism']

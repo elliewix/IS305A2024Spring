@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25171618', 'Mister Majestic', '', '', '', '', '1984', '', '']

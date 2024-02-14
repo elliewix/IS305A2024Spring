@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7225900', 'Polo Prince', '', '', '', '', '1958', '', 'male organism']

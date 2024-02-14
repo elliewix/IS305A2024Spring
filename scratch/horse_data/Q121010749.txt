@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121010749', 'Batan 2597', 'http://www.wikidata.org/entity/Q121010887', "93 O'Bajan I-17", 'http://www.wikidata.org/entity/Q121010736', "O'Bajan XIII 1", '1984', '', 'male organism']

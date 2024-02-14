@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105475873', 'Locomite', '', '', '', '', '1955', '1964', '']

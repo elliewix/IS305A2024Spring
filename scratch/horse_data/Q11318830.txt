@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11318830', 'Tsurumaru Tsuyoshi', '', '', 'http://www.wikidata.org/entity/Q11308703', 'Symboli Rudolf', '1995', '', 'male organism']

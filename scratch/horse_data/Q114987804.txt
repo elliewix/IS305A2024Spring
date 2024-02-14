@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114987804', 'Fax I', '', '', 'http://www.wikidata.org/entity/Q108576842', 'Fanatiker', '1954', '', 'male organism']

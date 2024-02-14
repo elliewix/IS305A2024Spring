@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5378204', 'English Channel', '', '', 'http://www.wikidata.org/entity/Q6145306', 'Smart Strike', '2002', '', 'male organism']

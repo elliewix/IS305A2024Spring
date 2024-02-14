@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4976184', 'Brown Jack', '', '', '', '', '1924', '', 'male organism']

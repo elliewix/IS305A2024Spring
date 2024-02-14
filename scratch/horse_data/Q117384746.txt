@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384746', 'Coalition Colt mare', 'http://www.wikidata.org/entity/Q117384793', 'Bustard mare', 'http://www.wikidata.org/entity/Q117384747', 'Coalition', '1763', '', 'female organism']

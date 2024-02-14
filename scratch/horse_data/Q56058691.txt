@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56058691', 'Brave Smash', '', '', 'http://www.wikidata.org/entity/Q56058702', 'Tosen Phantom', '2013', '', 'male organism']

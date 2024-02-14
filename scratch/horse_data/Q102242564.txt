@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242564', 'The Deputy', '', '', '', '', '1997', '', 'male organism']

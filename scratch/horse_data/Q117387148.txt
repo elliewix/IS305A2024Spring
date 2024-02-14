@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117387148', 'Polly Byrd', 'http://www.wikidata.org/entity/Q117387299', 'Young Bonny Lass', 'http://www.wikidata.org/entity/Q117387160', 'Aristotle', '1771', '', 'female organism']

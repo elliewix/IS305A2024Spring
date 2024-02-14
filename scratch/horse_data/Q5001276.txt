@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5001276', 'Busanda', 'http://www.wikidata.org/entity/Q61994673', 'Businesslike', 'http://www.wikidata.org/entity/Q1417640', 'War Admiral', '1947', '', 'female organism']

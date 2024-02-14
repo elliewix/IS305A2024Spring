@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311789', 'Style Patch', '', '', '', '', '1950', '', 'female organism']

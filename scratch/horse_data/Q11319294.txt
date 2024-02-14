@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319294', 'テツノカチドキ', '', '', '', '', '1980', '', 'male organism']

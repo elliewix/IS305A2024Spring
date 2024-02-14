@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006406', 'Take Charge Lady', 'http://www.wikidata.org/entity/Q63970038', 'Felicita', 'http://www.wikidata.org/entity/Q5252233', 'Dehere', '1999', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6555433', 'Líon Na Bearnaí', '', '', '', '', '2002', '', '']

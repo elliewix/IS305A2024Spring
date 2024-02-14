@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238757', 'Lucky Tom', '', '', '', '', '1929', '', 'male organism']

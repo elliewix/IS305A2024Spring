@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120834965', 'Jussuf IV', '', '', '', '', '1918', '', 'male organism']

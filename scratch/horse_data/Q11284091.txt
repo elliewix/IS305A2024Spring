@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11284091', 'Admise', '', '', 'http://www.wikidata.org/entity/Q11325975', 'Highest Honor', '1992', '', 'female organism']

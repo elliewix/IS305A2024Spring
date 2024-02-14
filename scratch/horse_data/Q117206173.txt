@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117206173', "Chéri's daughter", '', '', 'http://www.wikidata.org/entity/Q117206162', 'Cheri', '', '', 'female organism']

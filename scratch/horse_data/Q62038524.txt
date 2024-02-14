@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62038524', 'Zara', 'http://www.wikidata.org/entity/Q62038593', 'Flora', 'http://www.wikidata.org/entity/Q61978867', 'Delpini', '1801', '', 'female organism']

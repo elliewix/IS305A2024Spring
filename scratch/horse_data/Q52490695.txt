@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52490695', 'Templier', 'http://www.wikidata.org/entity/Q52490399', 'Judith', '', '', '1919', '', 'male organism']

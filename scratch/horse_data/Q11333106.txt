@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1992', '', 'male organism']

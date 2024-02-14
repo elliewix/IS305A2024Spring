@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7089400', 'Omaha', '', '', 'http://www.wikidata.org/entity/Q5518861', 'Gallant Fox', '1932', '1959', 'male organism']

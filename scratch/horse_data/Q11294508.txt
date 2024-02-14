@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11294508', 'Kanetoshi Governor', '', '', 'http://www.wikidata.org/entity/Q11285398', 'Amber Shadai', '1995', '', 'male organism']

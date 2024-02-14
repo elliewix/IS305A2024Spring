@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2640289', 'Alchimist', '', '', 'http://www.wikidata.org/entity/Q1433915', 'Herold', '1930', '1945', 'male organism']

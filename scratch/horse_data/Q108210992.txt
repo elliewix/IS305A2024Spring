@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108210992', 'Sister Olive', '', '', '', '', '1918', '', 'female organism']

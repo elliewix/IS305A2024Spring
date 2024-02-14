@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q89444378', 'Gold Queen', '', '', '', '', '', '', 'female organism']

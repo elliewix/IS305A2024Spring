@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5422006', 'Exterminator', 'http://www.wikidata.org/entity/Q104240227', 'Fair Empress', 'http://www.wikidata.org/entity/Q63969157', 'McGee', '1915', '1945', 'male organism']

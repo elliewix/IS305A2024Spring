@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240954', 'Helio Rise', '', '', '', '', '1968', '', 'male organism']

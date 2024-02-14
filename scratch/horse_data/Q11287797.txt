@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11287797', 'Invincible Spirit', 'http://www.wikidata.org/entity/Q60742015', 'Rafha', 'http://www.wikidata.org/entity/Q5602473', 'Green Desert', '1997', '', 'male organism']

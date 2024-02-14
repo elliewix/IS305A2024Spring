@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969086', 'Valid Appeal', 'http://www.wikidata.org/entity/Q61969110', 'Desert Trial', 'http://www.wikidata.org/entity/Q11287793', 'In Reality', '1972', '', 'male organism']

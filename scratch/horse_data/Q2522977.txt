@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2522977', 'Varenne', '', '', '', '', '1995', '', 'male organism']

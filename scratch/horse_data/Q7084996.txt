@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7084996', 'Old Sorrel', '', '', 'http://www.wikidata.org/entity/Q123944158', 'Hickory Bill', '1915', '1949', 'male organism']

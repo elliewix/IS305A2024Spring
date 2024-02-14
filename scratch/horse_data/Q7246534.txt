@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7246534', 'Prize Lady', 'http://www.wikidata.org/entity/Q63970085', 'Pen Bal Lady', 'http://www.wikidata.org/entity/Q7246542', 'Prized', '2001', '', 'female organism']

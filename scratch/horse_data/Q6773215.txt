@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6773215', 'Marscay', '', '', '', '', '1979', '', 'male organism']

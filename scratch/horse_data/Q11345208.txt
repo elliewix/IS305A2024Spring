@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345208', 'Yamanin Sucre', '', '', 'http://www.wikidata.org/entity/Q11321082', 'Tokai Teio', '2001', '', 'female organism']

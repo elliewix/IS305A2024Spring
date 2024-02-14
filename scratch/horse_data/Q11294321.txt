@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11294321', 'Katsushiro', '', '', '', '', '1948', '', 'male organism']

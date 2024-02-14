@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52377186', 'Corlay', 'http://www.wikidata.org/entity/Q52502390', 'Theresine', 'http://www.wikidata.org/entity/Q52390137', 'Flying Cloud', '1872', '1897', 'male organism']

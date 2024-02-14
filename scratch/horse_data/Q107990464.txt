@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107990464', 'Quel Homme de Hus', '', '', 'http://www.wikidata.org/entity/Q2123116', 'Quidam de Revel', '2006', '', 'male organism']

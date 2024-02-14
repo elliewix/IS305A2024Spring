@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343342', 'メイクマイウエー', '', '', 'http://www.wikidata.org/entity/Q17224110', 'トモスベビー', '1973', '', 'male organism']

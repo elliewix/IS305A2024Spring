@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970465', 'Bold Ruckus', '', '', 'http://www.wikidata.org/entity/Q4939122', 'Boldnesian', '', '', 'male organism']

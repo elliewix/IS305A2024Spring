@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994358', 'Termagant', '', '', '', '', '1772', '', 'female organism']

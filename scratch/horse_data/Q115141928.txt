@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115141928', 'Mexico', 'http://www.wikidata.org/entity/Q22328292', 'Dame de Ranville', 'http://www.wikidata.org/entity/Q25397472', 'Furioso', '1956', '', 'male organism']

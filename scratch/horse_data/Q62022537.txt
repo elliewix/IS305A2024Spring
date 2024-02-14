@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022537', 'Partner mare', 'http://www.wikidata.org/entity/Q62022543', 'Bay Bloody Buttocks', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1744', '', 'female organism']

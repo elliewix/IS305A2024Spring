@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241354', 'Sanhedrin', '', '', '', '', '1974', '', 'male organism']

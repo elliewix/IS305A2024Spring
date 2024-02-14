@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66771671', 'Qerly Chin', '', '', 'http://www.wikidata.org/entity/Q111370249', 'Chin Chin', '1993', '', 'female organism']

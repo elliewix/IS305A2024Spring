@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4667140', 'Abernant', '', '', 'http://www.wikidata.org/entity/Q7114671', 'Owen Tudor', '1946', '', 'male organism']

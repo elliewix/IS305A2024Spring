@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7833455', 'Tranquil Star', '', '', '', '', '1937', '', 'female organism']

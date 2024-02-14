@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22320188', 'Fier de lui', '', '', 'http://www.wikidata.org/entity/Q7293563', 'Rantzau', '1971', '', 'male organism']

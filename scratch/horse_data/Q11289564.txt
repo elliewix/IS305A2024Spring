@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11289564', 'Eishin Washington', '', '', 'http://www.wikidata.org/entity/Q7080320', 'Ogygian', '1991', '2014', 'male organism']

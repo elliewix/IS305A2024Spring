@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67494035', 'Young Man Power', '', '', 'http://www.wikidata.org/entity/Q56252570', 'Snitzel', '2012', '', 'male organism']

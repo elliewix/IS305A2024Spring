@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11293199', 'オーシス', '', '', 'http://www.wikidata.org/entity/Q11321111', 'Tournesol', '1931', '', 'male organism']

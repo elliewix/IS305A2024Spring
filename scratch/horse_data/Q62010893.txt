@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62010893', 'Greek Slave', '', '', 'http://www.wikidata.org/entity/Q5568269', 'Glencoe I', '1855', '', 'female organism']

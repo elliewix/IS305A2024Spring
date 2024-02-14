@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119983374', 'Dikenesch Dorchival', '', '', '', '', '2013', '', 'male organism']

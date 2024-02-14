@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27149883', 'Qing du Briot', '', '', '', '', '2004', '', 'male organism']

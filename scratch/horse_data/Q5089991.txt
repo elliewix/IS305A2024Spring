@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5089991', 'Chelokee', '', '', 'http://www.wikidata.org/entity/Q5092197', 'Cherokee Run', '2004', '2014', 'male organism']

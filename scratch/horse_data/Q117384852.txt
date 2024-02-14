@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384852', 'Magog', '', '', 'http://www.wikidata.org/entity/Q117384853', 'Old Chanticleer', '1799', '', 'male organism']

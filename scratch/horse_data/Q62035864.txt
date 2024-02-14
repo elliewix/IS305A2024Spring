@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62035864', 'Design', 'http://www.wikidata.org/entity/Q62021655', 'Defiance', 'http://www.wikidata.org/entity/Q61992557', 'Tramp', '1827', '', 'female organism']

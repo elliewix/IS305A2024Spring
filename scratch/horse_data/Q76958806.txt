@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q76958806', 'Satono Titan', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2013', '', 'male organism']

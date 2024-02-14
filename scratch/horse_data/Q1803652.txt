@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1803652', 'Lando', '', '', 'http://www.wikidata.org/entity/Q338164', 'Acatenango', '1990', '2013', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360034', "Hutton's Royal mare", 'http://www.wikidata.org/entity/Q117360056', 'Byerley Turk mare', 'http://www.wikidata.org/entity/Q117360039', "Hutton's Royal colt", '1699', '', 'female organism']

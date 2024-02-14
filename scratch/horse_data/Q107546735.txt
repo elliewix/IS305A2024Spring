@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546735', 'Fair Charmer', '', '', '', '', '1959', '', 'female organism']

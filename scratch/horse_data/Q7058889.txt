@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7058889', 'Northern Queen', '', '', 'http://www.wikidata.org/entity/Q3307189', 'Nearctic', '1962', '', 'female organism']

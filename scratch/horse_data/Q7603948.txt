@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7603948', 'Stately Victor', '', '', 'http://www.wikidata.org/entity/Q5557464', 'Ghostzapper', '2007', '', 'male organism']

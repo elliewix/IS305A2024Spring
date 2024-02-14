@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17021688', 'Squirrel', 'http://www.wikidata.org/entity/Q61994021', 'Grey Bloody Buttocks', 'http://www.wikidata.org/entity/Q61994019', 'Traveller', '1754', '', 'male organism']

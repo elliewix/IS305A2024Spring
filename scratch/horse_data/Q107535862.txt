@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107535862', 'Kanace', 'http://www.wikidata.org/entity/Q107534540', 'Kanlast', 'http://www.wikidata.org/entity/Q55079177', 'Case Ace', '1945', '', 'female organism']

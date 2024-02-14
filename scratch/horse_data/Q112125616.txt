@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112125616', 'Mandragore', '', '', 'http://www.wikidata.org/entity/Q96243517', 'Niger', '', '', 'female organism']

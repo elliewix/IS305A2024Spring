@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113289734', 'Rebuff', '', '', '', '', '2019', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382646', 'Nutbush', 'http://www.wikidata.org/entity/Q117383460', 'Beauty', 'http://www.wikidata.org/entity/Q117382762', 'Filbert', '1858', '', 'female organism']

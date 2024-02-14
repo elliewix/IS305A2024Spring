@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11291893', 'Oguri One', '', '', 'http://www.wikidata.org/entity/Q7080301', 'Oguri Cap', '1992', '', 'male organism']

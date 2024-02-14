@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6493229', 'Lashkari', '', '', 'http://www.wikidata.org/entity/Q3314241', 'Mill Reef', '1981', '', 'male organism']

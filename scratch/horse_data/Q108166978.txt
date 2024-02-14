@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108166978', 'Jessy Landaise', '', '', 'http://www.wikidata.org/entity/Q108166949', 'Quouglof Rouge', '1997', '', 'female organism']

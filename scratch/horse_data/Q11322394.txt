@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322394', 'トーホウエンペラー', '', '', 'http://www.wikidata.org/entity/Q4962908', "Brian's Time", '1996', '', 'male organism']

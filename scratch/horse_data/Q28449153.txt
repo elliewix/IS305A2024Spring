@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28449153', 'Ashal', '', '', 'http://www.wikidata.org/entity/Q16957782', 'Touching Wood', '1986', '', '']

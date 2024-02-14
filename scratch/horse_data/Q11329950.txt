@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11329950', 'ヒカルイマイ', '', '', 'http://www.wikidata.org/entity/Q11307511', 'シプリアニ', '1968', '1992', 'male organism']

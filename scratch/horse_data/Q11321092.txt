@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321092', 'Towkay', '', '', 'http://www.wikidata.org/entity/Q6494747', 'Last Tycoon', '1994', '', 'male organism']

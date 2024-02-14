@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969303', 'Seclusion', 'http://www.wikidata.org/entity/Q63969376', 'Miss Sellon', 'http://www.wikidata.org/entity/Q63969310', 'Tadmor', '1857', '', 'female organism']

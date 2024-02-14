@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994050', 'Longbow', 'http://www.wikidata.org/entity/Q61994068', 'Miss Bowe', 'http://www.wikidata.org/entity/Q61994051', 'Ithuriel', '1849', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66504184', 'Delia I', 'http://www.wikidata.org/entity/Q108566653', 'Hasja', 'http://www.wikidata.org/entity/Q22319718', 'Capitol I', '1989', '', 'female organism']

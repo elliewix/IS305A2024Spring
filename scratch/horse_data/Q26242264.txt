@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26242264', 'Adeline', 'http://www.wikidata.org/entity/Q26236076', 'Quirinal', 'http://www.wikidata.org/entity/Q26695978', 'Power Light', '2000', '', 'female organism']

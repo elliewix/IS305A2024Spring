@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241052', 'Kentuckian', '', '', '', '', '1969', '', 'male organism']

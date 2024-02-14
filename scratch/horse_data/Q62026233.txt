@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026233', 'Mufti', 'http://www.wikidata.org/entity/Q62026347', 'Infant mare', 'http://www.wikidata.org/entity/Q62026235', 'Fitz Herod', '1783', '', 'male organism']

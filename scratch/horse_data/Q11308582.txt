@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308582', 'Shinko Ankure', '', '', '', '', '1986', '', 'male organism']

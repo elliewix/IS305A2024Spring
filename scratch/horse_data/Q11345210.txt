@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345210', 'ヤマニンセラフィム', 'http://www.wikidata.org/entity/Q11345214', 'ヤマニンパラダイス', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1999', '', 'male organism']

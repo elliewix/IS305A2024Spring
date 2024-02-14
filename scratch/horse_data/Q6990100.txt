@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6990100', 'Nellie Flag', 'http://www.wikidata.org/entity/Q6990126', 'Nellie Morse', 'http://www.wikidata.org/entity/Q4743783', 'American Flag', '1932', '', 'female organism']

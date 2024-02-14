@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22282624', 'Navajo Princess', '', '', 'http://www.wikidata.org/entity/Q22282562', 'Drone', '1974', '', 'female organism']

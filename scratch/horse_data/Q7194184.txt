@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7194184', 'Pillory', '', '', 'http://www.wikidata.org/entity/Q7083071', 'Olambala', '1919', '', 'male organism']

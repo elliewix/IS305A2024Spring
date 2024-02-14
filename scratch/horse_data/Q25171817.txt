@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25171817', 'Roddy Owen', '', '', '', '', '1949', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22315525', 'Landgraf I', 'http://www.wikidata.org/entity/Q108162245', 'Warthburg', 'http://www.wikidata.org/entity/Q63323637', 'Ladykiller', '1966', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62036576', 'Sheet Anchor', 'http://www.wikidata.org/entity/Q62036664', 'Morgiana', 'http://www.wikidata.org/entity/Q62036614', 'Lottery', '1832', '', 'male organism']

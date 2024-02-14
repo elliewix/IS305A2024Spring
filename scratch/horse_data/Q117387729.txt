@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117387729', 'Places White Turk', '', '', '', '', '1663', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11336890', 'ベストタイザン', '', '', 'http://www.wikidata.org/entity/Q11309251', 'Genuine', '2002', '', 'male organism']

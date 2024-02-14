@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16997781', 'Joe Daniels', '', '', 'http://www.wikidata.org/entity/Q96372789', 'Australian', '1869', '', 'male organism']

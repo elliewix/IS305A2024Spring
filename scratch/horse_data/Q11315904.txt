@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315904', 'タカオー', '', '', 'http://www.wikidata.org/entity/Q11308902', 'Cyma', '1951', '', 'male organism']

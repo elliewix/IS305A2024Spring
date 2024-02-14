@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18126097', 'Hittite Glory', '', '', 'http://www.wikidata.org/entity/Q11326627', 'Habitat', '1973', '', 'male organism']

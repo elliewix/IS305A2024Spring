@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7940767', 'Voltaire', '', '', 'http://www.wikidata.org/entity/Q1448928', 'Blacklock', '1826', '1848', 'male organism']

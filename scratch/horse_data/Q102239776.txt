@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239776', 'Trumpet King', '', '', '', '', '1947', '', 'male organism']

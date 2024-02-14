@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7129699', 'Pan Zareta', '', '', '', '', '1910', '', 'female organism']

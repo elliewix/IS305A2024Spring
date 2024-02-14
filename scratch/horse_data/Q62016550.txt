@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016550', 'Regulus mare', 'http://www.wikidata.org/entity/Q62016551', 'Young Ebony', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1763', '', 'female organism']

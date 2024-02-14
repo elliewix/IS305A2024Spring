@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313429', 'スリーコース', '', '', 'http://www.wikidata.org/entity/Q11297865', 'King Glorious', '1991', '1997', 'female organism']

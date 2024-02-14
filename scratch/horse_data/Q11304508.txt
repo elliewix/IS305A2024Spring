@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11304508', 'Sakura Star O', '', '', 'http://www.wikidata.org/entity/Q11304506', 'Sakura Shori', '1984', '', 'male organism']

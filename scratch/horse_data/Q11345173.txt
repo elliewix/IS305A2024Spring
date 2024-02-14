@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345173', 'ヤマトキヨウダイ', '', '', 'http://www.wikidata.org/entity/Q11330399', 'Hindostan', '1960', '', 'male organism']

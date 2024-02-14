@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108543210', 'Jesprit', '', '', '', '', '1991', '', 'female organism']

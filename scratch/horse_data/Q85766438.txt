@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q85766438', 'Hey Doc', '', '', '', '', '', '', 'male organism']

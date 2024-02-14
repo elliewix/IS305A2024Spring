@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7943452', "Vulcan's Forge", '', '', 'http://www.wikidata.org/entity/Q6734291', 'Mahmoud', '1945', '', 'male organism']

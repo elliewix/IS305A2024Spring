@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62035636', 'Easby Snake', 'http://www.wikidata.org/entity/Q62035663', 'Akaster Turk mare', 'http://www.wikidata.org/entity/Q11347998', 'Snake', '1721', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56058702', 'Tosen Phantom', '', '', 'http://www.wikidata.org/entity/Q11325271', 'Neo Universe', '2007', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63986027', 'Expectation', 'http://www.wikidata.org/entity/Q62026375', 'Skim mare', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1779', '', 'female organism']

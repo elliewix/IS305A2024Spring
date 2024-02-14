@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023225', 'Golden Locks', 'http://www.wikidata.org/entity/Q62023233', 'Crab mare', 'http://www.wikidata.org/entity/Q62023227', 'Oroonoko', '1758', '', 'female organism']

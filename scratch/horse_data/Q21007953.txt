@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21007953', 'Armitages Boy', '', '', '', '', '2002', '', 'male organism']

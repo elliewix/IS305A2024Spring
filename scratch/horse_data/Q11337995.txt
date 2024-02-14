@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337995', 'ホマレスターライツ', '', '', '', '', '1996', '', 'male organism']

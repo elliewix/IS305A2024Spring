@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987464', 'Manganese', 'http://www.wikidata.org/entity/Q62016663', 'Moonbeam', 'http://www.wikidata.org/entity/Q4915976', 'Birdcatcher', '1853', '', 'female organism']

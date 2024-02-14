@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308382', 'Silver Spoon', '', '', 'http://www.wikidata.org/entity/Q471395', 'Citation', '1956', '', 'female organism']

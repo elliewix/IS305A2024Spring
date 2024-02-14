@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027961', 'Lacerta', 'http://www.wikidata.org/entity/Q62027989', 'Jerboa', 'http://www.wikidata.org/entity/Q62027962', 'Zodiac', '1816', '', 'female organism']

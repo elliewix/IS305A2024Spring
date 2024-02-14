@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3492865', 'Spectacular Bid', '', '', 'http://www.wikidata.org/entity/Q4939046', 'Bold Bidder', '1976', '2003', 'male organism']

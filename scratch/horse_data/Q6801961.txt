@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6801961', 'McKinney', '', '', '', '', '1887', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345340', 'Yamabuki O', '', '', 'http://www.wikidata.org/entity/Q11329825', 'Partholon', '1970', '', 'male organism']

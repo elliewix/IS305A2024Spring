@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55606728', 'Cassandra Go', '', '', '', '', '1996', '', '']

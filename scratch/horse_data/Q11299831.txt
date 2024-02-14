@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11299831', 'Kurofune', '', '', 'http://www.wikidata.org/entity/Q11334069', 'French Deputy', '1998', '2021', 'male organism']

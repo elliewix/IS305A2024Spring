@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55634485', 'Sweeper', '', '', 'http://www.wikidata.org/entity/Q4975349', 'Broomstick', '1909', '', 'male organism']

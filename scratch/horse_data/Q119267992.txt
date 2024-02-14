@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119267992', 'Absalon 1090', 'http://www.wikidata.org/entity/Q119268015', 'Mignonne', '', '', '1879', '', 'male organism']

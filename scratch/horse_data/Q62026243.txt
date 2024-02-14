@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026243', 'Miss Barforth', 'http://www.wikidata.org/entity/Q62026311', 'Miss Cade', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1760', '', 'female organism']

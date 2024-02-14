@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8020926', 'William the Third', 'http://www.wikidata.org/entity/Q61997085', 'Gravity', 'http://www.wikidata.org/entity/Q280168', 'St. Simon', '1898', '', 'male organism']

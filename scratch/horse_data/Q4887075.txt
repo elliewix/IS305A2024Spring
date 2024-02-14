@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4887075', 'Bendigo', '', '', 'http://www.wikidata.org/entity/Q61994596', 'Ben Battle', '1880', '', 'male organism']

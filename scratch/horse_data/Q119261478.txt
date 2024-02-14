@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119261478', 'Marie', '', '', 'http://www.wikidata.org/entity/Q117980371', 'Bayard', '', '', 'female organism']

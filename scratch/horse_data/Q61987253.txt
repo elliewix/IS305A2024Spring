@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987253', 'Crazy', '', '', 'http://www.wikidata.org/entity/Q11346962', 'Lath', '', '', 'female organism']

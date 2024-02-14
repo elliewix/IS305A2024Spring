@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112073372', 'Tosho Pegasus', '', '', 'http://www.wikidata.org/entity/Q11317526', 'Dandy Lute', '1979', '2007', 'male organism']

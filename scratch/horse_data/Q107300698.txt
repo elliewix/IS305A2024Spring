@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107300698', 'Antonio Tabac', '', '', '', '', '2012', '', '']

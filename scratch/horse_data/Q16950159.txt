@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16950159', "Majesty's Prince", '', '', 'http://www.wikidata.org/entity/Q11330029', 'His Majesty', '1979', '', 'male organism']

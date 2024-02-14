@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7180849', 'Pharos', 'http://www.wikidata.org/entity/Q38278994', 'Scapa Flow', 'http://www.wikidata.org/entity/Q7180267', 'Phalaris', '1920', '1937', 'male organism']

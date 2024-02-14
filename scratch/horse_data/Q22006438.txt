@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006438', 'Natroun', '', '', '', '', '1984', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119779348', 'Galante 68661', '', '', 'http://www.wikidata.org/entity/Q119778946', 'Malakoff 53115', '', '', 'female organism']

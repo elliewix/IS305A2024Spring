@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114710510', 'Giga Kick', '', '', '', '', '', '', 'male organism']

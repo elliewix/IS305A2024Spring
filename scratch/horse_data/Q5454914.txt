@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5454914', 'Fisherman', '', '', 'http://www.wikidata.org/entity/Q7180262', 'Phalanx', '1951', '', 'male organism']

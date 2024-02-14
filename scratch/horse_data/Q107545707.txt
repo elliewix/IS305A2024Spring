@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545707', 'Equinoctial', 'http://www.wikidata.org/entity/Q107545701', 'Hurakan', 'http://www.wikidata.org/entity/Q55079329', 'Ultimus', '1920', '', 'female organism']

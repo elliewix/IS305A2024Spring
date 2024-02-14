@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237866', 'Kentucky Cardinal', '', '', '', '', '1922', '', 'male organism']

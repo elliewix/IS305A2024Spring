@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340901', 'マミーブルー', '', '', 'http://www.wikidata.org/entity/Q11325587', 'Never Beat', '1970', '', 'female organism']

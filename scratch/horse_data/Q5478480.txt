@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5478480', 'Frances', '', '', '', '', '1942', '', '']

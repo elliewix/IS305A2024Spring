@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111099084', 'Namur', 'http://www.wikidata.org/entity/Q114348081', 'Sambre et Meuse', 'http://www.wikidata.org/entity/Q5654487', 'Harbinger', '2019', '', 'female organism']

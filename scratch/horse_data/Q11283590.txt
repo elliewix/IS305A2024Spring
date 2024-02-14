@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283590', 'Aswan', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1979', '', 'male organism']

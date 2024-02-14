@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48976897', "Lindy's Pride", '', '', '', '', '1966', '', '']

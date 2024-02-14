@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6521071', 'Lemberg', 'http://www.wikidata.org/entity/Q61987082', 'Galicia', 'http://www.wikidata.org/entity/Q5199345', 'Cyllene', '1907', '', 'male organism']

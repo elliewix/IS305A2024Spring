@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124310518', 'Jeck de Chouannais', 'http://www.wikidata.org/entity/Q120435295', 'Ariane de Vanoise', 'http://www.wikidata.org/entity/Q124310410', "Bhopal de l'Arpenteau", '2019', '', 'male organism']

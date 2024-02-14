@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55091202', 'Nan Darrell', '', '', 'http://www.wikidata.org/entity/Q63986016', 'Inheritor', '1844', '', 'female organism']

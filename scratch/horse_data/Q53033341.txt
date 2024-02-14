@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q53033341', 'Zeta de Hus', '', '', '', '', '2000', '2013', 'female organism']

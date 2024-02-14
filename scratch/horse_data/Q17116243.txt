@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17116243', 'Trading Leather', '', '', 'http://www.wikidata.org/entity/Q7701154', 'Teofilo', '2010', '', 'male organism']

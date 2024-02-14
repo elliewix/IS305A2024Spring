@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111336319', 'Gayssire Fleury', 'http://www.wikidata.org/entity/Q111336863', 'Capucine', 'http://www.wikidata.org/entity/Q111336836', 'Sire', '1972', '1992', 'male organism']

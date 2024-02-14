@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116759150', 'Otasja', '', '', '', '', '1973', '', 'female organism']

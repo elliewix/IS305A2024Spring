@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384882', "Dodsworth's dam", '', '', '', '', '1665', '', 'female organism']

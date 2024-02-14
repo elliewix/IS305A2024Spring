@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027887', 'Madam', 'http://www.wikidata.org/entity/Q62026345', 'Miss Partner', 'http://www.wikidata.org/entity/Q4928057', 'Bloody Buttocks', '1735', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11293559', 'Always Loyal', 'http://www.wikidata.org/entity/Q11328195', 'Balbonella', 'http://www.wikidata.org/entity/Q8071945', 'Zilzal', '1994', '', 'female organism']

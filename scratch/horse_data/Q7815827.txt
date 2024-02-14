@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7815827', 'Tom Fool', 'http://www.wikidata.org/entity/Q63970004', 'Gaga', 'http://www.wikidata.org/entity/Q6817327', 'Menow', '1949', '', 'male organism']

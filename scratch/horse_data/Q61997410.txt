@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997410', 'Equestrian', '', '', 'http://www.wikidata.org/entity/Q5384587', 'Equipoise', '1936', '', 'male organism']

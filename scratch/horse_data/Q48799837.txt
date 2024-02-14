@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48799837', 'Talismanic', '', '', 'http://www.wikidata.org/entity/Q6804991', "Medaglia d'Oro", '2013', '', 'male organism']

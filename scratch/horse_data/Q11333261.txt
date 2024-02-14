@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333261', 'フジノオー', '', '', '', '', '1959', '', 'male organism']

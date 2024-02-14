@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994045', 'Young Gohanna', '', '', 'http://www.wikidata.org/entity/Q5577568', 'Gohanna', '1810', '', 'male organism']

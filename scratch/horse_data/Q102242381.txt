@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242381', 'Lake George', '', '', '', '', '1992', '', 'male organism']

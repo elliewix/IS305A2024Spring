@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5557841', 'Giacomo', 'http://www.wikidata.org/entity/Q7456255', 'Set Them Free', 'http://www.wikidata.org/entity/Q5884974', 'Holy Bull', '2002', '', 'male organism']

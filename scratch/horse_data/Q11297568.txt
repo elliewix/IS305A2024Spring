@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297568', 'Kyowa Daikichi', '', '', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1995', '2005', 'male organism']

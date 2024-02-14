@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16677705', 'Speed Clayettois', '', '', '', '', '1984', '2007', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006547', 'Court Masterpiece', '', '', 'http://www.wikidata.org/entity/Q11339308', 'Polish Precedent', '2000', '', 'male organism']

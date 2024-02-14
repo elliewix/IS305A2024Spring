@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q76833542', 'Neika du Talus', 'http://www.wikidata.org/entity/Q111351964', 'Idole du Talus', 'http://www.wikidata.org/entity/Q7940766', 'Voltaire', '2001', '', 'female organism']

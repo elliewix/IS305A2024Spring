@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17361607', 'Prince Bio', 'http://www.wikidata.org/entity/Q107545068', 'Biologie', 'http://www.wikidata.org/entity/Q7244217', 'Prince Rose', '1941', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286483', 'Ikoma Eikan', '', '', '', '', '1967', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7543962', 'Smart Deb', '', '', 'http://www.wikidata.org/entity/Q5249784', 'Dedicate', '1960', '', 'female organism']

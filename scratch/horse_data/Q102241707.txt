@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241707', 'Pax In Bello', '', '', '', '', '1980', '', 'male organism']

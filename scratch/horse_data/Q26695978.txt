@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26695978', 'Power Light', '', '', '', '', '1988', '', 'male organism']

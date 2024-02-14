@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308700', 'Symboli Kriens', '', '', 'http://www.wikidata.org/entity/Q11344265', 'Mogami', '1985', '', 'male organism']

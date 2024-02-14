@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305487', 'San Carlo', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2006', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969641', 'Malindi', 'http://www.wikidata.org/entity/Q55097811', 'Mumtaz Begum', 'http://www.wikidata.org/entity/Q2305063', 'Nearco', '1947', '', 'female organism']

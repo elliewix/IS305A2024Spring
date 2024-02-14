@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63040445', 'Contender', 'http://www.wikidata.org/entity/Q66504188', 'Gofine', 'http://www.wikidata.org/entity/Q66504198', 'Calypso II', '1984', '2014', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11350110', 'ロイスアンドロイス', '', '', 'http://www.wikidata.org/entity/Q7821904', 'Tony Bin', '1990', '1996', 'male organism']

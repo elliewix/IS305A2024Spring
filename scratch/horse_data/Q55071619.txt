@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071619', 'Umidwar', '', '', 'http://www.wikidata.org/entity/Q4925007', 'Blandford', '1931', '', 'male organism']

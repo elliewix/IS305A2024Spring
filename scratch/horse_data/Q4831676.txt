@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4831676', 'Ayrshire', 'http://www.wikidata.org/entity/Q62016693', 'Atalanta', 'http://www.wikidata.org/entity/Q5646159', 'Hampton', '1885', '', 'male organism']

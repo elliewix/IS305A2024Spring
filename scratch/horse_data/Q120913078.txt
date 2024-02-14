@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120913078', 'Gidran II', 'http://www.wikidata.org/entity/Q120913107', 'Arrogante', 'http://www.wikidata.org/entity/Q120913006', 'Gidran Senior', '1820', '', 'male organism']

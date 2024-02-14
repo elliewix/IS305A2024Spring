@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120892617', 'Norman mare', '', '', '', '', '1800', '', 'female organism']

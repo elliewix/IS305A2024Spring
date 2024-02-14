@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978643', 'Ormondale', 'http://www.wikidata.org/entity/Q6548443', 'Lily Agnes', 'http://www.wikidata.org/entity/Q7103462', 'Ormonde', '1903', '', 'male organism']

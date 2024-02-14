@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62034840', 'Walton mare', 'http://www.wikidata.org/entity/Q62027341', 'Goosander', 'http://www.wikidata.org/entity/Q17041157', 'Walton', '1811', '', 'female organism']

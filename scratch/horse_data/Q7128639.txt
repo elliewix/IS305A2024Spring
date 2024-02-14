@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7128639', 'Palomo', '', '', '', '', '', '', 'male organism']

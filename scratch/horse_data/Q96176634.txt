@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96176634', 'Narquois', 'http://www.wikidata.org/entity/Q96193968', 'Hebe III', 'http://www.wikidata.org/entity/Q96037199', 'Fuschia', '1891', '1911', 'male organism']

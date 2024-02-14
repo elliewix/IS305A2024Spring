@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63980439', 'Edith', '', '', 'http://www.wikidata.org/entity/Q11324950', 'Newminster', '1857', '', 'female organism']

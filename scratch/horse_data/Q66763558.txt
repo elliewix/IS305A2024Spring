@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66763558', 'Newton du Haut Bois', '', '', 'http://www.wikidata.org/entity/Q3007504', 'Cumano', '2001', '', 'male organism']

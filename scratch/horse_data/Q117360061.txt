@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360061', 'Bustler mare', 'http://www.wikidata.org/entity/Q117360066', 'Barb mare', 'http://www.wikidata.org/entity/Q117359619', 'Bustler', '1687', '', 'female organism']

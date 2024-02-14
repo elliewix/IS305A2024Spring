@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969628', "Lara's Star", 'http://www.wikidata.org/entity/Q63969642', 'True Reality', 'http://www.wikidata.org/entity/Q11332888', 'Forli', '1981', '', 'female organism']

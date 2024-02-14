@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5453053', 'First Gold', '', '', '', '', '1993', '', '']

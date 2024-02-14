@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026356', 'Whittington mare', 'http://www.wikidata.org/entity/Q62022316', 'Crab mare', 'http://www.wikidata.org/entity/Q62026360', 'Whittington', '1754', '', 'female organism']

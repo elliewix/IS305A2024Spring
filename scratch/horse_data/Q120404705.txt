@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120404705', 'Starlight Koncar Chief', 'http://www.wikidata.org/entity/Q120405204', 'Paramount Rose', 'http://www.wikidata.org/entity/Q117955920', 'Morden Chieftain', '1962', '', 'male organism']

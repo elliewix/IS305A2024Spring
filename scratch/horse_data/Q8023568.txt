@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8023568', 'Wimpy P-1', '', '', '', '', '', '', '']

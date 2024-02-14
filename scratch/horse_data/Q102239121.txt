@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239121', 'Sir Damion', '', '', '', '', '1934', '', 'male organism']

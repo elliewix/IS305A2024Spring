@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308880', 'C B Cross', '', '', 'http://www.wikidata.org/entity/Q11332878', 'Fortino', '1975', '1991', 'male organism']

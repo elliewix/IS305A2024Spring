@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17225317', 'ユールシンギング', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2010', '', 'male organism']

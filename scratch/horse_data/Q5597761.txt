@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5597761', 'Graustark', 'http://www.wikidata.org/entity/Q5462145', 'Flower Bowl', 'http://www.wikidata.org/entity/Q2245980', 'Ribot', '1963', '', 'male organism']

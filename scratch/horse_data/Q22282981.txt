@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22282981', 'Attica', '', '', 'http://www.wikidata.org/entity/Q22282947', 'Mr. Trouble', '1953', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11284114', 'Adorable', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1989', '2005', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17231483', 'アサカオー', '', '', 'http://www.wikidata.org/entity/Q11330399', 'Hindostan', '1965', '', 'male organism']

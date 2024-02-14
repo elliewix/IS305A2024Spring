@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2907399', 'Blushing Groom', 'http://www.wikidata.org/entity/Q55071564', 'Runaway Bride', 'http://www.wikidata.org/entity/Q7304192', 'Red God', '1974', '1992', 'male organism']

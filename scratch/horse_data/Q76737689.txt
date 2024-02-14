@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q76737689', "Qoud'coeur de la Loge", '', '', 'http://www.wikidata.org/entity/Q67010959', 'Idéal de la Loge', '2004', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7572851', 'Spain', '', '', 'http://www.wikidata.org/entity/Q11305671', 'Thunder Gulch', '1997', '', 'female organism']

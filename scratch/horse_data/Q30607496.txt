@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30607496', 'Winter', '', '', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2014', '', 'female organism']

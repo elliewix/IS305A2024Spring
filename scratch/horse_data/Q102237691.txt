@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237691', 'Bracadale', '', '', '', '', '1921', '', 'male organism']

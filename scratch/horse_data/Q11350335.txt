@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11350335', 'Logi Universe', '', '', 'http://www.wikidata.org/entity/Q11325271', 'Neo Universe', '2006', '', 'male organism']

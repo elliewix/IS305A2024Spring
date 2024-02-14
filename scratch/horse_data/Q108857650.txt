@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108857650', 'Sympathie', 'http://www.wikidata.org/entity/Q108857709', 'Debutante', 'http://www.wikidata.org/entity/Q108857676', 'Pédagogue', '1862', '', 'female organism']

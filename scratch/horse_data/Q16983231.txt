@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16983231', 'Hannah', '', '', 'http://www.wikidata.org/entity/Q6412111', 'King Tom', '1868', '', 'female organism']

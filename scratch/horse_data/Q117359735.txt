@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359735', 'Partner mare', 'http://www.wikidata.org/entity/Q117359742', 'Coneyskins mare', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1735', '', 'female organism']

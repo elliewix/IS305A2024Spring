@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26720777', 'Lord of Theizé', '', '', '', '', '1999', '2016', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61793487', 'Pegase du Murier', 'http://www.wikidata.org/entity/Q65964440', 'Folamour du Mûrier', 'http://www.wikidata.org/entity/Q65964434', 'Adelfos', '2003', '', 'male organism']

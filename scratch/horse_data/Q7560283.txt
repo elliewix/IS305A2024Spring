@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7560283', 'Somethingroyal', 'http://www.wikidata.org/entity/Q6006267', 'Imperatrice', 'http://www.wikidata.org/entity/Q7244431', 'Princequillo', '1952', '1983', 'female organism']

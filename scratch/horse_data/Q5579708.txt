@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5579708', 'Golden Pheasant', '', '', 'http://www.wikidata.org/entity/Q5044188', 'Caro', '1986', '', 'male organism']

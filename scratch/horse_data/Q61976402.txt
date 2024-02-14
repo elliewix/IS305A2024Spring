@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61976402', 'Tricky Aunt', 'http://www.wikidata.org/entity/Q61976407', 'Rectify', 'http://www.wikidata.org/entity/Q7560561', 'Son-in-Law', '', '', 'female organism']

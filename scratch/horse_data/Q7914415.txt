@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7914415', 'Vander Pool', '', '', 'http://www.wikidata.org/entity/Q5028334', 'Campfire', '1928', '', 'male organism']

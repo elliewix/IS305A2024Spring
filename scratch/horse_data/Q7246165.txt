@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7246165', 'Private Terms', '', '', '', '', '1985', '2010', 'male organism']

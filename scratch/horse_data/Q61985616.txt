@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61985616', 'Eldoret', 'http://www.wikidata.org/entity/Q61985643', 'Bamburi', 'http://www.wikidata.org/entity/Q5757311', 'High Top', '1976', '', 'female organism']

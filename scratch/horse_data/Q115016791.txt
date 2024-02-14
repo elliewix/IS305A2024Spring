@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115016791', 'Winterrose', '', '', '', '', '1958', '', 'female organism']

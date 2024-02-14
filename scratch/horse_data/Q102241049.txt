@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241049', 'Big Brown Bear', '', '', '', '', '1969', '', 'male organism']

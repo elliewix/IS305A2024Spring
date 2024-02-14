@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6647361', 'Lit de Justice', '', '', 'http://www.wikidata.org/entity/Q5351334', 'El Gran Senor', '1990', '', 'male organism']

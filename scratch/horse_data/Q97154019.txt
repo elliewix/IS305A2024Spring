@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q97154019', 'Menelik', '', '', '', '', '', '1931', '']

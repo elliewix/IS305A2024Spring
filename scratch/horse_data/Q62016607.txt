@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016607', 'Lioness', 'http://www.wikidata.org/entity/Q62016636', 'Manoeuvre', 'http://www.wikidata.org/entity/Q62016608', 'Fandango', '1859', '', 'female organism']

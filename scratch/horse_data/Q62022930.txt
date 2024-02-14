@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022930', 'Gower Stallion', 'http://www.wikidata.org/entity/Q117382864', 'sister to Tortoise', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1740', '', 'male organism']

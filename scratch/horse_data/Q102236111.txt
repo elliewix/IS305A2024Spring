@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236111', 'Jim Gray', '', '', '', '', '1883', '', 'male organism']

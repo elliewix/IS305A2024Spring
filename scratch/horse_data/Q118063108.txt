@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118063108', 'Glendale Pride', '', '', 'http://www.wikidata.org/entity/Q118062788', 'Superior', '1907', '', 'male organism']

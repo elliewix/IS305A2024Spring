@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283161', 'Assatis', '', '', '', '', '1985', '2007', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87703960', 'Satono Flag', '', '', '', '', '', '', 'male organism']

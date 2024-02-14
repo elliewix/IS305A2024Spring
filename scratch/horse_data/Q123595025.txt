@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123595025', 'E. T. Cryozootech', '', '', '', '', '2006', '', 'male organism']

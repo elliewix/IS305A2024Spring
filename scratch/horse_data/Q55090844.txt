@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55090844', 'Ballantrae', 'http://www.wikidata.org/entity/Q55090849', 'Abeyance', 'http://www.wikidata.org/entity/Q4831676', 'Ayrshire', '1899', '', 'female organism']

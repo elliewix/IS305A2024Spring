@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115036640', 'Gogo Moeve', 'http://www.wikidata.org/entity/Q115141613', 'Mosaik', 'http://www.wikidata.org/entity/Q115130871', 'Gotthard', '1975', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105817226', 'Titleholder', 'http://www.wikidata.org/entity/Q111796907', 'Mowen', 'http://www.wikidata.org/entity/Q20047186', 'Duramente', '2018', '', 'male organism']

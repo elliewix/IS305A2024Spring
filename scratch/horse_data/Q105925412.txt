@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105925412', 'Jumpy de Kreisker', 'http://www.wikidata.org/entity/Q105925433', 'Betty de Kreisker', 'http://www.wikidata.org/entity/Q3414722', 'Quito de Baussy', '1997', '', 'female organism']

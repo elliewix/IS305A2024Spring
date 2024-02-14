@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290860', 'Samraat', '', '', '', '', '2011', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021998', 'Gohanna mare', 'http://www.wikidata.org/entity/Q62022002', 'Grey Skim', 'http://www.wikidata.org/entity/Q5577568', 'Gohanna', '1807', '', 'female organism']

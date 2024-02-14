@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47087766', 'Tripple X III', '', '', '', '', '2002', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326303', 'ハクホークイン', '', '', 'http://www.wikidata.org/entity/Q11326302', 'ハクホオショウ', '1984', '', 'female organism']

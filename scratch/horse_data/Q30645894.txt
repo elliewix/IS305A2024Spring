@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30645894', 'Northern Afleet', '', '', '', '', '1993', '', 'male organism']

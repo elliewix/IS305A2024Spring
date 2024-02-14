@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16953219', 'Teleprompter', '', '', '', '', '1980', '', '']

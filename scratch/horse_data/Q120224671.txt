@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120224671', 'Mignon 36251', 'http://www.wikidata.org/entity/Q120224158', 'Mignonne 17414', '', '', '1890', '', 'male organism']

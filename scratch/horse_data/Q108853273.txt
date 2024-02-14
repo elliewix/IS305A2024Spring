@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108853273', 'Elise', 'http://www.wikidata.org/entity/Q108855000', 'La Panachee', 'http://www.wikidata.org/entity/Q108853309', 'Marcellus', '1831', '', 'female organism']

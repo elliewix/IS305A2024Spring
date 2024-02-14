@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6414570', 'Kip Deville', '', '', '', '', '2003', '2010', 'male organism']

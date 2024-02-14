@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17223390', 'スルガスペイン', '', '', '', '', '1987', '', 'male organism']

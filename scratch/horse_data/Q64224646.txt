@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64224646', 'Bandos', 'http://www.wikidata.org/entity/Q64224653', 'Bandola', 'http://www.wikidata.org/entity/Q64224659', 'Negatiw', '', '', 'male organism']

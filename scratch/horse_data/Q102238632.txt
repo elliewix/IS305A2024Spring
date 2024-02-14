@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238632', 'Pittsburgher', '', '', '', '', '1928', '', 'male organism']

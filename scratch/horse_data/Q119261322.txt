@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119261322', 'Eclipse 1045', 'http://www.wikidata.org/entity/Q119261478', 'Marie', 'http://www.wikidata.org/entity/Q118136673', 'Nogent', '1878', '', 'male organism']

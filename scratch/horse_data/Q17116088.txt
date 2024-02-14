@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17116088', 'Shakapour', '', '', 'http://www.wikidata.org/entity/Q11294957', 'Kalamoun', '1977', '', 'male organism']

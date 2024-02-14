@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119694036', 'Chéri 50', '', '', 'http://www.wikidata.org/entity/Q117947469', 'Brilliant 710', '1881', '', 'male organism']

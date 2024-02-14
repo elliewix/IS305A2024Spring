@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5235782', 'David Junior', '', '', 'http://www.wikidata.org/entity/Q7203981', 'Pleasant Tap', '2002', '', 'male organism']

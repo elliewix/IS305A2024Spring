@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63468274', 'Shooting Party', '', '', 'http://www.wikidata.org/entity/Q7537282', 'Sky Classic', '', '', 'female organism']

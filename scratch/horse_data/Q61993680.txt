@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993680', 'Spotless', '', '', 'http://www.wikidata.org/entity/Q17041157', 'Walton', '1809', '', 'female organism']

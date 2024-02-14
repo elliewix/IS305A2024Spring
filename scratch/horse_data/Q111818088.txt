@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111818088', 'Igniter', '', '', 'http://www.wikidata.org/entity/Q17221932', 'Espoir City', '2018', '', 'male organism']

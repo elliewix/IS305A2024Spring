@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2583367', 'Winchester', '', '', '', '', '1860', '1878', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033180', 'Fanny', 'http://www.wikidata.org/entity/Q62033186', 'Fair Charlotte', 'http://www.wikidata.org/entity/Q6183165', 'Jerry', '1830', '', 'female organism']

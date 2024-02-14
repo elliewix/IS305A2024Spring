@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7500097', 'Shogun Lodge', '', '', 'http://www.wikidata.org/entity/Q5594750', 'Grand Lodge', '1996', '', '']

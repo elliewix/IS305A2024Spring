@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117195067', 'Mignon', 'http://www.wikidata.org/entity/Q117204377', 'Pauline', 'http://www.wikidata.org/entity/Q115786536', 'Jean-le-Blanc', '1830', '', 'male organism']

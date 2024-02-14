@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21152141', 'Nahar', '', '', '', '', '2005', '', '']

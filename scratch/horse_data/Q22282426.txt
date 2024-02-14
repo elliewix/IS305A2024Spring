@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22282426', 'Pound Foolish', '', '', 'http://www.wikidata.org/entity/Q7527349', 'Sir Ivor', '1979', '', 'female organism']

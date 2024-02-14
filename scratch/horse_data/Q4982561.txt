@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4982561', 'Buchanan', '', '', '', '', '1881', '', 'male organism']

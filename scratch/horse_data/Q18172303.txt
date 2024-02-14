@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18172303', 'Hoist The King', '', '', 'http://www.wikidata.org/entity/Q5877808', 'Hoist The Flag', '1978', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21427740', 'Papillon Rouge', 'http://www.wikidata.org/entity/Q108148271', 'Verboise', 'http://www.wikidata.org/entity/Q1679759', 'Jalisco B', '1981', '2009', 'male organism']

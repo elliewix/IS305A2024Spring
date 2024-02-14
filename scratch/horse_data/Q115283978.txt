@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115283978', 'Latoucha', '', '', '', '', '1965', '', 'female organism']

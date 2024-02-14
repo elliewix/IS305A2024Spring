@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123968618', 'Percentage', '', '', 'http://www.wikidata.org/entity/Q123969773', 'Midway', '1923', '', 'male organism']

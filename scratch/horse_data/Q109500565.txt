@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109500565', 'Ag Ishan', 'http://www.wikidata.org/entity/Q109561926', 'Sha Durdy', 'http://www.wikidata.org/entity/Q109561892', 'Mele Chep', '1919', '', 'male organism']

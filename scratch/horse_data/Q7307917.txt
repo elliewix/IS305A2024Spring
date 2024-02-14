@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7307917', 'Regal Intention', '', '', 'http://www.wikidata.org/entity/Q11351856', 'Vice Regent', '1985', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11282780', 'Akihiro Homare', '', '', '', '', '1985', '2014', 'male organism']

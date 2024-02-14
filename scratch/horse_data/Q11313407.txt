@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313407', 'スリルショー', '', '', '', '', '1983', '', 'male organism']

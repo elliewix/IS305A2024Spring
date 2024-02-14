@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27920541', 'Maruka Senryo', '', '', 'http://www.wikidata.org/entity/Q1012807', 'Lammtarra', '1998', '', 'male organism']

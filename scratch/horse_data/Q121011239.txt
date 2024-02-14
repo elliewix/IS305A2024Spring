@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121011239', 'Basco', '', '', 'http://www.wikidata.org/entity/Q121011229', 'Beau', '1987', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11324057', 'ナリタキングオー', '', '', 'http://www.wikidata.org/entity/Q8000486', 'Wild Again', '1992', '', 'male organism']

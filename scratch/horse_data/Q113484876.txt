@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113484876', 'Osumi Roch', '', '', 'http://www.wikidata.org/entity/Q16962045', 'Artaius', '1987', '2014', 'male organism']

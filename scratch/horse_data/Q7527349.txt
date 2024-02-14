@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7527349', 'Sir Ivor', 'http://www.wikidata.org/entity/Q22282981', 'Attica', 'http://www.wikidata.org/entity/Q7526825', 'Sir Gaylord', '1965', '1995', 'male organism']

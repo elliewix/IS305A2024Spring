@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119300837', 'Astor 850', '', '', 'http://www.wikidata.org/entity/Q117195146', 'Vidocq 732', '1874', '', 'male organism']

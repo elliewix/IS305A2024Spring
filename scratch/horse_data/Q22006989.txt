@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006989', 'Leontes', 'http://www.wikidata.org/entity/Q11308798', 'Cesario', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2013', '', 'male organism']

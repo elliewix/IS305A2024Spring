@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260743', 'Geoglyph', '', '', 'http://www.wikidata.org/entity/Q28449717', 'Drefong', '2019', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120882709', 'Samhan', 'http://www.wikidata.org/entity/Q120914478', 'Varja', 'http://www.wikidata.org/entity/Q120914516', 'Samhan', '1818', '', 'male organism']

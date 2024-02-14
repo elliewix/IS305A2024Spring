@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021726', 'Alfred mare', 'http://www.wikidata.org/entity/Q62021743', 'Magnolia', 'http://www.wikidata.org/entity/Q62021734', 'Alfred', '1785', '', 'female organism']

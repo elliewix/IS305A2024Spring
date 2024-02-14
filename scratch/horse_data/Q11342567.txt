@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342567', 'ミヤビペルセウス', '', '', 'http://www.wikidata.org/entity/Q11328013', 'Bubble Gum Fellow', '2000', '', 'male organism']

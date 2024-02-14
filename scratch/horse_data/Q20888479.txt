@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20888479', 'Ace of Aces', '', '', 'http://www.wikidata.org/entity/Q3553272', 'Vaguely Noble', '1970', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8184898', 'Cockfighter', '', '', '', '', '1796', '', 'male organism']

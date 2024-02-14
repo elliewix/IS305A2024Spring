@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119293991', 'Négateur', '', '', '', '', '', '', 'male organism']

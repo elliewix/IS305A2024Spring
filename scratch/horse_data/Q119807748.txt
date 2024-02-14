@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119807748', 'Favori 4770', '', '', 'http://www.wikidata.org/entity/Q117229448', 'Superior 730', '', '', 'male organism']

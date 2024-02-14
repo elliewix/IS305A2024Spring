@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283406', 'Adjudicating', '', '', 'http://www.wikidata.org/entity/Q1104509', 'Danzig', '1987', '2015', 'male organism']

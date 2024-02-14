@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359855', 'Coneyskins dam', '', '', 'http://www.wikidata.org/entity/Q1018502', 'Byerley Turk', '1695', '', 'female organism']

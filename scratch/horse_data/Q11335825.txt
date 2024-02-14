@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11335825', 'プレクラスニー', '', '', 'http://www.wikidata.org/entity/Q11299205', 'Crystal Palace', '1987', '', 'male organism']

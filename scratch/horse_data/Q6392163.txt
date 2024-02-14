@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6392163', 'Kentucky', '', '', 'http://www.wikidata.org/entity/Q370429', 'Lexington', '1861', '', 'male organism']

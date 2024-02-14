@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006628', 'Devon Ditty', '', '', '', '', '1976', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236693', 'Warfield', '', '', '', '', '1906', '', 'male organism']

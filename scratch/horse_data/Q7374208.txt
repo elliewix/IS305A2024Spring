@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7374208', 'Royal Gem', '', '', 'http://www.wikidata.org/entity/Q61970838', 'Dhoti', '1942', '', 'male organism']

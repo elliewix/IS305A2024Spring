@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11328458', 'バンブービギン', '', '', 'http://www.wikidata.org/entity/Q11328455', 'Bamboo Atlas', '1986', '', 'male organism']

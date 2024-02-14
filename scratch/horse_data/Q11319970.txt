@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319970', 'Diablo', '', '', 'http://www.wikidata.org/entity/Q5267067', "Devil's Bag", '1987', '', 'male organism']

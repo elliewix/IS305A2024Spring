@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235968', 'Sligo', '', '', '', '', '1878', '', 'male organism']

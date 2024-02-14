@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11318092', 'チャクラ', '', '', 'http://www.wikidata.org/entity/Q6796863', 'Mayano Top Gun', '2000', '', 'male organism']

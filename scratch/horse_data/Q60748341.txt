@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60748341', 'Iridessa', '', '', 'http://www.wikidata.org/entity/Q17017512', 'Ruler of the World', '2016', '', 'female organism']

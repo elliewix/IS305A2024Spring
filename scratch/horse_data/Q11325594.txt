@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11325594', 'ネーハイシーザー', '', '', 'http://www.wikidata.org/entity/Q11304517', 'Sakura Toko', '1990', '2018', 'male organism']

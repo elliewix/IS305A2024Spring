@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11309336', 'Gemologist', '', '', 'http://www.wikidata.org/entity/Q11318930', 'Tiznow', '2009', '', 'male organism']

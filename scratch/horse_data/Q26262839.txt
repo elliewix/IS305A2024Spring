@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26262839', 'Mounted stallion of Archduke Albrecht', '', '', '', '', '', '', '']

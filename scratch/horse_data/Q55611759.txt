@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55611759', 'Flair', '', '', 'http://www.wikidata.org/entity/Q7588068', 'St. Frusquin', '1903', '', 'female organism']

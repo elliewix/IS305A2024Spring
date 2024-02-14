@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384799', 'Stanyan Arabian', '', '', '', '', '1700', '', 'male organism']

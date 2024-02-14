@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339696', 'マイシンザン', '', '', 'http://www.wikidata.org/entity/Q11342501', 'Miho Shinzan', '1990', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354565', 'Tara Roma', '', '', '', '', '1990', '', 'female organism']

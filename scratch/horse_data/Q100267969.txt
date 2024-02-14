@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100267969', 'Galactica', '', '', '', '', '2012', '', 'female organism']

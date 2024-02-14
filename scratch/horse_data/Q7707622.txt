@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7707622', 'Texas Dandy', '', '', '', '', '1942', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11324059', 'Narita Taishin', '', '', 'http://www.wikidata.org/entity/Q11348703', 'Rivlia', '1990', '', 'male organism']

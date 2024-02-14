@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66320661', 'Badge of Silver', '', '', '', '', '', '', 'male organism']

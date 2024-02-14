@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4741353', 'Amberleigh House', '', '', 'http://www.wikidata.org/entity/Q17048915', 'Buckskin', '1992', '2017', 'male organism']

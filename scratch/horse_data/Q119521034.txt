@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119521034', 'Gabon 73285', 'http://www.wikidata.org/entity/Q119521000', 'Vulga 50485', 'http://www.wikidata.org/entity/Q120693425', 'Colonel 55184', '1906', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2123116', 'Quidam de Revel', 'http://www.wikidata.org/entity/Q22318160', 'Dirka', 'http://www.wikidata.org/entity/Q1679759', 'Jalisco B', '1982', '2013', 'male organism']

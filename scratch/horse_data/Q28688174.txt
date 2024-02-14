@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28688174', 'Reine Minoru', '', '', 'http://www.wikidata.org/entity/Q11317065', 'Daiwa Major', '2014', '', 'female organism']

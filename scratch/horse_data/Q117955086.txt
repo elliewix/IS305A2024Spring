@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117955086', 'Chief Laet', 'http://www.wikidata.org/entity/Q118063332', 'Coreen 117580', 'http://www.wikidata.org/entity/Q117885266', 'Sir Laet', '1932', '', 'male organism']

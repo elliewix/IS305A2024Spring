@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108196015', 'Mrs. Walker', 'http://www.wikidata.org/entity/Q108196179', 'Zinganee mare', 'http://www.wikidata.org/entity/Q108196068', 'Jereed', '1844', '', 'female organism']

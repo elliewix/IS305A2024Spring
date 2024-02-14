@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033457', 'Partner mare', 'http://www.wikidata.org/entity/Q62033459', 'Smiling Tom mare', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '', '', 'female organism']

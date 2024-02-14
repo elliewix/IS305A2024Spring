@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7271539', 'Questionnaire', '', '', 'http://www.wikidata.org/entity/Q7617410', 'Sting', '1927', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22329123', 'Heartbreaker', 'http://www.wikidata.org/entity/Q108161866', 'Bacarole', 'http://www.wikidata.org/entity/Q22329202', 'Nimmerdor', '1989', '2021', 'male organism']

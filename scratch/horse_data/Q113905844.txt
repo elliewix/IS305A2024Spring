@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113905844', 'Bold Secretariat', '', '', 'http://www.wikidata.org/entity/Q1151926', 'Secretariat', '1979', '', 'male organism']

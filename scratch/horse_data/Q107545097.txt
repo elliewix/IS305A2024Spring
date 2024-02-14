@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545097', 'Bebop', 'http://www.wikidata.org/entity/Q107545087', 'Cappellina', 'http://www.wikidata.org/entity/Q17361607', 'Prince Bio', '1957', '', 'female organism']

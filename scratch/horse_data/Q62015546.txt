@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62015546', 'Portia', '', '', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1758', '', 'female organism']

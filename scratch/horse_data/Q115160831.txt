@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115160831', 'Rivaal', 'http://www.wikidata.org/entity/Q115198786', 'Mireille Sijgje', 'http://www.wikidata.org/entity/Q115160973', 'Persian Path S', '1975', '', 'male organism']

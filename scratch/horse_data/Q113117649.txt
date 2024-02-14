@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113117649', 'T M Spada', '', '', 'http://www.wikidata.org/entity/Q11349750', 'Red Spada', '2019', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012094', 'Tatler mare', 'http://www.wikidata.org/entity/Q64012170', 'Bay Snip', 'http://www.wikidata.org/entity/Q64012117', 'Tatler Sr.', '1768', '', 'female organism']

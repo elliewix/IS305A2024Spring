@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7813598', 'Tokino Minoru', '', '', 'http://www.wikidata.org/entity/Q11314399', 'Theft', '1948', '', 'male organism']

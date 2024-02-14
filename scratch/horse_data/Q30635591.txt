@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30635591', 'Bachelor Duke', '', '', 'http://www.wikidata.org/entity/Q11164164', 'Miswaki', '2001', '', '']

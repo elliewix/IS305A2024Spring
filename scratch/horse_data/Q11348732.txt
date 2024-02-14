@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348732', 'リージェントブラフ', '', '', 'http://www.wikidata.org/entity/Q11329799', 'Park Regent', '1996', '2008', 'male organism']

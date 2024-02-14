@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24865709', 'Jeweler', '', '', 'http://www.wikidata.org/entity/Q7925631', 'Victoire Pisa', '2013', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221659', 'アリゼオ', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2007', '', 'male organism']

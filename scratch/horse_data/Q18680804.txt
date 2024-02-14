@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18680804', 'Köppinen', '', '', '', '', '2003', '', '']

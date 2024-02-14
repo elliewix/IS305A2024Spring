@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994241', 'Lady Sterling', 'http://www.wikidata.org/entity/Q61994245', 'Aquila', 'http://www.wikidata.org/entity/Q5649365', 'Hanover', '', '', 'female organism']

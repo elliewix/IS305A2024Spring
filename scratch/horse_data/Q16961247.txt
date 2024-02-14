@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16961247', 'Ambidexter', '', '', '', '', '1787', '', 'male organism']

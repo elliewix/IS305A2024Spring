@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7707049', 'Teuflesberg', '', '', 'http://www.wikidata.org/entity/Q6217141', 'Johannesburg', '2004', '', 'male organism']

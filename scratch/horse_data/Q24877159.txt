@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24877159', 'ハクズイコウ', '', '', '', '', '1961', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238250', 'Bobashela', '', '', '', '', '1925', '', 'male organism']

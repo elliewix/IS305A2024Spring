@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341313', 'Maruzensky', '', '', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1974', '', 'male organism']

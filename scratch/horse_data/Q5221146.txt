@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5221146', 'Dante', '', '', 'http://www.wikidata.org/entity/Q2305063', 'Nearco', '1942', '', 'male organism']

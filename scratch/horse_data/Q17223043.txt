@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17223043', 'Shigeru Juyaku', '', '', 'http://www.wikidata.org/entity/Q11300176', 'Grass Wonder', '2008', '2015', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122147964', 'Poule', '', '', 'http://www.wikidata.org/entity/Q120750092', 'Vaillant 404', '', '', 'female organism']

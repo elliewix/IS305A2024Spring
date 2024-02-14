@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61768041', 'Garfield de Tiji des Templiers', '', '', '', '', '2006', '', 'male organism']

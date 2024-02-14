@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012359', 'Calabria', 'http://www.wikidata.org/entity/Q64012365', 'Alfred mare', 'http://www.wikidata.org/entity/Q62021669', 'Spadille', '1795', '', 'female organism']

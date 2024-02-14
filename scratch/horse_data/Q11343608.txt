@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343608', 'メジロデュレン', '', '', 'http://www.wikidata.org/entity/Q22007057', 'Fidion', '1983', '2009', 'male organism']

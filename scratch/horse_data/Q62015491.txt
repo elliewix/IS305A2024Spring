@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62015491', 'Gentle Kitty', 'http://www.wikidata.org/entity/Q62015511', 'Dorimond mare', 'http://www.wikidata.org/entity/Q62015501', 'Silvio', '1774', '', 'female organism']

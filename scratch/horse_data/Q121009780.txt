@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121009780', '10 Gazal', '', '', 'http://www.wikidata.org/entity/Q121009759', 'Gazal', '1910', '', 'female organism']

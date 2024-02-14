@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63986016', 'Inheritor', 'http://www.wikidata.org/entity/Q63986019', 'Handmaiden', 'http://www.wikidata.org/entity/Q62036614', 'Lottery', '1831', '', 'male organism']

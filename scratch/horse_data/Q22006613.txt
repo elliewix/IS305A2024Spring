@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006613', 'Tepin', '', '', 'http://www.wikidata.org/entity/Q11328624', 'Bernstein', '2011', '', 'female organism']

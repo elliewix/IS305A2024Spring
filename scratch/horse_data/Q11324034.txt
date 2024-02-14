@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11324034', 'ナムラコクオー', '', '', 'http://www.wikidata.org/entity/Q11297865', 'King Glorious', '1991', '2019', 'male organism']

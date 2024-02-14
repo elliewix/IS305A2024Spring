@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022055', 'Precipitate', 'http://www.wikidata.org/entity/Q62022060', 'Dundas Herod mare', 'http://www.wikidata.org/entity/Q61998471', 'Mercury', '1787', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114585143', 'Tamamo Best Play', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2010', '', 'male organism']

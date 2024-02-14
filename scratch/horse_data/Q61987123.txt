@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987123', 'Black Corrie', '', '', 'http://www.wikidata.org/entity/Q17038626', 'Sterling', '1879', '', 'female organism']

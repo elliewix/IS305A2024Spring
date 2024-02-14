@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7675138', 'Tagalie', 'http://www.wikidata.org/entity/Q61997543', 'Tagale', 'http://www.wikidata.org/entity/Q5199345', 'Cyllene', '1909', '1920', 'female organism']

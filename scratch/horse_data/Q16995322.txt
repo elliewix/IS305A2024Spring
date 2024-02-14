@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16995322', 'Jay Trump', '', '', '', '', '1957', '', '']

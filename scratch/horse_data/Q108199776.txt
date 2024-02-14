@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108199776', 'Clovis C', 'http://www.wikidata.org/entity/Q108199897', 'Semiramis V', 'http://www.wikidata.org/entity/Q96199308', 'Kœnigsberg', '1924', '', 'male organism']

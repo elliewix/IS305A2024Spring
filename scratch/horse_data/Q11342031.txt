@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342031', 'ミスターホンマル', '', '', '', '', '1989', '', 'male organism']

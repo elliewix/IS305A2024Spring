@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242553', 'Three Ring', '', '', '', '', '1996', '', 'female organism']

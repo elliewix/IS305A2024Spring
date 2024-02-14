@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11285901', 'Ieryu', '', '', 'http://www.wikidata.org/entity/Q11321111', 'Tournesol', '1937', '', 'male organism']

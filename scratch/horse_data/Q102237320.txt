@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237320', 'Careful', '', '', '', '', '1918', '', 'female organism']

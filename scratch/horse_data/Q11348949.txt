@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348949', 'ルゼル', '', '', 'http://www.wikidata.org/entity/Q8064298', 'Zafonic', '1998', '', 'male organism']

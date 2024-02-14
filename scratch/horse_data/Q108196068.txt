@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108196068', 'Jereed', '', '', 'http://www.wikidata.org/entity/Q7636587', 'Sultan', '1834', '', 'male organism']

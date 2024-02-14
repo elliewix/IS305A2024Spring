@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11300800', 'Great Monte', '', '', 'http://www.wikidata.org/entity/Q11344758', 'モンテプリンス', '1985', '', 'male organism']

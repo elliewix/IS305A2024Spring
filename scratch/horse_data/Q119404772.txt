@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119404772', 'Rem Degas', 'http://www.wikidata.org/entity/Q119404892', 'Loo Degas', '', '', '1941', '', 'male organism']

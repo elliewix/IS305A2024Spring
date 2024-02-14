@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994245', 'Aquila', '', '', 'http://www.wikidata.org/entity/Q17038626', 'Sterling', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60752846', 'Newspaperofrecord', '', '', 'http://www.wikidata.org/entity/Q6676152', 'Lope de Vega', '2016', '', 'female organism']

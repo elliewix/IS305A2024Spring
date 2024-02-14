@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11288379', 'Win Kluger', '', '', 'http://www.wikidata.org/entity/Q7676023', 'Taiki Shuttle', '2000', '', 'male organism']

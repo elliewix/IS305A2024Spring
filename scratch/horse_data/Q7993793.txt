@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7993793', 'Whirlaway', '', '', 'http://www.wikidata.org/entity/Q4926043', 'Blenheim', '1938', '', 'male organism']

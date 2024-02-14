@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61633595', 'City of Light', '', '', 'http://www.wikidata.org/entity/Q7268758', 'Quality Road', '2014', '', 'male organism']

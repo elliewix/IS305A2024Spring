@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11307661', 'Shadai Ivor', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1979', '', 'female organism']

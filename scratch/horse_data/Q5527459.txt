@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5527459', 'Gato Del Sol', 'http://www.wikidata.org/entity/Q61998827', 'Peacefully', 'http://www.wikidata.org/entity/Q16952144', 'Cougar', '1979', '2007', 'male organism']

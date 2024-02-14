@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25172098', 'Speightstown', '', '', 'http://www.wikidata.org/entity/Q5581608', 'Gone West', '1998', '', 'male organism']

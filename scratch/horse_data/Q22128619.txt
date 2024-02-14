@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22128619', 'サウンドスカイ', '', '', 'http://www.wikidata.org/entity/Q5250311', 'Deep Sky', '2013', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7990932', 'What A Summer', '', '', 'http://www.wikidata.org/entity/Q7637461', 'Summer Tan', '1973', '', 'female organism']

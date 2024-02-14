@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241902', 'Wheatly Hall', '', '', '', '', '1983', '', 'male organism']

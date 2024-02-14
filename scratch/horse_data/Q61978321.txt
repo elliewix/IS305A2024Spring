@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978321', 'Casall ASK', '', '', 'http://www.wikidata.org/entity/Q112124492', 'Caretino', '1999', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61999356', 'Maiden', '', '', 'http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', '1801', '', 'female organism']

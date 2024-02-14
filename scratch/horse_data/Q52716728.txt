@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52716728', 'Stay Foolish', '', '', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2015', '', 'male organism']

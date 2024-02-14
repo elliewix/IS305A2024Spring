@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006567', 'Kyllachy', '', '', 'http://www.wikidata.org/entity/Q11331695', 'Pivotal', '1998', '', 'male organism']

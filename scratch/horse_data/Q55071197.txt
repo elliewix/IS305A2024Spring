@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071197', 'Baby Zip', 'http://www.wikidata.org/entity/Q55071207', 'Thirty Zip', 'http://www.wikidata.org/entity/Q7310849', 'Relaunch', '', '', 'female organism']

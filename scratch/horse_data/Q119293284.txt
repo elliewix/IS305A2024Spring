@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119293284', 'Alaska des Hâtes', '', '', 'http://www.wikidata.org/entity/Q119293828', 'Galopin', '2010', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17225019', 'Meine Attrice', '', '', 'http://www.wikidata.org/entity/Q11316319', 'Tamamo Cross', '2003', '', 'female organism']

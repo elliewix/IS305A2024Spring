@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033589', 'Smolensko mare', 'http://www.wikidata.org/entity/Q62034331', 'Lady Mary', 'http://www.wikidata.org/entity/Q7546256', 'Smolensko', '1818', '', 'female organism']

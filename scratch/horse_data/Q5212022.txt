@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5212022', 'Damascus', 'http://www.wikidata.org/entity/Q55080646', 'Kerala', 'http://www.wikidata.org/entity/Q7659267', 'Sword Dancer', '1964', '1995', 'male organism']

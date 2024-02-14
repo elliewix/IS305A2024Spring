@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993993', 'Shakespeare mare', 'http://www.wikidata.org/entity/Q62027305', 'Miss Meredith', 'http://www.wikidata.org/entity/Q11306934', 'Shakespeare', '1763', '', 'female organism']

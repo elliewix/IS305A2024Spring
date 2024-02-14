@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6665172', 'Lochsong', '', '', '', '', '1988', '2014', 'female organism']

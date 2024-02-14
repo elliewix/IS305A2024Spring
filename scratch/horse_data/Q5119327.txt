@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5119327', 'Cicada', '', '', 'http://www.wikidata.org/entity/Q16847799', 'Bryan G.', '1959', '', 'female organism']

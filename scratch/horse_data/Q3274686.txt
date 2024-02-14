@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3274686', 'Mack Lobell', '', '', '', '', '1984', '2016', 'male organism']

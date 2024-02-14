@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006871', 'Cole Harden', '', '', 'http://www.wikidata.org/entity/Q7988566', 'Westerner', '2009', '', '']

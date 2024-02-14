@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11351304', 'Wakia', '', '', 'http://www.wikidata.org/entity/Q11164164', 'Miswaki', '1987', '', 'female organism']

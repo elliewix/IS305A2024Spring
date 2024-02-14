@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17018612', 'Mata Hari', '', '', '', '', '1931', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115215203', 'Pumarilla', '', '', 'http://www.wikidata.org/entity/Q115160973', 'Persian Path S', '1974', '', 'female organism']

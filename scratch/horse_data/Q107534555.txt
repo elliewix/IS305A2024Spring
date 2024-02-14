@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107534555', 'Native Gal', '', '', '', '', '1939', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997382', 'Rose Of York', 'http://www.wikidata.org/entity/Q61978881', 'Rouge Rose', 'http://www.wikidata.org/entity/Q61986226', 'Speculum', '1880', '', 'female organism']

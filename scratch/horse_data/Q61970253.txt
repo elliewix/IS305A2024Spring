@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970253', 'Tartar', '', '', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1743', '', 'male organism']

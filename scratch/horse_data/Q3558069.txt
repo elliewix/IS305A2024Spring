@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3558069', 'Vieux Beaufai', '', '', '', '', '1993', '', 'male organism']

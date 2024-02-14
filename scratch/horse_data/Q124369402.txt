@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124369402', 'Koncope', '', '', 'http://www.wikidata.org/entity/Q120358474', 'Koncarhope', '1947', '', 'male organism']

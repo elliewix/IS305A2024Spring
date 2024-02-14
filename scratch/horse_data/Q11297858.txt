@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', 'http://www.wikidata.org/entity/Q11341627', 'Manfath', 'http://www.wikidata.org/entity/Q3197083', 'Kingmambo', '2001', '2019', 'male organism']

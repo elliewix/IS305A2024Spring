@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117371600', 'sister one to Miss Partner', 'http://www.wikidata.org/entity/Q62022934', 'Brown Farewell', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1732', '', 'female organism']

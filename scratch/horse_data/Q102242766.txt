@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242766', 'Friends Lake', '', '', '', '', '2001', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q12010952', 'Yarrah Boko', '', '', '', '', '2005', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316636', 'Daiichi Ruby', 'http://www.wikidata.org/entity/Q11326269', 'Hagino Top Lady', 'http://www.wikidata.org/entity/Q11321101', 'Tosho Boy', '1987', '2007', 'female organism']

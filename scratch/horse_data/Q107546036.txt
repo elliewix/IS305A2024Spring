@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546036', 'Stefan The Great', '', '', 'http://www.wikidata.org/entity/Q7768577', 'The Tetrarch', '1916', '', 'male organism']

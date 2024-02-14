@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337044', 'ベラミロード', '', '', '', '', '1996', '', 'female organism']

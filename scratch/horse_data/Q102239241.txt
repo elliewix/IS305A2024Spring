@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239241', 'Swain', '', '', '', '', '1938', '', 'male organism']

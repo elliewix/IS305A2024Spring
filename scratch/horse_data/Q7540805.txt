@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7540805', 'Slip Anchor', '', '', 'http://www.wikidata.org/entity/Q7498762', 'Shirley Heights', '1982', '', 'male organism']

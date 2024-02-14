@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q57778116', 'Poliglote', '', '', 'http://www.wikidata.org/entity/Q1104636', "Sadler's Wells", '1992', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118059339', 'Bayard 1982', '', '', 'http://www.wikidata.org/entity/Q118058962', 'Chéri 7615', '1882', '', 'male organism']

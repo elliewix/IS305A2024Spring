@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7207476', 'Poetin', '', '', 'http://www.wikidata.org/entity/Q7416863', 'Sandro Hit', '1997', '2005', 'female organism']

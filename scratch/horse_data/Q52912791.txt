@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52912791', 'Vaillant', '', '', '', '', '1891', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104236763', 'Royal Coinage', 'http://www.wikidata.org/entity/Q107552275', 'Canina', 'http://www.wikidata.org/entity/Q5349023', 'Eight Thirty', '1952', '', 'male organism']

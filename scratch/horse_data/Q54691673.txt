@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q54691673', 'Masar', 'http://www.wikidata.org/entity/Q62011605', 'Khawlah', 'http://www.wikidata.org/entity/Q3875179', 'New Approach', '2015', '', 'male organism']

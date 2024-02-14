@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236988', 'Ed Crump', '', '', '', '', '1912', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301164', 'ケニイモア', '', '', 'http://www.wikidata.org/entity/Q11298824', 'Kumohata', '1953', '', 'female organism']

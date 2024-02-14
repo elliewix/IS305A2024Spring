@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242356', 'Jumron', '', '', 'http://www.wikidata.org/entity/Q7490417', 'Sharpo', '1992', '', 'male organism']

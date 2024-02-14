@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5755583', 'High Gun', '', '', 'http://www.wikidata.org/entity/Q5705843', 'Heliopolis', '1951', '', 'male organism']

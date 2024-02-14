@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026360', 'Whittington', '', '', 'http://www.wikidata.org/entity/Q62026362', 'Brother to Whitenose', '1743', '', 'male organism']

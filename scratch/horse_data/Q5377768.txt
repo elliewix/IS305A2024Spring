@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5377768', 'Engineer', 'http://www.wikidata.org/entity/Q62023194', 'Young Greyhound mare', 'http://www.wikidata.org/entity/Q11305945', 'Sampson', '1756', '', 'male organism']

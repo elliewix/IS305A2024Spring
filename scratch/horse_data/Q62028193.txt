@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028193', 'Agnes', 'http://www.wikidata.org/entity/Q62028701', 'sister to Hoity Toity', 'http://www.wikidata.org/entity/Q62028275', 'Shuttle', '1805', '', 'female organism']

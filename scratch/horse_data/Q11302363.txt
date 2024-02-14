@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11302363', 'Copano Fujin', '', '', 'http://www.wikidata.org/entity/Q11336442', 'Hennessy', '2002', '2014', 'male organism']

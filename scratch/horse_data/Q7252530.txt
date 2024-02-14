@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7252530', 'Providential', '', '', 'http://www.wikidata.org/entity/Q7379581', 'Run the Gantlet', '1977', '', 'male organism']

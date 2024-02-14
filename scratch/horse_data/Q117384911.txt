@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384911', "Randolph's Kitty Fisher", 'http://www.wikidata.org/entity/Q117385019', 'Kitty Fisher', 'http://www.wikidata.org/entity/Q117385014', 'Jolly Roger', '1764', '', 'female organism']

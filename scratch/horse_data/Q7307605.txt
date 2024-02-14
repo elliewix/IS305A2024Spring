@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7307605', 'Refrigerator', '', '', '', '', '1988', '', '']

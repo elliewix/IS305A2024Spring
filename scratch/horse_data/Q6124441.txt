@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6124441', 'Sight Winner', '', '', '', '', '2003', '', 'male organism']

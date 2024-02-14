@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120412853', 'La Ruby 251249', 'http://www.wikidata.org/entity/Q124356156', 'La Dora 250189', 'http://www.wikidata.org/entity/Q120413192', 'La Bells Big Chief', '1971', '', 'female organism']

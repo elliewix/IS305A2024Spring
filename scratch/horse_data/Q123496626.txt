@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123496626', 'Soleil Levant', '', '', '', '', '1951', '', 'male organism']

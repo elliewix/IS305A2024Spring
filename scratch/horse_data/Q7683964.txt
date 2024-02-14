@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7683964', 'Tanya', '', '', 'http://www.wikidata.org/entity/Q6805193', 'Meddler', '1902', '', 'female organism']

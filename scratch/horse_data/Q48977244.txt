@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48977244', 'Beckett', '', '', '', '', '1998', '', '']

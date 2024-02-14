@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033198', 'December', 'http://www.wikidata.org/entity/Q61994371', 'Creeping Polly', 'http://www.wikidata.org/entity/Q11306934', 'Shakespeare', '1774', '', 'female organism']

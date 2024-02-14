@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7404294', 'Salerno', '', '', '', '', '1965', '', 'male organism']

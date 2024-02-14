@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52579364', 'Miss Guguss', '', '', 'http://www.wikidata.org/entity/Q41671096', 'Mont Blanc II', '1982', '', 'female organism']

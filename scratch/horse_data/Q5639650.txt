@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5639650', 'Haiseiko', '', '', 'http://www.wikidata.org/entity/Q11318040', 'China Rock', '1970', '2000', 'male organism']

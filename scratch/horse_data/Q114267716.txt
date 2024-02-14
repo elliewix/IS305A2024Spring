@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114267716', 'Cosmo Platina', '', '', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2003', '', 'female organism']

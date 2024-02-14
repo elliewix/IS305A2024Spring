@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28452870', 'Lassalle', '', '', '', '', '1969', '', '']

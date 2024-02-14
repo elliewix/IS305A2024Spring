@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26694308', 'Landadel', '', '', 'http://www.wikidata.org/entity/Q22315525', 'Landgraf I', '1982', '', 'male organism']

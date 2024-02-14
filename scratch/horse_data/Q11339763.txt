@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339763', 'Meiner Vintage', '', '', 'http://www.wikidata.org/entity/Q7601241', 'Star of Cozzene', '1997', '', 'male organism']

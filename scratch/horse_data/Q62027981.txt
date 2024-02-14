@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027981', 'Naylor', 'http://www.wikidata.org/entity/Q62027983', 'Partner mare', 'http://www.wikidata.org/entity/Q5016340', 'Cade', '1748', '', 'female organism']

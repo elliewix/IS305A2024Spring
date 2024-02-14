@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545093', 'Battlefield', 'http://www.wikidata.org/entity/Q107545081', 'Dark Display', 'http://www.wikidata.org/entity/Q7968524', 'War Relic', '1948', '', 'male organism']

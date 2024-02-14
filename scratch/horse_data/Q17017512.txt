@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17017512', 'Ruler of the World', 'http://www.wikidata.org/entity/Q61989034', 'Love Me True', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2010', '', 'male organism']

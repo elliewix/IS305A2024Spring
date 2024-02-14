@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108170877', 'Valine', 'http://www.wikidata.org/entity/Q108574655', 'Holle', 'http://www.wikidata.org/entity/Q108188977', 'Cottage Son', '1961', '', 'female organism']

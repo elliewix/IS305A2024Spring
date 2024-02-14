@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6124118', 'Jaipur', 'http://www.wikidata.org/entity/Q61997398', 'Rare Perfume', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1959', '', 'male organism']

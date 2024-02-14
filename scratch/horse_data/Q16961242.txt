@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16961242', 'Saoirse Abu', '', '', '', '', '2005', '', 'female organism']

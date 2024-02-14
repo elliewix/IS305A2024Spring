@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120648741', 'Lakeshore Brooke', 'http://www.wikidata.org/entity/Q120649213', 'Susie Degas', 'http://www.wikidata.org/entity/Q120650488', 'Frederick Degas', '', '', 'female organism']

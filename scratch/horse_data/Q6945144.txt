@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6945144', 'My Charmer', 'http://www.wikidata.org/entity/Q107546735', 'Fair Charmer', 'http://www.wikidata.org/entity/Q107546734', 'Poker', '1969', '1993', 'female organism']

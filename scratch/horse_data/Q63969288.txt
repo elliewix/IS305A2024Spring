@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969288', 'Ella D', '', '', 'http://www.wikidata.org/entity/Q61992495', 'Vandal', '1858', '', 'female organism']

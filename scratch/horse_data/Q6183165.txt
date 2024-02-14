@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6183165', 'Jerry', 'http://www.wikidata.org/entity/Q62032697', 'Louisa', 'http://www.wikidata.org/entity/Q7546256', 'Smolensko', '1821', '', 'male organism']

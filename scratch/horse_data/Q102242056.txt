@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242056', 'Faultless Ensign', '', '', '', '', '1986', '', 'male organism']

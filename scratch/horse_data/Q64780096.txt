@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780096', 'Miss Encore', 'http://www.wikidata.org/entity/Q11335165', 'Broad Appeal', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2006', '2018', 'female organism']

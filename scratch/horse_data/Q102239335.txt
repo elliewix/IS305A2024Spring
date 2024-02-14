@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239335', 'Dove Pie', '', '', '', '', '1940', '', 'male organism']

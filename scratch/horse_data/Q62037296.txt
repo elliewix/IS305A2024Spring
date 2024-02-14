@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62037296', 'Mermaid', 'http://www.wikidata.org/entity/Q62037325', 'Sir Solomon mare', 'http://www.wikidata.org/entity/Q7105216', 'Orville', '1811', '', 'female organism']

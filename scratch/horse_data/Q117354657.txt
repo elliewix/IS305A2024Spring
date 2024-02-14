@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354657', 'Squirrel mare', 'http://www.wikidata.org/entity/Q117354663', 'Ancaster Nancy', 'http://www.wikidata.org/entity/Q17021688', 'Squirrel', '1775', '', 'female organism']

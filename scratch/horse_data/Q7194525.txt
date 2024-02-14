@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7194525', 'Pilsudski', '', '', 'http://www.wikidata.org/entity/Q11339308', 'Polish Precedent', '1992', '', 'male organism']

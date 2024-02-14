@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242567', 'High Yield', '', '', '', '', '1997', '', 'male organism']

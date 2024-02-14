@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4851883', 'Ballot', '', '', '', '', '1904', '', 'male organism']

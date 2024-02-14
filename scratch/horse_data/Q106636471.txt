@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106636471', 'Formosa', '', '', 'http://www.wikidata.org/entity/Q96243517', 'Niger', '1880', '', 'female organism']

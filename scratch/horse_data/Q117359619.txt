@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359619', 'Bustler', '', '', 'http://www.wikidata.org/entity/Q117359664', 'Helmsley Turk', '1673', '', 'male organism']

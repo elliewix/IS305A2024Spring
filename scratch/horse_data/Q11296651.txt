@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11296651', 'キジョージャンボ', '', '', '', '', '2000', '', 'male organism']

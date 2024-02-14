@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033002', 'Election mare', 'http://www.wikidata.org/entity/Q62033017', 'sister to Skysweeper', 'http://www.wikidata.org/entity/Q16991684', 'Election', '1813', '', 'female organism']

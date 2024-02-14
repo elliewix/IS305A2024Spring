@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17019026', 'Shardari', '', '', 'http://www.wikidata.org/entity/Q17116219', 'Top Ville', '1982', '', 'male organism']

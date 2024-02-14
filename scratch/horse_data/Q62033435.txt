@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033435', 'Fox', 'http://www.wikidata.org/entity/Q116059151', 'Bay Peg', 'http://www.wikidata.org/entity/Q117385611', 'Clumsey', '1714', '', 'male organism']

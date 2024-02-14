@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118697332', 'Ibuki Government', 'http://www.wikidata.org/entity/Q11350340', 'Rosita', 'http://www.wikidata.org/entity/Q5152210', 'Commander in Chief', '1996', '2015', 'male organism']

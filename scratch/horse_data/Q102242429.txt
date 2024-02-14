@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242429', 'Diligence', '', '', '', '', '1993', '', 'male organism']

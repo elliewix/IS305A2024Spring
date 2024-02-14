@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17231556', 'セレスハント', '', '', 'http://www.wikidata.org/entity/Q5172152', "Coronado's Quest", '2005', '', 'male organism']

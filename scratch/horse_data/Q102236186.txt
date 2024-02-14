@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236186', 'Gallifet', '', '', '', '', '1885', '', 'male organism']

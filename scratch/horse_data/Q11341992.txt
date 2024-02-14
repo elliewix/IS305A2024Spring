@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341992', 'Mythic Tribe', 'http://www.wikidata.org/entity/Q3312800', 'Miesque', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1996', '', 'male organism']

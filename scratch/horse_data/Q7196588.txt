@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7196588', 'Pinza', '', '', 'http://www.wikidata.org/entity/Q5072652', 'Chanteur', '1950', '', 'male organism']

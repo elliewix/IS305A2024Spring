@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5137040', 'Clyde Van Dusen', '', '', 'http://www.wikidata.org/entity/Q114218', "Man o' War", '1926', '', 'male organism']

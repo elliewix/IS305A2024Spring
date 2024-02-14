@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123305697', 'Logic', '', '', 'http://www.wikidata.org/entity/Q6673782', 'Longfellow', '1886', '', 'male organism']

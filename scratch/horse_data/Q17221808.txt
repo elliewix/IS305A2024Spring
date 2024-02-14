@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221808', 'インターグシケン', '', '', 'http://www.wikidata.org/entity/Q11319254', 'Tesco Boy', '1975', '1988', 'male organism']

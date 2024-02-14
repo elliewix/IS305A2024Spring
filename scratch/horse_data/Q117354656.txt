@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354656', 'Isabel', 'http://www.wikidata.org/entity/Q117354657', 'Squirrel mare', 'http://www.wikidata.org/entity/Q11289004', 'Woodpecker', '1787', '', 'female organism']

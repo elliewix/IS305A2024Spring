@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3402863', 'Pride', '', '', 'http://www.wikidata.org/entity/Q3374316', 'Peintre Celebre', '2001', '', 'female organism']

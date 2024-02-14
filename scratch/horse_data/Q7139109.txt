@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7139109', 'Parlo', '', '', 'http://www.wikidata.org/entity/Q5705843', 'Heliopolis', '1951', '', 'female organism']

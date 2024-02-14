@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022402', 'Vesuvienne', 'http://www.wikidata.org/entity/Q61994109', 'Venus', 'http://www.wikidata.org/entity/Q61970541', 'Gladiator', '1847', '', 'female organism']

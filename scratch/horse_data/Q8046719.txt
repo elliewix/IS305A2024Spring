@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8046719', 'Yagli', '', '', '', '', '1993', '', 'male organism']

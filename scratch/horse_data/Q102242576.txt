@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242576', 'Thunder Blitz', '', '', '', '', '1998', '', 'male organism']

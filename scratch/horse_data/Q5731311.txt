@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5731311', 'Henrythenavigator', 'http://www.wikidata.org/entity/Q48977075', 'Sequoyah', 'http://www.wikidata.org/entity/Q3197083', 'Kingmambo', '2005', '', 'male organism']

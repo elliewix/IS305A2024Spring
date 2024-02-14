@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7526127', 'Sir Bevys', '', '', 'http://www.wikidata.org/entity/Q5438592', 'Favonius', '1876', '', 'male organism']

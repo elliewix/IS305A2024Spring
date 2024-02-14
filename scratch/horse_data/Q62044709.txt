@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62044709', 'Gamahoe mare', 'http://www.wikidata.org/entity/Q62045288', 'Patty', 'http://www.wikidata.org/entity/Q62044738', 'Gamahoe', '', '', 'female organism']

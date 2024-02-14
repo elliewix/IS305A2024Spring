@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006441', 'Polytain', '', '', 'http://www.wikidata.org/entity/Q17071189', 'Bikala', '1989', '', 'male organism']

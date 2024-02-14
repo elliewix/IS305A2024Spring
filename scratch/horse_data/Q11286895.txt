@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286895', 'イナリトウザイ', '', '', '', '', '1971', '', 'female organism']

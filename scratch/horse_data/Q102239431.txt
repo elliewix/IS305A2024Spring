@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239431', 'Comenow', '', '', '', '', '1941', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994221', 'Morena', 'http://www.wikidata.org/entity/Q61994229', 'Charytin', 'http://www.wikidata.org/entity/Q61994223', 'Privately Held', '2004', '', 'female organism']

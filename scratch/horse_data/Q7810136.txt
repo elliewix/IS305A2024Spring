@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7810136', 'Titled Hero', '', '', 'http://www.wikidata.org/entity/Q5029833', 'Canadian Champ', '1963', '', 'male organism']

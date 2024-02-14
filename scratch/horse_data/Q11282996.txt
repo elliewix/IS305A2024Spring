@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11282996', 'Active Hatori', '', '', '', '', '1986', '', 'male organism']

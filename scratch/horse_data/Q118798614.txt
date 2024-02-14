@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798614', 'Mawj', '', '', 'http://www.wikidata.org/entity/Q87721670', 'Exceed And Excel', '2020', '', 'female organism']

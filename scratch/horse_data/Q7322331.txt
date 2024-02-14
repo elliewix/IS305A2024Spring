@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7322331', 'Ribero', '', '', 'http://www.wikidata.org/entity/Q2245980', 'Ribot', '1965', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120599486', 'Landmark 210784', '', '', 'http://www.wikidata.org/entity/Q119416964', 'Koncarcalyps', '1931', '', 'male organism']

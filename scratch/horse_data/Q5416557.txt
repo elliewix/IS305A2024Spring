@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5416557', 'Even Stevens', '', '', '', '', '1957', '', 'male organism']

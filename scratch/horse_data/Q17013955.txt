@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17013955', 'Pewett', 'http://www.wikidata.org/entity/Q61994358', 'Termagant', 'http://www.wikidata.org/entity/Q61988089', 'Tandem', '1786', '', 'female organism']

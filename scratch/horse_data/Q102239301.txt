@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239301', 'Dogpatch', '', '', '', '', '1939', '', 'male organism']

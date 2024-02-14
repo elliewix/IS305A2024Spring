@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360123', 'Duchess', 'http://www.wikidata.org/entity/Q117360132', "Wastell's Turk mare", 'http://www.wikidata.org/entity/Q117360126', 'Newcastle Turk', '1708', '', 'female organism']

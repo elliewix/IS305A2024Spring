@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119104716', 'Cora 33357', 'http://www.wikidata.org/entity/Q119305889', 'Corinne 15942', 'http://www.wikidata.org/entity/Q119104619', 'Farosque 18098', '1900', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11291734', 'Own Opinion', '', '', '', '', '1975', '', 'male organism']

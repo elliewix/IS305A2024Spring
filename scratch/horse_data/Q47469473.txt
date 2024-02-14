@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47469473', 'Kiseki', '', '', 'http://www.wikidata.org/entity/Q11349271', 'Rulership', '2014', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5472988', 'Forty Niner', '', '', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1985', '', 'male organism']

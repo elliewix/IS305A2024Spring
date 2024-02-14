@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970531', 'Parisina', 'http://www.wikidata.org/entity/Q61970533', 'Princess Katinka', 'http://www.wikidata.org/entity/Q280168', 'St. Simon', '1889', '', 'female organism']

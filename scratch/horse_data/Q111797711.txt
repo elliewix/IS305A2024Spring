@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111797711', 'Northern Dictator', '', '', 'http://www.wikidata.org/entity/Q1969034', 'Northern Dancer', '1974', '1997', 'male organism']

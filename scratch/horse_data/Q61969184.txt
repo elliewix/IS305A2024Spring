@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969184', 'St Albans', 'http://www.wikidata.org/entity/Q117368440', 'Bribery', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1857', '', 'male organism']

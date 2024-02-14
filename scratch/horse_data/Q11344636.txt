@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11344636', 'モルフェデスペクタ', '', '', 'http://www.wikidata.org/entity/Q5252233', 'Dehere', '1998', '', 'male organism']

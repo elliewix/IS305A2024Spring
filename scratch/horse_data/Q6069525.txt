@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6069525', 'Irian', '', '', '', '', '2006', '', '']

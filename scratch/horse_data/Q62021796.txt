@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021796', 'Blank mare', 'http://www.wikidata.org/entity/Q62021813', 'Diana', 'http://www.wikidata.org/entity/Q4925119', 'Blank', '1757', '', 'female organism']

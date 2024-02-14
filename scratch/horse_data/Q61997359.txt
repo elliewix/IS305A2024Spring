@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997359', 'Le Sancy', 'http://www.wikidata.org/entity/Q108570454', 'Gem of gems', 'http://www.wikidata.org/entity/Q4816263', 'Atlantic', '1884', '', 'male organism']

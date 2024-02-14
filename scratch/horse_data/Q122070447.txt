@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122070447', 'Malice 10', 'http://www.wikidata.org/entity/Q122070419', 'Ragote', 'http://www.wikidata.org/entity/Q117210420', 'Coco', '1877', '', 'female organism']

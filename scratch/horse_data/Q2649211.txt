@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2649211', 'Alligator Fontaine', 'http://www.wikidata.org/entity/Q111336548', 'Nighty Fontaine', 'http://www.wikidata.org/entity/Q111336319', 'Gayssire Fleury', '1988', '2018', 'male organism']

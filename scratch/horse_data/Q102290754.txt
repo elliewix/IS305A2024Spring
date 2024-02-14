@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290754', 'Dublin', '', '', '', '', '2007', '', 'male organism']

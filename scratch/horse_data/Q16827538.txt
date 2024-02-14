@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16827538', 'Almaarad', '', '', 'http://www.wikidata.org/entity/Q5352537', 'Ela-Mana-Mou', '1983', '', 'male organism']

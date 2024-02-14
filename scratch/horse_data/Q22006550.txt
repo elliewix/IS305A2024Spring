@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006550', 'Pastoral Pursuits', '', '', 'http://www.wikidata.org/entity/Q4842382', 'Bahamian Bounty', '2001', '', 'male organism']

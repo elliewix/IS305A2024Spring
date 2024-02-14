@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112939455', 'Nashwa', '', '', 'http://www.wikidata.org/entity/Q2720508', 'Frankel', '2019', '', 'female organism']

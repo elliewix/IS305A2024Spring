@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316073', 'タケノハナミ', '', '', 'http://www.wikidata.org/entity/Q17224311', 'ハードツービート', '1982', '2008', 'female organism']

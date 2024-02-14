@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116173628', 'Bristol Grasshopper', '', '', 'http://www.wikidata.org/entity/Q1018502', 'Byerley Turk', '1695', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114269388', 'Marumo Sarah', '', '', 'http://www.wikidata.org/entity/Q11299831', 'Kurofune', '2008', '', 'female organism']

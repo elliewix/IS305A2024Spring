@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7187183', 'Phone Chatter', '', '', '', '', '1991', '', 'female organism']

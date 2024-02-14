@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3539548', 'Triplicate', '', '', 'http://www.wikidata.org/entity/Q7310091', 'Reigh Count', '1941', '', 'male organism']

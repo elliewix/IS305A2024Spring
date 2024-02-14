@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30637351', 'Helen Street', '', '', 'http://www.wikidata.org/entity/Q7846737', 'Troy', '1982', '', '']

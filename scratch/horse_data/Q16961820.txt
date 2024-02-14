@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16961820', 'Arab', 'http://www.wikidata.org/entity/Q8068179', 'Zeal', '', '', '1824', '', 'female organism']

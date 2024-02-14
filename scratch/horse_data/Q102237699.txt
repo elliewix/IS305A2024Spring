@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237699', 'Thorndale', '', '', '', '', '1921', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780113', 'サラス', '', '', 'http://www.wikidata.org/entity/Q7101712', 'Orfevre', '2015', '', 'female organism']

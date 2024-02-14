@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241694', "Wolfie's Rascal", '', '', '', '', '1979', '', 'male organism']

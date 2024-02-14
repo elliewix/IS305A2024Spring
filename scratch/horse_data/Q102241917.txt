@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241917', 'Bachelor Beau', '', '', '', '', '1983', '', 'male organism']

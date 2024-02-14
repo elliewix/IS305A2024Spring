@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11325208', 'Native Diver', '', '', 'http://www.wikidata.org/entity/Q6003644', 'Imbros', '1959', '1967', 'male organism']

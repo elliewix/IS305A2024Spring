@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321199', 'Tosa Midori', 'http://www.wikidata.org/entity/Q11333780', 'Flippancy', 'http://www.wikidata.org/entity/Q11335651', 'Primero', '1946', '', 'male organism']

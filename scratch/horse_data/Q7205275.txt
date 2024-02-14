@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7205275', 'Plugged Nickle', '', '', 'http://www.wikidata.org/entity/Q6398198', 'Key to the Mint', '1977', '', 'male organism']

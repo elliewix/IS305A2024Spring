@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q614508', 'Trigger', '', '', '', '', '1934', '1965', 'male organism']

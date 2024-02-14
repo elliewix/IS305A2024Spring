@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22007032', 'Major Emblem', '', '', 'http://www.wikidata.org/entity/Q11317065', 'Daiwa Major', '2013', '', 'female organism']

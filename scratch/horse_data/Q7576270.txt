@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7576270', 'Spend A Buck', 'http://www.wikidata.org/entity/Q107545107', 'Belle De Jour', 'http://www.wikidata.org/entity/Q104848225', 'Buckaroo', '1982', '2002', 'male organism']

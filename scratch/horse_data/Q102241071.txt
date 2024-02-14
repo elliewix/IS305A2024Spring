@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241071', 'Dr. Neale', '', '', '', '', '1969', '', 'male organism']

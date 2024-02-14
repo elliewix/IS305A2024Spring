@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117383522', 'Sylvan Lake', 'http://www.wikidata.org/entity/Q117383997', 'Leven', 'http://www.wikidata.org/entity/Q55071783', 'Thurio', '1883', '', 'female organism']

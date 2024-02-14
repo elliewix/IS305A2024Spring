@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7653064', 'Swale', 'http://www.wikidata.org/entity/Q104192590', 'Tuerta', 'http://www.wikidata.org/entity/Q1457136', 'Seattle Slew', '1981', '1984', 'male organism']

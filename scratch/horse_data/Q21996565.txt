@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21996565', 'Tanerko', '', '', 'http://www.wikidata.org/entity/Q7683836', 'Tantieme', '1953', '', 'male organism']

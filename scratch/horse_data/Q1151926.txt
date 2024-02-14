@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1151926', 'Secretariat', 'http://www.wikidata.org/entity/Q7560283', 'Somethingroyal', 'http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', '1970', '1989', 'male organism']

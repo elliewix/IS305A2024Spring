@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11327283', 'Hard Berge', '', '', '', '', '1974', '', 'male organism']

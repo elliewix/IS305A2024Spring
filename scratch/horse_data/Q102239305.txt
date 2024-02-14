@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239305', 'Sweep Swinger', '', '', '', '', '1939', '', 'male organism']

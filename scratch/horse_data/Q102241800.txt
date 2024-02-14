@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241800', 'Fali Time', '', '', '', '', '1981', '', 'male organism']

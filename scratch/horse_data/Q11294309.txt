@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11294309', 'Katsu R', '', '', '', '', '1976', '', 'male organism']

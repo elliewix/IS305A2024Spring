@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17066204', 'Play the Red', '', '', 'http://www.wikidata.org/entity/Q5185707', 'Crimson Satan', '1973', '', 'male organism']

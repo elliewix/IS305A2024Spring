@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11335020', 'ブレイクタイム', '', '', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '1997', '2019', 'male organism']

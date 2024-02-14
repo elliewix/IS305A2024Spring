@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7943330', 'Vuelve Candy B.', '', '', '', '', '1988', '', '']

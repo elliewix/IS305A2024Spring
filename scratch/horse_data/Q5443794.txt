@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5443794', 'Ferdinand', 'http://www.wikidata.org/entity/Q61970830', 'Banja Luka', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1983', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11350927', 'Rose Kingdom', 'http://www.wikidata.org/entity/Q11350932', 'Rosebud', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2007', '', 'male organism']

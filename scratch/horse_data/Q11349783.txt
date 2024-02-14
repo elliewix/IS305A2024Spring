@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349783', 'Lady Alba Rosa', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2007', '', 'female organism']

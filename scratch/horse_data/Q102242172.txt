@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242172', 'Conte Di Savoya', '', '', '', '', '1989', '', 'male organism']

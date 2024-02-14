@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124343309', 'Noé de la Chapelle', '', '', 'http://www.wikidata.org/entity/Q117304168', 'Gallien', '2001', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66504180', 'Coronado', 'http://www.wikidata.org/entity/Q108566951', 'Zaala', 'http://www.wikidata.org/entity/Q22314171', 'Corrado I', '1990', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55698342', 'Ping Hai Star', '', '', '', '', '', '', 'male organism']

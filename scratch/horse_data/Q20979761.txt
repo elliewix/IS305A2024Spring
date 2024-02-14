@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20979761', 'Polygamy', '', '', 'http://www.wikidata.org/entity/Q17015200', 'Reform', '1971', '', 'female organism']

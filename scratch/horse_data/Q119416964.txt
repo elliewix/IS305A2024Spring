@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119416964', 'Koncarcalyps', 'http://www.wikidata.org/entity/Q119417147', 'Koncarness', 'http://www.wikidata.org/entity/Q119438786', 'Calyps 79632', '1922', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114987282', 'Delle', '', '', 'http://www.wikidata.org/entity/Q114987517', 'Diable rouge', '1969', '', 'female organism']

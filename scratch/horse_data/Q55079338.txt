@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55079338', 'Humanity', '', '', '', '', '1916', '', 'female organism']

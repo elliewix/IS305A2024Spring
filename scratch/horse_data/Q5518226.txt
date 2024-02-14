@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5518226', 'Galcador', '', '', 'http://www.wikidata.org/entity/Q5729825', 'Djebel', '1947', '', 'male organism']

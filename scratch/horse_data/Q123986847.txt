@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123986847', 'Voltigeur', '', '', 'http://www.wikidata.org/entity/Q61992495', 'Vandal', '1872', '', 'male organism']

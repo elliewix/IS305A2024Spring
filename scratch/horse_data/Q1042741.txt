@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1042741', 'Nonoalco', '', '', 'http://www.wikidata.org/entity/Q3307189', 'Nearctic', '1971', '1992', 'male organism']

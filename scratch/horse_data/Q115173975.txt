@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115173975', 'Black Tarquin', '', '', '', '', '1954', '1975', 'female organism']

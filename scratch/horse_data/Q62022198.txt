@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022198', 'Sorcerer mare', 'http://www.wikidata.org/entity/Q62022230', 'Precipitate mare', 'http://www.wikidata.org/entity/Q7563356', 'Sorcerer', '1810', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52494979', 'Voltaire', 'http://www.wikidata.org/entity/Q52495057', 'Mina', 'http://www.wikidata.org/entity/Q52377186', 'Corlay', '1885', '', 'male organism']

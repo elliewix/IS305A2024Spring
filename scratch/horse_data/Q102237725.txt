@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237725', 'Nautical', '', '', '', '', '1921', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124354218', 'Lucasia Carol', 'http://www.wikidata.org/entity/Q124354304', 'Lucasia Candy', 'http://www.wikidata.org/entity/Q124354262', 'Lucasia Sir Don', '1991', '', 'female organism']

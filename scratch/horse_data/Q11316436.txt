@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316436', 'タレンティドガール', '', '', 'http://www.wikidata.org/entity/Q11348445', 'Remand (horse)', '1984', '2008', 'female organism']

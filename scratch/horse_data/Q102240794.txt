@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240794', "Francie's Hat", '', '', '', '', '1965', '', 'male organism']

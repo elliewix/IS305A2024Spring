@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260276', 'Shigeru Pink Ruby', '', '', 'http://www.wikidata.org/entity/Q21996288', 'Maurice', '2018', '', 'female organism']

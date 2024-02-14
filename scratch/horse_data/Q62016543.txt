@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016543', 'Rosamond', 'http://www.wikidata.org/entity/Q62016546', 'Roseberry', 'http://www.wikidata.org/entity/Q11327618', 'Buzzard', '1798', '', 'female organism']

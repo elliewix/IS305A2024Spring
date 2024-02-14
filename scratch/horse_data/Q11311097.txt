@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311097', 'スイグン', '', '', '', '', '2000', '', 'male organism']

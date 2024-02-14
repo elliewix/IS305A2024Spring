@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545705', 'Bold Irish', 'http://www.wikidata.org/entity/Q107545697', 'Erin', 'http://www.wikidata.org/entity/Q102239132', 'Fighting Fox', '1948', '', 'female organism']

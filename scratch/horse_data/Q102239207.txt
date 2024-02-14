@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239207', 'Sirocco', '', '', '', '', '1937', '', 'male organism']

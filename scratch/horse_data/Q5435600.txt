@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5435600', 'Farma Way', '', '', '', '', '1987', '', 'male organism']

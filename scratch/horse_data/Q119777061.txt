@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119777061', 'Thérèse 51386', 'http://www.wikidata.org/entity/Q120250433', 'Coquette 49782', 'http://www.wikidata.org/entity/Q119776811', 'Ardent 24574', '', '', 'female organism']

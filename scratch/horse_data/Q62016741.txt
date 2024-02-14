@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016741', 'Garcia', 'http://www.wikidata.org/entity/Q62034906', 'Shuttle mare', 'http://www.wikidata.org/entity/Q17012903', 'Octavian', '1823', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18016238', 'センジユ', '', '', 'http://www.wikidata.org/entity/Q18236644', 'Hokei', '1956', '', 'male organism']

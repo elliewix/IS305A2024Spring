@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033477', 'sister to Spinner', 'http://www.wikidata.org/entity/Q62033492', 'sister to Bay Bolton', 'http://www.wikidata.org/entity/Q62033485', 'Almanzor', '1730', '', 'female organism']

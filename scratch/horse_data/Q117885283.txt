@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117885283', 'Laet', 'http://www.wikidata.org/entity/Q117936667', 'Couceorous 94852', 'http://www.wikidata.org/entity/Q117885280', 'Seducteur', '1916', '1936', 'male organism']

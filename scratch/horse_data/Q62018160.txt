@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62018160', 'Meisho Tengen', 'http://www.wikidata.org/entity/Q11343354', 'Meisho Beluga', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2016', '', 'male organism']

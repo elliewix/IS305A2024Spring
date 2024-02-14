@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q933399', 'Curlin', 'http://www.wikidata.org/entity/Q61970478', "Sherriff's Deputy", 'http://www.wikidata.org/entity/Q6145306', 'Smart Strike', '2004', '', 'male organism']

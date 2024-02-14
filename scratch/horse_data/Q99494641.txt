@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q99494641', 'Sodashi', 'http://www.wikidata.org/entity/Q109260575', 'Buchiko', 'http://www.wikidata.org/entity/Q11299831', 'Kurofune', '2018', '', 'female organism']

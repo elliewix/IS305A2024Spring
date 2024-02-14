@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354652', 'Bobadil', 'http://www.wikidata.org/entity/Q117354654', 'Skyscraper mare', 'http://www.wikidata.org/entity/Q7376018', 'Rubens', '1813', '', 'male organism']

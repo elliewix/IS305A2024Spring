@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033158', 'Miss Furey', 'http://www.wikidata.org/entity/Q62033162', 'Mark Anthony mare', 'http://www.wikidata.org/entity/Q11321911', 'Trumpator', '1798', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q19885842', 'Quickly de Kreisker', 'http://www.wikidata.org/entity/Q22306558', "Briseis d'Helby", 'http://www.wikidata.org/entity/Q17177198', 'Diamant de Semilly', '2004', '', 'male organism']

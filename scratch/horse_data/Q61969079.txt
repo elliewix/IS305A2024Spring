@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969079', 'Successful Appeal', 'http://www.wikidata.org/entity/Q61969101', 'Successful Dancer', 'http://www.wikidata.org/entity/Q61969086', 'Valid Appeal', '1996', '', 'male organism']

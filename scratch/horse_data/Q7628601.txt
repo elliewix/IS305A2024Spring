@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7628601', 'Stuka', '', '', '', '', '1990', '', 'male organism']

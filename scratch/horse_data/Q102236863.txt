@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236863', 'Ten Point', '', '', '', '', '1910', '', 'male organism']

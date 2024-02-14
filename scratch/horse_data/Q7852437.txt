@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7852437', 'Tulyar', 'http://www.wikidata.org/entity/Q55071442', 'Neocracy', 'http://www.wikidata.org/entity/Q17361623', 'Tehran', '1949', '', 'male organism']

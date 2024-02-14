@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q86755686', 'Lord Glitters', '', '', '', '', '', '', 'male organism']

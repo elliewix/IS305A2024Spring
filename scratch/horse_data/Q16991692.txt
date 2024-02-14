@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16991692', 'Deputed Testamony', '', '', '', '', '1980', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5518604', 'Galilee', '', '', '', '', '1963', '', '']

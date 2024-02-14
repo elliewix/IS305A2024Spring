@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7226614', 'Polynesian', 'http://www.wikidata.org/entity/Q62004266', 'Black Polly', 'http://www.wikidata.org/entity/Q7882428', 'Unbreakable', '1942', '1959', 'male organism']

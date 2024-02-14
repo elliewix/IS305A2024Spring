@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7303635', 'Red Anchor', '', '', '', '', '1981', '', 'male organism']

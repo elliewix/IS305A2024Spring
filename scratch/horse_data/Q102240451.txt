@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240451', 'Ambiopoise', '', '', '', '', '1958', '', 'male organism']

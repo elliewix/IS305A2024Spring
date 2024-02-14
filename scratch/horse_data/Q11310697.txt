@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11310697', 'Joie de Vivre', 'http://www.wikidata.org/entity/Q11331056', 'Biwa Heidi', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2009', '2013', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970438', 'Charming Jenny', 'http://www.wikidata.org/entity/Q117360106', 'Old Morocco mare', 'http://www.wikidata.org/entity/Q15406909', 'Spanker', '', '', 'female organism']

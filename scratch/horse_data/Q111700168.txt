@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111700168', 'Duchesse', 'http://www.wikidata.org/entity/Q111700157', 'Irlandaise', 'http://www.wikidata.org/entity/Q111700183', 'Ivanoe', '1947', '', 'female organism']

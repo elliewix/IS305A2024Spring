@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105102507', 'Thinking Cap', '', '', '', '', '', '', '']

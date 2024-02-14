@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221645', 'Apollo Maverick', '', '', 'http://www.wikidata.org/entity/Q11284813', 'Apollo Kingdom', '2009', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969765', 'Relance', '', '', 'http://www.wikidata.org/entity/Q11349955', 'Relic', '1952', '', 'female organism']

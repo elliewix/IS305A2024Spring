@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117383982', 'Verona', 'http://www.wikidata.org/entity/Q117383985', 'Iodine', 'http://www.wikidata.org/entity/Q7103042', 'Orlando', '1854', '', 'female organism']

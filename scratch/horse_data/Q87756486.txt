@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87756486', 'Yellow mare', 'http://www.wikidata.org/entity/Q61998454', 'Perdita', 'http://www.wikidata.org/entity/Q61988089', 'Tandem', '1783', '', 'female organism']

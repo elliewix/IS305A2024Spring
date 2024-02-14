@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16981536', 'Fyldener', '', '', 'http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', '1803', '', 'male organism']

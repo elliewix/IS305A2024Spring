@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7526104', 'Sir Bear', '', '', '', '', '1993', '', '']

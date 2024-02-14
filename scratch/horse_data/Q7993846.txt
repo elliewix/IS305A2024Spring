@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7993846', 'Whisker', 'http://www.wikidata.org/entity/Q7162558', 'Penelope', 'http://www.wikidata.org/entity/Q7975736', 'Waxy', '1812', '', 'male organism']

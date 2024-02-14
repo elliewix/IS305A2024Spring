@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100355207', 'Birkhahn', '', '', 'http://www.wikidata.org/entity/Q2640289', 'Alchimist', '1945', '', 'male organism']

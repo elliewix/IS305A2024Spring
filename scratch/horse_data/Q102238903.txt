@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238903', 'Morpluck', '', '', '', '', '1932', '', 'male organism']

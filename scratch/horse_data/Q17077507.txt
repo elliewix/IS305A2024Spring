@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17077507', 'Harbour', '', '', 'http://www.wikidata.org/entity/Q17232090', 'Arctic Tern', '1979', '', 'female organism']

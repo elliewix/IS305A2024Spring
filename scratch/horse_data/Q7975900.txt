@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7975900', 'Waygood', '', '', 'http://www.wikidata.org/entity/Q17027108', 'Tracery', '1920', '', 'male organism']

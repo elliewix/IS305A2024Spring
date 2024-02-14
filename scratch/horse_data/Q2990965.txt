@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2990965', 'Comrade', '', '', 'http://www.wikidata.org/entity/Q4838743', "Bachelor's Double", '1917', '', 'male organism']

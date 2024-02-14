@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6747991', 'Mandesha', '', '', '', '', '2003', '', 'female organism']

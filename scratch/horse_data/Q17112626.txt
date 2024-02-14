@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17112626', 'Desert Prince', '', '', 'http://www.wikidata.org/entity/Q5602473', 'Green Desert', '1995', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21087980', 'Tahira (Pferd)', '', '', '', '', '2010', '', 'female']

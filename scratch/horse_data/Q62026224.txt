@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026224', 'Sister to Regulus', 'http://www.wikidata.org/entity/Q61987516', 'Grey Robinson', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1743', '', 'female organism']

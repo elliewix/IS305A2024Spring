@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547194', 'Prince Chevalier', 'http://www.wikidata.org/entity/Q107547186', 'Chevalerie', 'http://www.wikidata.org/entity/Q7244217', 'Prince Rose', '1943', '', 'male organism']

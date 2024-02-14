@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5453924', 'First Trump', '', '', '', '', '1991', '', 'male organism']

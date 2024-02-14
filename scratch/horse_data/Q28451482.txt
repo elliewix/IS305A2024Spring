@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28451482', 'Buddhist', '', '', '', '', '1886', '', '']

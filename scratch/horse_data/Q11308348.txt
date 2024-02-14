@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308348', 'Silk Fortune', '', '', 'http://www.wikidata.org/entity/Q11303924', 'Gold Allure', '2006', '2019', 'male organism']

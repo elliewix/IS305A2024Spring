@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q74125873', 'Taisei Vision', '', '', '', '', '2017', '', 'male organism']

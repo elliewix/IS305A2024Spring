@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122027636', 'Dynamo 41462', 'http://www.wikidata.org/entity/Q122026872', 'La Rouge 50592', '', '', '', '', 'male organism']

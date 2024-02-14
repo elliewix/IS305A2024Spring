@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11335584', 'Precise End', '', '', 'http://www.wikidata.org/entity/Q11291418', 'End Sweep', '1997', '', 'male organism']

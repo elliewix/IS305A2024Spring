@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124380529', 'Barbizon', '', '', 'http://www.wikidata.org/entity/Q7226614', 'Polynesian', '1954', '1982', 'male organism']

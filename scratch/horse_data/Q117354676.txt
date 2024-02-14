@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354676', 'Godolphin Whitefoot', 'http://www.wikidata.org/entity/Q62022918', 'Darley Arabian mare', 'http://www.wikidata.org/entity/Q4873937', 'Bay Bolton', '1719', '', 'male organism']

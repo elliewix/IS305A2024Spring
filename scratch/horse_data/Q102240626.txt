@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240626', 'Narushua', '', '', '', '', '1962', '', 'male organism']

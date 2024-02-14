@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62038973', 'Johanna', 'http://www.wikidata.org/entity/Q62039044', 'Skyscraper mare', 'http://www.wikidata.org/entity/Q7448391', 'Selim', '1813', '', 'female organism']

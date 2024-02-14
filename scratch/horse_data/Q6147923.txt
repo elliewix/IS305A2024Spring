@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6147923', 'Jammed Lovely', '', '', '', '', '1964', '', 'female organism']

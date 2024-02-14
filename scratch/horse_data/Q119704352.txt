@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119704352', 'Sansonnet 51', 'http://www.wikidata.org/entity/Q119704225', 'Rosalie', 'http://www.wikidata.org/entity/Q119704387', 'Vermout 1820', '1881', '', 'male organism']

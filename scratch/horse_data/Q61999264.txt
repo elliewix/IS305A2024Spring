@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61999264', 'Legerdemain', 'http://www.wikidata.org/entity/Q61987152', 'Decoy', 'http://www.wikidata.org/entity/Q61993750', 'Pantaloon', '1846', '', 'female organism']

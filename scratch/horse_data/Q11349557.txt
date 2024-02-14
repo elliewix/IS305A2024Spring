@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349557', 'レゴラス', 'http://www.wikidata.org/entity/Q11295746', 'Carling', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '2001', '', 'male organism']

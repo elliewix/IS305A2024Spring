@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303118', 'Contrite', '', '', 'http://www.wikidata.org/entity/Q11325586', 'Never Say Die', '1968', '', 'male organism']

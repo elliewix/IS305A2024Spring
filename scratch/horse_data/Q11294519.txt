@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11294519', 'Kane Minobu', 'http://www.wikidata.org/entity/Q11294512', 'Kane Himuro', '', '', '1974', '', 'male organism']

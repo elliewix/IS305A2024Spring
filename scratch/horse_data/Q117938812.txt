@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117938812', 'Briard 5317', 'http://www.wikidata.org/entity/Q122069407', 'Pelote 4885', 'http://www.wikidata.org/entity/Q117748161', 'Brilliant 755', '1882', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235812', 'Red Coat', '', '', '', '', '1873', '', 'male organism']

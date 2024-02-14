@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348786', 'リードワンダー', '', '', 'http://www.wikidata.org/entity/Q17221716', 'アローエクスプレス', '1978', '', 'male organism']

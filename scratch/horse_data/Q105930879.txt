@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105930879', 'Dominator Z', '', '', 'http://www.wikidata.org/entity/Q17177198', 'Diamant de Semilly', '', '', 'male organism']

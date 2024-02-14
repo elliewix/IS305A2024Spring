@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96240715', 'Tigris', 'http://www.wikidata.org/entity/Q96240631', 'Modestie', 'http://www.wikidata.org/entity/Q96142797', 'Lavater', '1875', '', 'male organism']

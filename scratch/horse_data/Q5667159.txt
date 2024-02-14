@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5667159', 'Harry Bassett', '', '', 'http://www.wikidata.org/entity/Q370429', 'Lexington', '1868', '', 'male organism']

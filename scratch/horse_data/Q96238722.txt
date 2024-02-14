@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96238722', 'Paysanne', 'http://www.wikidata.org/entity/Q96238764', 'Revanche', 'http://www.wikidata.org/entity/Q96095054', 'Harley', '1893', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18818374', 'ルファビュリュー', '', '', 'http://www.wikidata.org/entity/Q11351246', 'Wild Risk', '1961', '', 'male organism']

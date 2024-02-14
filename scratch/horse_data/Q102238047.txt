@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238047', 'Recollection', '', '', '', '', '1923', '', 'male organism']

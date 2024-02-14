@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4742828', 'Americain', '', '', 'http://www.wikidata.org/entity/Q5318887', 'Dynaformer', '2005', '2022', 'male organism']

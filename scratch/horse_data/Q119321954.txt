@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119321954', 'Luther 611', '', '', 'http://www.wikidata.org/entity/Q118125122', 'Luther 792', '1878', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6766379', 'Mark-Ye-Well', 'http://www.wikidata.org/entity/Q6754346', 'Mar-Kell', 'http://www.wikidata.org/entity/Q4996587', 'Bull Lea', '1949', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349502', 'レガシーロック', '', '', 'http://www.wikidata.org/entity/Q7321898', 'Rhythm', '1995', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237720', 'Diogenes', '', '', '', '', '1921', '', 'male organism']

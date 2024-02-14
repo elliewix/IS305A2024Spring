@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4706013', 'Alamshar', 'http://www.wikidata.org/entity/Q61994541', 'Alaiyda', 'http://www.wikidata.org/entity/Q11298001', 'Key of Luck', '2000', '', 'male organism']

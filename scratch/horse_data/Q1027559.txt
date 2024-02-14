@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1027559', 'Calvaro Z', 'http://www.wikidata.org/entity/Q111319771', 'Rixa', 'http://www.wikidata.org/entity/Q1026641', 'Caletto I', '1987', '2009', 'male organism']

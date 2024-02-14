@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546733', 'Reason To Earn', '', '', '', '', '1963', '', 'female organism']

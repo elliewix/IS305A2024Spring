@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7250844', 'Prospectors Delite', '', '', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1989', '', 'female organism']

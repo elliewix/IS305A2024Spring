@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006637', 'Capricciosa', '', '', 'http://www.wikidata.org/entity/Q17361618', 'Alzao', '1988', '', 'female organism']

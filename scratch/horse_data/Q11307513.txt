@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11307513', 'Siberian Hawk', '', '', 'http://www.wikidata.org/entity/Q7577625', 'Spinning World', '2000', '', 'male organism']

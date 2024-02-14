@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55605289', 'Bettina', '', '', 'http://www.wikidata.org/entity/Q7659386', 'Swynford', '', '', 'female organism']

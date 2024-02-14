@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7246040', 'Private Account', 'http://www.wikidata.org/entity/Q7069585', 'Numbered Account', 'http://www.wikidata.org/entity/Q5212022', 'Damascus', '1976', '', 'male organism']

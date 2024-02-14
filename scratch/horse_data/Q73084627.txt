@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q73084627', 'Delmonica Hanover', '', '', '', '', '1969', '1996', '']

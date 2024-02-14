@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6410566', 'Kindergarten', '', '', '', '', '1937', '', '']

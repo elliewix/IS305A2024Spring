@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11299186', 'Kris the Brave', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1994', '', 'male organism']

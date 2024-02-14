@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027971', 'Abigail', 'http://www.wikidata.org/entity/Q62027977', 'Firetail', 'http://www.wikidata.org/entity/Q11289004', 'Woodpecker', '1788', '', 'female organism']

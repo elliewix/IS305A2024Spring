@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006435', 'Dunette', '', '', '', '', '1976', '', 'female organism']

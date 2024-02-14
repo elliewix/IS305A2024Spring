@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62004231', 'Belthazar', 'http://www.wikidata.org/entity/Q62004243', 'Blinking Owl', 'http://www.wikidata.org/entity/Q1417640', 'War Admiral', '1960', '', 'female organism']

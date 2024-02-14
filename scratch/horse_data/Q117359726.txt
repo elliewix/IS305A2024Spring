@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359726', "Darcy's White Turk", '', '', '', '', '1658', '', 'male organism']

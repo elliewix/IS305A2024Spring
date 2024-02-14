@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7158134', 'Pearl Necklace', '', '', '', '', '1974', '', 'female organism']

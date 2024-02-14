@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7932183', 'Vincentive', '', '', 'http://www.wikidata.org/entity/Q5068948', 'Challenger', '1940', '', 'male organism']

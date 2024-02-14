@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006574', 'Handsome Sailor', '', '', '', '', '1983', '', 'male organism']

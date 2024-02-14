@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11288343', 'Winning Ticket', '', '', 'http://www.wikidata.org/entity/Q7821904', 'Tony Bin', '1990', '2023', 'male organism']

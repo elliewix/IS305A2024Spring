@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11346415', 'ライトカラー', '', '', 'http://www.wikidata.org/entity/Q11345209', 'Yamaninsky', '1986', '', 'female organism']

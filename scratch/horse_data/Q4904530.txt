@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4904530', 'Bien Bien', '', '', 'http://www.wikidata.org/entity/Q6749660', 'Manila', '1989', '', 'male organism']

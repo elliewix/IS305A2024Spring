@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239098', 'Merry Maker', '', '', '', '', '1934', '', 'male organism']

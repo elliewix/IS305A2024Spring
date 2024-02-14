@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17116067', 'Rule Supreme', '', '', '', '', '1996', '', '']

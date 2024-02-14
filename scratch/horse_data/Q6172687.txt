@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6172687', 'Jeddah', 'http://www.wikidata.org/entity/Q17014020', 'Pilgrimage', 'http://www.wikidata.org/entity/Q63985155', 'Janissary', '1895', '', 'male organism']

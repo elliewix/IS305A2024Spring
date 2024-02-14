@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7271893', 'Quiet Resolve', '', '', 'http://www.wikidata.org/entity/Q2099366', 'Affirmed', '1995', '', '']

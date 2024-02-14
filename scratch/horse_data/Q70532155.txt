@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q70532155', 'Salios', '', '', '', '', '2017', '', 'male organism']

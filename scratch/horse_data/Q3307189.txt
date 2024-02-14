@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3307189', 'Nearctic', 'http://www.wikidata.org/entity/Q30647052', 'Lady Angela', 'http://www.wikidata.org/entity/Q2305063', 'Nearco', '1954', '1973', 'male organism']

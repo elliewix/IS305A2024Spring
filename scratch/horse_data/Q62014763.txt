@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62014763', 'Plebeian', '', '', 'http://www.wikidata.org/entity/Q62014805', 'Joskin', '1872', '', 'male organism']

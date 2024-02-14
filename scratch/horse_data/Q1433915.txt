@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1433915', 'Herold', '', '', 'http://www.wikidata.org/entity/Q1166219', 'Dark Ronald', '1917', '1945', 'male organism']

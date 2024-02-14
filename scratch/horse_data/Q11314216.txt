@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314216', 'Saegangja', '', '', '', '', '1996', '2009', 'male organism']

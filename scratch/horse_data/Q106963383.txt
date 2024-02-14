@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106963383', 'Vitruvio', '', '', '', '', '2014', '', '']

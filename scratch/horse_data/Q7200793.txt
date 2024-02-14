@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7200793', 'Plaisanterie', '', '', '', '', '1882', '', 'female organism']

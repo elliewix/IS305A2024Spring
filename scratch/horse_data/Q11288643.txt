@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11288643', 'Western Dancer', '', '', 'http://www.wikidata.org/entity/Q5252233', 'Dehere', '2004', '', 'female organism']

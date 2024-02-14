@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994507', 'Black Servant', '', '', 'http://www.wikidata.org/entity/Q4922056', 'Black Toney', '1918', '', 'male organism']

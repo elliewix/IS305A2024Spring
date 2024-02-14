@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242472', 'Cape Town', '', '', '', '', '1995', '', 'male organism']

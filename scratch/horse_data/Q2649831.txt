@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2649831', 'Alme', 'http://www.wikidata.org/entity/Q22321159', 'Girondine', 'http://www.wikidata.org/entity/Q3147477', 'Ibrahim', '1966', '1991', 'male organism']

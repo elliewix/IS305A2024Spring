@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290758', "Dean's Kitten", '', '', '', '', '2007', '', 'male organism']

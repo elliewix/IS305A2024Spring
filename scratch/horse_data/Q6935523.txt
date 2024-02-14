@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6935523', 'Mumtaz Mahal', 'http://www.wikidata.org/entity/Q55071687', 'Lady Josephine', 'http://www.wikidata.org/entity/Q7768577', 'The Tetrarch', '1921', '', 'female organism']

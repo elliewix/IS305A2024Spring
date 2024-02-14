@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22306569', 'Nika du Nevada', 'http://www.wikidata.org/entity/Q22307657', 'Danae', 'http://www.wikidata.org/entity/Q22306685', 'Ecuyer I', '1979', '', 'female organism']

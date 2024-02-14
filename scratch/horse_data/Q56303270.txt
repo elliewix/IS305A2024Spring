@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56303270', 'Knabe', '', '', '', '', '1966', '', '']

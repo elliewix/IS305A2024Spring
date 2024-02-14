@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071372', 'Narrate', 'http://www.wikidata.org/entity/Q55071397', 'State', 'http://www.wikidata.org/entity/Q5893268', 'Honest Pleasure', '', '', 'female organism']

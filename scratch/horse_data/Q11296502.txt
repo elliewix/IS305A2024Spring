@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11296502', 'Guersant', '', '', '', '', '1949', '', 'male organism']

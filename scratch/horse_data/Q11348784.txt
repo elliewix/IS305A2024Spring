@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348784', 'リードホーユー', '', '', '', '', '1980', '2009', 'male organism']

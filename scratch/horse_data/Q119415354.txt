@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119415354', 'Maginot', '', '', 'http://www.wikidata.org/entity/Q119415515', 'Enchanter', '1939', '', 'male organism']

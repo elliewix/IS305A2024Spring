@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994031', 'Broomielaw', 'http://www.wikidata.org/entity/Q61994033', 'Queen Mary', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1862', '', 'male organism']

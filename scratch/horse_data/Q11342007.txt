@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342007', 'Miss Carmie', '', '', '', '', '1966', '1988', 'female organism']

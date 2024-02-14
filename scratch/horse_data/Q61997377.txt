@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997377', 'Roxelane', 'http://www.wikidata.org/entity/Q61997382', 'Rose Of York', 'http://www.wikidata.org/entity/Q61997380', 'War Dance', '1894', '', 'female organism']

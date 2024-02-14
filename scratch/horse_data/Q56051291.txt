@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56051291', 'Fulbright Scholar', '', '', 'http://www.wikidata.org/entity/Q5179853', "Cox's Ridge", '1985', '', 'female organism']

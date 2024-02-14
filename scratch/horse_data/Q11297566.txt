@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297566', 'キョウワサンダー', '', '', 'http://www.wikidata.org/entity/Q11314922', 'Zeddaan', '1981', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22306558', "Briseis d'Helby", 'http://www.wikidata.org/entity/Q22306569', 'Nika du Nevada', 'http://www.wikidata.org/entity/Q22248717', 'Laudanum', '1989', '', 'female organism']

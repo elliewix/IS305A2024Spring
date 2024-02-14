@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545713', 'Comely Nell', 'http://www.wikidata.org/entity/Q17021112', 'Nellie L.', 'http://www.wikidata.org/entity/Q107545711', 'Commodore M', '1962', '', 'female organism']

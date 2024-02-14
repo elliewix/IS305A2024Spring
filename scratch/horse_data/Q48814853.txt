@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48814853', 'Masaka', '', '', '', '', '1945', '', '']

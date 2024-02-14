@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q9160448', 'Artemor', '', '', '', '', '', '', '']

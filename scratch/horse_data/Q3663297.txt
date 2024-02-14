@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3663297', 'Giroud', 'http://www.wikidata.org/entity/Q22324290', 'Mumarilla', 'http://www.wikidata.org/entity/Q22316717', 'Limbo', '2002', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4876072', 'Beadsman', 'http://www.wikidata.org/entity/Q63985570', 'Mendicant', 'http://www.wikidata.org/entity/Q63985565', 'Weatherbit', '1855', '', 'male organism']

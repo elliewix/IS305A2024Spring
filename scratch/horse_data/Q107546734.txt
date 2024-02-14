@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546734', 'Poker', '', '', '', '', '1963', '', 'male organism']

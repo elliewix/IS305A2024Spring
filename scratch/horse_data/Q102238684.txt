@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238684', 'Adobe Post', '', '', '', '', '1929', '', 'male organism']

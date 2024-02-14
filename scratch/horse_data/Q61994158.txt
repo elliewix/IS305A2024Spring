@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994158', 'Persister', '', '', 'http://www.wikidata.org/entity/Q7170362', 'Persimmon', '1905', '', 'female organism']

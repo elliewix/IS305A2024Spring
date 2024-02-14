@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006660', 'Aqaarid', '', '', 'http://www.wikidata.org/entity/Q3336192', 'Nashwan', '1992', '', 'female organism']

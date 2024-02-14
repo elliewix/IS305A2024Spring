@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63383194', 'Coco', '', '', 'http://www.wikidata.org/entity/Q31884517', 'Cardento', '2000', '', 'female organism']

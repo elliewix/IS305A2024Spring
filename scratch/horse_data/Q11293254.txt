@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11293254', 'Osumi Daido', '', '', 'http://www.wikidata.org/entity/Q11312941', 'Special Week', '2004', '', 'male organism']

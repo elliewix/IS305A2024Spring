@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115022802', 'Darmen', 'http://www.wikidata.org/entity/Q115023042', 'Miss Carmen', 'http://www.wikidata.org/entity/Q22323928', 'Tanael', '1969', '', 'female organism']

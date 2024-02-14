@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11335833', 'Precious Cafe', '', '', 'http://www.wikidata.org/entity/Q11327262', 'Heart Lake', '1999', '', 'male organism']

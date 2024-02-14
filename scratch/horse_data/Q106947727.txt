@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106947727', 'Uberleben', 'http://www.wikidata.org/entity/Q109260746', 'Meine Theresia', 'http://www.wikidata.org/entity/Q4309285', 'Gold Ship', '2018', '', 'female organism']

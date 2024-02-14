@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55091107', 'Satirical', 'http://www.wikidata.org/entity/Q55091143', 'Chaff', 'http://www.wikidata.org/entity/Q55091137', 'Satiety', '1891', '', 'female organism']

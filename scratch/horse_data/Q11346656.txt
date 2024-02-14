@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11346656', 'ラガーレグルス', '', '', 'http://www.wikidata.org/entity/Q11304515', 'Sakura Chitose O', '1997', '', 'male organism']

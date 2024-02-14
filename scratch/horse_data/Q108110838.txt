@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108110838', 'Mejiro Eagle', 'http://www.wikidata.org/entity/Q11284845', 'Amazon Warrior', '', '', '1975', '1995', 'male organism']

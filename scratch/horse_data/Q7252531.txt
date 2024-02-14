@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7252531', 'Provideo', '', '', 'http://www.wikidata.org/entity/Q18148082', 'Godswalk', '1982', '', 'male organism']

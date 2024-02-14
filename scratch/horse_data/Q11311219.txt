@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311219', 'スウヰイスー', '', '', 'http://www.wikidata.org/entity/Q11314399', 'Theft', '1949', '1964', 'female organism']

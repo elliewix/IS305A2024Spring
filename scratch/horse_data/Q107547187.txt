@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547187', 'Feola', 'http://www.wikidata.org/entity/Q107547174', 'Aloe', 'http://www.wikidata.org/entity/Q107547173', 'Friar Marcus', '1933', '', 'female organism']

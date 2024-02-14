@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119360743', 'Bayard 7819', '', '', 'http://www.wikidata.org/entity/Q119314616', 'Favora 725', '', '', 'male organism']

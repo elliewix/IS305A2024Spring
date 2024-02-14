@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4738730', 'Alysheba', 'http://www.wikidata.org/entity/Q4881745', 'Bel Sheba', 'http://www.wikidata.org/entity/Q4738646', 'Alydar', '1984', '2009', 'male organism']

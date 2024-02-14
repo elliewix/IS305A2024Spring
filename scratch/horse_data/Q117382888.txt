@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382888', "sister to Hartley's Roan stallion", 'http://www.wikidata.org/entity/Q117359379', 'Sachrissa', 'http://www.wikidata.org/entity/Q117382895', 'Hip', '1733', '', 'female organism']

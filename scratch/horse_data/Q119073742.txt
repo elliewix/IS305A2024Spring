@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119073742', 'Drake Farms Egotist', '', '', 'http://www.wikidata.org/entity/Q118163940', 'Don Kaptif', '1954', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30927739', 'Ginza Green Grass', '', '', 'http://www.wikidata.org/entity/Q6810492', 'Mejiro McQueen', '2005', '', 'male organism']

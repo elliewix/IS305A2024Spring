@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236304', 'First Mate', '', '', 'http://www.wikidata.org/entity/Q5465075', 'Fonso', '1893', '', 'male organism']

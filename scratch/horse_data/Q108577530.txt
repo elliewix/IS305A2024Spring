@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108577530', 'Pacific', 'http://www.wikidata.org/entity/Q108598878', 'Joyful Lady', 'http://www.wikidata.org/entity/Q22324188', 'Corland', '1997', '', 'male organism']

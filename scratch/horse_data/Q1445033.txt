@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1445033', 'Snowman', '', '', '', '', '1948', '1974', 'male organism']

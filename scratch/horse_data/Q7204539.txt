@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7204539', 'Plenipotentiary', '', '', 'http://www.wikidata.org/entity/Q5371990', 'Emilius', '1831', '', 'male organism']

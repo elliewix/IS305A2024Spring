@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108861657', 'Duegne', '', '', 'http://www.wikidata.org/entity/Q96142797', 'Lavater', '', '', 'female organism']

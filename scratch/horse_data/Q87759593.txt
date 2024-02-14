@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87759593', 'Lady Lothian', 'http://www.wikidata.org/entity/Q87759967', 'Daffodil', 'http://www.wikidata.org/entity/Q87759594', 'Exchequer', '1882', '', 'female organism']

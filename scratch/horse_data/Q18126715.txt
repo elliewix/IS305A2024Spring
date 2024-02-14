@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18126715', 'Manado', '', '', 'http://www.wikidata.org/entity/Q5036489', "Captain's Gig", '1973', '', 'male organism']

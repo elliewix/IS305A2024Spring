@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64011932', 'Ferina', 'http://www.wikidata.org/entity/Q64011936', 'Partiality', 'http://www.wikidata.org/entity/Q62033520', 'Venison', '1844', '', 'female organism']

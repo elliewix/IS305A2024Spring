@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6675258', 'Lookin At Lucky', 'http://www.wikidata.org/entity/Q63467505', 'Private Feeling', 'http://www.wikidata.org/entity/Q6145306', 'Smart Strike', '2007', '', 'male organism']

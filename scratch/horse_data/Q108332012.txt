@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108332012', 'Unika', '', '', '', '', '', '', 'female organism']

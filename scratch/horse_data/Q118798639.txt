@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798639', 'Per Aa', '', '', 'http://www.wikidata.org/entity/Q19864086', 'American Pharoah', '2019', '', 'female organism']

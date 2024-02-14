@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314922', 'Zeddaan', '', '', 'http://www.wikidata.org/entity/Q11300706', 'Grey Sovereign', '1965', '1984', 'male organism']

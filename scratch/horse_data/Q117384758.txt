@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384758', 'Scarborough mare', 'http://www.wikidata.org/entity/Q117384770', "Wyvill's Childers mare", 'http://www.wikidata.org/entity/Q117384759', 'Scarborough colt', '1734', '', 'female organism']

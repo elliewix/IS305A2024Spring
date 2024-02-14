@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28452699', 'Tourist', '', '', 'http://www.wikidata.org/entity/Q11318930', 'Tiznow', '2011', '', '']

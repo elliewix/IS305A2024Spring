@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798579', 'Tastiera', '', '', 'http://www.wikidata.org/entity/Q24862682', 'Satono Crown', '2020', '', 'male organism']

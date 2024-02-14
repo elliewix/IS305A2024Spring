@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16982006', 'Gilles de Retz', '', '', 'http://www.wikidata.org/entity/Q7373937', 'Royal Charger', '1953', '', 'male organism']

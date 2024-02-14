@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124369308', 'Patty Louise', 'http://www.wikidata.org/entity/Q124369386', 'Konnie Lou', 'http://www.wikidata.org/entity/Q124369346', 'Lynnwood Don Again II', '1956', '', 'female organism']

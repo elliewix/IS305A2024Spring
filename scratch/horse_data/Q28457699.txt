@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28457699', 'Clifford', '', '', '', '', '1890', '', '']

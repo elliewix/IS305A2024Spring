@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111336863', 'Capucine', 'http://www.wikidata.org/entity/Q111336999', 'Marjolaine', 'http://www.wikidata.org/entity/Q111336938', 'Khereddine', '1968', '', 'female organism']

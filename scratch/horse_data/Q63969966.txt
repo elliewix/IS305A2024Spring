@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969966', 'Cuadrilla', 'http://www.wikidata.org/entity/Q63969986', 'Boullabaisse', 'http://www.wikidata.org/entity/Q7829049', 'Tourbillon', '1943', '', 'female organism']

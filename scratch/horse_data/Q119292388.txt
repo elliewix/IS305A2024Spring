@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119292388', 'Adolphe 1180', 'http://www.wikidata.org/entity/Q119704225', 'Rosalie', 'http://www.wikidata.org/entity/Q119266237', 'Narbonne 777', '1882', '', 'male organism']

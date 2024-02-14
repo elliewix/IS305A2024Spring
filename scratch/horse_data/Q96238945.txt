@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96238945', 'Helder', 'http://www.wikidata.org/entity/Q96240852', 'Osmonde', 'http://www.wikidata.org/entity/Q96213561', 'Bemecourt', '1907', '', 'male organism']

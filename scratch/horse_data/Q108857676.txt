@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108857676', 'Pédagogue', '', '', 'http://www.wikidata.org/entity/Q52555857', 'Nuncio', '1854', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q57313821', 'Normcore', '', '', 'http://www.wikidata.org/entity/Q5654487', 'Harbinger', '2015', '', 'female organism']

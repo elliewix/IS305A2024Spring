@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28690195', 'Kyohei', '', '', 'http://www.wikidata.org/entity/Q11348758', 'Reach the Crown', '2014', '', 'male organism']

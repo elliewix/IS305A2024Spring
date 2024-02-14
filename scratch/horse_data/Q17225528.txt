@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17225528', 'ロサギガンティア', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2011', '', 'male organism']

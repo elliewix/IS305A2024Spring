@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28451493', 'Tecumseh', '', '', '', '', '1882', '', '']

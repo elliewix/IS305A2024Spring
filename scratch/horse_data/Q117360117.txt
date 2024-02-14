@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360117', 'Hampton Court Childers', 'http://www.wikidata.org/entity/Q117360123', 'Duchess', 'http://www.wikidata.org/entity/Q3074615', 'Flying Childers', '1724', '', 'male organism']

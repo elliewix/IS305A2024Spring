@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11293113', 'Owens', '', '', 'http://www.wikidata.org/entity/Q7594020', 'St Lite', '1946', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333772', 'Frizette', '', '', '', '', '1905', '', 'female organism']

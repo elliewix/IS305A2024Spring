@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47469479', 'Persian Knight', '', '', 'http://www.wikidata.org/entity/Q5654487', 'Harbinger', '2014', '', 'male organism']

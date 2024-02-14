@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7046735', 'Nodouble', 'http://www.wikidata.org/entity/Q61970824', 'Abla-Jay', 'http://www.wikidata.org/entity/Q16971101', 'Noholme', '1965', '', 'male organism']

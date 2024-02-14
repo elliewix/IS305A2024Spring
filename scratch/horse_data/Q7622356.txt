@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7622356', 'Stravinsky', '', '', 'http://www.wikidata.org/entity/Q3346473', 'Nureyev', '1996', '2023', 'male organism']

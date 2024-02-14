@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321084', 'トウカイローマン', '', '', 'http://www.wikidata.org/entity/Q11335047', 'Bravest Roman', '1981', '', 'female organism']

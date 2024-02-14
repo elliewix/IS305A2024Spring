@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5477201', 'Foxhunter', '', '', '', '', '1940', '1959', 'male organism']

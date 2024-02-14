@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113568478', 'Dyna Carpenter', '', '', '', '', '1984', '1995', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11335194', 'ブロードマインド', '', '', '', '', '1988', '', 'male organism']

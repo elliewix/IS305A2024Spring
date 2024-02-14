@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319076', 'テイエムエース', '', '', 'http://www.wikidata.org/entity/Q11319077', 'T M Opera O', '2003', '', 'male organism']

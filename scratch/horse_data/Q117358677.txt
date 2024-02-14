@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358677', 'Sweeper mare', 'http://www.wikidata.org/entity/Q61998482', 'Tartar mare', 'http://www.wikidata.org/entity/Q117358680', 'Sweeper', '1765', '', 'female organism']

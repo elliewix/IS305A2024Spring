@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3108406', 'Gladiateur', 'http://www.wikidata.org/entity/Q62036495', 'Miss Gladiator', 'http://www.wikidata.org/entity/Q62035683', 'Monarque', '1862', '', 'male organism']

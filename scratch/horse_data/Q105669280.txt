@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105669280', 'Gratias', '', '', '', '', '', '', 'male organism']

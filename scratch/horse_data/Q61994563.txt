@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994563', 'Vienna', 'http://www.wikidata.org/entity/Q61994568', 'Turkish Blood', 'http://www.wikidata.org/entity/Q4822299', 'Aureole', '1957', '', 'male organism']

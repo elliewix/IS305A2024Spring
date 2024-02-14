@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340383', 'マチカネキンノホシ', '', '', 'http://www.wikidata.org/entity/Q1457136', 'Seattle Slew', '1996', '', 'male organism']

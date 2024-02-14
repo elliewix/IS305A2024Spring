@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q93560773', 'Equinox Bi', '', '', '', '', '2001', '', '']

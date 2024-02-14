@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11338110', 'ホワイトストーン', '', '', 'http://www.wikidata.org/entity/Q11308880', 'C B Cross', '1987', '', 'male organism']

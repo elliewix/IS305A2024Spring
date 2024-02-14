@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241454', 'Raymond Earl', '', '', '', '', '1975', '', 'male organism']

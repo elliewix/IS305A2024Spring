@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343607', 'Mejiro Titan', 'http://www.wikidata.org/entity/Q11306983', 'Cheryl', 'http://www.wikidata.org/entity/Q11343600', 'Mejiro Asama', '1978', '', 'male organism']

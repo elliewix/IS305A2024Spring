@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2279439', 'Shirocco', '', '', 'http://www.wikidata.org/entity/Q1945364', 'Monsun', '2001', '', 'male organism']

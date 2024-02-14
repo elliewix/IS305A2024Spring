@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242143', 'Green Alligator', '', '', '', '', '1988', '', 'male organism']

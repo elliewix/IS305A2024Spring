@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006466', 'Happy Knight', '', '', 'http://www.wikidata.org/entity/Q5148003', 'Colombo', '1943', '', 'male organism']

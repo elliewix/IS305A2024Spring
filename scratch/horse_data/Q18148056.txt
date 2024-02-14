@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18148056', 'Bayern', '', '', 'http://www.wikidata.org/entity/Q7079632', 'Offlee Wild', '2011', '', 'male organism']

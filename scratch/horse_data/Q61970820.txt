@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970820', 'Smartaire', 'http://www.wikidata.org/entity/Q61970821', 'Art Teacher', '', '', '1962', '', 'female organism']

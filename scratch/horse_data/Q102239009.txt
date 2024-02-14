@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239009', 'Grand Slam', '', '', '', '', '1933', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104664395', 'Guy Axworthy', '', '', '', '', '1902', '1933', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11344073', 'メルシーステージ', 'http://www.wikidata.org/entity/Q11340901', 'マミーブルー', 'http://www.wikidata.org/entity/Q11312367', 'State Jaguar', '1991', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970573', 'Lady of the Snows', '', '', 'http://www.wikidata.org/entity/Q6750704', 'Manna', '', '', 'female organism']

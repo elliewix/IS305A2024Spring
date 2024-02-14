@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3553272', 'Vaguely Noble', 'http://www.wikidata.org/entity/Q61994572', 'Noble Lassie', 'http://www.wikidata.org/entity/Q61994563', 'Vienna', '1965', '', 'male organism']

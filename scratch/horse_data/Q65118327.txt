@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65118327', 'Artilleryman', '', '', '', '', '1916', '', '']
