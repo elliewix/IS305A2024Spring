@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7548226', 'Snow Fairy', '', '', 'http://www.wikidata.org/entity/Q11287578', 'Intikhab', '2007', '', 'female organism']

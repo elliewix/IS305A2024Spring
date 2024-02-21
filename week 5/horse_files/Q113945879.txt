@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113945879', 'Kafuji Octagon', '', '', 'http://www.wikidata.org/entity/Q21996288', 'Maurice', '2019', '', 'male organism']

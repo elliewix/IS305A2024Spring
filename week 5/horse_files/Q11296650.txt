@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11296650', 'Quijano', '', '', 'http://www.wikidata.org/entity/Q338164', 'Acatenango', '2002', '', 'male organism']

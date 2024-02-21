@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242002', 'Proper Reality', '', '', '', '', '1985', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18172319', 'Telescope', '', '', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2010', '', 'male organism']

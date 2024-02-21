@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17019268', 'Middleground', '', '', 'http://www.wikidata.org/entity/Q4939079', 'Bold Venture', '1947', '', 'male organism']

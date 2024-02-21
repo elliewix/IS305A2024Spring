@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16951353', 'Steinlen', '', '', 'http://www.wikidata.org/entity/Q11326627', 'Habitat', '1983', '', 'male organism']

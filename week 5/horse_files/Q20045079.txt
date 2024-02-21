@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20045079', 'スカイリーダ', '', '', '', '', '1970', '', 'male organism']

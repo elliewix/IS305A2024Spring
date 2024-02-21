@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117117417', 'Thunderbolt', '', '', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1857', '', 'male organism']

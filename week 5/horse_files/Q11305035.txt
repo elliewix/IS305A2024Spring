@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305035', 'Surprise Power', '', '', '', '', '1994', '', 'male organism']

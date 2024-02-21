@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242847', 'Adriano', '', '', '', '', '2005', '', 'male organism']

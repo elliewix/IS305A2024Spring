@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6675467', 'Lookout', '', '', 'http://www.wikidata.org/entity/Q7846380', 'Troubadour', '1890', '', 'male organism']

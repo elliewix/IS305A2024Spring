@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546028', 'Alcantara', '', '', '', '', '1908', '1930', 'male organism']

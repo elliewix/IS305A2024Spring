@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11289562', 'Eishin Flash', '', '', 'http://www.wikidata.org/entity/Q6410851', "King's Best", '2007', '', 'male organism']

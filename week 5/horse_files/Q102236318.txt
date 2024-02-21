@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236318', 'Dr. Shepard', '', '', '', '', '1894', '', 'male organism']

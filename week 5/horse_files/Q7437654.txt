@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7437654', 'Scottish Chieftain', '', '', '', '', '1894', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22328292', 'Dame de Ranville', 'http://www.wikidata.org/entity/Q22328296', 'Que je suis belle', 'http://www.wikidata.org/entity/Q115286104', 'Talisman', '1947', '', 'female organism']

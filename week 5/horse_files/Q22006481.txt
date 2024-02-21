@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006481', 'Turkhan', '', '', 'http://www.wikidata.org/entity/Q4842833', 'Bahram', '1937', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27920498', 'Sasano Koban', '', '', 'http://www.wikidata.org/entity/Q11311675', 'Suzukakoban', '1990', '', 'male organism']

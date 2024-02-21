@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107002613', 'Wild Princess', 'http://www.wikidata.org/entity/Q107002622', 'Bonnie Blade', 'http://www.wikidata.org/entity/Q8000486', 'Wild Again', '1990', '', 'female organism']

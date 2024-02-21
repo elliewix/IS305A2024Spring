@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7133010', 'Papillon', '', '', '', '', '1991', '2017', 'male organism']

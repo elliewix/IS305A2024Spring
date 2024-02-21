@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64944904', 'Padock du Plessis', 'http://www.wikidata.org/entity/Q76837825', 'Ketty du Plessis', 'http://www.wikidata.org/entity/Q3192701', 'Kannan', '2003', '', 'male organism']

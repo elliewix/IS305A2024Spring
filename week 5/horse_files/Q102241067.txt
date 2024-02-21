@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241067', 'Napoise', '', '', '', '', '1969', '', 'male organism']

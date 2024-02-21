@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7406612', 'Salvator', '', '', '', '', '1886', '', 'male organism']

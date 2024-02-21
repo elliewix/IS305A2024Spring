@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20724637', "Flipper d'Elle", 'http://www.wikidata.org/entity/Q22319968', 'Pavlova des Marais', 'http://www.wikidata.org/entity/Q22319883', 'Double Espoir', '1993', '2020', 'male organism']

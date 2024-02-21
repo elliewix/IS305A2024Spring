@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235979', 'Bengal', '', '', '', '', '1879', '', 'male organism']

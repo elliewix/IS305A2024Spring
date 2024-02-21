@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q14355572', 'Novellist', '', '', 'http://www.wikidata.org/entity/Q1945364', 'Monsun', '2009', '', 'male organism']

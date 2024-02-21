@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11328348', 'バローネターフ', '', '', '', '', '1972', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111377920', 'Naran Huleg', '', '', 'http://www.wikidata.org/entity/Q11303924', 'Gold Allure', '2016', '', 'male organism']

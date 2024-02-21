@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7659267', 'Sword Dancer', '', '', '', '', '1956', '', 'male organism']

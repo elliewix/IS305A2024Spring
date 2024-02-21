@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q404893', 'Aiken Cura', '', '', '', '', '1995', '2007', 'male organism']

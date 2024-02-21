@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66126504', 'Hayayakko', 'http://www.wikidata.org/entity/Q119401871', 'Marshmallow', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2016', '', 'male organism']

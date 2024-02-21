@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242684', 'Supah Blitz', '', '', '', '', '2000', '', 'male organism']

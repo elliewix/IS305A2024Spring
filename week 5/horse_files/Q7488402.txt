@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7488402', 'Shanghai Bobby', '', '', 'http://www.wikidata.org/entity/Q17015177', "Harlan's Holiday", '2010', '', 'male organism']

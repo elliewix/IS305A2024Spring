@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108135580', 'Welt As', '', '', 'http://www.wikidata.org/entity/Q108133757', 'Weltmeister', '1977', '', 'male organism']

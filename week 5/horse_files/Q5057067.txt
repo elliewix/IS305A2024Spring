@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5057067', 'Cedric', 'http://www.wikidata.org/entity/Q62027361', 'Walton mare', 'http://www.wikidata.org/entity/Q7180538', 'Phantom', '1821', '1829', 'male organism']

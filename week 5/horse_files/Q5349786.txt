@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5349786', 'Einstein', '', '', 'http://www.wikidata.org/entity/Q7576270', 'Spend A Buck', '2002', '', 'male organism']

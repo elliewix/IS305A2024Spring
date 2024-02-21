@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q89486937', 'Polar Bear des Légendes celtiques', '', '', '', '', '2014', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113426151', 'Nobori Diana', '', '', 'http://www.wikidata.org/entity/Q11334069', 'French Deputy', '2010', '', 'female organism']

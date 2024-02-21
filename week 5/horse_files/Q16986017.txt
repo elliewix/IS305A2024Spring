@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16986017', 'Indiana', '', '', 'http://www.wikidata.org/entity/Q7429092', 'Sayajirao', '1961', '', 'male organism']

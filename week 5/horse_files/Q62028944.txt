@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028944', 'Brutandorf', 'http://www.wikidata.org/entity/Q62028948', 'Mandane', 'http://www.wikidata.org/entity/Q1448928', 'Blacklock', '1821', '', 'male organism']

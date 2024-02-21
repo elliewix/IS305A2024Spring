@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120413746', 'La Bell', 'http://www.wikidata.org/entity/Q120414495', 'Miss de Luxe', 'http://www.wikidata.org/entity/Q117885226', 'La Don', '1960', '', 'female organism']

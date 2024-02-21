@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4913976', 'Bindaree', '', '', '', '', '1994', '', 'male organism']

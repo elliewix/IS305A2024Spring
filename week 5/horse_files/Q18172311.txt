@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18172311', 'Pasty', '', '', '', '', '1973', '', 'female organism']

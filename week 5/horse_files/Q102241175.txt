@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241175', "Buck's Bid", '', '', '', '', '1971', '', 'male organism']

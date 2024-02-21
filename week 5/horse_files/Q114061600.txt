@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114061600', 'Falconia', '', '', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2017', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q42616793', 'Decent Fellow', '', '', '', '', '1995', '', 'male organism']

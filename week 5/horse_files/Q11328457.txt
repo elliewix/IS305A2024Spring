@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11328457', 'バンブーエール', '', '', 'http://www.wikidata.org/entity/Q11284680', 'Afleet', '2003', '', 'male organism']

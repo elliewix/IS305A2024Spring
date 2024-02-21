@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301875', 'Koyu', '', '', 'http://www.wikidata.org/entity/Q11296502', 'Guersant', '1965', '1986', 'female organism']

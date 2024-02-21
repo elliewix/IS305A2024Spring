@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11296729', 'キタノダイオー', 'http://www.wikidata.org/entity/Q11296730', 'Kitano Hikari', '', '', '1965', '', 'male organism']

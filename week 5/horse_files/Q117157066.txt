@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117157066', 'Retty', '', '', 'http://www.wikidata.org/entity/Q87760059', 'Lambton', '1865', '', 'female organism']

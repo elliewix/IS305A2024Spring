@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11284604', 'Affect Dancer', '', '', '', '', '1989', '', 'female organism']

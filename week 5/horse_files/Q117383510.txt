@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117383510', 'Slipper', 'http://www.wikidata.org/entity/Q61994075', 'Catherine', 'http://www.wikidata.org/entity/Q62022055', 'Precipitate', '1801', '', 'female organism']

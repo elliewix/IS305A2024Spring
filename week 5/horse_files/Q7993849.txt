@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7993849', 'Whiskery', '', '', 'http://www.wikidata.org/entity/Q7993841', 'Whisk Broom II', '1924', '', 'male organism']

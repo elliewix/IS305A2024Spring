@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16982346', 'Gorytus', 'http://www.wikidata.org/entity/Q5566196', 'Glad Rags', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1980', '', 'male organism']

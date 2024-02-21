@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18236625', 'Snow Dragon', '', '', 'http://www.wikidata.org/entity/Q11284094', 'Admire Cozzene', '2008', '', 'male organism']

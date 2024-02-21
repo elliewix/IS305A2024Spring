@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52716659', 'Generale Uno', '', '', 'http://www.wikidata.org/entity/Q11311521', 'Screen Hero', '2015', '', 'male organism']

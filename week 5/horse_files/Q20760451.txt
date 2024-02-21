@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20760451', 'Wabe', '', '', '', '', '1991', '2015', 'male organism']

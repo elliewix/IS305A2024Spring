@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242051', 'Flying Continental', '', '', '', '', '1986', '', 'male organism']

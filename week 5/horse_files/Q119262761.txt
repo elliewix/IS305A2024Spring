@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119262761', 'Marquis 774', 'http://www.wikidata.org/entity/Q119263004', 'Bijou', 'http://www.wikidata.org/entity/Q117229448', 'Superior 730', '1875', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123596274', 'Poetin Z clone 2', '', '', '', '', '2007', '', 'female organism']

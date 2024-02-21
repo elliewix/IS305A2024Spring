@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87760044', 'Black Agnes', 'http://www.wikidata.org/entity/Q87760047', 'Walton mare', 'http://www.wikidata.org/entity/Q7919270', 'Velocipede', '1831', '', 'female organism']

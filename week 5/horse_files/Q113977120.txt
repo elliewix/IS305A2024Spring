@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113977120', "Luigi d'Amaury", '', '', 'http://www.wikidata.org/entity/Q2123116', 'Quidam de Revel', '1999', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237029', 'Lena Misha', '', '', '', '', '1913', '', 'male organism']

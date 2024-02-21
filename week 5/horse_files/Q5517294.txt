@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5517294', 'Gainsborough', 'http://www.wikidata.org/entity/Q48817247', 'Rosedrop', 'http://www.wikidata.org/entity/Q4874350', 'Bayardo', '1915', '', 'male organism']

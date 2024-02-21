@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q838806', 'Indigenous', '', '', 'http://www.wikidata.org/entity/Q6766369', 'Marju', '1993', '', 'male organism']

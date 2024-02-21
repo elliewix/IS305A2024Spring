@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027281', 'Blank mare', 'http://www.wikidata.org/entity/Q62022912', 'Regulus mare', 'http://www.wikidata.org/entity/Q4925119', 'Blank', '', '', 'female organism']

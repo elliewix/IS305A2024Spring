@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969812', 'Wavy Navy', 'http://www.wikidata.org/entity/Q63969821', 'Triomphe', 'http://www.wikidata.org/entity/Q1417640', 'War Admiral', '1954', '', 'female organism']

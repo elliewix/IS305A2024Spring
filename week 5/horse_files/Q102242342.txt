@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242342', 'Powis Castle', '', '', '', '', '1991', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11296728', 'Kitano Kachidoki', '', '', 'http://www.wikidata.org/entity/Q11319254', 'Tesco Boy', '1971', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87760042', 'Agnes', 'http://www.wikidata.org/entity/Q87760044', 'Black Agnes', 'http://www.wikidata.org/entity/Q61993750', 'Pantaloon', '1848', '', 'female organism']

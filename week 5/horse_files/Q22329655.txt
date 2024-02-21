@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22329655', 'Starter', 'http://www.wikidata.org/entity/Q22329684', 'Kaironnaise', 'http://www.wikidata.org/entity/Q7293563', 'Rantzau', '1962', '', 'male organism']

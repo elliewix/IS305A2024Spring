@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347361', 'Rabelais', 'http://www.wikidata.org/entity/Q55091107', 'Satirical', 'http://www.wikidata.org/entity/Q280168', 'St. Simon', '1900', '', 'male organism']

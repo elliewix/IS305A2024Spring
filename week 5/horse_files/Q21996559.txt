@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21996559', 'Persian Heights', '', '', 'http://www.wikidata.org/entity/Q114568400', 'Persian Bold', '1985', '', 'male organism']

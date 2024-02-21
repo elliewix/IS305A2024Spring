@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359879', 'Sweepstakes mare', 'http://www.wikidata.org/entity/Q117359908', 'sister to Sloven', 'http://www.wikidata.org/entity/Q117359884', 'Bolton Sweepstakes', '1735', '', 'female organism']

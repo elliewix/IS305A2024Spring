@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61787376', 'Stiffelio', 'http://www.wikidata.org/entity/Q11308291', 'Serious Attitude', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2014', '', 'male organism']

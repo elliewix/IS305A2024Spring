@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349754', 'レッドチリペッパー', '', '', 'http://www.wikidata.org/entity/Q7882431', 'Unbridled', '1996', '', 'female organism']

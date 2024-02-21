@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11295011', 'Kalista Glory', '', '', 'http://www.wikidata.org/entity/Q11335047', 'Bravest Roman', '1988', '', 'male organism']

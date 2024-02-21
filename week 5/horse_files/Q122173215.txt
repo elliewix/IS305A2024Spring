@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122173215', 'Jemmapes 41958', '', '', 'http://www.wikidata.org/entity/Q122173320', 'Bon-Apôtre 24462', '1893', '', 'male organism']

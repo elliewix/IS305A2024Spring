@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25394775', 'Royal Oak', 'http://www.wikidata.org/entity/Q62033589', 'Smolensko mare', 'http://www.wikidata.org/entity/Q61994070', 'Catton', '1823', '', 'male organism']

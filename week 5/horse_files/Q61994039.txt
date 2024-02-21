@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994039', 'Plenipotentiary mare', 'http://www.wikidata.org/entity/Q61994043', 'Myrrha', 'http://www.wikidata.org/entity/Q7204539', 'Plenipotentiary', '1840', '', 'female organism']

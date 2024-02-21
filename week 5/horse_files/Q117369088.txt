@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369088', 'Susan', 'http://www.wikidata.org/entity/Q117369387', 'Drowsy', 'http://www.wikidata.org/entity/Q117369128', 'Overton', '1800', '', 'female organism']

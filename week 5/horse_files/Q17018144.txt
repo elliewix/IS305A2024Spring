@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17018144', 'Magician', 'http://www.wikidata.org/entity/Q61987570', 'Absolutelyfabulous', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2010', '', 'male organism']

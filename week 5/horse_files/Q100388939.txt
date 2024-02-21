@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100388939', 'Written Tycoon', '', '', '', '', '2002', '', 'male organism']

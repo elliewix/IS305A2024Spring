@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61862586', 'Noltes Küchengirl', '', '', '', '', '1997', '', 'female organism']

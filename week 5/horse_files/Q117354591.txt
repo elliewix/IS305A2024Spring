@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354591', 'Petticoat', 'http://www.wikidata.org/entity/Q117354595', 'Elusive', 'http://www.wikidata.org/entity/Q5644286', 'Hamburg', '1906', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241501', 'Tonka Wakhan', '', '', '', '', '1977', '', 'male organism']

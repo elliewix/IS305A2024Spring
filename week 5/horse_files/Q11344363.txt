@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11344363', 'Motivator', '', '', 'http://www.wikidata.org/entity/Q3322808', 'Montjeu', '2002', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6678939', 'Lord Avie', '', '', '', '', '1978', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120985700', 'Maneghie', '', '', '', '', '1870', '', 'female organism']

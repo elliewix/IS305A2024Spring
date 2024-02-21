@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347515', 'Lanzarote', '', '', 'http://www.wikidata.org/entity/Q4693122', 'Agnes Tachyon', '2003', '', 'male organism']

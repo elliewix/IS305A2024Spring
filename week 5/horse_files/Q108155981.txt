@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108155981', 'Wahnfried', '', '', '', '', '1962', '', 'male organism']

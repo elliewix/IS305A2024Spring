@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q19880754', 'Elegant Prince', '', '', 'http://www.wikidata.org/entity/Q11349325', 'Raise a Native', '1974', '', 'male organism']

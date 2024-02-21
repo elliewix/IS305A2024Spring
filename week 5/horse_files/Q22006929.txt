@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006929', 'Trip To Paris', '', '', 'http://www.wikidata.org/entity/Q5070219', 'Champs Elysees', '2011', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107552179', 'Firefly', '', '', 'http://www.wikidata.org/entity/Q107552180', 'Papa Redbird', '1952', '', 'female organism']

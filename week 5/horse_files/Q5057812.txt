@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5057812', 'Celeric', '', '', 'http://www.wikidata.org/entity/Q11343140', 'Mtoto', '1992', '', '']

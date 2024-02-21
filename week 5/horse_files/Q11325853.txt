@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11325853', 'ノーザンポラリス', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1991', '', 'male organism']

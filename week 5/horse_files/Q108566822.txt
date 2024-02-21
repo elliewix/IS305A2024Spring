@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108566822', 'Cita', '', '', 'http://www.wikidata.org/entity/Q63323637', 'Ladykiller', '1966', '', 'female organism']

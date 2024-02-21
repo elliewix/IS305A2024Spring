@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022053', 'Precipitate mare', 'http://www.wikidata.org/entity/Q62022070', 'Young Magnolia', 'http://www.wikidata.org/entity/Q62022055', 'Precipitate', '1802', '', 'female organism']

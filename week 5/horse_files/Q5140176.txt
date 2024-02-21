@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5140176', 'Codex', '', '', 'http://www.wikidata.org/entity/Q4801503', 'Arts and Letters', '1977', '', 'male organism']

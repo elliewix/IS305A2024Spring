@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26792854', 'Patchen Beauty', 'http://www.wikidata.org/entity/Q26792856', 'Precious Beauty', '', '', '1995', '', 'female organism']

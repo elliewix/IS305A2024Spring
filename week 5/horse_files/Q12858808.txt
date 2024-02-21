@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q12858808', 'Lightning Bar', '', '', 'http://www.wikidata.org/entity/Q7797337', 'Three Bars', '1951', '', 'male organism']

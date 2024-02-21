@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4865372', "Bartlett's Childers", 'http://www.wikidata.org/entity/Q22332673', 'Betty Leedes', 'http://www.wikidata.org/entity/Q1166352', 'Darley Arabian', '1716', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7320583', 'Rhinestone Cowboy', '', '', 'http://www.wikidata.org/entity/Q24895534', 'Be My Native', '1996', '', 'male organism']

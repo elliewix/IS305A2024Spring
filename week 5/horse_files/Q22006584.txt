@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006584', 'Air Force Blue', '', '', 'http://www.wikidata.org/entity/Q18148153', 'War Front', '2013', '', 'male organism']

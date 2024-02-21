@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987139', 'Miss Letty', 'http://www.wikidata.org/entity/Q63985576', 'Orville mare', 'http://www.wikidata.org/entity/Q7242509', 'Priam', '1834', '', 'female organism']

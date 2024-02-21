@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345206', 'ヤマニングローバル', '', '', 'http://www.wikidata.org/entity/Q11342021', 'Mr C B', '1987', '2016', 'male organism']

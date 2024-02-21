@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290932', 'McCraken', '', '', '', '', '2014', '', 'male organism']

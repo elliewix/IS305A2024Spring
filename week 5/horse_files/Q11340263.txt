@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340263', 'Majin Prosper', '', '', 'http://www.wikidata.org/entity/Q11284094', 'Admire Cozzene', '2007', '', 'male organism']

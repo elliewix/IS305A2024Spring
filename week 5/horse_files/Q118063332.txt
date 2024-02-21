@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118063332', 'Coreen 117580', 'http://www.wikidata.org/entity/Q119790562', 'Alice 51491', 'http://www.wikidata.org/entity/Q118063108', 'Glendale Pride', '1914', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382839', 'Gower Stallion mare', 'http://www.wikidata.org/entity/Q117382877', 'Regulus mare', 'http://www.wikidata.org/entity/Q62022930', 'Gower Stallion', '1757', '', 'female organism']

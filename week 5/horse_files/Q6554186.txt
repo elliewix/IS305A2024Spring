@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6554186', 'Linita', '', '', '', '', '1957', '', 'female organism']

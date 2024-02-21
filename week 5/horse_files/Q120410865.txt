@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120410865', 'Pat La Rex', 'http://www.wikidata.org/entity/Q120410887', 'Papoose', 'http://www.wikidata.org/entity/Q118222329', 'La Rex', '', '', 'male organism']

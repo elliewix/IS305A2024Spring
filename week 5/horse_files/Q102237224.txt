@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237224', 'Donnacona', '', '', 'http://www.wikidata.org/entity/Q7244192', 'Prince Palatine', '1917', '', 'male organism']

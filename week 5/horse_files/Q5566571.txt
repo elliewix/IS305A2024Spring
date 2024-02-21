@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5566571', 'Glamour Puss', '', '', '', '', '2000', '', 'female organism']

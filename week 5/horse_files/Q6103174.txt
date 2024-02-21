@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6103174', 'Izzi Top', '', '', 'http://www.wikidata.org/entity/Q11331695', 'Pivotal', '2008', '', 'female organism']

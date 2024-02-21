@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6988645', 'Neil Gow', 'http://www.wikidata.org/entity/Q55607200', 'Chelandry', 'http://www.wikidata.org/entity/Q61993570', 'Marco', '1907', '', 'male organism']

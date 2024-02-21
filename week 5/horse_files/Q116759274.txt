@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116759274', 'Goodwill', '', '', 'http://www.wikidata.org/entity/Q22315525', 'Landgraf I', '1988', '', 'male organism']

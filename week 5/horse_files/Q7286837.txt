@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7286837', 'Rakwool', '', '', '', '', '1925', '', 'male organism']

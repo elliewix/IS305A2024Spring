@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240241', 'Red Hot Pistol', '', '', '', '', '1955', '', 'male organism']

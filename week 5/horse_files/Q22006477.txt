@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006477', 'Taj Rossi', '', '', '', '', '1970', '', 'male organism']

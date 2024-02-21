@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7597424', 'Stamina', 'http://www.wikidata.org/entity/Q5376668', 'Endurance by Right', 'http://www.wikidata.org/entity/Q6967728', 'Nasturtium', '1905', '', 'female organism']

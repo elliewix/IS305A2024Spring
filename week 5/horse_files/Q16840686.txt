@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16840686', 'Got Koko', '', '', '', '', '1999', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11294094', 'Kashu Chikara', '', '', 'http://www.wikidata.org/entity/Q11294566', 'Cover Up II', '1973', '2003', 'male organism']

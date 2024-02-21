@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6989762', 'Neji', '', '', '', '', '1950', '', '']

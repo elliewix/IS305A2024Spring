@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48976753', 'Aviance', 'http://www.wikidata.org/entity/Q63969528', 'Minnie Hauk', 'http://www.wikidata.org/entity/Q63969506', 'Northfields', '1982', '', 'female organism']

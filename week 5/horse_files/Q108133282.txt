@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108133282', 'Duerte', 'http://www.wikidata.org/entity/Q111317597', 'Velour', 'http://www.wikidata.org/entity/Q108155981', 'Wahnfried', '1967', '', 'female organism']

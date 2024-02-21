@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122036678', 'Bamboche 16413', 'http://www.wikidata.org/entity/Q122040160', 'Biche 16412', 'http://www.wikidata.org/entity/Q122035339', 'Philibert 4634', '1883', '', 'female organism']

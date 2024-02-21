@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11282151', 'Isinglass', 'http://www.wikidata.org/entity/Q61994307', 'Deadlock', 'http://www.wikidata.org/entity/Q6086160', 'Isonomy', '1890', '', 'male organism']

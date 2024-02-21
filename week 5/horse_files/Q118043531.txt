@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118043531', 'Susie', '', '', 'http://www.wikidata.org/entity/Q118043166', 'Galéniste', '1912', '', 'female organism']

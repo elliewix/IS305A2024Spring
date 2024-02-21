@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120356797', 'Lynnwood Fritzidona II', 'http://www.wikidata.org/entity/Q122189045', 'Fritzi 218051', 'http://www.wikidata.org/entity/Q119361940', 'Lynnwood Don', '', '', 'female organism']

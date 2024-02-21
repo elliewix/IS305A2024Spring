@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65082366', "Espoir d'Allen", '', '', '', '', '', '', 'male organism']

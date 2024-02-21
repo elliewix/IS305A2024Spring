@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6707751', 'Lyell Creek', '', '', '', '', '1993', '', '']

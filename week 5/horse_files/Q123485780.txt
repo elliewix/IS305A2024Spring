@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123485780', "Quelqu'un", '', '', 'http://www.wikidata.org/entity/Q7293563', 'Rantzau', '1960', '', 'male organism']

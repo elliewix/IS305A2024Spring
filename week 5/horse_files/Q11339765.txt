@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339765', 'マイネルマックス', '', '', 'http://www.wikidata.org/entity/Q4962908', "Brian's Time", '1994', '2008', 'male organism']

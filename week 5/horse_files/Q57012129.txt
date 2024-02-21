@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q57012129', 'Firstly', '', '', 'http://www.wikidata.org/entity/Q41671001', 'Querido II', '1971', '1991', 'male organism']

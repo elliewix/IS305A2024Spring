@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96313758', 'Serpolet-bai', '', '', 'http://www.wikidata.org/entity/Q96096846', 'Normand', '1874', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340120', 'マサラッキ', '', '', 'http://www.wikidata.org/entity/Q11340052', 'Magnitude', '1993', '', 'male organism']

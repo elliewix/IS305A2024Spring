@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7318108', 'Reverence', '', '', 'http://www.wikidata.org/entity/Q6770513', 'Mark of Esteem', '2001', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q98082713', 'Meiner David', '', '', '', '', '', '', 'male organism']

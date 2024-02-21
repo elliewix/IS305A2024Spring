@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119842801', 'Duroc 1316', 'http://www.wikidata.org/entity/Q119842833', 'Élise', '', '', '1881', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4832833', 'Azor', 'http://www.wikidata.org/entity/Q62022509', 'Zoraida', 'http://www.wikidata.org/entity/Q7448391', 'Selim', '1814', '', 'male organism']

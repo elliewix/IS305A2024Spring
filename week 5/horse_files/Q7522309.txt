@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7522309', 'Sindon', '', '', '', '', '1955', '', '']

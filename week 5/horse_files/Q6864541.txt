@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6864541', 'Mineshaft', '', '', 'http://www.wikidata.org/entity/Q1968208', 'A.P. Indy', '1999', '', 'male organism']

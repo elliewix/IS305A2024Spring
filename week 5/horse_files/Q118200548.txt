@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118200548', 'Glynlea Konet', '', '', 'http://www.wikidata.org/entity/Q117304065', 'Lo Lynd Joe Laet', '1978', '', 'male organism']

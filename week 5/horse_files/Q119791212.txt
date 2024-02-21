@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119791212', "Mediator's Colene 232731", 'http://www.wikidata.org/entity/Q119790693', 'Colene 191001', '', '', '1938', '', 'female organism']

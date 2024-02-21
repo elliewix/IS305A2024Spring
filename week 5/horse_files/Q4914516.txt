@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4914516', 'Bint Allayl', '', '', 'http://www.wikidata.org/entity/Q5602473', 'Green Desert', '1996', '', 'female organism']

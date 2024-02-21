@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238281', 'Typhoon', '', '', '', '', '1925', '', 'male organism']

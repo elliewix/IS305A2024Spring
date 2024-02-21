@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122188602', 'La Ferté III 12037', 'http://www.wikidata.org/entity/Q122188630', 'Poule 207', 'http://www.wikidata.org/entity/Q117910117', 'Le Ferte 5144', '1887', '', 'male organism']

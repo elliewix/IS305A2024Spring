@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340051', 'マグナーテン', '', '', 'http://www.wikidata.org/entity/Q1104509', 'Danzig', '1996', '', 'male organism']

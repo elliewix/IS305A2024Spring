@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52844592', 'Chouia', '', '', 'http://www.wikidata.org/entity/Q22330497', 'St. Just', '1925', '', 'female organism']

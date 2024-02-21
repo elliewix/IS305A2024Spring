@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4818372', 'Attila', 'http://www.wikidata.org/entity/Q62028882', 'Progress', 'http://www.wikidata.org/entity/Q62028869', 'Colwick', '1839', '', 'male organism']

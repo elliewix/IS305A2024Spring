@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312922', 'スペクテイター', '', '', 'http://www.wikidata.org/entity/Q5954159', 'Crab', '', '', 'male organism']

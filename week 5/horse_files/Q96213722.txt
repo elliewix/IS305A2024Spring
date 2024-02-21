@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96213722', 'Hurgente', 'http://www.wikidata.org/entity/Q96240978', 'Olivette', 'http://www.wikidata.org/entity/Q96214198', 'Urgent', '1907', '', 'female organism']

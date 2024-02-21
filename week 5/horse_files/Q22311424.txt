@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22311424', 'Furisto Clover Hill', '', '', 'http://www.wikidata.org/entity/Q22311611', 'Furisto', '1996', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119241347', 'Bayard 9495', '', '', 'http://www.wikidata.org/entity/Q119225022', 'Estraba', '1875', '', 'male organism']

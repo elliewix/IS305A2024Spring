@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242241', 'Thyer', '', '', '', '', '1989', '', 'male organism']

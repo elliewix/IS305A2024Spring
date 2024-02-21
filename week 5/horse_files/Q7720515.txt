@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7720515', 'The Bug', '', '', '', '', '1943', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006598', 'Bint Pasha', '', '', 'http://www.wikidata.org/entity/Q2099366', 'Affirmed', '1984', '2006', 'female organism']

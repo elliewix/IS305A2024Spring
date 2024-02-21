@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16971546', 'Shamus Award', '', '', '', '', '2010', '', 'male organism']

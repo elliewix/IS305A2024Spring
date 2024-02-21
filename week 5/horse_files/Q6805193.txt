@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6805193', 'Meddler', 'http://www.wikidata.org/entity/Q5002261', 'Busybody', 'http://www.wikidata.org/entity/Q7588078', 'St. Gatien', '1890', '', 'male organism']

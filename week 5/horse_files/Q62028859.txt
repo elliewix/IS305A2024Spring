@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028859', 'Miss Makeless', 'http://www.wikidata.org/entity/Q62028864', 'Partner mare', 'http://www.wikidata.org/entity/Q62023198', 'Young Greyhound', '1737', '', 'female organism']

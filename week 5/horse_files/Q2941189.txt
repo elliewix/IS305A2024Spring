@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2941189', 'Cass Ole', '', '', '', '', '1969', '1993', 'male organism']

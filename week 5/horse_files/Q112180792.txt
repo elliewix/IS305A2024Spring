@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112180792', 'Nystag', 'http://www.wikidata.org/entity/Q112182558', 'Gustine', 'http://www.wikidata.org/entity/Q112182583', 'Abner', '1957', '', 'male organism']

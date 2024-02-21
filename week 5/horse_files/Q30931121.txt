@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30931121', 'Albert the Great', '', '', '', '', '1997', '', 'male organism']

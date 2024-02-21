@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62044042', 'Chanticleer', 'http://www.wikidata.org/entity/Q62027646', 'Eclipse mare', 'http://www.wikidata.org/entity/Q11289004', 'Woodpecker', '1787', '', 'male organism']

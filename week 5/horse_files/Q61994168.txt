@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994168', 'Dame Masham', '', '', 'http://www.wikidata.org/entity/Q55612259', 'Galliard', '1889', '', 'female organism']

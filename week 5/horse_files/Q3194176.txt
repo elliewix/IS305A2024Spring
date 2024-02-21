@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3194176', 'Katko', '', '', '', '', '1983', '2002', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18148116', 'Main Sequence', '', '', '', '', '2009', '', '']

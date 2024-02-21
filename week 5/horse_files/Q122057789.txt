@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122057789', 'Rose', '', '', '', '', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7582355', 'Squirtle Squirt', '', '', '', '', '1998', '', 'male organism']

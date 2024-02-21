@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104640820', "Star's Pride", '', '', '', '', '1947', '1977', '']

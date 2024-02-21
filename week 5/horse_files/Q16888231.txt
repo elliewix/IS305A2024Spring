@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16888231', 'Sergeyev', '', '', '', '', '1992', '', '']

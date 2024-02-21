@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63539999', 'Eljazzi', '', '', 'http://www.wikidata.org/entity/Q16962045', 'Artaius', '1981', '', 'female organism']

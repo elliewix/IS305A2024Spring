@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107535870', 'Ethane', 'http://www.wikidata.org/entity/Q107534549', 'Ethyl', 'http://www.wikidata.org/entity/Q107534548', 'Mehrali', '1947', '', 'female organism']

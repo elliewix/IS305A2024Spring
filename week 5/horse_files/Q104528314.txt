@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104528314', 'Dualist', '', '', '', '', '', '', 'male organism']

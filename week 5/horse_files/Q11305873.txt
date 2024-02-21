@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305873', 'Sand Reason', '', '', '', '', '1987', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4958357', 'Brave Inca', '', '', '', '', '1998', '', '']

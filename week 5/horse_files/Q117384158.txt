@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384158', 'Diadumenos', '', '', 'http://www.wikidata.org/entity/Q7100136', 'Orby', '1910', '', 'male organism']

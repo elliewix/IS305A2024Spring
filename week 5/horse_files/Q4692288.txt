@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4692288', 'Aggressor', '', '', 'http://www.wikidata.org/entity/Q16950308', 'Combat', '1955', '', 'male organism']

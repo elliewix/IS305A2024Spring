@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62036614', 'Lottery', 'http://www.wikidata.org/entity/Q62028948', 'Mandane', 'http://www.wikidata.org/entity/Q61992557', 'Tramp', '1820', '', 'male organism']

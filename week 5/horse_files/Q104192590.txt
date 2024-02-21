@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104192590', 'Tuerta', '', '', 'http://www.wikidata.org/entity/Q11332888', 'Forli', '1970', '1985', 'female organism']

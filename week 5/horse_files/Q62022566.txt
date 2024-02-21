@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022566', 'Nettle', 'http://www.wikidata.org/entity/Q62022912', 'Regulus mare', 'http://www.wikidata.org/entity/Q62022911', 'Bajazet', '1763', '', 'female organism']

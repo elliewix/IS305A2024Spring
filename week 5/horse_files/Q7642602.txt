@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7642602', 'Super Moment', '', '', 'http://www.wikidata.org/entity/Q4906451', 'Big Spruce', '1977', '', 'male organism']

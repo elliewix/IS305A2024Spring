@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22329546', 'Osyris', 'http://www.wikidata.org/entity/Q123516180', 'Victoire', 'http://www.wikidata.org/entity/Q65939603', 'Ultimate', '1958', '', 'female organism']

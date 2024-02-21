@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237019', 'Thunderer', '', '', '', '', '1913', '', 'male organism']

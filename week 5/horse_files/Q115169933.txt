@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115169933', 'Estrella del Dia', '', '', 'http://www.wikidata.org/entity/Q3094865', 'Galoubet A', '1992', '2021', 'female organism']

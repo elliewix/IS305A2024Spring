@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360019', 'Jilt', 'http://www.wikidata.org/entity/Q117360090', 'Northern Nanny', 'http://www.wikidata.org/entity/Q117360026', 'Surley', '1726', '', 'female organism']

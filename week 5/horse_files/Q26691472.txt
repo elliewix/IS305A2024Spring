@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26691472', 'Night and Day', '', '', 'http://www.wikidata.org/entity/Q123496626', 'Soleil Levant', '1957', '1984', 'male organism']

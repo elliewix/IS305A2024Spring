@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5457475', 'Flares', 'http://www.wikidata.org/entity/Q107547179', 'Flambino', 'http://www.wikidata.org/entity/Q5518861', 'Gallant Fox', '1933', '', 'male organism']

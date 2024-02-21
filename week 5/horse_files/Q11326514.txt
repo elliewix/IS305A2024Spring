@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326514', 'ハツピーマイト', '', '', 'http://www.wikidata.org/entity/Q11321111', 'Tournesol', '1934', '', 'male organism']

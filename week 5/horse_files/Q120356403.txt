@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120356403', 'College Lynda', 'http://www.wikidata.org/entity/Q120356436', 'College Duchess', 'http://www.wikidata.org/entity/Q120356862', 'College Major', '1969', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61986001', 'Combine', '', '', 'http://www.wikidata.org/entity/Q5037864', 'Carbine', '', '', 'female organism']

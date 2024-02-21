@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q15903709', 'Entrapment', '', '', '', '', '2006', '', 'male organism']

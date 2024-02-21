@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28689746', 'ルーキー', '', '', '', '', '1982', '', 'female organism']

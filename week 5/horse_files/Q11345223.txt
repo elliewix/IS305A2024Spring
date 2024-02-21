@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345223', 'ヤマノブリザード', '', '', 'http://www.wikidata.org/entity/Q11315679', 'タイキブリザード', '1999', '', 'male organism']

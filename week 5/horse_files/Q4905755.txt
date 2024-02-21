@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4905755', 'Big Game', 'http://www.wikidata.org/entity/Q17011834', 'Myrobella', 'http://www.wikidata.org/entity/Q4842833', 'Bahram', '1939', '', 'male organism']

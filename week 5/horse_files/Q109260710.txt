@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260710', 'Karate', '', '', 'http://www.wikidata.org/entity/Q11321035', 'To the Glory', '2016', '', 'male organism']

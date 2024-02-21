@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108937056', 'Dalilah', '', '', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1871', '', 'female organism']

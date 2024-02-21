@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106659795', 'Compelling Z', '', '', '', '', '2010', '', 'male organism']

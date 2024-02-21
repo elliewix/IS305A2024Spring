@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120645172', 'Maverick 251259', '', '', 'http://www.wikidata.org/entity/Q118168780', 'Drake Farms Chief', '1971', '', 'male organism']

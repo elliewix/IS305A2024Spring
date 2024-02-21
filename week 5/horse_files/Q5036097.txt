@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5036097', 'Capot', '', '', 'http://www.wikidata.org/entity/Q6817327', 'Menow', '1946', '', 'male organism']

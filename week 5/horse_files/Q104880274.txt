@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104880274', 'Yaralla', '', '', '', '', '', '', '']

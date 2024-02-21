@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7103042', 'Orlando', 'http://www.wikidata.org/entity/Q62016674', 'Vulture', 'http://www.wikidata.org/entity/Q7828730', 'Touchstone', '1841', '', 'male organism']

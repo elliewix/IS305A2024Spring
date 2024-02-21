@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22338230', 'Big Star', 'http://www.wikidata.org/entity/Q24053297', 'Jolanda', 'http://www.wikidata.org/entity/Q22009389', 'Quick Star', '2003', '', 'male organism']

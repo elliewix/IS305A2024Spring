@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q83671678', 'Smile Kana', '', '', '', '', '2017', '', 'female organism']

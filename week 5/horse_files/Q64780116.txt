@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780116', 'Henry Barows', 'http://www.wikidata.org/entity/Q65093871', 'Silverskaya', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2015', '', 'male organism']

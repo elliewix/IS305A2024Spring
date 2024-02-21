@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27921004', 'Awardee', 'http://www.wikidata.org/entity/Q11336735', 'ヘヴンリーロマンス', 'http://www.wikidata.org/entity/Q11310148', 'Jungle Pocket', '2010', '2018', 'male organism']

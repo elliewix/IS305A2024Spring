@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027392', 'Miss Spindleshanks', 'http://www.wikidata.org/entity/Q62027425', 'Starling mare', 'http://www.wikidata.org/entity/Q62027397', 'Omar', '1770', '', 'female organism']

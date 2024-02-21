@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7601541', 'Starcraft', '', '', 'http://www.wikidata.org/entity/Q11315477', 'Soviet Star', '2000', '', 'male organism']

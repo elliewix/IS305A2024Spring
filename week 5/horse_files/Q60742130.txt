@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60742130', 'Waiting Patiently', '', '', '', '', '2011', '', '']

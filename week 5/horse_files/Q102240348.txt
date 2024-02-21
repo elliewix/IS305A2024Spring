@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240348', 'Spring Broker', '', '', '', '', '1957', '', 'male organism']

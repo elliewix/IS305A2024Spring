@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11344074', 'メルシータカオー', '', '', 'http://www.wikidata.org/entity/Q11304531', 'Sakura Yutaka O', '1999', '', 'male organism']

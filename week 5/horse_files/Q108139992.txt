@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108139992', 'Lady Wokina', '', '', '', '', '1965', '', 'female organism']

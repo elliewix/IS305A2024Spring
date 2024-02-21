@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111317613', 'Domspatz', '', '', '', '', '1952', '', 'male organism']

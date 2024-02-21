@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108603890', 'Andvaranaut', 'http://www.wikidata.org/entity/Q11300664', 'Gullveig', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2018', '', 'female organism']

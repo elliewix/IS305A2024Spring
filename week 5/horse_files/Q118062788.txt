@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118062788', 'Superior', '', '', 'http://www.wikidata.org/entity/Q118062340', 'Highland Chief', '1903', '', 'male organism']

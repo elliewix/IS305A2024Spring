@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', 'http://www.wikidata.org/entity/Q55091271', 'Papillon', 'http://www.wikidata.org/entity/Q915971', 'Highflyer', '1784', '', 'male organism']

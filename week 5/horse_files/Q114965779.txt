@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114965779', 'Dorle', 'http://www.wikidata.org/entity/Q115016791', 'Winterrose', 'http://www.wikidata.org/entity/Q115009965', 'Duden II', '1965', '', 'female organism']

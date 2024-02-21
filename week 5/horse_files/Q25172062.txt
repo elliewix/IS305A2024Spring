@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25172062', 'Apple Tree', '', '', 'http://www.wikidata.org/entity/Q17071189', 'Bikala', '1989', '', '']

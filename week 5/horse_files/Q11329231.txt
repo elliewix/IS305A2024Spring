@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11329231', 'Papyrus', '', '', 'http://www.wikidata.org/entity/Q17027108', 'Tracery', '1920', '', 'male organism']

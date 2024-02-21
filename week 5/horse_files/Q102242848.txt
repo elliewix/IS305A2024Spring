@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242848', 'Monba', '', '', '', '', '2005', '', 'male organism']

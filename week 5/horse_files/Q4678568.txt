@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4678568', "Adam's Apple", '', '', 'http://www.wikidata.org/entity/Q7227349', 'Pommern', '1924', '', 'male organism']

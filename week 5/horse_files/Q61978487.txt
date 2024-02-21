@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978487', 'Sir Cosmo', 'http://www.wikidata.org/entity/Q61978495', 'Ayn Hali', 'http://www.wikidata.org/entity/Q61978488', 'The Boss', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2859597', 'Arazi', '', '', 'http://www.wikidata.org/entity/Q2907399', 'Blushing Groom', '1989', '2021', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11331055', 'Biwa Shinseiki', '', '', 'http://www.wikidata.org/entity/Q5472988', 'Forty Niner', '1998', '2016', 'male organism']

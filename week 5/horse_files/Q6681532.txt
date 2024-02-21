@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6681532', 'Loro Piana TomBoy', '', '', '', '', '1985', '', 'male organism']

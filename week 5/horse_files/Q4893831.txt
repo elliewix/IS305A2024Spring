@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4893831', 'Bernardini', '', '', 'http://www.wikidata.org/entity/Q1968208', 'A.P. Indy', '2003', '2021', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237229', 'By Golly', '', '', '', '', '1917', '', 'male organism']

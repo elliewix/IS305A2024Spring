@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238246', 'Don Q.', '', '', '', '', '1925', '', 'male organism']

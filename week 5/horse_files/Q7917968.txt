@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7917968', 'Vedette', 'http://www.wikidata.org/entity/Q55091197', 'Mrs. Ridgway', 'http://www.wikidata.org/entity/Q7940799', 'Voltigeur', '1854', '', 'male organism']

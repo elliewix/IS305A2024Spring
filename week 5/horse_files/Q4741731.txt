@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4741731', 'Armbro Nesbit', '', '', '', '', '1970', '', '']

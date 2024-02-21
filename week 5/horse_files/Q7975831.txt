@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7975831', 'Waya', '', '', '', '', '1974', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119703344', 'Bagotte', '', '', 'http://www.wikidata.org/entity/Q117195187', 'Coco II 714', '', '', 'female organism']

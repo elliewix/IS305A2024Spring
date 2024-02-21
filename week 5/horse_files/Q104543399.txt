@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104543399', 'Vequist', '', '', 'http://www.wikidata.org/entity/Q22006607', 'Nyquist', '2018', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120227417', 'Zaza 24618', 'http://www.wikidata.org/entity/Q120226242', 'Fine 26996', '', '', '1900', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87755943', 'Maid of Honor', 'http://www.wikidata.org/entity/Q87757360', 'Etiquette', 'http://www.wikidata.org/entity/Q87756034', 'Champion', '1829', '', 'female organism']

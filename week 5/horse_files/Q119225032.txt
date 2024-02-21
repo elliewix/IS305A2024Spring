@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119225032', 'Fils de Jean-le-blanc', '', '', 'http://www.wikidata.org/entity/Q115786536', 'Jean-le-Blanc', '', '', 'male organism']

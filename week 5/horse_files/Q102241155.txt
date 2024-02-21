@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241155', 'Gold Bag', '', '', '', '', '1970', '', 'male organism']

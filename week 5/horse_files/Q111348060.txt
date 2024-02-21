@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111348060', 'Tob de Fondelyn', 'http://www.wikidata.org/entity/Q115033148', 'Obri de Fondelyn', 'http://www.wikidata.org/entity/Q115033099', 'Karikal IV', '1963', '', 'female organism']

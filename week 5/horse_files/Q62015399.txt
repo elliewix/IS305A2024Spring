@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62015399', 'Cain', 'http://www.wikidata.org/entity/Q62015456', 'Paynator mare', 'http://www.wikidata.org/entity/Q62015428', 'Paulowitz', '1822', '', 'male organism']

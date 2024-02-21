@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6101406', 'Iza Valentine', '', '', '', '', '1976', '2009', '']

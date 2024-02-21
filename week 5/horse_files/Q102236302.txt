@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236302', 'Semper Ego', '', '', '', '', '1893', '', 'male organism']

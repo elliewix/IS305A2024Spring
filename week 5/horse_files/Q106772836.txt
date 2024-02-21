@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106772836', 'Önas Prince', '', '', '', '', '2017', '', '']

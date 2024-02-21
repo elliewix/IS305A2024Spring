@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11304256', 'Silent Hunter', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1993', '2014', 'male organism']

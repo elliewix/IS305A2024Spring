@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033520', 'Venison', 'http://www.wikidata.org/entity/Q62033537', 'Fawn', 'http://www.wikidata.org/entity/Q61970542', 'Partisan', '1833', '', 'male organism']

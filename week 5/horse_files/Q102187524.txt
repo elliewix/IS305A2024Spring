@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102187524', 'High Tariff', '', '', '', '', '1888', '', 'male organism']

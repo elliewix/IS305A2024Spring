@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121011056', 'Sultan', '', '', 'http://www.wikidata.org/entity/Q120979676', "O'Bajan VII", '1936', '', 'male organism']

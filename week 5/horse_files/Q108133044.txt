@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108133044', 'Lindberg', 'http://www.wikidata.org/entity/Q108169667', 'Feder', 'http://www.wikidata.org/entity/Q108167211', 'Der Loewe', '1971', '', 'male organism']

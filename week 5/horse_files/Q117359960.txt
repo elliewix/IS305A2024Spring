@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359960', 'Lowther Barb mare', 'http://www.wikidata.org/entity/Q11352094', 'Vintner Mare', 'http://www.wikidata.org/entity/Q117359962', "Lowther's White Legged Barb", '1685', '', 'female organism']

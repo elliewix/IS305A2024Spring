@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347607', 'ランニングフリー', '', '', '', '', '1983', '', 'male organism']

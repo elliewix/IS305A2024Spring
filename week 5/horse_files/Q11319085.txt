@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319085', 'テイエムハリアー', '', '', 'http://www.wikidata.org/entity/Q11324644', 'New England', '2006', '', 'male organism']

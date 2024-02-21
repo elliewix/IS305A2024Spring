@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242692', 'Lion Heart', '', '', '', '', '2001', '', 'male organism']

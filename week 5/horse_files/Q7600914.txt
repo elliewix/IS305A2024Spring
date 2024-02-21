@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7600914', 'Star Standard', '', '', 'http://www.wikidata.org/entity/Q7336008', 'Risen Star', '1992', '', 'male organism']

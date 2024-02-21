@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121294610', 'Mansour', '', '', 'http://www.wikidata.org/entity/Q121297884', 'Gamil Manial', '1921', '', 'male organism']

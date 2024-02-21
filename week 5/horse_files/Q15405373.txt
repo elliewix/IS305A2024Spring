@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q15405373', 'Elmaamul', '', '', 'http://www.wikidata.org/entity/Q5275039', 'Diesis', '1987', '2006', 'male organism']

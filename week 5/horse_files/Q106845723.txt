@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106845723', 'Valencourt', 'http://www.wikidata.org/entity/Q108772225', 'Alphérie', 'http://www.wikidata.org/entity/Q96243517', 'Niger', '1877', '', 'male organism']

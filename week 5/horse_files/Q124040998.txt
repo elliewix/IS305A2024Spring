@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124040998', 'Nettan Palema', '', '', '', '', '2007', '2023', '']

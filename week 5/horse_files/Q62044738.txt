@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62044738', 'Gamahoe', 'http://www.wikidata.org/entity/Q62045210', 'Regulus mare', 'http://www.wikidata.org/entity/Q62044837', 'Bustard', '1759', '', 'male organism']

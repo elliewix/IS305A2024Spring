@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113993468', 'Ronteza', '', '', '', '', '', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5242870', 'Day Star', '', '', '', '', '1875', '', 'male organism']

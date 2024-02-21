@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66371357', 'A. P. Indian', '', '', '', '', '', '', 'male organism']

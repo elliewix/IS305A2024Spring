@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66812743', 'Unadonja', '', '', 'http://www.wikidata.org/entity/Q22329123', 'Heartbreaker', '', '', 'female organism']

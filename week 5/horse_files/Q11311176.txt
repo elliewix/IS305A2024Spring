@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311176', 'Swift Current', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '2001', '', 'male organism']

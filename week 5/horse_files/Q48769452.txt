@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48769452', 'Bulle Rock', 'http://www.wikidata.org/entity/Q116171504', 'Byerley Turk mare', 'http://www.wikidata.org/entity/Q1166352', 'Darley Arabian', '1709', '', 'male organism']

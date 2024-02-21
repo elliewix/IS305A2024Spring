@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6121384', 'Santorín', '', '', '', '', '1970', '', 'male organism']

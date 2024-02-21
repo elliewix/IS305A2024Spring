@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343600', 'Mejiro Asama', '', '', 'http://www.wikidata.org/entity/Q11329825', 'Partholon', '1966', '', 'male organism']

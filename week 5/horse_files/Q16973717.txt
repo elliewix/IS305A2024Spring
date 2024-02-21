@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16973717', 'Diadem', '', '', 'http://www.wikidata.org/entity/Q7100136', 'Orby', '1914', '', 'female organism']

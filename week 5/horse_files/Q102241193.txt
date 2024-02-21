@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241193', 'Sharp Gary', '', '', '', '', '1971', '', 'male organism']

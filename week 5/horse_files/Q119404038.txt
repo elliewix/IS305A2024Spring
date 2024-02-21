@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119404038', 'African 895', 'http://www.wikidata.org/entity/Q119403944', 'Françoise', '', '', '1877', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22284882', 'Abu Farwa', '', '', '', '', '1940', '1972', 'male organism']

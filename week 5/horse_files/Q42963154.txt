@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q42963154', 'Nikas', '', '', '', '', '2005', '', 'male organism']

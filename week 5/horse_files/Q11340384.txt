@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340384', 'マチカネニホンバレ', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2005', '', 'male organism']

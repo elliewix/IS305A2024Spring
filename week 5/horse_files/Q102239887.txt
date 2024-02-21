@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239887', 'Golden Birch', '', '', '', '', '1948', '', 'male organism']

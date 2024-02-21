@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339370', 'ポレール', '', '', '', '', '1991', '2010', 'male organism']

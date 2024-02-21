@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994142', 'Hornet', '', '', '', '', '1790', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114987517', 'Diable rouge', '', '', 'http://www.wikidata.org/entity/Q65939603', 'Ultimate', '1947', '', 'male organism']

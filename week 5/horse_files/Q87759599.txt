@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87759599', 'Sam mare', 'http://www.wikidata.org/entity/Q6911279', 'Morel', 'http://www.wikidata.org/entity/Q7407055', 'Sam', '1826', '', 'female organism']

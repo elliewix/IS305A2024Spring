@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120715851', "O'Bajan", 'http://www.wikidata.org/entity/Q120985700', 'Maneghie', 'http://www.wikidata.org/entity/Q120987227', 'Obajan', '1880', '1910', 'male organism']

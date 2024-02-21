@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5655343', 'Hard Ridden', '', '', '', '', '1955', '', 'male organism']

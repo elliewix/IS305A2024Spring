@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7706757', 'Tetratema', '', '', 'http://www.wikidata.org/entity/Q7768577', 'The Tetrarch', '1917', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7546608', 'Smuggler', 'http://www.wikidata.org/entity/Q6037629', 'Inside Information', 'http://www.wikidata.org/entity/Q7882431', 'Unbridled', '2002', '', 'female organism']

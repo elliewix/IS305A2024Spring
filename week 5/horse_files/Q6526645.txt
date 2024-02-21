@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6526645', 'Leonnatus Anteas', '', '', '', '', '2004', '', 'male organism']

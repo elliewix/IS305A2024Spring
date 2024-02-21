@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4822299', 'Aureole', '', '', 'http://www.wikidata.org/entity/Q3038706', 'Hyperion', '1950', '', 'male organism']

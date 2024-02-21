@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11293255', 'Osumi Haruka', '', '', 'http://www.wikidata.org/entity/Q11333076', 'Fusaichi Concorde', '2000', '', 'female organism']

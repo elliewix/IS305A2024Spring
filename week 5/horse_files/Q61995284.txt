@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61995284', 'Brushup', '', '', 'http://www.wikidata.org/entity/Q7655117', 'Sweep', '1929', '', 'female organism']

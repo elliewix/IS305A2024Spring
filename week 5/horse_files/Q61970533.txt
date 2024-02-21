@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970533', 'Princess Katinka', '', '', 'http://www.wikidata.org/entity/Q6722591', 'Macaroni', '', '', 'female organism']

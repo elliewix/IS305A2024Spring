@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q59928832', 'Pro Pilot II', 'http://www.wikidata.org/entity/Q108603194', 'Weica', 'http://www.wikidata.org/entity/Q63381200', 'Pilot', '1991', '', 'male organism']

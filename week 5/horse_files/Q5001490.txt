@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5001490', 'Busher', '', '', 'http://www.wikidata.org/entity/Q1417640', 'War Admiral', '1942', '', 'female organism']

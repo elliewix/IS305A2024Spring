@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993720', 'Ardrossan', '', '', 'http://www.wikidata.org/entity/Q6223811', 'John Bull', '1809', '', 'male organism']

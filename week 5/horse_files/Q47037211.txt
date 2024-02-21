@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47037211', 'Upsilon d’Ocquier', '', '', 'http://www.wikidata.org/entity/Q108600538', 'Landetto', '1997', '', 'male organism']

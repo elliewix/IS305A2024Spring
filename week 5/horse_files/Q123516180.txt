@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123516180', 'Victoire', '', '', '', '', '1943', '', 'female organism']

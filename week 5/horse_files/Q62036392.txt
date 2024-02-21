@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62036392', 'Coughing Polly', '', '', 'http://www.wikidata.org/entity/Q4865372', "Bartlett's Childers", '1736', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297941', 'Kinten', '', '', '', '', '1929', '', 'male organism']

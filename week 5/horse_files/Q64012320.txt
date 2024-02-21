@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012320', 'Expectation mare', 'http://www.wikidata.org/entity/Q64012359', 'Calabria', 'http://www.wikidata.org/entity/Q64012327', 'Expectation', '1805', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q41675087', 'Pro Patria', 'http://www.wikidata.org/entity/Q96213722', 'Hurgente', 'http://www.wikidata.org/entity/Q96213561', 'Bemecourt', '1915', '1935', 'male organism']

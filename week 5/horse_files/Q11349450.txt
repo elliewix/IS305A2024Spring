@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349450', 'Leo Durban', '', '', 'http://www.wikidata.org/entity/Q11341313', 'Maruzensky', '1988', '', 'male organism']

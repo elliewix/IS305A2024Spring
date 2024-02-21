@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119581449', 'Jean Bart 716', 'http://www.wikidata.org/entity/Q120295805', 'Jeanne', '', '', '1863', '', 'male organism']

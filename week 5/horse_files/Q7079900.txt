@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7079900', 'Ogden', '', '', '', '', '1894', '1923', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61976389', 'Dastur', '', '', 'http://www.wikidata.org/entity/Q7557028', 'Solario', '1929', '', 'male organism']

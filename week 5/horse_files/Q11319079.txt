@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319079', 'T M Aurora', '', '', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2006', '2010', 'female organism']

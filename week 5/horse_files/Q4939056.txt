@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939056', 'Bold Lad', 'http://www.wikidata.org/entity/Q6880554', 'Misty Morn', 'http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', '1962', '', 'male organism']

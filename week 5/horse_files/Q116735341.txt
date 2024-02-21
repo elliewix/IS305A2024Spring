@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735341', 'Omatsuri Otoko', '', '', '', '', '2020', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115922865', 'Arco', 'http://www.wikidata.org/entity/Q115923621', 'Archidamia', 'http://www.wikidata.org/entity/Q48990479', 'Singapore', '1939', '', 'male organism']

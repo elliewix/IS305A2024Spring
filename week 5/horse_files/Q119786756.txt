@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119786756', 'Poule 6100', '', '', 'http://www.wikidata.org/entity/Q119225022', 'Estraba', '1874', '', 'female organism']

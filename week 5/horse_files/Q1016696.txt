@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1016696', 'Burmese', '', '', '', '', '1962', '1990', 'female organism']

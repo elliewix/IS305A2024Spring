@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969856', 'Deiri', '', '', 'http://www.wikidata.org/entity/Q61970210', 'Aethelstan', '1928', '', 'male organism']

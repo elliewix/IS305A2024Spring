@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987412', "Charles O'Malley", 'http://www.wikidata.org/entity/Q61987415', 'Goody Two-Shoes', 'http://www.wikidata.org/entity/Q16960061', 'Desmond', '1907', '', 'male organism']

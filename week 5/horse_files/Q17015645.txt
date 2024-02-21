@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17015645', 'Launch a Pegasus', '', '', 'http://www.wikidata.org/entity/Q7310849', 'Relaunch', '1982', '', 'male organism']

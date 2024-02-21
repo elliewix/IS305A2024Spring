@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6679741', 'Lord Lyon', 'http://www.wikidata.org/entity/Q62037723', 'Paradigm', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1863', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297913', 'King Halo', 'http://www.wikidata.org/entity/Q11300124', 'Goodbye Halo', 'http://www.wikidata.org/entity/Q3013377', 'Dancing Brave', '1995', '2019', 'male organism']

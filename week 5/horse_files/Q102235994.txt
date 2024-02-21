@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235994', 'Wendover', '', '', '', '', '1879', '', 'male organism']

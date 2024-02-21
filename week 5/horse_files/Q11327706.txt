@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11327706', 'Basto', 'http://www.wikidata.org/entity/Q116059151', 'Bay Peg', 'http://www.wikidata.org/entity/Q1018502', 'Byerley Turk', '1703', '1723', 'male organism']

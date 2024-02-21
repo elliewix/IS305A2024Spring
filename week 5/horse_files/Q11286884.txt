@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286884', 'Inazuma Takao', '', '', '', '', '1991', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997309', 'Laura Gal', '', '', 'http://www.wikidata.org/entity/Q4252720', 'Sir Gallahad', '1929', '', 'female organism']

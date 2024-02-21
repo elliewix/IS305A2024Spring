@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11290858', 'Emocion', 'http://www.wikidata.org/entity/Q11284114', 'Adorable', 'http://www.wikidata.org/entity/Q7821904', 'Tony Bin', '1995', '', 'male organism']

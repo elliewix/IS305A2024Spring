@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109610320', 'Bayram Kose', '', '', '', '', '', '', 'male organism']

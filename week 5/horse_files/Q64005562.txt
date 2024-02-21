@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64005562', 'Euclid', 'http://www.wikidata.org/entity/Q61997152', 'Maria', 'http://www.wikidata.org/entity/Q5371990', 'Emilius', '1836', '', 'male organism']

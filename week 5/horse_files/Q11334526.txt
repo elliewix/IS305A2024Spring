@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11334526', 'Black Shell', '', '', 'http://www.wikidata.org/entity/Q11299831', 'Kurofune', '2005', '', 'male organism']

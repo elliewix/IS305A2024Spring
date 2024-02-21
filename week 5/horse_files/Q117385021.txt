@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117385021', 'sister to Cupid', 'http://www.wikidata.org/entity/Q117385026', 'Bald Charlotte', 'http://www.wikidata.org/entity/Q117385023', 'Somerset Arabian', '1732', '', 'female organism']

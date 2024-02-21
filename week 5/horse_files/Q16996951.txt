@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16996951', 'Lord Clifden', 'http://www.wikidata.org/entity/Q61987505', 'The Slave', 'http://www.wikidata.org/entity/Q11324950', 'Newminster', '1860', '', 'male organism']

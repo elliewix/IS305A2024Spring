@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238797', 'Strideaway', '', '', '', '', '1930', '', 'male organism']

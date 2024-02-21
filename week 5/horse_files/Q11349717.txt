@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349717', 'レッツゴーターキン', '', '', '', '', '1987', '2011', 'male organism']

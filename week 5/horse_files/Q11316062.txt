@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316062', 'Takeshiba O', '', '', 'http://www.wikidata.org/entity/Q11318040', 'China Rock', '1965', '', 'male organism']

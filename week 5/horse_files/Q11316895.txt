@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316895', 'ダイニホウシユウ', '', '', 'http://www.wikidata.org/entity/Q11298824', 'Kumohata', '1948', '', 'male organism']

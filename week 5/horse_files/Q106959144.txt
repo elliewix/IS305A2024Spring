@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106959144', 'Mandaloun', '', '', 'http://www.wikidata.org/entity/Q58416709', 'Into Mischief', '2018', '', 'male organism']

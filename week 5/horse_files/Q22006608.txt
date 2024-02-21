@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006608', "Stephanie's Kitten", '', '', 'http://www.wikidata.org/entity/Q6418416', "Kitten's Joy", '2009', '', 'female organism']

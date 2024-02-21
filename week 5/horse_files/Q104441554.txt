@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104441554', 'Miss Bertha Dillon', '', '', '', '', '1914', '1935', '']

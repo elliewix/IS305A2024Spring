@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117366950', 'Autocrat', 'http://www.wikidata.org/entity/Q117367050', 'Empress', 'http://www.wikidata.org/entity/Q4874043', 'Bay Middleton', '1851', '', 'male organism']

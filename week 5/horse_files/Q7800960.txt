@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7800960', 'Tie the Knot', '', '', 'http://www.wikidata.org/entity/Q17020352', 'Nassipour', '1994', '2012', '']

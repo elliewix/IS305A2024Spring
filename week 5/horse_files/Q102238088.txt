@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238088', 'Royal Julian', '', '', '', '', '1924', '', 'male organism']

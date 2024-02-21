@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5316304', 'Durbar', 'http://www.wikidata.org/entity/Q55091099', 'Armenia', 'http://www.wikidata.org/entity/Q11347361', 'Rabelais', '1911', '', 'male organism']

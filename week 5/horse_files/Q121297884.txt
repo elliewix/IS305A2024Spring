@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121297884', 'Gamil Manial', '', '', 'http://www.wikidata.org/entity/Q121297900', 'Saklawi II', '1912', '', 'male organism']

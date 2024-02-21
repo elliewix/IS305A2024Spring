@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q12326345', 'Marzog', '', '', '', '', '1973', '', 'male organism']

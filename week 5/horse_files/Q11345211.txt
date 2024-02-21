@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345211', 'Yamanin Zephyr', '', '', 'http://www.wikidata.org/entity/Q11324600', 'Nihon Pillow Winner', '1988', '2017', 'male organism']

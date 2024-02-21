@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109610222', 'Bénéfique', '', '', '', '', '1925', '', 'female organism']

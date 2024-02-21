@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7142998', 'Pasteurized', '', '', '', '', '1935', '', 'male organism']

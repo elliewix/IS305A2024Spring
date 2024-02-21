@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106229310', 'Délia du Pommereux', '', '', '', '', '', '', '']

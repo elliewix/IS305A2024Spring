@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120688130', 'Manie 54817', '', '', 'http://www.wikidata.org/entity/Q120688661', 'Radziwill 44228', '1902', '', 'female organism']

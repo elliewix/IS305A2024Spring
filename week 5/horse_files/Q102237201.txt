@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237201', 'St. Bernard', '', '', '', '', '1916', '', 'male organism']

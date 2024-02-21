@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q85782422', 'Love', '', '', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '', '', 'female organism']

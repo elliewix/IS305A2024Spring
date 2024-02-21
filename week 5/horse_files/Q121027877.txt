@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121027877', 'Amurath II 35', 'http://www.wikidata.org/entity/Q121008295', 'Fatme', '', '', '1907', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2109415', 'Priamos', '', '', '', '', '1964', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342091', 'ミスナンバイチバン', 'http://www.wikidata.org/entity/Q11311789', 'Style Patch', 'http://www.wikidata.org/entity/Q17224513', 'Harroway', '1959', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16984975', 'Hot Snap', '', '', 'http://www.wikidata.org/entity/Q11331695', 'Pivotal', '2010', '', 'female organism']

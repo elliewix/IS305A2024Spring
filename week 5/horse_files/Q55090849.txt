@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55090849', 'Abeyance', '', '', '', '', '', '', 'female organism']

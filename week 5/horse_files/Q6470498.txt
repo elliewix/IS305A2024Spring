@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6470498', 'Lady Pitt', '', '', 'http://www.wikidata.org/entity/Q7659267', 'Sword Dancer', '1963', '', 'female organism']

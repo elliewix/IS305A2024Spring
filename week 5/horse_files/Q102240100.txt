@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240100', 'Blue Lem', '', '', '', '', '1952', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071929', 'Preach', 'http://www.wikidata.org/entity/Q55071372', 'Narrate', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1989', '', 'female organism']

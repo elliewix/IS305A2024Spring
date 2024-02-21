@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021774', 'Javelin', 'http://www.wikidata.org/entity/Q62021782', 'Miss Rose', 'http://www.wikidata.org/entity/Q1203752', 'Eclipse', '1772', '', 'male organism']

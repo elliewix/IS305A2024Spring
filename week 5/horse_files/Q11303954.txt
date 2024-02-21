@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303954', 'Gold Mountain', '', '', '', '', '1989', '', 'male organism']

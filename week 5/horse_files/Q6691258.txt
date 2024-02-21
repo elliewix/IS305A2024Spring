@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6691258', 'Love Sign', '', '', '', '', '1977', '', 'female organism']

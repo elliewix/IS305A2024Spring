@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62011224', 'Election mare', '', '', 'http://www.wikidata.org/entity/Q16991684', 'Election', '1815', '', 'female organism']

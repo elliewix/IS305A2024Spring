@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11338465', 'ホールウォーカー', '', '', 'http://www.wikidata.org/entity/Q11289550', 'Eishin Sandy', '2003', '', 'male organism']

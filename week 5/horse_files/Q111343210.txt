@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111343210', 'Henriette', 'http://www.wikidata.org/entity/Q111343251', 'Diablesse', 'http://www.wikidata.org/entity/Q111343225', 'Bourguebus', '1942', '', 'female organism']

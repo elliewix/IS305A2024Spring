@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17038626', 'Sterling', 'http://www.wikidata.org/entity/Q61987147', 'Whisper', 'http://www.wikidata.org/entity/Q61987128', 'Oxford', '1868', '', 'male organism']

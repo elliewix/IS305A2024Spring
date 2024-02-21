@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4830021', 'Awesome Again', 'http://www.wikidata.org/entity/Q55071544', 'Primal Force', 'http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '1994', '', 'male organism']

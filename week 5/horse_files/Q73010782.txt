@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q73010782', 'オヤマテスコ', '', '', '', '', '1975', '', 'female organism']

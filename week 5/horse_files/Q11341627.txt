@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341627', 'Manfath', '', '', 'http://www.wikidata.org/entity/Q6494747', 'Last Tycoon', '1991', '', 'female organism']

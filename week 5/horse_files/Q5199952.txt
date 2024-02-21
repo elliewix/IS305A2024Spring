@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5199952', 'Cynisca', '', '', '', '', '1886', '', 'female organism']

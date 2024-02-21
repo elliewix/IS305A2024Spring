@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7995398', 'White Skies', '', '', '', '', '1949', '', 'male organism']

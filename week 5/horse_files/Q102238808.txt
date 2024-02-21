@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238808', 'Good Advice', '', '', '', '', '1930', '', 'male organism']

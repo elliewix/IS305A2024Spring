@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7909175', "Val d'Or", '', '', 'http://www.wikidata.org/entity/Q3074614', 'Flying Fox', '1902', '', 'male organism']

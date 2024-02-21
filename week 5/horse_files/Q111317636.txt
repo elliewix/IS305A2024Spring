@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111317636', 'Alsterpalme', '', '', '', '', '1961', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7882428', 'Unbreakable', '', '', 'http://www.wikidata.org/entity/Q17361622', 'Sickle', '1935', '1952', 'male organism']

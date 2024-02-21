@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5274106', 'Didelot', 'http://www.wikidata.org/entity/Q62023188', 'Highflyer mare', 'http://www.wikidata.org/entity/Q11321911', 'Trumpator', '1793', '', 'male organism']

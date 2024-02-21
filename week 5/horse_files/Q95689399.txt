@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q95689399', 'Conquistador', '', '', 'http://www.wikidata.org/entity/Q22314168', 'Clinton', '2001', '', 'male organism']

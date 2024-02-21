@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25171642', 'Koko', 'http://www.wikidata.org/entity/Q61994158', 'Persister', 'http://www.wikidata.org/entity/Q61994150', 'Santoi', '1918', '', 'male organism']

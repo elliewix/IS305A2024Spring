@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236809', 'Guaranola', '', '', '', '', '1909', '', 'male organism']

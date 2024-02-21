@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27920495', 'Takino Nishiki', '', '', '', '', '1986', '', 'male organism']

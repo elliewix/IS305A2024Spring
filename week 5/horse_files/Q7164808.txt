@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7164808', 'Pensive', 'http://www.wikidata.org/entity/Q61995308', 'Penicuik', 'http://www.wikidata.org/entity/Q3038706', 'Hyperion', '1941', '', 'male organism']

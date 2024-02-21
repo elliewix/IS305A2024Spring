@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7621002', 'Straight Deal', 'http://www.wikidata.org/entity/Q107547172', 'Good Deal', 'http://www.wikidata.org/entity/Q7557028', 'Solario', '1940', '', 'male organism']

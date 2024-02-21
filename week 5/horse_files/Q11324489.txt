@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11324489', 'Knit Eight', '', '', 'http://www.wikidata.org/entity/Q11296502', 'Guersant', '1964', '', 'male organism']

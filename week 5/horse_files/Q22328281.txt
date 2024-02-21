@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22328281', 'Curwen Bay Barb mare', '', '', 'http://www.wikidata.org/entity/Q5196119', "Curwen's Bay Barb", '1700', '', 'female organism']

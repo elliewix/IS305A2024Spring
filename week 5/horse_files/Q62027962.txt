@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027962', 'Zodiac', 'http://www.wikidata.org/entity/Q62027971', 'Abigail', 'http://www.wikidata.org/entity/Q62027371', 'St. George', '1801', '', 'male organism']

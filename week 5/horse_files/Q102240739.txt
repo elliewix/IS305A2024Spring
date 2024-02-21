@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240739', 'Gentleman James', '', '', '', '', '1964', '', 'male organism']

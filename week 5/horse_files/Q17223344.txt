@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17223344', 'スピーデーワンダー', '', '', '', '', '1966', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47469476', 'Nishiken Mononofu', '', '', 'http://www.wikidata.org/entity/Q11343356', 'Meisho Bowler', '2011', '', 'male organism']

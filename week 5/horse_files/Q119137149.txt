@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119137149', 'Myra', '', '', 'http://www.wikidata.org/entity/Q119107683', 'Papillon 3559', '1885', '', 'female organism']

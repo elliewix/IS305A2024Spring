@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52555055', 'The Heir of Linne', 'http://www.wikidata.org/entity/Q108196015', 'Mrs. Walker', 'http://www.wikidata.org/entity/Q52555675', 'Galaor', '1853', '', 'male organism']

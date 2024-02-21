@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117370601', 'Foxhunter', 'http://www.wikidata.org/entity/Q117370698', 'Brown Betty', 'http://www.wikidata.org/entity/Q117370623', 'Brisk', '1727', '', 'male organism']

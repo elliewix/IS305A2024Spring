@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108374416', 'Amoureuse', '', '', 'http://www.wikidata.org/entity/Q22329688', 'Jus de Pomme', '1944', '', 'female organism']

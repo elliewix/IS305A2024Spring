@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55044404', 'Satono Arthur', '', '', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2014', '', 'male organism']

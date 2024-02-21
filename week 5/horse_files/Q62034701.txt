@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62034701', 'Defenceless', 'http://www.wikidata.org/entity/Q62034755', 'Cain mare', 'http://www.wikidata.org/entity/Q62021650', 'Defence', '1844', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339969', 'マキバスナイパー', '', '', '', '', '1995', '2016', 'male organism']

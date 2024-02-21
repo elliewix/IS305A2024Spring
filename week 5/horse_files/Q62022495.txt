@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022495', 'Countess', 'http://www.wikidata.org/entity/Q62022499', 'Rib mare', 'http://www.wikidata.org/entity/Q4925119', 'Blank', '1760', '', 'female organism']

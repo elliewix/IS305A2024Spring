@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17040100', 'Swiss Maid', '', '', '', '', '1975', '', 'female organism']

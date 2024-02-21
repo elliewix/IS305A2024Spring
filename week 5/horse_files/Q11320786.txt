@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11320786', 'デュークグランプリ', '', '', 'http://www.wikidata.org/entity/Q11311675', 'Suzukakoban', '1991', '2018', 'male organism']

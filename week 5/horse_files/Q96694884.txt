@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96694884', 'Reine Blanche', '', '', 'http://www.wikidata.org/entity/Q11299831', 'Kurofune', '2017', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109657457', 'Walner', '', '', '', '', '2014', '', 'male organism']

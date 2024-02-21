@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q86730909', 'Golden Sixty', '', '', 'http://www.wikidata.org/entity/Q6804991', "Medaglia d'Oro", '2015', '', 'male organism']

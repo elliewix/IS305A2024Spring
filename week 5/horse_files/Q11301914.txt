@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301914', 'Kokuo', '', '', '', '', '1934', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '', '', 'http://www.wikidata.org/entity/Q1969034', 'Northern Dancer', '1971', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q77035386', 'Ramzes', 'http://www.wikidata.org/entity/Q108570395', 'Jordi', 'http://www.wikidata.org/entity/Q108570325', 'Rittersporn', '1937', '1963', 'male organism']

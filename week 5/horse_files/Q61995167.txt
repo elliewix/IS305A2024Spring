@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61995167', 'Teresina', 'http://www.wikidata.org/entity/Q61995189', 'Blue Tit', 'http://www.wikidata.org/entity/Q17027108', 'Tracery', '1920', '', 'female organism']

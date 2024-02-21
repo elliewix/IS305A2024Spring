@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108783512', 'Galathée', 'http://www.wikidata.org/entity/Q106858093', 'Bayadere', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1870', '', 'female organism']

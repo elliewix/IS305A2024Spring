@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1076143', 'Native Dancer', 'http://www.wikidata.org/entity/Q55079388', 'Geisha', 'http://www.wikidata.org/entity/Q7226614', 'Polynesian', '1950', '1967', 'male organism']

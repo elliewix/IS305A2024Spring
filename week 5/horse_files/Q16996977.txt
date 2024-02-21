@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16996977', 'Lottery', '', '', '', '', '1830', '', '']

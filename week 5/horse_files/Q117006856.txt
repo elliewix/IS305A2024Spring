@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117006856', 'Zazou', '', '', 'http://www.wikidata.org/entity/Q7487429', 'Shamardal', '2007', '', 'male organism']

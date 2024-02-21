@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q81274384', 'Crevalcore', '', '', '', '', '1953', '', 'male organism']

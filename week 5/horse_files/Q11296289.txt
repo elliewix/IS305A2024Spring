@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11296289', 'Galgo Jr.', '', '', '', '', '1928', '', 'male organism']

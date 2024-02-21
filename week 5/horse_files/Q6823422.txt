@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6823422', 'Meteor', '', '', 'http://www.wikidata.org/entity/Q7919270', 'Velocipede', '1839', '', 'male organism']

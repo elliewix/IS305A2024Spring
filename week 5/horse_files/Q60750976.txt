@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60750976', 'Warrior', '', '', '', '', '1863', '', '']

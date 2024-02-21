@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240353', 'Fighting Hodge', '', '', '', '', '1957', '', 'male organism']

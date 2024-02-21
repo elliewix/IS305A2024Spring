@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18346342', 'Lianga', '', '', 'http://www.wikidata.org/entity/Q5215387', "Dancer's Image", '1971', '', 'female organism']

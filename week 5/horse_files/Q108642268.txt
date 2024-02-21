@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108642268', 'Innovation', '', '', 'http://www.wikidata.org/entity/Q4699589', 'Ajax', '1912', '', 'female organism']

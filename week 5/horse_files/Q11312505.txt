@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312505', 'ストロングガルーダ', '', '', 'http://www.wikidata.org/entity/Q5215257', 'Dance in the Dark', '2006', '2013', 'male organism']

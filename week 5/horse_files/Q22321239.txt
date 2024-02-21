@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22321239', 'Olisco', '', '', 'http://www.wikidata.org/entity/Q1679759', 'Jalisco B', '1980', '', 'male organism']

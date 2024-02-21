@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114585680', 'Shoryu Ikuzo', 'http://www.wikidata.org/entity/Q11308129', 'Shoryu Moon', 'http://www.wikidata.org/entity/Q7101712', 'Orfevre', '2016', '', 'male organism']

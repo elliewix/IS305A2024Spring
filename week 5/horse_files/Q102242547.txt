@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242547', 'First American', '', '', '', '', '1996', '', 'male organism']

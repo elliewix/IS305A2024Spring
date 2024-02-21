@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5621532', 'Gustavus', 'http://www.wikidata.org/entity/Q63985815', 'Lady Grey', 'http://www.wikidata.org/entity/Q16991684', 'Election', '1818', '', 'male organism']

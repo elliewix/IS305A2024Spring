@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7075459', 'Observatory', '', '', 'http://www.wikidata.org/entity/Q11320057', 'Distant View', '1997', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237548', 'Calcutta', '', '', '', '', '1920', '', 'male organism']

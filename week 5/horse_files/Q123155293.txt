@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123155293', 'Snark Rayearth', '', '', 'http://www.wikidata.org/entity/Q11283161', 'Assatis', '1995', '', 'male organism']

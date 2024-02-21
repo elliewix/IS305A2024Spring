@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96208548', 'Magnum Bonum', '', '', 'http://www.wikidata.org/entity/Q1101198', 'Matchem', '1773', '', 'male organism']

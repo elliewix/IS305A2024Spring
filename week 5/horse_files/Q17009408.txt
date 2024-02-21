@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17009408', 'Mannamead', '', '', 'http://www.wikidata.org/entity/Q6750704', 'Manna', '1929', '', 'male organism']

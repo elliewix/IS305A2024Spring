@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242640', 'Talk Is Money', '', '', '', '', '1998', '', 'male organism']

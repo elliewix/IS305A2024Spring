@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106650707', 'Riga', '', '', 'http://www.wikidata.org/entity/Q52554965', 'James Watt', '1895', '', 'male organism']

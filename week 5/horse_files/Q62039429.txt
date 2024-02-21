@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62039429', 'Miss Pratt', 'http://www.wikidata.org/entity/Q62039464', 'Gadabout', 'http://www.wikidata.org/entity/Q1448928', 'Blacklock', '1825', '', 'female organism']

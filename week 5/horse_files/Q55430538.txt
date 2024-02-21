@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55430538', 'Gain Line', 'http://www.wikidata.org/entity/Q108170730', 'Raffiness 25', 'http://www.wikidata.org/entity/Q111349103', 'Stolzenberg', '2006', '2020', 'male organism']

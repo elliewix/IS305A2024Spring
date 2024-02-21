@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4769479', "Annihilate 'Em", '', '', '', '', '1970', '', 'male organism']

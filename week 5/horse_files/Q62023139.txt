@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023139', 'Mercury mare', 'http://www.wikidata.org/entity/Q62023141', 'Herod mare', 'http://www.wikidata.org/entity/Q61998471', 'Mercury', '1791', '', 'female organism']

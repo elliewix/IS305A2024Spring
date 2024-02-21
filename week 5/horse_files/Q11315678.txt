@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315678', 'タイキフォーチュン', '', '', 'http://www.wikidata.org/entity/Q7442093', 'Seattle Dancer', '1993', '', 'male organism']

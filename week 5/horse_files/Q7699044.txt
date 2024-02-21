@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7699044', 'Tempted', '', '', '', '', '1955', '', 'female organism']

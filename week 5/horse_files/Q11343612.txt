@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343612', 'メジロファントム', '', '', '', '', '1975', '2004', 'male organism']

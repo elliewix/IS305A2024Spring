@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236998', 'Uncle Bryn', '', '', '', '', '1912', '', 'male organism']

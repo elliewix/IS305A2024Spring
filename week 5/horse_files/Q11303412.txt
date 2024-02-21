@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303412', 'Colonel Lancer', '', '', 'http://www.wikidata.org/entity/Q11314327', 'Sedan', '1971', '', 'male organism']

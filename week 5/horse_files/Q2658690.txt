@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2658690', 'Darco', 'http://www.wikidata.org/entity/Q115197447', 'Ocoucha', 'http://www.wikidata.org/entity/Q108178669', 'Lugano van La Roche', '1980', '2006', 'male organism']

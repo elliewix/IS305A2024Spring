@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121287771', 'Sharkasi', '', '', '', '', '1941', '', 'male organism']

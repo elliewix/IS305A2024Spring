@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339953', 'マキノホープ', '', '', 'http://www.wikidata.org/entity/Q11315435', 'Solonaway', '1966', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7711333', 'Thatch', '', '', '', '', '1970', '', 'male organism']

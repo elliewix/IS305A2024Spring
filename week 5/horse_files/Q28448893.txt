@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28448893', "Pether's Moon", '', '', 'http://www.wikidata.org/entity/Q3041946', 'Dylan Thomas', '2010', '', '']

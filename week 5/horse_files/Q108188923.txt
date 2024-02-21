@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108188923', 'Kerrin', 'http://www.wikidata.org/entity/Q115283503', 'Fangelika', 'http://www.wikidata.org/entity/Q115283458', 'Mambo', '1973', '', 'female organism']

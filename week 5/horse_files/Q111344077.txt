@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111344077', 'Justitia', '', '', 'http://www.wikidata.org/entity/Q61997359', 'Le Sancy', '1896', '', 'female organism']

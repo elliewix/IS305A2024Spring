@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120693425', 'Colonel 55184', '', '', 'http://www.wikidata.org/entity/Q120693452', 'Ravaillac 47054', '1902', '', 'male organism']

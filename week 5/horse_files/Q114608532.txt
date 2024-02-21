@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114608532', 'Taiba', '', '', 'http://www.wikidata.org/entity/Q30603411', 'Gun Runner', '2019', '', 'male organism']

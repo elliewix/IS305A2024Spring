@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124354304', 'Lucasia Candy', '', '', '', '', '1983', '', 'female organism']

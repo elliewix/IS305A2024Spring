@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316129', 'Tachikaze', '', '', 'http://www.wikidata.org/entity/Q11335651', 'Primero', '1946', '1965', 'male organism']

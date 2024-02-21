@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122182080', 'Montresor 105573', '', '', 'http://www.wikidata.org/entity/Q122172852', 'Imprecation 79304', '1912', '', 'male organism']

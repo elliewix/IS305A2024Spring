@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119296212', 'Champeaux', 'http://www.wikidata.org/entity/Q119358576', 'Madeleine', 'http://www.wikidata.org/entity/Q117942496', 'Iago 768', '1881', '1886', 'male organism']

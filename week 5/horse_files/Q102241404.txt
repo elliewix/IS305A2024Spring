@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241404', 'Dr. Valeri', '', '', '', '', '1975', '', 'male organism']

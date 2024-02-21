@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7263758', 'Pyrrhus The First', 'http://www.wikidata.org/entity/Q62021646', 'Fortress', 'http://www.wikidata.org/entity/Q62021425', 'Epirus', '1843', '', 'male organism']

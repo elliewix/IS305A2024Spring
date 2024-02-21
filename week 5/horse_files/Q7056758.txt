@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7056758', 'North Sider', '', '', 'http://www.wikidata.org/entity/Q7825160', 'Topsider', '1982', '', 'female organism']

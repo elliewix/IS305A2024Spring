@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033346', 'Doge', 'http://www.wikidata.org/entity/Q62033357', 'Crab mare', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1762', '', 'male organism']

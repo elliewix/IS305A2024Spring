@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10290268', 'Glória de Campeão', '', '', '', '', '2003', '', 'male organism']

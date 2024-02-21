@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340387', 'Matikanefukukitaru', '', '', 'http://www.wikidata.org/entity/Q11299199', 'Crystal Glitters', '1994', '2020', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111349103', 'Stolzenberg', 'http://www.wikidata.org/entity/Q111349537', 'Sancerre', '', '', '1999', '', 'male organism']

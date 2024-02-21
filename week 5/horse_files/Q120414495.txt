@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120414495', 'Miss de Luxe', '', '', 'http://www.wikidata.org/entity/Q120414124', 'Supreme Degas 240091', '1947', '', 'female organism']

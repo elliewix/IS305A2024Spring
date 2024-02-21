@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108208257', 'Oekonomie', 'http://www.wikidata.org/entity/Q108588246', 'Fahre', 'http://www.wikidata.org/entity/Q108240334', 'Matador', '1955', '', 'female organism']

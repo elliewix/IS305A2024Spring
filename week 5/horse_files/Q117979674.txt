@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117979674', 'Coriana', 'http://www.wikidata.org/entity/Q118063332', 'Coreen 117580', 'http://www.wikidata.org/entity/Q117983813', 'Buster II 152910', '1924', '', 'female organism']

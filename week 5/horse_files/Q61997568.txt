@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997568', 'Scottish Chief', 'http://www.wikidata.org/entity/Q61997647', 'Miss Ann', 'http://www.wikidata.org/entity/Q61997573', 'Lord of the Isles', '1861', '', 'male organism']

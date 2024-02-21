@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q280168', 'St. Simon', 'http://www.wikidata.org/entity/Q55091174', 'St Angela', 'http://www.wikidata.org/entity/Q1492693', 'Galopin', '1881', '', 'male organism']

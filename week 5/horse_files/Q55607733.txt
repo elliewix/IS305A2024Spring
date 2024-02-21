@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55607733', 'Clarissimus', '', '', '', '', '1913', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62018157', 'Danon Kingly', '', '', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2016', '', 'male organism']

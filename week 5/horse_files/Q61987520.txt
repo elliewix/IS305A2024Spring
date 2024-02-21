@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987520', 'Brigid', 'http://www.wikidata.org/entity/Q61987522', 'Luv Luvin', 'http://www.wikidata.org/entity/Q6071184', 'Irish River', '1991', '', 'female organism']

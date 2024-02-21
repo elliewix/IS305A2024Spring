@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122412831', 'Venutar', '', '', '', '', '1943', '1962', 'male organism']

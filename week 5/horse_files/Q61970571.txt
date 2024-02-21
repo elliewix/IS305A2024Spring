@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970571', 'Life Hill', 'http://www.wikidata.org/entity/Q61970573', 'Lady of the Snows', 'http://www.wikidata.org/entity/Q7557028', 'Solario', '1940', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11324394', 'ニチドウアラシ', '', '', '', '', '1976', '', 'male organism']

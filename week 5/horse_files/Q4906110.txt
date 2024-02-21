@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4906110', 'Big Pebble', '', '', '', '', '1936', '', 'male organism']

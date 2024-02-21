@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5574776', 'Go For Wand', 'http://www.wikidata.org/entity/Q7074666', 'Obeah', 'http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '1987', '', 'female organism']

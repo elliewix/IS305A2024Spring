@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6749537', 'Manifesto', '', '', '', '', '1888', '', 'male organism']

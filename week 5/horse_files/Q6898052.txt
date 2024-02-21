@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6898052', 'Monarchos', '', '', 'http://www.wikidata.org/entity/Q6760950', "Maria's Mon", '1998', '2016', 'male organism']

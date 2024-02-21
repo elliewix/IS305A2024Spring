@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7619034', 'Stone Street', '', '', '', '', '1905', '', 'male organism']

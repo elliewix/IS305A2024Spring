@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023135', 'Galatea', 'http://www.wikidata.org/entity/Q17013869', 'Paulina', 'http://www.wikidata.org/entity/Q62023137', 'Amadis', '1816', '', 'female organism']

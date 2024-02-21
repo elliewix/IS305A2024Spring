@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3485021', 'Sinndar', 'http://www.wikidata.org/entity/Q61998108', 'Sinntara', 'http://www.wikidata.org/entity/Q5594750', 'Grand Lodge', '1997', '2018', 'male organism']

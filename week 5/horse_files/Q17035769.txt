@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17035769', 'Smoke Glacken', '', '', '', '', '1994', '', 'male organism']

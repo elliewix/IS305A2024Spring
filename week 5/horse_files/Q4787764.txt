@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4787764', 'Ard Patrick', '', '', '', '', '1899', '', 'male organism']

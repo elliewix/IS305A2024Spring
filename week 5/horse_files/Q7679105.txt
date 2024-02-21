@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7679105', 'Tale of Ekati', '', '', '', '', '2005', '', 'male organism']

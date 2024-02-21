@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114986306', 'Narko II', 'http://www.wikidata.org/entity/Q114987282', 'Delle', 'http://www.wikidata.org/entity/Q114986789', 'Florissant', '1979', '', 'male organism']

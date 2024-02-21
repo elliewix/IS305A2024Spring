@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5249150', 'Decidedly', '', '', 'http://www.wikidata.org/entity/Q5265697', 'Determine', '1959', '', 'male organism']

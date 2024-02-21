@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11296624', 'Kikuno Salire', '', '', 'http://www.wikidata.org/entity/Q11309134', 'Jade Robbery', '2005', '', 'male organism']

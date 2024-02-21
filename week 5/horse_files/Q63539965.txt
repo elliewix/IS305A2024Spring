@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63539965', 'Frizeur', '', '', 'http://www.wikidata.org/entity/Q55634485', 'Sweeper', '1916', '', 'female organism']

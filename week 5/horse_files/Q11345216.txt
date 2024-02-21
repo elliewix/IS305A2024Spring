@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345216', 'ヤマニンリスペクト', 'http://www.wikidata.org/entity/Q11345207', 'Yamanin Charade', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1997', '', 'male organism']

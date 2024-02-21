@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109271334', 'Tentateur', '', '', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1875', '', 'male organism']

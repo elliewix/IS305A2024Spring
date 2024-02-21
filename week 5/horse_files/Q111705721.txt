@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111705721', 'Saint Prisca', 'http://www.wikidata.org/entity/Q111706348', 'Temoignage', 'http://www.wikidata.org/entity/Q107547173', 'Friar Marcus', '1926', '', 'female organism']

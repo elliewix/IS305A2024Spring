@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6480623', 'Lalun', 'http://www.wikidata.org/entity/Q61998359', 'Be Faithful', 'http://www.wikidata.org/entity/Q17361621', 'Djeddah', '1952', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117195146', 'Vidocq 732', 'http://www.wikidata.org/entity/Q117206173', "Chéri's daughter", 'http://www.wikidata.org/entity/Q117195187', 'Coco II 714', '1869', '', 'male organism']

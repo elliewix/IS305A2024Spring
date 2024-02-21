@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7679796', 'Talkin Man', '', '', 'http://www.wikidata.org/entity/Q8027965', 'With Approval', '1992', '', 'male organism']

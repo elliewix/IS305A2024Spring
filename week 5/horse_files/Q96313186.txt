@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96313186', 'Quebec', '', '', 'http://www.wikidata.org/entity/Q96313651', 'Ganymede', '', '', 'male organism']

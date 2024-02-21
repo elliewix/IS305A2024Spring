@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123516137', 'Belle sartillaise', 'http://www.wikidata.org/entity/Q123516158', 'Kedive', 'http://www.wikidata.org/entity/Q3147477', 'Ibrahim', '1967', '', 'female organism']

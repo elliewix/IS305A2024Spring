@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6488041', 'Lap-dog', 'http://www.wikidata.org/entity/Q62027629', 'Canopus mare', 'http://www.wikidata.org/entity/Q11251240', 'Whalebone', '1823', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111830223', 'Blitz Fang', '', '', 'http://www.wikidata.org/entity/Q11337753', 'Hokko Tarumae', '2019', '', 'male organism']

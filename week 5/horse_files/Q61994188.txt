@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994188', "Tammy's Turn", 'http://www.wikidata.org/entity/Q61994193', 'Tammy Twist', 'http://www.wikidata.org/entity/Q7855618', 'Turn-To', '1965', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283205', 'アサリユウセンプー', '', '', 'http://www.wikidata.org/entity/Q11321754', 'トライバルセンプー', '1986', '', 'male organism']

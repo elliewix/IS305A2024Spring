@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123153564', 'Durezza', '', '', 'http://www.wikidata.org/entity/Q20047186', 'Duramente', '', '', 'male organism']

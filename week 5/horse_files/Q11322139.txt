@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322139', 'Trend Hunter', '', '', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2008', '', 'female organism']

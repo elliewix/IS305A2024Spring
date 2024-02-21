@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q76007046', 'Histrion', 'http://www.wikidata.org/entity/Q111345746', 'Indiana III', 'http://www.wikidata.org/entity/Q22338059', 'Ukase', '1973', '', 'male organism']

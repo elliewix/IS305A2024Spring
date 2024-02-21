@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123367196', 'Hero Call', '', '', 'http://www.wikidata.org/entity/Q11337753', 'Hokko Tarumae', '2020', '', 'male organism']

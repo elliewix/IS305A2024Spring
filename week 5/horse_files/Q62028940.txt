@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028940', 'Hetman Platoff', '', '', 'http://www.wikidata.org/entity/Q62028944', 'Brutandorf', '1836', '', 'male organism']

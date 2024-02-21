@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7407055', 'Sam', 'http://www.wikidata.org/entity/Q61988050', 'Hyale', 'http://www.wikidata.org/entity/Q62022551', 'Scud', '1815', '', 'male organism']

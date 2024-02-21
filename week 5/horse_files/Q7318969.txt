@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7318969', 'Revoque', '', '', 'http://www.wikidata.org/entity/Q5430970', 'Fairy King', '1994', '', 'male organism']

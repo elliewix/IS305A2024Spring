@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11324033', 'Namura Titan', '', '', 'http://www.wikidata.org/entity/Q11304297', 'South Vigorous', '2006', '', 'male organism']

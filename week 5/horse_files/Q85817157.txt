@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q85817157', 'Zulu Alpha', '', '', '', '', '', '', 'male organism']

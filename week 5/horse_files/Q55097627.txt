@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55097627', 'Cosquilla', 'http://www.wikidata.org/entity/Q55097886', 'Quick Thought', 'http://www.wikidata.org/entity/Q11329231', 'Papyrus', '1933', '', 'female organism']

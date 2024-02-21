@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16725721', 'California Chrome', '', '', 'http://www.wikidata.org/entity/Q16949594', 'Lucky Pulpit', '2011', '', 'male organism']

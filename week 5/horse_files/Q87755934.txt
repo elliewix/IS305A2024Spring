@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87755934', 'Maniac', 'http://www.wikidata.org/entity/Q63986024', 'Anticipation', 'http://www.wikidata.org/entity/Q62028275', 'Shuttle', '1806', '', 'female organism']

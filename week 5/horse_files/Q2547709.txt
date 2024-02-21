@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2547709', 'Walzerkönig', '', '', '', '', '1979', '2000', 'male organism']

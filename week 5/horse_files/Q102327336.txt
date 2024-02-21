@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102327336', 'City Zip', 'http://www.wikidata.org/entity/Q55071197', 'Baby Zip', '', '', '1998', '', 'male organism']

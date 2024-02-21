@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221638', 'アブクマポーロ', '', '', 'http://www.wikidata.org/entity/Q11299199', 'Crystal Glitters', '1992', '', 'male organism']

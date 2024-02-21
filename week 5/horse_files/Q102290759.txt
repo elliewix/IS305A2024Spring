@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290759', 'Line of David', '', '', '', '', '2007', '', 'male organism']

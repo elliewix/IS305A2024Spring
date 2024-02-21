@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242470', 'Halory Hunter', '', '', '', '', '1995', '', 'male organism']

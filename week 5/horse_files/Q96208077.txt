@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96208077', 'Voltaire', 'http://www.wikidata.org/entity/Q108853733', 'La Pilot', 'http://www.wikidata.org/entity/Q96208471', 'Imperieux', '1833', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55604316', 'Asmena', '', '', '', '', '1947', '', '']

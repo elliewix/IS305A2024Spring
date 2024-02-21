@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071257', 'Love Style', 'http://www.wikidata.org/entity/Q55071275', 'Likeable Style', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1999', '', 'female organism']

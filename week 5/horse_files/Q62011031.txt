@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62011031', 'Tulip', 'http://www.wikidata.org/entity/Q62011117', 'Eclipse mare', 'http://www.wikidata.org/entity/Q62011042', 'Damper', '1783', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64005577', 'Ortegal', 'http://www.wikidata.org/entity/Q64005580', 'Lizzie Agnes', 'http://www.wikidata.org/entity/Q4886992', 'Bend Or', '1889', '', 'female organism']

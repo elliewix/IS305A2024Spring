@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56051288', 'Seeking Regina', 'http://www.wikidata.org/entity/Q56051291', 'Fulbright Scholar', 'http://www.wikidata.org/entity/Q7445798', 'Seeking The Gold', '1992', '', 'female organism']

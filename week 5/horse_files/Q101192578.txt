@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q101192578', 'Aristoteles', '', '', 'http://www.wikidata.org/entity/Q11290535', 'Epiphaneia', '2017', '', 'male organism']

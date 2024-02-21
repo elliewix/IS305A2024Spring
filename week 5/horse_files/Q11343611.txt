@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343611', 'メジロファラオ', '', '', '', '', '1993', '', 'male organism']

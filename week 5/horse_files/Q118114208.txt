@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118114208', 'Delgardo 944', '', '', 'http://www.wikidata.org/entity/Q117748161', 'Brilliant 755', '1880', '', 'male organism']

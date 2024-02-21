@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27920797', 'Jigeum I Sungan', '', '', 'http://www.wikidata.org/entity/Q11287341', 'Ingrandire', '2009', '', 'male organism']

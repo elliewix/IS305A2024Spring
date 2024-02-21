@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4930818', 'Blushing John', '', '', 'http://www.wikidata.org/entity/Q2907399', 'Blushing Groom', '1985', '', 'male organism']

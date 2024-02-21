@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16997779', 'Joe Cotton', 'http://www.wikidata.org/entity/Q104239591', 'Inverness', 'http://www.wikidata.org/entity/Q104239243', 'King Alfonso', '1882', '', 'male organism']

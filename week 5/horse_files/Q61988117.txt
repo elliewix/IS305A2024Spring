@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61988117', 'Promise', 'http://www.wikidata.org/entity/Q61988119', 'Julia', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1768', '', 'female organism']

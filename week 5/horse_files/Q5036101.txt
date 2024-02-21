@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5036101', 'Capote', '', '', 'http://www.wikidata.org/entity/Q1457136', 'Seattle Slew', '1984', '', 'male organism']

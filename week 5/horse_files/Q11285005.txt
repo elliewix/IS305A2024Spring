@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11285005', 'Amuro', '', '', 'http://www.wikidata.org/entity/Q11334538', 'Black Tuxedo', '2008', '', 'male organism']

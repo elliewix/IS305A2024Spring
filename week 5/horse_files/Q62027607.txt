@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027607', 'Sophia', 'http://www.wikidata.org/entity/Q61988115', 'Huncamunca', 'http://www.wikidata.org/entity/Q11327618', 'Buzzard', '1798', '', 'female organism']

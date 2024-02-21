@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11323481', 'ドージマムテキ', '', '', '', '', '1990', '2010', 'male organism']

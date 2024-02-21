@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735360', 'Kikuno Storm', '', '', 'http://www.wikidata.org/entity/Q105669285', 'Statue of Liberty', '2009', '', 'male organism']

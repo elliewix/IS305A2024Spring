@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22311611', 'Furisto', '', '', 'http://www.wikidata.org/entity/Q5509548', 'Furioso II', '1971', '', 'male organism']

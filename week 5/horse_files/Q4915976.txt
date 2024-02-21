@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4915976', 'Birdcatcher', 'http://www.wikidata.org/entity/Q62043944', 'Guiccioli', 'http://www.wikidata.org/entity/Q7527266', 'Sir Hercules', '1833', '1860', 'male organism']

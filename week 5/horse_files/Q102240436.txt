@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240436', 'Flutterby', '', '', '', '', '1958', '', 'male organism']

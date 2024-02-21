@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033451', 'Sultana', 'http://www.wikidata.org/entity/Q62033457', 'Partner mare', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1759', '', 'female organism']

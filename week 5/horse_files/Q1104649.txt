@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', 'http://www.wikidata.org/entity/Q11303942', 'Gold Digger', 'http://www.wikidata.org/entity/Q11349325', 'Raise a Native', '1970', '1999', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994541', 'Alaiyda', 'http://www.wikidata.org/entity/Q61994545', 'Aliysa', 'http://www.wikidata.org/entity/Q7462174', 'Shahrastani', '1991', '', 'female organism']

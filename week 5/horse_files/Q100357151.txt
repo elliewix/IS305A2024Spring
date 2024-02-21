@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100357151', 'Želatina', '', '', 'http://www.wikidata.org/entity/Q100356190', 'Le Loup Garou', '1968', '', 'female organism']

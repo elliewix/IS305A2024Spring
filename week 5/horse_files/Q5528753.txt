@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5528753', 'Gayego', '', '', 'http://www.wikidata.org/entity/Q5561542', 'Gilded Time', '2005', '', 'male organism']

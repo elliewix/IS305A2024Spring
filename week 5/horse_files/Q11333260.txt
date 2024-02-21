@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333260', 'フジノコウザン', '', '', '', '', '2003', '', 'male organism']

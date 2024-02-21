@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735327', 'Sunday Wizard', '', '', 'http://www.wikidata.org/entity/Q11325271', 'Neo Universe', '2012', '', 'male organism']

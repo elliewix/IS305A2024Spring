@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7659386', 'Swynford', 'http://www.wikidata.org/entity/Q11295448', 'Canterbury Pilgrim', 'http://www.wikidata.org/entity/Q61988975', "John O'Gaunt", '1907', '', 'male organism']

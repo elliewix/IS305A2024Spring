@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239436', 'Valley Flares', '', '', '', '', '1941', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117909860', 'Julie 7594', 'http://www.wikidata.org/entity/Q119523268', 'Rustique 10325', 'http://www.wikidata.org/entity/Q117732706', 'Brilliant 756', '1877', '', 'female organism']

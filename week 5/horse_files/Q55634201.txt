@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55634201', 'Sun Cap', '', '', '', '', '1951', '', '']

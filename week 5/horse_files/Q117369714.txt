@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369714', 'Stamford mare', 'http://www.wikidata.org/entity/Q117369775', 'Miss Judy', 'http://www.wikidata.org/entity/Q62023103', 'Stamford', '1805', '', 'female organism']

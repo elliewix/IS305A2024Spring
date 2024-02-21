@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11289554', 'Eishin Deputy', '', '', 'http://www.wikidata.org/entity/Q11334069', 'French Deputy', '2002', '', 'male organism']

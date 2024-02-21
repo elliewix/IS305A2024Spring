@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297865', 'King Glorious', '', '', '', '', '1986', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348847', 'ルイジアナピット', '', '', '', '', '1985', '2005', 'female organism']

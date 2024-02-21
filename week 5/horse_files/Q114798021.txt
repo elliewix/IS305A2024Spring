@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114798021', 'Point Flag', '', '', 'http://www.wikidata.org/entity/Q6810492', 'Mejiro McQueen', '1998', '2016', 'female organism']

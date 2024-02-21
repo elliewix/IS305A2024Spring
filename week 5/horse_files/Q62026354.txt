@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026354', 'Brown Betty', '', '', 'http://www.wikidata.org/entity/Q11337990', 'Hobgoblin', '1737', '', 'female organism']

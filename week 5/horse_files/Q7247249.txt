@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7247249', 'Process Shot', '', '', '', '', '1966', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238042', 'Blondin', '', '', '', '', '1923', '', 'male organism']

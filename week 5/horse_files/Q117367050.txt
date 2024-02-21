@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117367050', 'Empress', 'http://www.wikidata.org/entity/Q117367124', 'Mangel-Wurzel', 'http://www.wikidata.org/entity/Q5371990', 'Emilius', '1837', '', 'female organism']

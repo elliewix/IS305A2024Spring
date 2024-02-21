@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123308156', 'Eolus', '', '', 'http://www.wikidata.org/entity/Q6509406', 'Leamington', '1868', '', 'male organism']

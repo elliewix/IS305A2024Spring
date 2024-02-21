@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117370573', 'Foxhunter mare', 'http://www.wikidata.org/entity/Q117370852', 'sister to Cato', 'http://www.wikidata.org/entity/Q117370601', 'Foxhunter', '1740', '', 'female organism']

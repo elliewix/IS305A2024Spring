@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354569', 'Sharp Queen', 'http://www.wikidata.org/entity/Q117354576', 'Bridgework', 'http://www.wikidata.org/entity/Q7244431', 'Princequillo', '1965', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240476', 'Good Fight', '', '', '', '', '1959', '', 'male organism']

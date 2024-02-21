@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62004385', 'Julia', 'http://www.wikidata.org/entity/Q8058135', 'Young Giantess', 'http://www.wikidata.org/entity/Q62004410', 'Whiskey', '1799', '', 'female organism']

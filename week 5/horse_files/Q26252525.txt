@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26252525', "Vigo d'Arsouilles", 'http://www.wikidata.org/entity/Q108178407', "Illico d'Arsouilles", 'http://www.wikidata.org/entity/Q21427673', 'Nabab de Rêve', '1998', '2019', 'male organism']

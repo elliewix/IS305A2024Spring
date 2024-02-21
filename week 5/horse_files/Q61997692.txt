@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997692', 'Nettle', 'http://www.wikidata.org/entity/Q61997715', 'Wasp', 'http://www.wikidata.org/entity/Q7655747', 'Sweetmeat', '1852', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987137', 'My Dear', 'http://www.wikidata.org/entity/Q61987139', 'Miss Letty', 'http://www.wikidata.org/entity/Q4874043', 'Bay Middleton', '1841', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6980076', 'Native Upmanship', '', '', 'http://www.wikidata.org/entity/Q24895534', 'Be My Native', '1993', '', '']

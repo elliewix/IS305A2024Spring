@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22329664', 'Magali', '', '', 'http://www.wikidata.org/entity/Q26719877', 'Fra Diavolo', '1956', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11034408', 'Yukichan', 'http://www.wikidata.org/entity/Q11308284', 'Shirayukihime', 'http://www.wikidata.org/entity/Q11299831', 'Kurofune', '2005', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5518000', 'Galata', '', '', 'http://www.wikidata.org/entity/Q7636587', 'Sultan', '1829', '', 'female organism']

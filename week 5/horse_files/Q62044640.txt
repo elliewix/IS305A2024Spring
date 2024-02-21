@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62044640', 'Young Nanny', '', '', '', '', '1725', '', 'female organism']

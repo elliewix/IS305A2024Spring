@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10879991', 'Akeed Mofeed', '', '', 'http://www.wikidata.org/entity/Q5310663', 'Dubawi', '2009', '', 'male organism']

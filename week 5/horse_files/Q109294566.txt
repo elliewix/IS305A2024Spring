@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109294566', 'Alpinista', '', '', 'http://www.wikidata.org/entity/Q2720508', 'Frankel', '2017', '', 'female organism']

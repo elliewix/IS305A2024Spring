@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63986019', 'Handmaiden', 'http://www.wikidata.org/entity/Q63986024', 'Anticipation', 'http://www.wikidata.org/entity/Q17041157', 'Walton', '1817', '', 'female organism']

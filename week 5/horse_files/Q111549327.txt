@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111549327', 'Meisho Mimosa', 'http://www.wikidata.org/entity/Q11334069', 'French Deputy', 'http://www.wikidata.org/entity/Q4309360', "Heart's Cry", '2017', '', 'female organism']

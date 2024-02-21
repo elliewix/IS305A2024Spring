@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239630', 'Kendor', '', '', '', '', '1943', '', 'male organism']

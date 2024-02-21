@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023103', 'Stamford', 'http://www.wikidata.org/entity/Q62022493', 'Horatia', 'http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', '1794', '', 'male organism']

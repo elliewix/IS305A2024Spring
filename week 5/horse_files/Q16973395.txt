@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16973395', 'Deep Diver', '', '', '', '', '1969', '', 'male organism']

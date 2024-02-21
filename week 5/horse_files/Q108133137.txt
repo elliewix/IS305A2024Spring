@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108133137', 'Wiadora', '', '', 'http://www.wikidata.org/entity/Q26236952', 'Grannus', '1989', '', 'female organism']

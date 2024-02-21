@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q19868102', 'Dernier Empereur', '', '', 'http://www.wikidata.org/entity/Q7838201', 'Trempolino', '1990', '', 'male organism']

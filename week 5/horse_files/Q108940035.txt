@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108940035', 'Quinola', 'http://www.wikidata.org/entity/Q108940024', 'Fridoline', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1872', '', 'male organism']

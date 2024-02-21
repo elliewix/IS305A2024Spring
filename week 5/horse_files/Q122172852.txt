@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122172852', 'Imprecation 79304', 'http://www.wikidata.org/entity/Q122173156', 'Sabine 41186', 'http://www.wikidata.org/entity/Q122173180', 'Pinson 63122', '1908', '', 'male organism']

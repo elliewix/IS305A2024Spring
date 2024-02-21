@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970475', 'Strawberry Reason', '', '', 'http://www.wikidata.org/entity/Q7622478', 'Strawberry Road', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18818377', 'スカレー', '', '', 'http://www.wikidata.org/entity/Q18016266', 'エルシド', '1969', '', 'male organism']

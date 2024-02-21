@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359608', 'Blunderbuss', '', '', 'http://www.wikidata.org/entity/Q117359619', 'Bustler', '1680', '', 'male organism']

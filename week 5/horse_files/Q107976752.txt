@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107976752', 'TSF Dalera BB', '', '', '', '', '2007', '', 'female organism']

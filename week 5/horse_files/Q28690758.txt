@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28690758', 'Noboru Toko', '', '', 'http://www.wikidata.org/entity/Q11329825', 'Partholon', '1969', '', 'male organism']

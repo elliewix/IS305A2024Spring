@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117370983', 'Acaster Turk', '', '', '', '', '1695', '', 'male organism']

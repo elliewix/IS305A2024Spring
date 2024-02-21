@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2837461', 'All Along', '', '', 'http://www.wikidata.org/entity/Q28154430', 'Targowice', '1979', '2005', 'female organism']

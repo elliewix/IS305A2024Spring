@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316764', 'ダイゴホマレ', '', '', 'http://www.wikidata.org/entity/Q11342345', 'Minami Homare', '1955', '', 'male organism']

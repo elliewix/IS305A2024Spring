@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545366', 'Castle Top', '', '', 'http://www.wikidata.org/entity/Q11328457', 'バンブーエール', '2018', '', 'male organism']

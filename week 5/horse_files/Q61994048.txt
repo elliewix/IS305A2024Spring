@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994048', 'Mrs Quickly', 'http://www.wikidata.org/entity/Q61994109', 'Venus', 'http://www.wikidata.org/entity/Q61994050', 'Longbow', '1857', '', 'female organism']

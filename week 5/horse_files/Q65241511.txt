@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65241511', 'Cantaro 32', '', '', 'http://www.wikidata.org/entity/Q22314171', 'Corrado I', '2000', '', 'male organism']

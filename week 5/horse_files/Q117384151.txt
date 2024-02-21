@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384151', 'Rosanne', 'http://www.wikidata.org/entity/Q61988981', 'Rosette', 'http://www.wikidata.org/entity/Q61976427', 'Dick Andrews', '1811', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7247524', 'Proctor Knott', '', '', 'http://www.wikidata.org/entity/Q6701808', 'Luke Blackburn', '1886', '', 'male organism']

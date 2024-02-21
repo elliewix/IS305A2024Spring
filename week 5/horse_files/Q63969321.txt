@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969321', 'Palmyra', 'http://www.wikidata.org/entity/Q63969338', 'Hester', 'http://www.wikidata.org/entity/Q7636587', 'Sultan', '1838', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123503892', 'Kissovo', 'http://www.wikidata.org/entity/Q123503967', 'Geisha N', 'http://www.wikidata.org/entity/Q22329655', 'Starter', '1976', '2001', 'male organism']

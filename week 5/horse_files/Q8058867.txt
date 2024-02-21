@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8058867', 'Your Majesty', 'http://www.wikidata.org/entity/Q63980379', 'Yours', 'http://www.wikidata.org/entity/Q7170362', 'Persimmon', '1905', '', 'male organism']

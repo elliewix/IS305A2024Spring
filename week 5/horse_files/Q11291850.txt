@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11291850', 'Okino Sakigake', '', '', '', '', '1978', '', 'male organism']

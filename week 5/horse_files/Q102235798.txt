@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235798', 'Creedmore', '', '', '', '', '1873', '', 'male organism']

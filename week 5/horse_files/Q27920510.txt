@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27920510', 'Robbery Heart', '', '', 'http://www.wikidata.org/entity/Q11309134', 'Jade Robbery', '1993', '', 'male organism']

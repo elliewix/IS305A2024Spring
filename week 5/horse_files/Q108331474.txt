@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108331474', 'Stella', '', '', 'http://www.wikidata.org/entity/Q108331546', 'Nithard', '1962', '', 'female organism']

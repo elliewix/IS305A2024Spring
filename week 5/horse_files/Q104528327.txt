@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104528327', 'Jo Kana Chan', '', '', '', '', '', '', 'female organism']

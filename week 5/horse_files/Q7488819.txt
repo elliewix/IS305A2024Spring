@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7488819', 'Shannon', 'http://www.wikidata.org/entity/Q107534552', 'Idle Words', 'http://www.wikidata.org/entity/Q107534550', 'Midstream', '1941', '', 'male organism']

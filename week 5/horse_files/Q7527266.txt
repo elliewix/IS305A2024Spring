@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7527266', 'Sir Hercules', 'http://www.wikidata.org/entity/Q61994125', 'Peri', 'http://www.wikidata.org/entity/Q11251240', 'Whalebone', '1826', '', 'male organism']

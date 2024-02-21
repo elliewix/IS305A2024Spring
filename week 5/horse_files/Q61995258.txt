@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61995258', 'Iron Maiden', 'http://www.wikidata.org/entity/Q61995272', 'Betty Derr', 'http://www.wikidata.org/entity/Q1417640', 'War Admiral', '1941', '', 'female organism']

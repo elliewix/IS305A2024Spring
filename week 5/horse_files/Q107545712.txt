@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545712', 'Irish Castle', 'http://www.wikidata.org/entity/Q5050076', 'Castle Forbes', 'http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', '1967', '', 'male organism']

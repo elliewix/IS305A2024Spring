@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117383320', 'Switch', 'http://www.wikidata.org/entity/Q117383339', 'Cyprus Arabian mare', 'http://www.wikidata.org/entity/Q117383334', 'Lonsdale Bay Arabian', '1739', '', 'female organism']

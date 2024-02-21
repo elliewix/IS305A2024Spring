@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319978', 'Dear Yamato', '', '', 'http://www.wikidata.org/entity/Q11319080', 'テイエムサンデー', '2005', '', 'male organism']

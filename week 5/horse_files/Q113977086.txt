@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113977086', 'Ultrachic du Temple', '', '', 'http://www.wikidata.org/entity/Q113977120', "Luigi d'Amaury", '2008', '', 'male organism']

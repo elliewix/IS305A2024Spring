@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64224653', 'Bandola', '', '', '', '', '', '', 'female organism']

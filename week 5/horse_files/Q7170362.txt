@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7170362', 'Persimmon', 'http://www.wikidata.org/entity/Q7167699', 'Perdita', 'http://www.wikidata.org/entity/Q280168', 'St. Simon', '1893', '', 'male organism']

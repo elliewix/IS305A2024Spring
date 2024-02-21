@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q98861648', 'Platelet', '', '', '', '', '2008', '', 'female organism']

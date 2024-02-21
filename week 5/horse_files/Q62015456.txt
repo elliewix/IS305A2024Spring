@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62015456', 'Paynator mare', 'http://www.wikidata.org/entity/Q62015464', 'Delpini mare', 'http://www.wikidata.org/entity/Q61987198', 'Paynator', '1810', '', 'female organism']

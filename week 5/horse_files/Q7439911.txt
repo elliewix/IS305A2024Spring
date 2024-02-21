@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7439911', 'Sea Hero', '', '', 'http://www.wikidata.org/entity/Q104192864', 'Polish Navy', '1990', '2019', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7700783', 'Tentam', '', '', 'http://www.wikidata.org/entity/Q6044492', 'Intentionally', '1969', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q73010875', 'ホースメンテスコ', '', '', '', '', '', '', 'female organism']

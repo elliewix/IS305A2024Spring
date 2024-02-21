@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993559', 'Herself', '', '', 'http://www.wikidata.org/entity/Q6988645', 'Neil Gow', '1915', '', 'female organism']

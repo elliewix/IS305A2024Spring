@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337163', 'ベルモントアクター', '', '', 'http://www.wikidata.org/entity/Q6890435', 'Mogambo', '1996', '', 'male organism']

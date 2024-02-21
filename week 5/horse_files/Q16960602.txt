@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16960602', 'Al Nasr', '', '', 'http://www.wikidata.org/entity/Q3269685', 'Lyphard', '1978', '', 'male organism']

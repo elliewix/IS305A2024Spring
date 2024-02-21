@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319882', 'テンメイ', 'http://www.wikidata.org/entity/Q11321109', 'トウメイ', '', '', '1974', '1993', 'male organism']

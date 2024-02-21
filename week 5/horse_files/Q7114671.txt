@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7114671', 'Owen Tudor', '', '', 'http://www.wikidata.org/entity/Q3038706', 'Hyperion', '1938', '', 'male organism']

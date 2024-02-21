@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6869268', 'Minoru', 'http://www.wikidata.org/entity/Q64005546', 'Mother Siegel', 'http://www.wikidata.org/entity/Q5199345', 'Cyllene', '1906', '', 'male organism']

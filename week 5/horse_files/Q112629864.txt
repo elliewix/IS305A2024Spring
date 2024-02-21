@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112629864', 'Speedy Kick', '', '', 'http://www.wikidata.org/entity/Q11315696', 'Taisei Legend', '2019', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117911009', 'Kore 4', '', '', 'http://www.wikidata.org/entity/Q96021883', 'Silver Shadows Sheik', '1998', '', 'female organism']

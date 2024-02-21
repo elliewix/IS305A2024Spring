@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333060', 'フクパーク', '', '', '', '', '1950', '', 'male organism']

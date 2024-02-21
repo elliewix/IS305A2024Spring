@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283605', 'Azuma Hunter', '', '', '', '', '1979', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28692488', 'Black Spinel', '', '', 'http://www.wikidata.org/entity/Q11316237', 'Tanino Gimlet', '2013', '', 'male organism']

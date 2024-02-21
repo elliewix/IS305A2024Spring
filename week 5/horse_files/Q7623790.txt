@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7623790', 'Strike Out', '', '', '', '', '1969', '1998', 'male organism']

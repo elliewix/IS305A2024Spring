@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2925341', 'Brigadier Gerard', '', '', 'http://www.wikidata.org/entity/Q17014723', "Queen's Hussar", '1968', '', 'male organism']

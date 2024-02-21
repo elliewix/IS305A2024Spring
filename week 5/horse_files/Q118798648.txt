@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798648', 'Industria', '', '', 'http://www.wikidata.org/entity/Q22006989', 'Leontes', '2019', '', 'male organism']

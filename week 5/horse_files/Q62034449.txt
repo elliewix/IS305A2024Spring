@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62034449', 'Bajazet mare', 'http://www.wikidata.org/entity/Q62022951', 'Young Cartouch mare', 'http://www.wikidata.org/entity/Q62022911', 'Bajazet', '', '', 'female organism']

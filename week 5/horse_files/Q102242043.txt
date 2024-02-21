@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242043', 'Houston', '', '', '', '', '1986', '', 'male organism']

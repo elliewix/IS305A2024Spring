@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11350175', 'Roxana', 'http://www.wikidata.org/entity/Q117370936', 'sister to Chaunter', 'http://www.wikidata.org/entity/Q4850311', 'Bald Galloway', '1718', '', 'female organism']

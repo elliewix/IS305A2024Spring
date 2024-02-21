@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969416', 'Shuttle mare', 'http://www.wikidata.org/entity/Q62038524', 'Zara', 'http://www.wikidata.org/entity/Q62028275', 'Shuttle', '1807', '', 'female organism']

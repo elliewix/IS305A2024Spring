@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5730884', 'Henry of Navarre', '', '', 'http://www.wikidata.org/entity/Q28230679', 'Knight of Ellerslie', '1891', '', 'male organism']

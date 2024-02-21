@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317463', 'Dancing Color', '', '', 'http://www.wikidata.org/entity/Q3013377', 'Dancing Brave', '1998', '', 'male organism']

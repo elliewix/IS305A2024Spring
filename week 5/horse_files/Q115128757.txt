@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115128757', 'Entye', 'http://www.wikidata.org/entity/Q115159904', 'Tessa', 'http://www.wikidata.org/entity/Q111337052', 'Nykio', '1970', '', 'female organism']

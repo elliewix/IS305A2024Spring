@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26719877', 'Fra Diavolo', 'http://www.wikidata.org/entity/Q108616403', 'Frayeur', 'http://www.wikidata.org/entity/Q52834829', 'Black Devil', '1938', '1959', 'male organism']

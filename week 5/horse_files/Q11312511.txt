@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312511', 'ストロングリターン', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2006', '', 'male organism']

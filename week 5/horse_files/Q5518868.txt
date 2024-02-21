@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5518868', 'Gallant Man', '', '', 'http://www.wikidata.org/entity/Q6844279', 'Migoli', '1954', '1988', 'male organism']

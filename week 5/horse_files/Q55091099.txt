@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55091099', 'Armenia', 'http://www.wikidata.org/entity/Q55091118', 'Urania', 'http://www.wikidata.org/entity/Q6805193', 'Meddler', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349755', 'Red Davis', '', '', 'http://www.wikidata.org/entity/Q4693122', 'Agnes Tachyon', '2008', '', 'male organism']

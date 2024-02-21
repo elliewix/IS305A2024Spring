@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27920837', 'Dangdae Bulpae', '', '', 'http://www.wikidata.org/entity/Q11331055', 'Biwa Shinseiki', '2007', '', 'male organism']

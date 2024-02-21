@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119261708', 'Eman 1146', 'http://www.wikidata.org/entity/Q119261900', 'Bourote', 'http://www.wikidata.org/entity/Q117732706', 'Brilliant 756', '1880', '', 'male organism']

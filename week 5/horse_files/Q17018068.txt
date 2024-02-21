@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17018068', 'Seabreeze', '', '', 'http://www.wikidata.org/entity/Q6086160', 'Isonomy', '1885', '', 'female organism']

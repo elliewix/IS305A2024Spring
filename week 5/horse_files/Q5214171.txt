@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5214171', 'Dan Patch', '', '', '', '', '1896', '1916', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96199440', 'Revanche', 'http://www.wikidata.org/entity/Q96199460', 'Heloise', '', '', '1893', '', 'female organism']

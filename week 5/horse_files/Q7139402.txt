@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7139402', 'Parole', '', '', 'http://www.wikidata.org/entity/Q6509406', 'Leamington', '1873', '', 'male organism']

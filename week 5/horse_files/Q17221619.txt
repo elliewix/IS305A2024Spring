@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221619', 'Admire Vega', 'http://www.wikidata.org/entity/Q11336820', 'Vega', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1996', '', 'male organism']

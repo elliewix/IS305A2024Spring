@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283446', 'Ascot', '', '', 'http://www.wikidata.org/entity/Q11318342', 'チヤペルブラムプトン', '1928', '', 'male organism']

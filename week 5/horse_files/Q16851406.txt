@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16851406', 'Jodami', '', '', '', '', '1985', '', '']

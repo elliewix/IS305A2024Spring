@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117368550', 'Pasquinade', 'http://www.wikidata.org/entity/Q61969477', 'Banter', 'http://www.wikidata.org/entity/Q5025850', 'Camel', '1839', '', 'female organism']

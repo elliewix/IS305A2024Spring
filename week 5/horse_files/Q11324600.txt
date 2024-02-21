@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11324600', 'Nihon Pillow Winner', '', '', 'http://www.wikidata.org/entity/Q11312238', 'Steel Heart', '1980', '', 'male organism']

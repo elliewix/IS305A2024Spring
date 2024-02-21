@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87756719', 'Jet', 'http://www.wikidata.org/entity/Q87757357', 'Jewel', 'http://www.wikidata.org/entity/Q87757008', 'Magnet', '1785', '', 'female organism']

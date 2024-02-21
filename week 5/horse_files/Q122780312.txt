@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122780312', 'Cheri', '', '', 'http://www.wikidata.org/entity/Q106655181', 'St Damien', '1898', '', 'male organism']

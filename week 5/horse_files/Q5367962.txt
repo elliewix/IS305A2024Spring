@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5367962', 'Elusive Quality', '', '', 'http://www.wikidata.org/entity/Q5581608', 'Gone West', '1993', '2018', 'male organism']

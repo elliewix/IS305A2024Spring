@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4827797', 'Avatar', '', '', 'http://www.wikidata.org/entity/Q5597761', 'Graustark', '1972', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87756134', 'Podagra', 'http://www.wikidata.org/entity/Q87756719', 'Jet', 'http://www.wikidata.org/entity/Q87756281', 'Gouty', '1805', '', 'female organism']

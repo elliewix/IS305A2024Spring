@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111472789', 'Be Astonished', '', '', 'http://www.wikidata.org/entity/Q55972476', 'American Patriot', '2019', '', 'male organism']

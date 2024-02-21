@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121082638', 'Amurath II', '', '', '', '', '1855', '', 'male organism']

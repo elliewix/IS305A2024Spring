@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119450482', 'Trojan 832', 'http://www.wikidata.org/entity/Q117906917', 'Franconie', '', '', '1877', '', 'male organism']

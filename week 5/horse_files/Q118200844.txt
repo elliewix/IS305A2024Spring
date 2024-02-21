@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118200844', 'Lucasia Konet Chub', '', '', 'http://www.wikidata.org/entity/Q118200548', 'Glynlea Konet', '', '', 'male organism']

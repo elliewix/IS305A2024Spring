@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q98592839', 'Lucky Vega', '', '', '', '', '', '', 'male organism']

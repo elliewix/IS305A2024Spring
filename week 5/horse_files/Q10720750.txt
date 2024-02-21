@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10720750', 'Wyomisk vildhäst', '', '', '', '', '', '', '']

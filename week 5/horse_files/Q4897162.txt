@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4897162', 'Bet Twice', '', '', '', '', '1984', '', 'male organism']

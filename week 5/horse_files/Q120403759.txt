@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120403759', 'Daleview Peg', 'http://www.wikidata.org/entity/Q124369263', 'Daleview Pat', 'http://www.wikidata.org/entity/Q120404705', 'Starlight Koncar Chief', '1976', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120410887', 'Papoose', 'http://www.wikidata.org/entity/Q119361222', 'Black Magic', 'http://www.wikidata.org/entity/Q118168780', 'Drake Farms Chief', '', '', 'female organism']

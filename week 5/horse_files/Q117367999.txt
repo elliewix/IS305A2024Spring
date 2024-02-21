@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117367999', 'Young Worry', 'http://www.wikidata.org/entity/Q117368059', 'Worry', 'http://www.wikidata.org/entity/Q5371990', 'Emilius', '1831', '', 'female organism']

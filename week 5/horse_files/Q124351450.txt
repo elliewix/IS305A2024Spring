@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124351450', 'La Van', 'http://www.wikidata.org/entity/Q124351471', 'La Nelda', 'http://www.wikidata.org/entity/Q118168780', 'Drake Farms Chief', '1959', '', 'male organism']

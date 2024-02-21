@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006856', 'Algan', '', '', '', '', '1988', '', '']

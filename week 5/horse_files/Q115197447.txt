@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115197447', 'Ocoucha', 'http://www.wikidata.org/entity/Q115283978', 'Latoucha', 'http://www.wikidata.org/entity/Q115283874', 'Codex', '1968', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023204', 'Allworthy mare', 'http://www.wikidata.org/entity/Q62023206', 'Starling mare', 'http://www.wikidata.org/entity/Q62023205', 'Allworthy', '1750', '', 'female organism']

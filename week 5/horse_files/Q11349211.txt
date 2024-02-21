@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349211', 'ルーテナントスティーヴンズ', '', '', 'http://www.wikidata.org/entity/Q11324101', 'Nantallah', '1961', '1985', 'male organism']

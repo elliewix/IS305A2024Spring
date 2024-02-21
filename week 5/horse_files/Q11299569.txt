@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11299569', 'Cleopatra Tomas', '', '', '', '', '1932', '1954', 'female organism']

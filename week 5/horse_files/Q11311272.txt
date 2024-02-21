@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311272', 'Sky Mesa', '', '', 'http://www.wikidata.org/entity/Q7259595', 'Pulpit', '2000', '', 'male organism']

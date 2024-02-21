@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033122', 'Sancho mare', 'http://www.wikidata.org/entity/Q62033158', 'Miss Furey', 'http://www.wikidata.org/entity/Q17017349', 'Sancho', '1810', '', 'female organism']

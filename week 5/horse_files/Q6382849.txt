@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6382849', 'Keen Hunter', '', '', '', '', '1987', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114585811', 'Grand City', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2007', '', 'male organism']

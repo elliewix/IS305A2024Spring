@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7400491', 'Sainfoin', 'http://www.wikidata.org/entity/Q61969354', 'Sanda', 'http://www.wikidata.org/entity/Q17021634', 'Springfield', '1887', '1911', 'male organism']

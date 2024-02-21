@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q50808516', 'Roi de Berg', '', '', '', '', '2005', '', 'male organism']

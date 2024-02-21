@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5128464', "Classy 'n Smart", 'http://www.wikidata.org/entity/Q7044037', 'No Class', 'http://www.wikidata.org/entity/Q7544100', 'Smarten', '1981', '', 'female organism']

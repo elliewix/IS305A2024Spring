@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239780', 'Stranded', '', '', '', '', '1947', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18172302', 'Empire Glory', '', '', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1981', '', 'male organism']

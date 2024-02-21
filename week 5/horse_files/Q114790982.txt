@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114790982', 'Thyra Tyrann', '', '', '', '', '2004', '', '']

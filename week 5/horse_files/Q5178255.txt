@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5178255', 'Court Martial', 'http://www.wikidata.org/entity/Q61994535', 'Instantaneous', 'http://www.wikidata.org/entity/Q5429939', 'Fair Trial', '1942', '', 'male organism']

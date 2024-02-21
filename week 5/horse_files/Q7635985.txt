@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7635985', 'Sulamani', '', '', 'http://www.wikidata.org/entity/Q11291072', 'Hernando', '1999', '2017', 'male organism']

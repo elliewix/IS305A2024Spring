@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4921084', 'Black Jester', 'http://www.wikidata.org/entity/Q62016649', 'Absurdity', 'http://www.wikidata.org/entity/Q7226534', 'Polymelus', '1911', '', 'male organism']

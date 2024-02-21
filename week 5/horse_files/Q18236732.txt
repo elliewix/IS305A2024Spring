@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18236732', 'Valkyrie Diva', 'http://www.wikidata.org/entity/Q14949904', 'Tugela', 'http://www.wikidata.org/entity/Q11309134', 'Jade Robbery', '2001', '', 'female organism']

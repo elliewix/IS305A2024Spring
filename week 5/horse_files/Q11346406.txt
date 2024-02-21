@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11346406', 'ライデンリーダー', '', '', 'http://www.wikidata.org/entity/Q11351290', 'Wakao Raiden', '1992', '2014', 'female organism']

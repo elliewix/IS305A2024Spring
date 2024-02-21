@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317458', 'Dansili', 'http://www.wikidata.org/entity/Q3128095', 'Hasili', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '1996', '', 'male organism']

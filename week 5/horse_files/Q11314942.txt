@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314942', 'Generalist', '', '', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '1993', '', 'male organism']

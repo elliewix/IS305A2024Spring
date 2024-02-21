@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22315210', 'Chanell II', 'http://www.wikidata.org/entity/Q22315842', 'Weisse Dame', 'http://www.wikidata.org/entity/Q22315525', 'Landgraf I', '1988', '', 'female organism']

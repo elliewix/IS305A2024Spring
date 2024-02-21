@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115923621', 'Archidamia', 'http://www.wikidata.org/entity/Q115923757', 'Archippe', 'http://www.wikidata.org/entity/Q6750704', 'Manna', '1933', '', 'female organism']

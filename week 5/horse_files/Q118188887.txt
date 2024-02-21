@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118188887', 'Mage', 'http://www.wikidata.org/entity/Q118327265', 'Puca', 'http://www.wikidata.org/entity/Q48698734', 'Good Magic', '2020', '', 'male organism']

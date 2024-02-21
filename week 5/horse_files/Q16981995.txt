@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16981995', 'Gildoran', 'http://www.wikidata.org/entity/Q17332349', 'Durtal', 'http://www.wikidata.org/entity/Q7320355', 'Rheingold', '1980', '', 'male organism']

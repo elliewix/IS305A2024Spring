@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121048401', 'Shagya XVII', '', '', 'http://www.wikidata.org/entity/Q120834982', 'Shagya X', '1869', '', 'male organism']

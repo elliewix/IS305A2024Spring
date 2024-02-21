@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384736', 'Forester mare', 'http://www.wikidata.org/entity/Q117384746', 'Coalition Colt mare', 'http://www.wikidata.org/entity/Q117384737', 'Williams Forester', '1768', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5519362', 'Galtee More', 'http://www.wikidata.org/entity/Q61993739', 'Morganette', 'http://www.wikidata.org/entity/Q6388841', 'Kendal', '1894', '', 'male organism']

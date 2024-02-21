@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111342053', 'Furgund', '', '', '', '', '1969', '', 'female organism']

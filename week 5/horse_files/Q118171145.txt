@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118171145', 'Lincoln View Karene', 'http://www.wikidata.org/entity/Q119412314', 'Karen', 'http://www.wikidata.org/entity/Q119404772', 'Rem Degas', '', '', 'female organism']

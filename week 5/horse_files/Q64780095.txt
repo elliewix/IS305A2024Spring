@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780095', 'サイモンロード', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '', '', 'male organism']

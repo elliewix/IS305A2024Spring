@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240845', 'Naskra', 'http://www.wikidata.org/entity/Q107546729', 'Iskra', 'http://www.wikidata.org/entity/Q17020339', 'Nasram', '1967', '', 'male organism']

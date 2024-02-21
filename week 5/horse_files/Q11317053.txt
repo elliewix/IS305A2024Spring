@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317053', 'ダイワエルシエーロ', 'http://www.wikidata.org/entity/Q11350837', 'London Bridge', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '2001', '', 'female organism']

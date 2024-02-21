@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28690725', 'ツキサムホマレ', '', '', 'http://www.wikidata.org/entity/Q11318040', 'China Rock', '1969', '', 'male organism']

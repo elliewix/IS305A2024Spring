@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106650490', 'Travailleur', '', '', 'http://www.wikidata.org/entity/Q96037199', 'Fuschia', '1897', '', 'male organism']

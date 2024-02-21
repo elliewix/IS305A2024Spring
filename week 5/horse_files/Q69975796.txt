@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q69975796', "S.J.'s Photo", '', '', '', '', '1990', '2018', '']

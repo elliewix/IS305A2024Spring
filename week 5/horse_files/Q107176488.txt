@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107176488', 'Schnell Meister', '', '', 'http://www.wikidata.org/entity/Q16989117', 'Kingman', '2018', '', 'male organism']

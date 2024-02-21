@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62044159', 'Bagot', 'http://www.wikidata.org/entity/Q62044291', 'Marotte', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1780', '', 'male organism']

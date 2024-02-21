@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240805', 'Trouble Brewing', '', '', '', '', '1965', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028837', 'Engineer mare', 'http://www.wikidata.org/entity/Q62028843', 'Cade mare', 'http://www.wikidata.org/entity/Q5377768', 'Engineer', '1770', '', 'female organism']

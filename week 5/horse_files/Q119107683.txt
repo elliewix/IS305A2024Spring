@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119107683', 'Papillon 3559', '', '', 'http://www.wikidata.org/entity/Q117947469', 'Brilliant 710', '1880', '', 'male organism']

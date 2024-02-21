@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117982258', 'Sangrado', '', '', 'http://www.wikidata.org/entity/Q117981365', 'Bon Espoir', '', '', 'male organism']

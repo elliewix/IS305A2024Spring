@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7180262', 'Phalanx', 'http://www.wikidata.org/entity/Q6119941', 'Jacola', '', '', '1944', '', 'male organism']

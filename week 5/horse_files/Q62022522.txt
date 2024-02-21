@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022522', 'Lady Cow', 'http://www.wikidata.org/entity/Q62022524', 'Drone mare', 'http://www.wikidata.org/entity/Q6223811', 'John Bull', '1800', '', 'female organism']

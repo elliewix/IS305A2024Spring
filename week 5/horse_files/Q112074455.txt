@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112074455', 'Gloria van Zuuthoeve', '', '', '', '', '2006', '', 'female organism']

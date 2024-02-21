@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006586', 'Pure Grain', '', '', '', '', '1992', '', 'female organism']

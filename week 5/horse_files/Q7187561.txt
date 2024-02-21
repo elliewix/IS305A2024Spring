@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7187561', 'Phosphorus', 'http://www.wikidata.org/entity/Q7376029', 'Rubens mare', 'http://www.wikidata.org/entity/Q61993657', 'Lamplighter', '1834', '', 'male organism']

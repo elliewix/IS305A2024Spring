@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11296496', 'Governor', 'http://www.wikidata.org/entity/Q11283518', 'Astral', 'http://www.wikidata.org/entity/Q11306904', 'Shian Mor', '1932', '', 'male organism']

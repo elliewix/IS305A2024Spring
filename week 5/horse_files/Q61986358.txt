@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61986358', 'Captivation', '', '', 'http://www.wikidata.org/entity/Q5199345', 'Cyllene', '', '', 'male organism']

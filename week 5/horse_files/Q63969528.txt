@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969528', 'Minnie Hauk', '', '', 'http://www.wikidata.org/entity/Q7527349', 'Sir Ivor', '1975', '', 'female organism']

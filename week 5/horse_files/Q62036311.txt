@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62036311', 'Ada', 'http://www.wikidata.org/entity/Q62036340', 'Anna Bella', 'http://www.wikidata.org/entity/Q7993846', 'Whisker', '1824', '', 'female organism']

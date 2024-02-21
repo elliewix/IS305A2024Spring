@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11323545', 'Nike a Delight', '', '', 'http://www.wikidata.org/entity/Q11319970', 'Diablo', '2000', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28413337', 'Pakistan Star', '', '', 'http://www.wikidata.org/entity/Q7487429', 'Shamardal', '2013', '', 'male organism']

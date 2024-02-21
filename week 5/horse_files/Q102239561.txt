@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239561', 'Perfect Bahram', '', '', '', '', '1943', '', 'male organism']

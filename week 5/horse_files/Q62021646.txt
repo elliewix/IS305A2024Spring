@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021646', 'Fortress', 'http://www.wikidata.org/entity/Q62021760', 'Jewess', 'http://www.wikidata.org/entity/Q62021650', 'Defence', '1836', '', 'female organism']

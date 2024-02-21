@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20734754', 'Paladin des Ifs', 'http://www.wikidata.org/entity/Q22324034', 'Lutine des Ifs', 'http://www.wikidata.org/entity/Q22324035', 'Uriel', '1981', '2006', 'male organism']

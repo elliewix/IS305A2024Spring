@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7644844', 'Supreme Court', '', '', 'http://www.wikidata.org/entity/Q7239482', 'Precipitation', '1948', '', 'male organism']

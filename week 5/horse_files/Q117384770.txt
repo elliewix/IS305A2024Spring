@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384770', "Wyvill's Childers mare", 'http://www.wikidata.org/entity/Q117384773', 'Devonshire Turk mare', 'http://www.wikidata.org/entity/Q4865372', "Bartlett's Childers", '1729', '', 'female organism']

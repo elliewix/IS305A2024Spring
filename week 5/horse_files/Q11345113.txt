@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345113', 'ヤマカブト', '', '', 'http://www.wikidata.org/entity/Q11298824', 'Kumohata', '1952', '', 'female organism']

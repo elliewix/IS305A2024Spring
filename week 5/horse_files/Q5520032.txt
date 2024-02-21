@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5520032', 'Gamely', '', '', 'http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', '1964', '1975', 'female organism']

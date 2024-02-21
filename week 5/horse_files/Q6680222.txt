@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6680222', 'Lordship', '', '', '', '', '1958', '', '']

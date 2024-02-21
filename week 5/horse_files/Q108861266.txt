@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108861266', 'Rivoli', '', '', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1873', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359869', 'sister to Mogul mare', 'http://www.wikidata.org/entity/Q117359879', 'Sweepstakes mare', 'http://www.wikidata.org/entity/Q61998523', 'Mogul', '1745', '', 'female organism']

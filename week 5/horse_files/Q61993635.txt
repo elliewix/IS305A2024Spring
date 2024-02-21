@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993635', 'Belladrum', '', '', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1866', '', 'male organism']

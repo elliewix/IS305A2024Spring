@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028874', 'Stella', 'http://www.wikidata.org/entity/Q62021534', 'Scotilla', 'http://www.wikidata.org/entity/Q62016688', 'Sir Oliver', '1808', '', 'female organism']

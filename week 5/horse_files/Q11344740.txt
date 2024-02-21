@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11344740', 'モンタサン', '', '', 'http://www.wikidata.org/entity/Q6904506', 'Montaval', '1964', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24876319', 'Satono Diamond', 'http://www.wikidata.org/entity/Q55809090', 'Malpensa', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2013', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96313173', 'Divus', 'http://www.wikidata.org/entity/Q108854947', "Fille d'Électrique", 'http://www.wikidata.org/entity/Q96313186', 'Quebec', '1859', '', 'male organism']

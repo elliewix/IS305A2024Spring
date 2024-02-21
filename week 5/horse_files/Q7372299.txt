@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7372299', 'Rowton', 'http://www.wikidata.org/entity/Q62021003', 'Katherina', 'http://www.wikidata.org/entity/Q62020964', 'Oiseau', '1826', '', 'male organism']

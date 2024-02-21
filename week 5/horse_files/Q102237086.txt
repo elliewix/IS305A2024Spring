@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237086', 'Manister Toi', '', '', '', '', '1914', '', 'male organism']

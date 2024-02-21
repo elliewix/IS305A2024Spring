@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11323568', 'Nice Nature', '', '', 'http://www.wikidata.org/entity/Q7024658', 'Nice Dancer', '1988', '2023', 'male organism']

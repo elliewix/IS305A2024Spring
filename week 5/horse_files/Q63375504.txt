@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63375504', 'Plot Blue', 'http://www.wikidata.org/entity/Q63381188', 'Ilotte', 'http://www.wikidata.org/entity/Q66505487', 'Mr. Blue', '1997', '2019', 'male organism']

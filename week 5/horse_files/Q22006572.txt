@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006572', 'Piccolo', '', '', 'http://www.wikidata.org/entity/Q7969814', 'Warning', '1991', '', 'male organism']

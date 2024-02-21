@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5189804', 'Crucifix', 'http://www.wikidata.org/entity/Q63969402', 'Octaviana', 'http://www.wikidata.org/entity/Q7242509', 'Priam', '1837', '', 'female organism']

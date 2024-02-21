@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5618291', 'Gun Bow', '', '', '', '', '1960', '', 'male organism']

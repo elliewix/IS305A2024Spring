@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4790988', 'Aristides', 'http://www.wikidata.org/entity/Q62010872', 'Sarong', 'http://www.wikidata.org/entity/Q6509406', 'Leamington', '1872', '1893', 'male organism']

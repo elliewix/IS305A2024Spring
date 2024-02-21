@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993761', 'Brunette', '', '', 'http://www.wikidata.org/entity/Q61993763', 'Amaranthus', '1790', '', 'female organism']

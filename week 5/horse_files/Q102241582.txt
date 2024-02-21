@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241582', 'Splendid Spruce', '', '', '', '', '1978', '', 'male organism']

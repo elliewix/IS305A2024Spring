@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333079', 'フサイチセブン', '', '', 'http://www.wikidata.org/entity/Q5509871', 'Fusaichi Pegasus', '2006', '', 'male organism']

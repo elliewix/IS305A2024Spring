@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67492841', 'Nero', '', '', 'http://www.wikidata.org/entity/Q6217141', 'Johannesburg', '2011', '', 'male organism']

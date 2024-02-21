@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016657', 'The Miner', 'http://www.wikidata.org/entity/Q61987464', 'Manganese', 'http://www.wikidata.org/entity/Q61987104', 'Rataplan', '1861', '', 'male organism']

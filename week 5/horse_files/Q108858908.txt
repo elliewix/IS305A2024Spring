@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108858908', 'Darioletta', 'http://www.wikidata.org/entity/Q108858976', 'Selima', 'http://www.wikidata.org/entity/Q62023137', 'Amadis', '1822', '', 'female organism']

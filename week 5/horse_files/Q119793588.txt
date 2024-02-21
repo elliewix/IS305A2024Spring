@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119793588', 'Laeteur 219609', 'http://www.wikidata.org/entity/Q120199141', 'Nanette 204850', 'http://www.wikidata.org/entity/Q119793399', 'Col. Laet 207619', '1935', '', 'male organism']

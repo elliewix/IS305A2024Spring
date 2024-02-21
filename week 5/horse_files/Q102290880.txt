@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290880', 'Wildcat Red', '', '', '', '', '2011', '', 'male organism']

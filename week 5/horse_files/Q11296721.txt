@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11296721', 'Kitashiba Spain', '', '', '', '', '1987', '1997', 'male organism']

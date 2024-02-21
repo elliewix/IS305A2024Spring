@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11855206', 'Charme Asserdal', '', '', '', '', '1973', '2002', 'female organism']

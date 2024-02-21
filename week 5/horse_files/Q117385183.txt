@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117385183', "Morton's Traveller", 'http://www.wikidata.org/entity/Q62022543', 'Bay Bloody Buttocks', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1746', '', 'male organism']

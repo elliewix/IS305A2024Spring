@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5071141', 'Chandler', '', '', '', '', '1836', '', '']

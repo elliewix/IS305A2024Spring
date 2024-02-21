@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7923268', 'Vespa', '', '', '', '', '1830', '', 'female organism']

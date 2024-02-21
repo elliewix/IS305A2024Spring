@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022034', 'Miss Mayes', '', '', 'http://www.wikidata.org/entity/Q4865372', "Bartlett's Childers", '1737', '', 'female organism']

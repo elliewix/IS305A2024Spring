@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16983993', 'Hethersett', 'http://www.wikidata.org/entity/Q61988966', 'Bride Elect', 'http://www.wikidata.org/entity/Q61988964', 'Hugh Lupus', '1959', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012061', 'Highflyer mare', 'http://www.wikidata.org/entity/Q64012067', 'Cardinal Puff mare', 'http://www.wikidata.org/entity/Q915971', 'Highflyer', '1790', '', 'female organism']

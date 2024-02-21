@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021292', 'Goldfinder mare', '', '', 'http://www.wikidata.org/entity/Q11303946', 'Goldfinder', '1774', '', 'female organism']

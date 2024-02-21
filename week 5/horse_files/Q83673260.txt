@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q83673260', 'Crystal Black', '', '', 'http://www.wikidata.org/entity/Q11296691', 'Kizuna', '2017', '', 'male organism']

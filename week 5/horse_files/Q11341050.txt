@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341050', 'マリキータ', '', '', '', '', '1981', '', 'female organism']

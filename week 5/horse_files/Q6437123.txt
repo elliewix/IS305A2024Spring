@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6437123', 'Kris', 'http://www.wikidata.org/entity/Q61969748', 'Doubly Sure', 'http://www.wikidata.org/entity/Q15633029', 'Sharpen Up', '1976', '2004', 'male organism']

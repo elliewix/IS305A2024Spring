@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q97170479', 'Farnan', '', '', '', '', '2017', '', 'male organism']

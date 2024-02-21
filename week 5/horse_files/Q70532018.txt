@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q70532018', 'Salomina', '', '', '', '', '2009', '', 'female organism']

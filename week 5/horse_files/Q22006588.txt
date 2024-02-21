@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006588', 'Shareta', '', '', 'http://www.wikidata.org/entity/Q3485021', 'Sinndar', '2008', '', 'female organism']

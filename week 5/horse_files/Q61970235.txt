@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970235', 'Vampire', '', '', 'http://www.wikidata.org/entity/Q1492693', 'Galopin', '1889', '', 'female organism']

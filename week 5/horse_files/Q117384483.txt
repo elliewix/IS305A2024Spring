@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384483', 'Bosphorus', 'http://www.wikidata.org/entity/Q117384540', 'Childers mare', 'http://www.wikidata.org/entity/Q62021750', 'Babraham', '1754', '', 'male organism']

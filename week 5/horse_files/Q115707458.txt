@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115707458', 'Kita Wing', '', '', 'http://www.wikidata.org/entity/Q11317244', 'Danon Ballade', '2020', '', 'male organism']

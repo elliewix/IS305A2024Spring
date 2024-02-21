@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114562464', "Jewel's Leo Bars", '', '', '', '', '1962', '1978', '']

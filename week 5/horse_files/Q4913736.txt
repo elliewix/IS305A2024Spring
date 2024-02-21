@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4913736', 'Bimelech', 'http://www.wikidata.org/entity/Q6465534', 'La Troienne', 'http://www.wikidata.org/entity/Q4922056', 'Black Toney', '1937', '', 'male organism']

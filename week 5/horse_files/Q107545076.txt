@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545076', 'Astrophel', '', '', '', '', '1931', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4929894', 'Blue Spec', '', '', '', '', '1899', '', 'male organism']

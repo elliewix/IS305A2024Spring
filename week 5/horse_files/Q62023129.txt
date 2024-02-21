@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023129', 'Defence mare', 'http://www.wikidata.org/entity/Q62023131', "Soldier's Joy", 'http://www.wikidata.org/entity/Q62021650', 'Defence', '1844', '', 'female organism']

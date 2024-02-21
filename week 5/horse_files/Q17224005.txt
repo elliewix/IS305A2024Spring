@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224005', 'トウケイヘイロー', '', '', 'http://www.wikidata.org/entity/Q11303951', 'Gold Halo', '2009', '', 'male organism']

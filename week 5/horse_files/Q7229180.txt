@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7229180', 'Pope Joan', 'http://www.wikidata.org/entity/Q7253040', 'Prunella', 'http://www.wikidata.org/entity/Q7975736', 'Waxy', '1809', '', 'female organism']

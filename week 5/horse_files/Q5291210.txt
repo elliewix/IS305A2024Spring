@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5291210', 'Domino', '', '', 'http://www.wikidata.org/entity/Q5765521', 'Himyar', '1891', '1897', 'male organism']

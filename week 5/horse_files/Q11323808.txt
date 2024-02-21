@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11323808', 'Nasr El Arab', '', '', '', '', '1985', '', 'male organism']

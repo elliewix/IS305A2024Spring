@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339710', 'My Swallow', '', '', '', '', '1968', '', 'male organism']

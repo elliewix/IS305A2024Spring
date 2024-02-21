@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021782', 'Miss Rose', 'http://www.wikidata.org/entity/Q62021796', 'Blank mare', 'http://www.wikidata.org/entity/Q62011058', 'Spectator', '1766', '', 'female organism']

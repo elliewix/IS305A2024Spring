@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326289', 'ハクセツ', '', '', '', '', '1965', '', 'female organism']

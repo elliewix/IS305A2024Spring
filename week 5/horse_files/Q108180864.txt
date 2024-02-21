@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108180864', 'Capitano', 'http://www.wikidata.org/entity/Q108180936', 'Retina', 'http://www.wikidata.org/entity/Q108188960', 'Corporal', '1968', '', 'male organism']

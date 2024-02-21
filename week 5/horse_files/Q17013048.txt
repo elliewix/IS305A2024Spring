@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17013048', 'Only for Life', '', '', 'http://www.wikidata.org/entity/Q5072652', 'Chanteur', '1960', '', 'male organism']

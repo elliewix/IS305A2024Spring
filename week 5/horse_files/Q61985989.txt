@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61985989', 'Felkington', 'http://www.wikidata.org/entity/Q61985998', 'Comparison', 'http://www.wikidata.org/entity/Q6521071', 'Lemberg', '1918', '', 'female organism']

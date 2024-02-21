@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343350', 'Meisho Qualia', '', '', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2005', '2012', 'male organism']

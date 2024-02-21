@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240043', 'King Phalanx', '', '', '', '', '1951', '', 'male organism']

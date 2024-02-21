@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116759247', 'Lottie', 'http://www.wikidata.org/entity/Q116761164', 'Daylight', 'http://www.wikidata.org/entity/Q116759274', 'Goodwill', '1993', '', 'female organism']

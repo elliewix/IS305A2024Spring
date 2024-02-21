@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241084', 'Our Native', '', '', '', '', '1970', '', 'male organism']

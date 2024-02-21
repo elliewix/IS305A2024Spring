@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17764600', 'Dally Bausen', '', '', '', '', '', '', '']

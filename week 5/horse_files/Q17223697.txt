@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17223697', 'Daiwa Maggiore', '', '', 'http://www.wikidata.org/entity/Q11317065', 'Daiwa Major', '2009', '2017', 'male organism']

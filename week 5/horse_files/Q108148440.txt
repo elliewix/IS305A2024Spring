@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108148440', 'Ramona la Rouge', 'http://www.wikidata.org/entity/Q108148271', 'Verboise', 'http://www.wikidata.org/entity/Q1679759', 'Jalisco B', '1983', '1996', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239419', 'Gramps Image', '', '', '', '', '1941', '', 'male organism']

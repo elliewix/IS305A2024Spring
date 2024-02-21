@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5544093', 'George Royal', '', '', '', '', '1961', '', 'male organism']

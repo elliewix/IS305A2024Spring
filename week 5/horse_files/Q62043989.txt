@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62043989', 'Bob Booty', 'http://www.wikidata.org/entity/Q62044137', 'Ierne', 'http://www.wikidata.org/entity/Q62044042', 'Chanticleer', '1804', '', 'male organism']

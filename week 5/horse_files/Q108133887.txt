@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108133887', 'Westminster', '', '', 'http://www.wikidata.org/entity/Q108133757', 'Weltmeister', '1980', '', 'male organism']

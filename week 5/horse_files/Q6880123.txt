@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6880123', 'Mister Frisky', '', '', '', '', '1987', '', 'male organism']

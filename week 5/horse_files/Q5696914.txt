@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5696914', 'Hector Protector', '', '', 'http://www.wikidata.org/entity/Q8033082', 'Woodman', '1988', '', 'male organism']

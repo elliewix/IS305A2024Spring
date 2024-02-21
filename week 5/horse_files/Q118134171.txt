@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118134171', 'Humbert 1195', 'http://www.wikidata.org/entity/Q119318388', 'Celina', 'http://www.wikidata.org/entity/Q119318117', "L'Ami 1388", '1882', '', 'male organism']

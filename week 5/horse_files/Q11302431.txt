@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11302431', 'Komatsu Hikari', 'http://www.wikidata.org/entity/Q11286498', 'Isabelline', 'http://www.wikidata.org/entity/Q11321199', 'Tosa Midori', '1956', '', 'male organism']

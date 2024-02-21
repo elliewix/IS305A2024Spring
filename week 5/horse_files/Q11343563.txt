@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343563', 'メグミダイオー', '', '', '', '', '1995', '2003', 'male organism']

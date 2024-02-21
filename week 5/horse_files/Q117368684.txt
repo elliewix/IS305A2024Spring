@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117368684', 'St Luke', 'http://www.wikidata.org/entity/Q117368937', 'Eliza Leeds', 'http://www.wikidata.org/entity/Q117368750', 'Bedlamite', '1833', '', 'male organism']

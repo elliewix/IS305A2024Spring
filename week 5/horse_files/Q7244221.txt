@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7244221', 'Prince Royal', '', '', 'http://www.wikidata.org/entity/Q2245980', 'Ribot', '1961', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16949594', 'Lucky Pulpit', '', '', 'http://www.wikidata.org/entity/Q7259595', 'Pulpit', '2001', '', 'male organism']

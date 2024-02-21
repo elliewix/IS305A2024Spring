@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7456861', 'Sette Bello', '', '', 'http://www.wikidata.org/entity/Q2245980', 'Ribot', '1962', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11287579', 'Inti Raimi', '', '', 'http://www.wikidata.org/entity/Q11312941', 'Special Week', '2002', '', 'male organism']

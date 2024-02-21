@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8064298', 'Zafonic', '', '', 'http://www.wikidata.org/entity/Q5581608', 'Gone West', '1990', '', 'male organism']

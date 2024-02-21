@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033250', 'Nancy', 'http://www.wikidata.org/entity/Q62033294', 'Spitfire', 'http://www.wikidata.org/entity/Q61976427', 'Dick Andrews', '1813', '', 'female organism']

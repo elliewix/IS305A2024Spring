@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62015290', 'Parma', 'http://www.wikidata.org/entity/Q62015342', 'Archeress', 'http://www.wikidata.org/entity/Q62015312', 'Parmesan', '1864', '', 'female organism']

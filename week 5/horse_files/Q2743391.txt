@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2743391', 'Invasor', '', '', 'http://www.wikidata.org/entity/Q5032144', 'Candy Stripes', '2002', '', 'male organism']

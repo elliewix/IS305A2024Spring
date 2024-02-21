@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022049', 'Camerton', 'http://www.wikidata.org/entity/Q62022053', 'Precipitate mare', 'http://www.wikidata.org/entity/Q11327150', 'Hambletonian', '1808', '', 'male organism']

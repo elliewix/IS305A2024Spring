@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11304870', 'サデックス', '', '', 'http://www.wikidata.org/entity/Q1104636', "Sadler's Wells", '2003', '', 'male organism']

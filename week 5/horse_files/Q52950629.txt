@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52950629', 'Loro Piana Cartella', '', '', '', '', '2003', '', 'female organism']

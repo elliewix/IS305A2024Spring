@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55615807', 'Kennedy', '', '', '', '', '', '', '']

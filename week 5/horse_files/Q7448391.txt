@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7448391', 'Selim', 'http://www.wikidata.org/entity/Q4720491', 'Alexander mare', 'http://www.wikidata.org/entity/Q11327618', 'Buzzard', '1802', '1825', 'male organism']

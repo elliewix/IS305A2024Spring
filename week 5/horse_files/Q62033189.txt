@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033189', 'Henrietta', 'http://www.wikidata.org/entity/Q62033193', 'Woodpecker mare', 'http://www.wikidata.org/entity/Q62032770', 'Sir Solomon', '1807', '', 'female organism']

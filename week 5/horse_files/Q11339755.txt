@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339755', 'Meinerkitz', '', '', 'http://www.wikidata.org/entity/Q5096670', 'Chief Bearhart', '2003', '', 'male organism']

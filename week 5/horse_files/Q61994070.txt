@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994070', 'Catton', 'http://www.wikidata.org/entity/Q61994089', 'Lucy Gray', 'http://www.wikidata.org/entity/Q61994072', 'Golumpus', '1809', '', 'male organism']

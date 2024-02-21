@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48976917', 'Belle Genius', '', '', '', '', '1992', '', '']

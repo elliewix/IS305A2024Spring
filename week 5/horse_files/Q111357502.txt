@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111357502', 'Harphortas', 'http://www.wikidata.org/entity/Q111358474', 'Harporia', 'http://www.wikidata.org/entity/Q111358074', 'Amfortas', '1939', '', 'male organism']

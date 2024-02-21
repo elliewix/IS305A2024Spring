@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108570325', 'Rittersporn', 'http://www.wikidata.org/entity/Q108570546', 'Molly Clarke', 'http://www.wikidata.org/entity/Q108570358', 'Saint Saulge', '1917', '', 'male organism']

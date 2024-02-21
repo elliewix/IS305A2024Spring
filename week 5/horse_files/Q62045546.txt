@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62045546', 'Flight', '', '', 'http://www.wikidata.org/entity/Q62045604', 'Escape', '1809', '', 'female organism']

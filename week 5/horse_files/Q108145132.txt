@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108145132', 'Soleil', 'http://www.wikidata.org/entity/Q108145154', 'Kuerette', 'http://www.wikidata.org/entity/Q22319718', 'Capitol I', '1980', '', 'female organism']

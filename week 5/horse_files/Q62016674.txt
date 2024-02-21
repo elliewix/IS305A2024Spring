@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016674', 'Vulture', 'http://www.wikidata.org/entity/Q62016679', 'Kite', 'http://www.wikidata.org/entity/Q61987119', 'Langar', '1833', '', 'female organism']

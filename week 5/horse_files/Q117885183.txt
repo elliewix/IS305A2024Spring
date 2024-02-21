@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117885183', 'Lincoln View La Rem', 'http://www.wikidata.org/entity/Q119404631', 'Miss Karen Degas', 'http://www.wikidata.org/entity/Q117885202', 'La Kareno', '1961', '', 'male organism']

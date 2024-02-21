@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11323549', 'Nike Madrid', '', '', 'http://www.wikidata.org/entity/Q11351244', 'Wild Rush', '2006', '', 'male organism']

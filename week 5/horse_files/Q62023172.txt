@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023172', 'Steady', '', '', 'http://www.wikidata.org/entity/Q3074615', 'Flying Childers', '1735', '', 'male organism']

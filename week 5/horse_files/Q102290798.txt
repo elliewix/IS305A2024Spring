@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290798', 'Sabercat', '', '', '', '', '2009', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96211382', 'Odessa', '', '', '', '', '1892', '', 'female organism']

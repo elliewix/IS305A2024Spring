@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q31851918', 'Father Patrick', '', '', '', '', '2011', '', 'male organism']

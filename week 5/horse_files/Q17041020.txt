@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17041020', 'Talent', '', '', 'http://www.wikidata.org/entity/Q3875179', 'New Approach', '2010', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3460521', 'Sabi Pas', '', '', '', '', '1962', '', 'male organism']

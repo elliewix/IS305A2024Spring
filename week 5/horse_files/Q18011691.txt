@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18011691', 'Gallinule', 'http://www.wikidata.org/entity/Q61995215', 'Moorhen', 'http://www.wikidata.org/entity/Q6086160', 'Isonomy', '1883', '', 'male organism']

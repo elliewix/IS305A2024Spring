@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033068', 'Jupiter mare', 'http://www.wikidata.org/entity/Q62033089', 'Highflyer mare', 'http://www.wikidata.org/entity/Q62033073', 'Jupiter', '1792', '', 'female organism']

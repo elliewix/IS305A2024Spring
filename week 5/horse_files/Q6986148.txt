@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6986148', 'Nedawi', 'http://www.wikidata.org/entity/Q62016782', 'Wajd', 'http://www.wikidata.org/entity/Q3417786', 'Rainbow Quest', '1995', '', 'male organism']

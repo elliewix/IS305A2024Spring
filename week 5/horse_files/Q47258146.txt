@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47258146', "Alfa d'Elle", 'http://www.wikidata.org/entity/Q115089377', "Jesabelle d'Elle", 'http://www.wikidata.org/entity/Q22306589', 'Grand Veneur', '1988', '2011', 'male organism']

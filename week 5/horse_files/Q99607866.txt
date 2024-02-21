@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q99607866', 'Rich Tapestry', '', '', 'http://www.wikidata.org/entity/Q5885972', 'Holy Roman Emperor', '2008', '', 'male organism']

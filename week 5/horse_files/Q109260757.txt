@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260757', 'Sunrise Hope', '', '', 'http://www.wikidata.org/entity/Q55972479', 'Majestic Warrior', '2017', '', 'male organism']

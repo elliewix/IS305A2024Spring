@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7003920', 'Never Bend', 'http://www.wikidata.org/entity/Q6480623', 'Lalun', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1960', '1977', 'male organism']

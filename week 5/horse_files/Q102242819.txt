@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242819', 'Bwana Bull', '', '', '', '', '2004', '', 'male organism']

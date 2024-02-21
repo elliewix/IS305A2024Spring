@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6430900', 'Kooyonga', '', '', '', '', '1988', '', 'female organism']

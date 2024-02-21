@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241806', 'Silent King', '', '', '', '', '1981', '', 'male organism']

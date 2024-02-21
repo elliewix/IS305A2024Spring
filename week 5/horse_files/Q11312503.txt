@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312503', 'Strong Eight', '', '', 'http://www.wikidata.org/entity/Q6072645', 'Iron Liege', '1969', '', 'male organism']

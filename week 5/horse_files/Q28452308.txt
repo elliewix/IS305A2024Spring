@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28452308', 'Classic Empire', '', '', 'http://www.wikidata.org/entity/Q7196854', 'Pioneerof the Nile', '2014', '', 'male organism']

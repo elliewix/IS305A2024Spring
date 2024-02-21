@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114269862', 'Time Fair Lady', '', '', 'http://www.wikidata.org/entity/Q6810492', 'Mejiro McQueen', '1998', '2020', 'female organism']

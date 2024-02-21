@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7653000', 'Swain', '', '', 'http://www.wikidata.org/entity/Q3336192', 'Nashwan', '1992', '2022', 'male organism']

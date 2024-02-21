@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123510683', 'Galifol', 'http://www.wikidata.org/entity/Q123514274', 'Tulipe', 'http://www.wikidata.org/entity/Q123511589', 'Le Tyrol', '1972', '', 'male organism']

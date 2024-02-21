@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118222329', 'La Rex', 'http://www.wikidata.org/entity/Q119412824', 'Susie Lynn', 'http://www.wikidata.org/entity/Q118222430', 'La Don Again', '1965', '', 'male organism']

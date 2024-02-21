@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115215311', 'Wahtamin', '', '', 'http://www.wikidata.org/entity/Q115215348', 'I Say', '1969', '', 'male organism']

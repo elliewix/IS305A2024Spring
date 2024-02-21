@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4800992', 'Artie Schiller', '', '', 'http://www.wikidata.org/entity/Q5351892', 'El Prado', '2001', '', 'male organism']

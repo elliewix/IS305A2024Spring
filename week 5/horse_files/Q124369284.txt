@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124369284', 'Chief Max', '', '', 'http://www.wikidata.org/entity/Q118168780', 'Drake Farms Chief', '1965', '', 'male organism']

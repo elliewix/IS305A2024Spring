@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11338681', 'ボディーガード', '', '', 'http://www.wikidata.org/entity/Q11321101', 'Tosho Boy', '1991', '', 'male organism']

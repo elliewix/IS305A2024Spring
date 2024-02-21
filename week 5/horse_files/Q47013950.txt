@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47013950', 'Aris CMS', '', '', '', '', '2005', '', 'male organism']

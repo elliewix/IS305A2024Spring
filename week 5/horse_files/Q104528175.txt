@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104528175', 'Daiwa Cagney', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '', '', 'male organism']

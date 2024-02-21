@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970542', 'Partisan', 'http://www.wikidata.org/entity/Q17013446', 'Parasol', 'http://www.wikidata.org/entity/Q17041157', 'Walton', '1811', '', 'male organism']

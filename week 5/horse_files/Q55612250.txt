@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55612250', 'Galeottia', 'http://www.wikidata.org/entity/Q62016597', 'Agave', 'http://www.wikidata.org/entity/Q1492693', 'Galopin', '1892', '', 'female organism']

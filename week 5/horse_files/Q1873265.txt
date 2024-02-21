@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1873265', 'Luciano', '', '', '', '', '', '', 'male organism']

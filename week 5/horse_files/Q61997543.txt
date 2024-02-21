@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997543', 'Tagale', '', '', 'http://www.wikidata.org/entity/Q61997359', 'Le Sancy', '1900', '', 'female organism']

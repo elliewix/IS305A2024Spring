@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6990126', 'Nellie Morse', 'http://www.wikidata.org/entity/Q107545704', 'La Venganza', 'http://www.wikidata.org/entity/Q6702150', 'Luke McLuke', '1921', '', 'female organism']

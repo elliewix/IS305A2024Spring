@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7968514', 'War Pass', '', '', 'http://www.wikidata.org/entity/Q5092197', 'Cherokee Run', '2005', '', 'male organism']

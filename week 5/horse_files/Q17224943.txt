@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224943', 'Horai Akiko', '', '', 'http://www.wikidata.org/entity/Q6217141', 'Johannesburg', '2011', '', 'female organism']

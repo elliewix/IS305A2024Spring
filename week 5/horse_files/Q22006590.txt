@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006590', 'Super Tassa', '', '', 'http://www.wikidata.org/entity/Q28445765', 'Lahib', '1996', '', 'female organism']

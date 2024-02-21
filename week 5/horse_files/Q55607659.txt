@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55607659', 'Cinna', '', '', '', '', '1917', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3771818', 'Gia del Menhir', '', '', '', '', '2002', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21997763', 'Darsi', '', '', 'http://www.wikidata.org/entity/Q11339308', 'Polish Precedent', '2003', '', 'male organism']

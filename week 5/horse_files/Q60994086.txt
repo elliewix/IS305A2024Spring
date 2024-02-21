@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60994086', 'Glorious Forever', '', '', '', '', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18612580', 'Take Charge Brandi', '', '', 'http://www.wikidata.org/entity/Q3105301', "Giant's Causeway", '2012', '', 'female organism']

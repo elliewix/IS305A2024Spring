@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62011117', 'Eclipse mare', 'http://www.wikidata.org/entity/Q62011129', 'Rarity', 'http://www.wikidata.org/entity/Q1203752', 'Eclipse', '1775', '', 'female organism']

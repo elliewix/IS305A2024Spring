@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17095706', 'Silic', '', '', '', '', '1995', '', 'male organism']

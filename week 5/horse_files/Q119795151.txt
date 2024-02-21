@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119795151', 'Job 83984', '', '', 'http://www.wikidata.org/entity/Q119795237', 'Lafrime 67501', '1909', '', 'male organism']

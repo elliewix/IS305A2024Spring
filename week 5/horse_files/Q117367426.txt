@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117367426', 'Miss Slick', 'http://www.wikidata.org/entity/Q117367519', 'Whisker mare', 'http://www.wikidata.org/entity/Q52555743', 'Muley-Moloch', '1843', '', 'female organism']

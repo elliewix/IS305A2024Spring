@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236086', 'Ten Booker', '', '', '', '', '1882', '', 'male organism']

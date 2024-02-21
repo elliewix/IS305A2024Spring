@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61988090', 'Syphon', '', '', 'http://www.wikidata.org/entity/Q11311529', 'Squirt', '1750', '', 'male organism']

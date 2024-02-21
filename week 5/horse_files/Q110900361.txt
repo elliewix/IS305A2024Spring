@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q110900361', 'Bank of Burden', '', '', '', '', '2007', '', '']

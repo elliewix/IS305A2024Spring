@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006403', 'Malacate', '', '', 'http://www.wikidata.org/entity/Q6697881', 'Lucky Debonair', '1973', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109767646', 'Hippomene', '', '', 'http://www.wikidata.org/entity/Q109767648', 'Bagdad', '1876', '', 'male organism']

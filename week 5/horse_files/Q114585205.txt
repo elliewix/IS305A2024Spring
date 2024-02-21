@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114585205', 'Dolce More', 'http://www.wikidata.org/entity/Q11285199', 'Ayusan', 'http://www.wikidata.org/entity/Q11349271', 'Rulership', '2020', '', 'male organism']

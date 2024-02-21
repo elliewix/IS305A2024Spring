@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17014714', 'Queen of Trumps', '', '', 'http://www.wikidata.org/entity/Q7919270', 'Velocipede', '1832', '', 'female organism']

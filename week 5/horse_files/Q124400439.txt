@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124400439', 'Otello', '', '', '', '', '1927', '', 'male organism']

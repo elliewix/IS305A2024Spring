@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997305', 'Challure', '', '', 'http://www.wikidata.org/entity/Q5068876', 'Challedon', '1948', '', 'female organism']

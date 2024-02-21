@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6072645', 'Iron Liege', 'http://www.wikidata.org/entity/Q61995258', 'Iron Maiden', 'http://www.wikidata.org/entity/Q4996587', 'Bull Lea', '1954', '1971', 'male organism']

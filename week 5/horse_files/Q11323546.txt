@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11323546', 'ナイキゴージャス', '', '', 'http://www.wikidata.org/entity/Q11313407', 'スリルショー', '1989', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122216150', 'Cocotte 49520', '', '', 'http://www.wikidata.org/entity/Q122216250', 'Brock 37442', '1899', '', 'female organism']

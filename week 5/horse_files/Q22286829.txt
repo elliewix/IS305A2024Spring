@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22286829', 'Black Hawk', '', '', '', '', '', '', 'male organism']

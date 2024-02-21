@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115002217', 'Lord', '', '', 'http://www.wikidata.org/entity/Q63323637', 'Ladykiller', '1967', '', 'male organism']

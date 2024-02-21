@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5581589', 'Gone to Royalty', '', '', '', '', '1980', '', '']

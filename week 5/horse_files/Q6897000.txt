@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6897000', "Mom's Command", '', '', '', '', '1982', '', 'female organism']

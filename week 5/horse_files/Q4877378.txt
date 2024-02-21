@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4877378', 'Beau Purple', '', '', '', '', '1957', '', 'male organism']

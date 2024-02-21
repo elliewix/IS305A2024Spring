@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q85797020', 'Rhett Butler', '', '', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '', '', 'male organism']

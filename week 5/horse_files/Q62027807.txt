@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027807', 'Juniper', 'http://www.wikidata.org/entity/Q62027457', 'Jenny Spinner', 'http://www.wikidata.org/entity/Q62004410', 'Whiskey', '1805', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012170', 'Bay Snip', 'http://www.wikidata.org/entity/Q64012200', 'Young Whiteneck', 'http://www.wikidata.org/entity/Q7547775', 'Snip', '1746', '', 'female organism']

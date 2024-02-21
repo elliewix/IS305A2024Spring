@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113166859', 'Badenweiler', 'http://www.wikidata.org/entity/Q114348060', 'Vite Marcher', 'http://www.wikidata.org/entity/Q20047186', 'Duramente', '2018', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11290981', 'エリモジョージ', '', '', 'http://www.wikidata.org/entity/Q11314763', 'Saint Crespin', '1972', '2001', 'male organism']

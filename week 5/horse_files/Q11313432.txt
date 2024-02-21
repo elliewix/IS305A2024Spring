@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313432', 'スリージャイアンツ', '', '', 'http://www.wikidata.org/entity/Q11314327', 'Sedan', '1975', '1981', 'male organism']

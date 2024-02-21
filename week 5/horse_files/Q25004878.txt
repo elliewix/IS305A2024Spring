@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25004878', 'Sporting Yankee', '', '', 'http://www.wikidata.org/entity/Q3553272', 'Vaguely Noble', '1974', '', '']

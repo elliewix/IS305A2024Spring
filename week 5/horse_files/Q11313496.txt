@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313496', 'スルーオダイナ', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1984', '', 'male organism']

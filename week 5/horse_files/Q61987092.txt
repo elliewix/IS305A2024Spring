@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987092', 'Muncaster', 'http://www.wikidata.org/entity/Q61978433', 'Windermere', 'http://www.wikidata.org/entity/Q5295485', 'Doncaster', '1877', '', 'male organism']

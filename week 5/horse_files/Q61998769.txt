@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998769', 'Pardal', '', '', 'http://www.wikidata.org/entity/Q7180713', 'Pharis', '1947', '', 'male organism']

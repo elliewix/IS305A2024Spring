@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384191', 'Abd el-Kader', 'http://www.wikidata.org/entity/Q117384195', 'Rescue', 'http://www.wikidata.org/entity/Q96372789', 'Australian', '1865', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239331', 'No Wrinkles', '', '', '', '', '1940', '', 'male organism']

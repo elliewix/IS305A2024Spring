@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20065275', 'Talma', '', '', 'http://www.wikidata.org/entity/Q7180713', 'Pharis', '1948', '', 'male organism']

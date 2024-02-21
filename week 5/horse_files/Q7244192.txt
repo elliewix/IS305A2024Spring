@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7244192', 'Prince Palatine', '', '', 'http://www.wikidata.org/entity/Q7170362', 'Persimmon', '1908', '', 'male organism']

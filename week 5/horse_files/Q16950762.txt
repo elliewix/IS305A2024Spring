@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16950762', 'Compton Admiral', '', '', 'http://www.wikidata.org/entity/Q3502374', 'Suave Dancer', '1996', '', 'male organism']

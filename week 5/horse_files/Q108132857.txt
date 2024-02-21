@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108132857', 'Grannuschka', 'http://www.wikidata.org/entity/Q108133248', 'Rumina', 'http://www.wikidata.org/entity/Q26236952', 'Grannus', '1991', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240437', 'Loyal Son', '', '', '', '', '1958', '', 'male organism']

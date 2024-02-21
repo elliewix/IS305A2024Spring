@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4894907', 'Bersan', '', '', 'http://www.wikidata.org/entity/Q7699155', 'Ten Broeck', '1882', '', 'male organism']

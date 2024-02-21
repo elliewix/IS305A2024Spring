@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308488', 'Shin Wolf', '', '', 'http://www.wikidata.org/entity/Q11347077', 'Lucky Soverign', '1979', '1994', 'male organism']

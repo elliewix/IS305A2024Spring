@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319464', 'Telegnosis', '', '', 'http://www.wikidata.org/entity/Q7821904', 'Tony Bin', '1999', '2022', 'male organism']

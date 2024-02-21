@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18818376', 'Queen Narubi', '', '', 'http://www.wikidata.org/entity/Q11298824', 'Kumohata', '1949', '1960', 'female organism']

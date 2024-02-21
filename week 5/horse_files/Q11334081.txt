@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11334081', 'Friendship', '', '', 'http://www.wikidata.org/entity/Q11334069', 'French Deputy', '2003', '', 'male organism']

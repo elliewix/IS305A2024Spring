@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326296', 'Hakuchikara', '', '', '', '', '1953', '1979', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238749', 'Cee Tee', '', '', '', '', '1929', '', 'male organism']

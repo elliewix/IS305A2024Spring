@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237560', 'Cherry Pie', '', '', '', '', '1920', '', 'male organism']

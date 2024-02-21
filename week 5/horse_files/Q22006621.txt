@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006621', 'Brown Panther', '', '', 'http://www.wikidata.org/entity/Q2279439', 'Shirocco', '2008', '', 'male organism']

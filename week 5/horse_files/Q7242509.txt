@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7242509', 'Priam', 'http://www.wikidata.org/entity/Q62023101', 'Cressida', 'http://www.wikidata.org/entity/Q5371990', 'Emilius', '1827', '', 'male organism']

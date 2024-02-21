@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033138', 'Regulus mare', 'http://www.wikidata.org/entity/Q62033141', 'Snip mare', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1762', '', 'female organism']

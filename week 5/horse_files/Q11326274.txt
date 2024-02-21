@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326274', 'ハクオー', '', '', '', '', '1949', '', 'male organism']

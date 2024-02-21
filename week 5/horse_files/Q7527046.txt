@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7527046', 'Sir Harry', 'http://www.wikidata.org/entity/Q62023166', 'Matron', 'http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', '1795', '', 'male organism']

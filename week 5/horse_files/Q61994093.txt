@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994093', 'Timothy', 'http://www.wikidata.org/entity/Q61994094', 'Cora', 'http://www.wikidata.org/entity/Q61978867', 'Delpini', '1794', '', 'male organism']

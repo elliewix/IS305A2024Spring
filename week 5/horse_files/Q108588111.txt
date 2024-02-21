@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108588111', 'Ibylle', 'http://www.wikidata.org/entity/Q108180936', 'Retina', '', '', '1972', '', 'female organism']

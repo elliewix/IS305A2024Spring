@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7362068', 'Roman Line', '', '', '', '', '1959', '', 'male organism']

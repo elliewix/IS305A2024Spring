@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7984352', 'West Australian', 'http://www.wikidata.org/entity/Q61993594', 'Mowerina', 'http://www.wikidata.org/entity/Q61987506', 'Melbourne', '1850', '', 'male organism']

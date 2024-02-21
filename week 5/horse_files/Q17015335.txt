@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17015335', 'Irish Lad', '', '', '', '', '1900', '', 'male organism']

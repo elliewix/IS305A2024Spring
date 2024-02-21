@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997380', 'War Dance', '', '', 'http://www.wikidata.org/entity/Q55612259', 'Galliard', '1887', '', 'male organism']

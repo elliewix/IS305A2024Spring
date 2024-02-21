@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11293259', 'Osumi Leopard', '', '', 'http://www.wikidata.org/entity/Q11285398', 'Amber Shadai', '1991', '', 'male organism']

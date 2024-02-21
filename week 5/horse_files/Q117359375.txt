@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359375', 'Mogul mare', 'http://www.wikidata.org/entity/Q117359735', 'Partner mare', 'http://www.wikidata.org/entity/Q61998523', 'Mogul', '1743', '', 'female organism']

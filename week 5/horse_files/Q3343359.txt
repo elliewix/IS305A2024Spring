@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3343359', 'Nonius Senior', 'http://www.wikidata.org/entity/Q120892617', 'Norman mare', 'http://www.wikidata.org/entity/Q120735277', 'Orion', '1810', '1838', 'male organism']

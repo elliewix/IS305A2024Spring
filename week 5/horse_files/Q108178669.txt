@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108178669', 'Lugano van La Roche', 'http://www.wikidata.org/entity/Q115283684', 'Adlerflut', 'http://www.wikidata.org/entity/Q115283602', 'Lugano I', '1963', '', 'male organism']

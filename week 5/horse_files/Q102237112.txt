@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237112', 'Berlin', '', '', '', '', '1914', '', 'male organism']

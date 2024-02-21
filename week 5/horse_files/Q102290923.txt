@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290923', 'Majesto', '', '', '', '', '2013', '', 'male organism']

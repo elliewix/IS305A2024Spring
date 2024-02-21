@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q99104964', 'Iran Scott', '', '', '', '', '1943', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11346486', 'ライフタテヤマ', '', '', 'http://www.wikidata.org/entity/Q5639650', 'Haiseiko', '1982', '', 'male organism']

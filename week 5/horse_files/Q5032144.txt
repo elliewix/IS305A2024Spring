@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5032144', 'Candy Stripes', 'http://www.wikidata.org/entity/Q61994523', 'Bubble Company', 'http://www.wikidata.org/entity/Q2907399', 'Blushing Groom', '1982', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28446374', 'Noble Decree', '', '', 'http://www.wikidata.org/entity/Q3553272', 'Vaguely Noble', '1970', '', '']

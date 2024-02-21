@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11307653', 'Shako Grade', '', '', 'http://www.wikidata.org/entity/Q11342021', 'Mr C B', '1988', '', 'male organism']

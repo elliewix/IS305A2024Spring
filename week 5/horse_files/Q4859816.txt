@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4859816', 'Barcaldine', 'http://www.wikidata.org/entity/Q61993632', 'Ballyroe', 'http://www.wikidata.org/entity/Q61993589', 'Solon', '1878', '', 'male organism']

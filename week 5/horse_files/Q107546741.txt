@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546741', 'Majestic Light', 'http://www.wikidata.org/entity/Q107546738', 'Irradiate', 'http://www.wikidata.org/entity/Q1032366', 'Majestic Prince', '1973', '', 'male organism']

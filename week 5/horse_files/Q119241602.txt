@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119241602', 'Ilderim 5302', 'http://www.wikidata.org/entity/Q119258070', 'Chaton', 'http://www.wikidata.org/entity/Q119241597', 'Valentin 5301', '1859', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5518035', 'Galatea', '', '', 'http://www.wikidata.org/entity/Q11317623', 'Dark Legend', '1936', '', 'female organism']

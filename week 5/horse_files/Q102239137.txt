@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239137', 'Elooto', '', '', '', '', '1935', '', 'male organism']

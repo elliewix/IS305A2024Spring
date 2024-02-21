@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6744945', 'Malua', '', '', '', '', '1879', '', 'male organism']

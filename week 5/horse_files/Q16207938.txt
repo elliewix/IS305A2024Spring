@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16207938', 'Chompion', '', '', 'http://www.wikidata.org/entity/Q7820353', 'Tompion', '1965', '', 'male organism']

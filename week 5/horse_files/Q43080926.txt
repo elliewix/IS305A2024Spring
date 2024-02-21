@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q43080926', 'World Approval', '', '', '', '', '2012', '', '']

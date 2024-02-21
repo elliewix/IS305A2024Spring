@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116114420', 'Bald Ovington', '', '', 'http://www.wikidata.org/entity/Q4850311', 'Bald Galloway', '', '', 'male organism']

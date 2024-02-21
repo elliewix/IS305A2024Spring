@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28691399', 'シングウィズジョイ', '', '', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2012', '2017', 'female organism']

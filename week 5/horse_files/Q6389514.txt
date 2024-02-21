@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6389514', 'Kennaquhair', '', '', '', '', '1914', '', 'male organism']

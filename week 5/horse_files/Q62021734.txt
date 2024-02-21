@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021734', 'Alfred', 'http://www.wikidata.org/entity/Q62021739', 'Snap mare', 'http://www.wikidata.org/entity/Q1101198', 'Matchem', '1770', '', 'male organism']

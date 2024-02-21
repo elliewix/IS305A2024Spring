@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111360698', 'Norseman', 'http://www.wikidata.org/entity/Q111360711', 'Tara', 'http://www.wikidata.org/entity/Q55071619', 'Umidwar', '1940', '1964', 'male organism']

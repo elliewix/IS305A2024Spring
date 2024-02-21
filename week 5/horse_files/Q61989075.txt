@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61989075', 'Miss Rushin', 'http://www.wikidata.org/entity/Q61989091', 'Lady Erne', 'http://www.wikidata.org/entity/Q4926043', 'Blenheim', '1942', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11290535', 'Epiphaneia', 'http://www.wikidata.org/entity/Q11308798', 'Cesario', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2010', '', 'male organism']

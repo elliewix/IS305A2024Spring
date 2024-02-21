@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18126989', 'Mrs McArdy', '', '', '', '', '1974', '', 'female organism']

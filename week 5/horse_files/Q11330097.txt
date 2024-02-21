@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330097', 'ヒデコトブキ', '', '', 'http://www.wikidata.org/entity/Q11302197', 'Kodama', '1966', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7600824', 'Star Pilot', '', '', 'http://www.wikidata.org/entity/Q17361622', 'Sickle', '1943', '', 'male organism']

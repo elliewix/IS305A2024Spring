@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343353', 'メイショウバトラー', '', '', 'http://www.wikidata.org/entity/Q11343355', 'メイショウホムラ', '2000', '', 'female organism']

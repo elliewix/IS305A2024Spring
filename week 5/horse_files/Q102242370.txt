@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242370', 'Suave Prospect', '', '', '', '', '1992', '', 'male organism']

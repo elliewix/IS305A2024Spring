@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17222420', 'キングスピード', '', '', 'http://www.wikidata.org/entity/Q11293321', 'Otokitsu', '1966', '', 'male organism']

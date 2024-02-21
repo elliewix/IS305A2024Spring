@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11329943', 'Hikari Duel', '', '', '', '', '1977', '', 'male organism']

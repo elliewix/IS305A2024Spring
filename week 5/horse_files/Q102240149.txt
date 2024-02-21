@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240149', 'Countermand', '', '', '', '', '1953', '', 'male organism']

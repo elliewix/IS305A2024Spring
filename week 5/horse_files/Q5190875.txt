@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5190875', 'Cryptocloser', '', '', 'http://www.wikidata.org/entity/Q5190874', 'Cryptoclearance', '1994', '', 'male organism']

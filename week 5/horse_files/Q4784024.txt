@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4784024', 'Aramis', '', '', '', '', '1977', '1989', 'male organism']

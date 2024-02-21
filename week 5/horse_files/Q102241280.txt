@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241280', 'Bold Chapeau', '', '', '', '', '1972', '', 'male organism']

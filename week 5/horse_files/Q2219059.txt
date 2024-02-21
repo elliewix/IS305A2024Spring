@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2219059', 'Samum', '', '', 'http://www.wikidata.org/entity/Q1945364', 'Monsun', '', '', 'male organism']

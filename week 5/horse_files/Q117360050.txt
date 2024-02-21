@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360050', 'Sedbury Royal mare', '', '', '', '', '1675', '', 'female organism']

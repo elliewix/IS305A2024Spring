@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6465382', 'La Tendresse', '', '', 'http://www.wikidata.org/entity/Q11300706', 'Grey Sovereign', '1959', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345204', 'ヤマニンウエーブ', '', '', '', '', '1967', '', 'male organism']

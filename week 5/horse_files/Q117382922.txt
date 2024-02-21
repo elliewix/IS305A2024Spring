@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382922', 'Babraham Blank mare', 'http://www.wikidata.org/entity/Q117382975', 'Tipsy', 'http://www.wikidata.org/entity/Q62033408', 'Babraham Blank', '1771', '', 'female organism']

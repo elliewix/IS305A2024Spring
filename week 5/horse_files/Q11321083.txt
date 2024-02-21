@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321083', 'Tokai Point', '', '', 'http://www.wikidata.org/entity/Q11321082', 'Tokai Teio', '1996', '', 'male organism']

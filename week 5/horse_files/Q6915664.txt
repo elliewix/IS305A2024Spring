@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6915664', 'Moses', 'http://www.wikidata.org/entity/Q62021998', 'Gohanna mare', 'http://www.wikidata.org/entity/Q62021766', 'Seymour', '1819', '', 'male organism']

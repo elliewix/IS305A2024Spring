@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61988998', 'Cypron', 'http://www.wikidata.org/entity/Q62026393', 'Salome', 'http://www.wikidata.org/entity/Q11335028', 'Blaze', '1750', '', 'female organism']

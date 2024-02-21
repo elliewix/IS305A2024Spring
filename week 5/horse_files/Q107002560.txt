@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107002560', 'Hussonet', 'http://www.wikidata.org/entity/Q7396560', 'Sacahuista', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1991', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7081295', 'Oil Capitol', '', '', 'http://www.wikidata.org/entity/Q6734291', 'Mahmoud', '1947', '', 'male organism']

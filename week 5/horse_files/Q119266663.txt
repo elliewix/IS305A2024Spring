@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119266663', 'Marcou 524', 'http://www.wikidata.org/entity/Q119266640', 'Madelon', 'http://www.wikidata.org/entity/Q119241630', 'Favora 765', '1882', '', 'male organism']

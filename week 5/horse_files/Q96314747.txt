@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96314747', 'Eduen', '', '', 'http://www.wikidata.org/entity/Q96314739', 'Unicus', '1904', '', 'male organism']

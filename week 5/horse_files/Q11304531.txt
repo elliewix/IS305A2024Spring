@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11304531', 'Sakura Yutaka O', '', '', 'http://www.wikidata.org/entity/Q11319254', 'Tesco Boy', '1982', '2010', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235924', 'Kimball', '', '', '', '', '1877', '', 'male organism']

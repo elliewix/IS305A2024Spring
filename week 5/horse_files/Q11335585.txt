@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11335585', 'プリサイスマシーン', '', '', 'http://www.wikidata.org/entity/Q6796863', 'Mayano Top Gun', '1999', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108144349', 'Vase', '', '', 'http://www.wikidata.org/entity/Q77035386', 'Ramzes', '1961', '', 'female organism']

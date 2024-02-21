@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7158074', 'Pearl Diver', 'http://www.wikidata.org/entity/Q7158052', 'Pearl Cap', '', '', '1944', '', 'male organism']

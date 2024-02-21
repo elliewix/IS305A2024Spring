@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7694481', 'Teenoso', '', '', 'http://www.wikidata.org/entity/Q8059150', 'Youth', '1980', '', 'male organism']

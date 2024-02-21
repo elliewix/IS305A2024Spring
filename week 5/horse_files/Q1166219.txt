@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1166219', 'Dark Ronald', 'http://www.wikidata.org/entity/Q55071772', 'Darkie', 'http://www.wikidata.org/entity/Q4874084', 'Bay Ronald', '1905', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240795', 'T.V. Commercial', '', '', '', '', '1965', '', 'male organism']

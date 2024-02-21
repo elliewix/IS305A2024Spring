@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11329100', 'パドトロワ', '', '', 'http://www.wikidata.org/entity/Q11311208', 'Swept Overboard', '2007', '', 'male organism']

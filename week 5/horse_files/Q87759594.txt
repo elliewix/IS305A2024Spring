@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87759594', 'Exchequer', 'http://www.wikidata.org/entity/Q87759597', 'Stamp', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1859', '', 'male organism']

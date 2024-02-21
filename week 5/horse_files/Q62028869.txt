@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028869', 'Colwick', 'http://www.wikidata.org/entity/Q62028874', 'Stella', 'http://www.wikidata.org/entity/Q5448413', 'Filho da Puta', '1828', '', 'male organism']

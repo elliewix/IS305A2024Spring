@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345024', 'ヤシマソブリン', '', '', 'http://www.wikidata.org/entity/Q11342941', 'Mill George', '1991', '', 'male organism']

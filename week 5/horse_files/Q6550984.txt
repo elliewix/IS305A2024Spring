@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6550984', 'Lincoln Road', '', '', '', '', '1955', '', 'male organism']

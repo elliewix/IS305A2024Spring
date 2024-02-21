@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330712', 'ビッグウィーク', '', '', 'http://www.wikidata.org/entity/Q2879150', 'Bago', '2007', '', 'male organism']

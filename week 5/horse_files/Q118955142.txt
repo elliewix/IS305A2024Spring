@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118955142', 'Keiai Dorie', '', '', 'http://www.wikidata.org/entity/Q17221932', 'Espoir City', '2017', '', 'male organism']

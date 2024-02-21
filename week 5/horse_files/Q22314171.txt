@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22314171', 'Corrado I', 'http://www.wikidata.org/entity/Q108145132', 'Soleil', 'http://www.wikidata.org/entity/Q1131753', 'Cor de la Bryere', '1985', '2018', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239337', 'Gold Shower', '', '', '', '', '1940', '', 'male organism']

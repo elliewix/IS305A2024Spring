@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48771716', 'Samitar', '', '', 'http://www.wikidata.org/entity/Q1005232', 'Rock of Gibraltar', '2009', '', 'female organism']

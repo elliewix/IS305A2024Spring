@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20309625', 'Solow', '', '', 'http://www.wikidata.org/entity/Q7524216', 'Singspiel', '2010', '', 'male organism']

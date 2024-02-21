@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7011091', 'New Providence', '', '', 'http://www.wikidata.org/entity/Q4996596', 'Bull Page', '1956', '', 'male organism']

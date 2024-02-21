@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5644286', 'Hamburg', '', '', 'http://www.wikidata.org/entity/Q5649365', 'Hanover', '1895', '', 'male organism']

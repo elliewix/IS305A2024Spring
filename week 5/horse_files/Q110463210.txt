@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q110463210', 'Kolding', '', '', '', '', '', '', 'male organism']

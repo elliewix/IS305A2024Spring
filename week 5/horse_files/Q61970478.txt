@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970478', "Sherriff's Deputy", 'http://www.wikidata.org/entity/Q61970483', 'Barbarika', 'http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '1994', '', 'female organism']

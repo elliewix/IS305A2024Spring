@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6697881', 'Lucky Debonair', 'http://www.wikidata.org/entity/Q107546052', 'Fresh As Fresh', 'http://www.wikidata.org/entity/Q107535876', 'Vertex', '1962', '', 'male organism']

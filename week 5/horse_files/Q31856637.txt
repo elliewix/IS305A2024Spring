@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q31856637', 'Delicious U.S.', '', '', '', '', '2009', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987612', 'Admiring', '', '', 'http://www.wikidata.org/entity/Q5639203', 'Hail To Reason', '', '', 'female organism']

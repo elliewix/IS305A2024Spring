@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11764260', 'Lunatico', '', '', '', '', '1922', '', 'male organism']

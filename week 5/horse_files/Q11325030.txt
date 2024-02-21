@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11325030', 'ニユーバラツケー', '', '', 'http://www.wikidata.org/entity/Q18236560', 'Barraques', '1947', '', 'male organism']

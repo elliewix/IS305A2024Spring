@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027849', 'Elfrida', 'http://www.wikidata.org/entity/Q62027675', 'Miss Belsea', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1768', '', 'female organism']

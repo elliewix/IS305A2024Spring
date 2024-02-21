@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7570029', 'Southern Image', '', '', '', '', '2000', '', 'male organism']

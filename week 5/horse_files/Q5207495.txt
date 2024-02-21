@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5207495', 'Dabirsim', '', '', 'http://www.wikidata.org/entity/Q11326438', 'Hat trick', '2009', '', 'male organism']

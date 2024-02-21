@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18236599', 'Artiste Royal', '', '', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '2001', '', 'male organism']

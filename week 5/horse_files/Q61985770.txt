@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61985770', 'Advocate', '', '', 'http://www.wikidata.org/entity/Q5429939', 'Fair Trial', '', '', 'male organism']

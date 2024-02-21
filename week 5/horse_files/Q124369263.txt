@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124369263', 'Daleview Pat', 'http://www.wikidata.org/entity/Q124369308', 'Patty Louise', 'http://www.wikidata.org/entity/Q124369284', 'Chief Max', '1970', '', 'female organism']

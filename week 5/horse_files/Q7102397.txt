@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7102397', 'Orientate', '', '', '', '', '1999', '', 'male organism']

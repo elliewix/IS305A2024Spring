@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63467766', 'Belonging', '', '', 'http://www.wikidata.org/entity/Q5419688', 'Exclusive Native', '', '', 'female organism']

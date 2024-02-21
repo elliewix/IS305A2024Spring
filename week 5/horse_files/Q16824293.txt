@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16824293', 'Ad Valorem', '', '', 'http://www.wikidata.org/entity/Q1104509', 'Danzig', '2002', '', 'male organism']

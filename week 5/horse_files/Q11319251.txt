@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319251', 'テスコガビー', '', '', 'http://www.wikidata.org/entity/Q11319254', 'Tesco Boy', '1972', '1977', 'female organism']

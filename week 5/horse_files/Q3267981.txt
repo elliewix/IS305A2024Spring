@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3267981', 'Lutteur B', '', '', 'http://www.wikidata.org/entity/Q25397472', 'Furioso', '1955', '1968', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62037723', 'Paradigm', 'http://www.wikidata.org/entity/Q62038702', 'Ellen Horne', 'http://www.wikidata.org/entity/Q62037767', 'Paragone', '1853', '', 'female organism']

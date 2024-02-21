@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123150533', 'Big Rock', '', '', '', '', '2020', '', 'male']

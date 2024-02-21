@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006658', 'Ivanka', '', '', 'http://www.wikidata.org/entity/Q3013377', 'Dancing Brave', '1990', '', 'female organism']

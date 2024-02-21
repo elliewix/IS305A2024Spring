@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7594020', 'St Lite', 'http://www.wikidata.org/entity/Q11333780', 'Flippancy', 'http://www.wikidata.org/entity/Q11316729', 'Diolite', '1938', '1965', 'male organism']

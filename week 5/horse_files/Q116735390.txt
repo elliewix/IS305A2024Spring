@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735390', 'Derma Sotogake', '', '', 'http://www.wikidata.org/entity/Q54290163', 'Mind Your Biscuits', '2020', '', 'male organism']

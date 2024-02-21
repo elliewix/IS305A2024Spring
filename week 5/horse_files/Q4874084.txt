@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4874084', 'Bay Ronald', 'http://www.wikidata.org/entity/Q61987110', 'Black Duchess', 'http://www.wikidata.org/entity/Q5646159', 'Hampton', '1893', '', 'male organism']

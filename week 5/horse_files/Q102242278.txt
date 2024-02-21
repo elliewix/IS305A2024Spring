@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242278', 'Wallenda', '', '', '', '', '1990', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545710', 'Early Autumn', 'http://www.wikidata.org/entity/Q107545707', 'Equinoctial', 'http://www.wikidata.org/entity/Q16849479', 'Jamestown', '1934', '', 'female organism']

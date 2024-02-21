@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11338917', 'ボージェスト', 'http://www.wikidata.org/entity/Q11345339', 'Yamapit', 'http://www.wikidata.org/entity/Q11325587', 'Never Beat', '1970', '', 'male organism']

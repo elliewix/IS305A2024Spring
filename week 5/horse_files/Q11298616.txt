@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11298616', 'Quark Star', '', '', 'http://www.wikidata.org/entity/Q4693122', 'Agnes Tachyon', '2007', '', 'male organism']

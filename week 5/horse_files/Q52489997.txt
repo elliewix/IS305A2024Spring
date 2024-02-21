@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52489997', "Jeanne d'Arc", 'http://www.wikidata.org/entity/Q52489694', 'Penitence', '', '', '1887', '', 'female organism']

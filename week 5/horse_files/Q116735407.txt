@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735407', 'Ushba Tesoro', '', '', 'http://www.wikidata.org/entity/Q7101712', 'Orfevre', '2017', '', 'male organism']

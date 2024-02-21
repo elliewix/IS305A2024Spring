@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290875', 'Tapiture', '', '', '', '', '2011', '', 'male organism']

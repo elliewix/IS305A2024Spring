@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242136', 'Burnt Hills', '', '', '', '', '1987', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6761753', "Mariah's Storm", 'http://www.wikidata.org/entity/Q61994627', 'Immense', 'http://www.wikidata.org/entity/Q7283646', 'Rahy', '1991', '', 'female organism']

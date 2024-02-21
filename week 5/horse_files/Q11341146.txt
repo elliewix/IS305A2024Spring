@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341146', 'マリージョーイ', '', '', 'http://www.wikidata.org/entity/Q11319254', 'Tesco Boy', '1976', '', 'female organism']

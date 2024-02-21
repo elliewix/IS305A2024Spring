@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63985202', 'Chevisaunce', 'http://www.wikidata.org/entity/Q62037723', 'Paradigm', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1868', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221766', 'Antonio Barows', '', '', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2006', '2010', 'male organism']

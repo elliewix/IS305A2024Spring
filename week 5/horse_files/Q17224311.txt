@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224311', 'ハードツービート', '', '', '', '', '1969', '', 'male organism']

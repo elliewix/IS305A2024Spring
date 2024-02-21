@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118154280', 'Laetude', '', '', 'http://www.wikidata.org/entity/Q117885283', 'Laet', '1933', '', 'male organism']

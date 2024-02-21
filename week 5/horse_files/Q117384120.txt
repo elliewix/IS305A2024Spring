@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384120', 'Maid of Newton', 'http://www.wikidata.org/entity/Q117384140', 'Lapwing', 'http://www.wikidata.org/entity/Q117384121', 'Sir John', '1844', '', 'female organism']

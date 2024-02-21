@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11302146', 'Cosmo Phantom', '', '', '', '', '2007', '', 'male organism']

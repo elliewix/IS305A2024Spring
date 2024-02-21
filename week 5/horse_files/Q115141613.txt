@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115141613', 'Mosaik', '', '', '', '', '1966', '', 'female organism']

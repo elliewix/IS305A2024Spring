@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22007059', 'Sushi Train', '', '', 'http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '2000', '', 'male organism']

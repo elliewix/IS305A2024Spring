@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119357120', 'Cossette', '', '', 'http://www.wikidata.org/entity/Q119314616', 'Favora 725', '', '', 'female organism']

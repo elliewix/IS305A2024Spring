@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22324034', 'Lutine des Ifs', '', '', 'http://www.wikidata.org/entity/Q22318967', 'Quastor', '1977', '', 'female organism']

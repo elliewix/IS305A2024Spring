@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63372584', 'Romanov', '', '', 'http://www.wikidata.org/entity/Q22329123', 'Heartbreaker', '1998', '', 'male organism']

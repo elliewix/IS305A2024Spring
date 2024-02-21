@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17036345', 'Tromos', '', '', 'http://www.wikidata.org/entity/Q5002109', 'Busted', '1976', '', 'male organism']

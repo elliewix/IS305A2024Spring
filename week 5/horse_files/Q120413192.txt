@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120413192', 'La Bells Big Chief', 'http://www.wikidata.org/entity/Q120413746', 'La Bell', 'http://www.wikidata.org/entity/Q118168780', 'Drake Farms Chief', '1967', '', 'male organism']

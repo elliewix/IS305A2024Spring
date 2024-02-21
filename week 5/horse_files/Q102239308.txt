@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239308', 'Sir War', '', '', '', '', '1939', '', 'male organism']

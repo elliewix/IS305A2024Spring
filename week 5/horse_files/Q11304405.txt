@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11304405', 'Saqalat', 'http://www.wikidata.org/entity/Q11311363', 'Scarlet Lady', 'http://www.wikidata.org/entity/Q11284680', 'Afleet', '2000', '2016', 'male organism']

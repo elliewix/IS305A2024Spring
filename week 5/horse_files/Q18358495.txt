@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18358495', 'Bitty Girl', '', '', 'http://www.wikidata.org/entity/Q11326627', 'Habitat', '1971', '', 'female organism']

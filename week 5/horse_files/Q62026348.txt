@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026348', 'Infant', 'http://www.wikidata.org/entity/Q62026354', 'Brown Betty', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1746', '', 'male organism']

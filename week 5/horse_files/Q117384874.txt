@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384874', 'Young Child mare', 'http://www.wikidata.org/entity/Q117384876', 'Old Child mare', 'http://www.wikidata.org/entity/Q117384875', "Burdett's Arabian", '1704', '', 'female organism']

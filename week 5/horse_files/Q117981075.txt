@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117981075', 'Sultan 4713', '', '', 'http://www.wikidata.org/entity/Q117980371', 'Bayard', '', '', 'male organism']

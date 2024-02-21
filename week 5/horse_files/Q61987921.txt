@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987921', 'Comic Song', 'http://www.wikidata.org/entity/Q61987937', 'Frivolity', 'http://www.wikidata.org/entity/Q7178703', 'Petrarch', '', '', 'female organism']

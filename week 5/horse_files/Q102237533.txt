@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237533', 'Better Luck', '', '', '', '', '1920', '', 'male organism']

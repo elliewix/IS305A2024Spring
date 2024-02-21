@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6413448', 'Kingston', '', '', 'http://www.wikidata.org/entity/Q7576290', 'Spendthrift', '1884', '', 'male organism']

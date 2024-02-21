@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115022574', 'Cursa', '', '', 'http://www.wikidata.org/entity/Q108178669', 'Lugano van La Roche', '1979', '', 'female organism']

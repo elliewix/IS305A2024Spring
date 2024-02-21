@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17020317', 'The Duchess', '', '', '', '', '1813', '', 'female organism']

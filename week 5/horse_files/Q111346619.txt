@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111346619', 'Foudroyant II', '', '', 'http://www.wikidata.org/entity/Q123514499', 'The Mac Nab', '1938', '', 'male organism']

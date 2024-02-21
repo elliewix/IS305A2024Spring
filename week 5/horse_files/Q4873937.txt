@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4873937', 'Bay Bolton', 'http://www.wikidata.org/entity/Q62033473', 'Makeless mare', 'http://www.wikidata.org/entity/Q62033504', 'Grey Hautboy', '1705', '', 'male organism']

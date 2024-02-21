@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113905823', 'Gay Secretary', '', '', 'http://www.wikidata.org/entity/Q1151926', 'Secretariat', '1981', '', 'female organism']

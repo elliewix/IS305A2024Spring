@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1166352', 'Darley Arabian', '', '', '', '', '1700', '1730', 'male organism']

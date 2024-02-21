@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87760060', 'The Cure', '', '', 'http://www.wikidata.org/entity/Q87760061', 'Physician', '1841', '', 'male organism']

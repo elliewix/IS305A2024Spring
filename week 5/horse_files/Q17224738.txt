@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224738', 'ブライトライン', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2009', '2018', 'male organism']

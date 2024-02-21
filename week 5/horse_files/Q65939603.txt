@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65939603', 'Ultimate', 'http://www.wikidata.org/entity/Q108637215', 'No Go', 'http://www.wikidata.org/entity/Q55071619', 'Umidwar', '1941', '', 'male organism']

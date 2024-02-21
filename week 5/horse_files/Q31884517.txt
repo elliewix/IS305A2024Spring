@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q31884517', 'Cardento', '', '', 'http://www.wikidata.org/entity/Q22319718', 'Capitol I', '1992', '', 'male organism']

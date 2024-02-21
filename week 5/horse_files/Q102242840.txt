@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242840', 'Visionaire', '', '', '', '', '2005', '', 'male organism']

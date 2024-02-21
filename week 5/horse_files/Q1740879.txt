@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1740879', 'Kidron', '', '', '', '', '1907', '1942', '']

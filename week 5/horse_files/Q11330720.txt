@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330720', 'ビッググラス', '', '', 'http://www.wikidata.org/entity/Q5351060', 'El Condor Pasa', '2001', '', 'male organism']

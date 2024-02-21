@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5579852', 'Golden Sword', '', '', 'http://www.wikidata.org/entity/Q5755028', 'High Chaparral', '2006', '', 'male organism']

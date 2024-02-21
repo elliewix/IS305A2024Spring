@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5148003', 'Colombo', '', '', 'http://www.wikidata.org/entity/Q6750704', 'Manna', '1931', '', 'male organism']

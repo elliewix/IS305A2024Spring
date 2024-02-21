@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301854', 'コウザンハヤヒデ', '', '', 'http://www.wikidata.org/entity/Q11321754', 'トライバルセンプー', '1997', '', 'male organism']

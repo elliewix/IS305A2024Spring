@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023131', "Soldier's Joy", 'http://www.wikidata.org/entity/Q62023135', 'Galatea', 'http://www.wikidata.org/entity/Q7726806', 'The Colonel', '1838', '', 'female organism']

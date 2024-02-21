@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66477441', 'Rikisan Power', '', '', '', '', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123515919', 'Fée de la Hurie', 'http://www.wikidata.org/entity/Q123515938', 'Quitance', '', '', '1971', '1989', 'female organism']

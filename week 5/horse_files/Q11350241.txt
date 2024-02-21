@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11350241', 'Logotype', '', '', 'http://www.wikidata.org/entity/Q11350883', 'Lohengrin', '2010', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11299997', 'Couverture', '', '', 'http://www.wikidata.org/entity/Q11334556', 'Black Hawk', '2004', '', 'female organism']

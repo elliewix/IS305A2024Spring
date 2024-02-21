@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q53764722', 'Vanquish Run', '', '', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2013', '', 'male organism']

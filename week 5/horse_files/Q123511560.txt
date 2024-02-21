@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123511560', 'Quinola D', 'http://www.wikidata.org/entity/Q123514295', 'Natte', 'http://www.wikidata.org/entity/Q123514283', 'Casoar', '1960', '', 'female organism']

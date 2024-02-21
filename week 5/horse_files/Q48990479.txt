@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48990479', 'Singapore', 'http://www.wikidata.org/entity/Q115923674', 'Tetrabbazia', 'http://www.wikidata.org/entity/Q5517294', 'Gainsborough', '1927', '', 'male organism']

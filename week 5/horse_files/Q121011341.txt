@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121011341', 'Pamino 2904', '', '', 'http://www.wikidata.org/entity/Q121011122', 'Bajar', '1980', '', 'male organism']

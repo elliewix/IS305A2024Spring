@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108139754', 'Nikita', '', '', 'http://www.wikidata.org/entity/Q108139830', 'Jokinal de Bornival', '1990', '', 'female organism']

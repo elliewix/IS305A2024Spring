@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17021634', 'Springfield', 'http://www.wikidata.org/entity/Q62016733', 'Viridis', 'http://www.wikidata.org/entity/Q61969184', 'St Albans', '1873', '', 'male organism']

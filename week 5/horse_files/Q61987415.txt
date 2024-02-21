@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987415', 'Goody Two-Shoes', 'http://www.wikidata.org/entity/Q61987428', 'Sandal', 'http://www.wikidata.org/entity/Q11282151', 'Isinglass', '1899', '', 'female organism']

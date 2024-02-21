@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5246999', 'Dearly Precious', '', '', 'http://www.wikidata.org/entity/Q5304083', 'Dr. Fager', '1973', '', 'female organism']

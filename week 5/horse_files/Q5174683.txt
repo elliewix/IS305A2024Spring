@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5174683', 'Cossack', '', '', 'http://www.wikidata.org/entity/Q62028940', 'Hetman Platoff', '1844', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118202849', 'Mac Do de la Vande', 'http://www.wikidata.org/entity/Q118201120', 'Silver Shadows Sabrina', '', '', '2000', '', 'male organism']

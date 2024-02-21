@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16849479', 'Jamestown', 'http://www.wikidata.org/entity/Q107545700', 'Mademoiselle Dazie', 'http://www.wikidata.org/entity/Q107545699', 'St James', '1928', '', 'male organism']

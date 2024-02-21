@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117385922', 'Virginia', 'http://www.wikidata.org/entity/Q117387148', 'Polly Byrd', 'http://www.wikidata.org/entity/Q117385978', "Lee's Mark Anthony", '1772', '', 'female organism']

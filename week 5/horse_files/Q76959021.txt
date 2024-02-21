@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q76959021', 'Komano Impulse', '', '', '', '', '2014', '', 'male organism']

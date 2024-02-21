@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104527747', 'Wonderful Town', '', '', 'http://www.wikidata.org/entity/Q11349271', 'Rulership', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26236952', 'Grannus', 'http://www.wikidata.org/entity/Q108141847', 'Odessa', 'http://www.wikidata.org/entity/Q108141763', 'Graphit', '1972', '1993', 'male organism']

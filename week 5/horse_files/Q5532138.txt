@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5532138', 'General Quarters', '', '', 'http://www.wikidata.org/entity/Q11311272', 'Sky Mesa', '2006', '', 'male organism']

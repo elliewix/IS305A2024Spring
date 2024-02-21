@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4647268', 'A.P. Warrior', 'http://www.wikidata.org/entity/Q21997711', 'Warrior Queen', 'http://www.wikidata.org/entity/Q1968208', 'A.P. Indy', '2003', '', 'male organism']

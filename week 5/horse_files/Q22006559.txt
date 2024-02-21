@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006559', 'Polish Patriot', '', '', 'http://www.wikidata.org/entity/Q1104509', 'Danzig', '1988', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118163677', 'Lady Trustee', 'http://www.wikidata.org/entity/Q118163648', 'Miss Josephine', 'http://www.wikidata.org/entity/Q119520606', 'Silver Dawn Koncarno', '1946', '', 'female organism']

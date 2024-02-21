@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308344', 'Silk Tenzan O', 'http://www.wikidata.org/entity/Q11342101', 'Miss Marumichi', '', '', '1979', '', 'male organism']

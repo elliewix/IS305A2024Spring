@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62037155', 'The Warwick Mare', 'http://www.wikidata.org/entity/Q62037251', 'Ardrossan mare', 'http://www.wikidata.org/entity/Q62037182', 'Merman', '1834', '', 'female organism']

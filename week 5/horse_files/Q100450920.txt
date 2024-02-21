@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100450920', 'Luminous Warrior', '', '', '', '', '', '', 'male organism']

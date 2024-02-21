@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239312', 'Fairy Manah', '', '', '', '', '1939', '', 'male organism']

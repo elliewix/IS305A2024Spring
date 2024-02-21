@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3552126', 'Uranie', '', '', 'http://www.wikidata.org/entity/Q96236636', 'Intermede', '1920', '', 'female organism']

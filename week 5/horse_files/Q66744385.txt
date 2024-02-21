@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66744385', 'Clooney 51', '', '', 'http://www.wikidata.org/entity/Q1134114', 'Cornet Obolensky', '2006', '', 'male organism']

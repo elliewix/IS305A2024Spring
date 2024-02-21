@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028905', 'Knowsley', 'http://www.wikidata.org/entity/Q62028907', 'Capella', 'http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', '1795', '', 'male organism']

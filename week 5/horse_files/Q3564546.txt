@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3564546', 'Železník', 'http://www.wikidata.org/entity/Q100357151', 'Želatina', 'http://www.wikidata.org/entity/Q57316515', 'Zigeunersohn', '1978', '2004', 'male organism']

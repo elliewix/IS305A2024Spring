@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q110821715', 'McGinty', '', '', '', '', '1979', '', 'male organism']

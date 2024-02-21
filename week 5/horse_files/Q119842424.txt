@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119842424', 'Confidence 763', 'http://www.wikidata.org/entity/Q119842505', 'Marie', 'http://www.wikidata.org/entity/Q119314616', 'Favora 725', '1877', '', 'male organism']

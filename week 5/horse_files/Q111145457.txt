@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111145457', 'Home Affairs', '', '', '', '', '', '', 'male organism']

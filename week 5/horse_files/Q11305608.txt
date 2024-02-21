@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305608', 'Sancy', '', '', 'http://www.wikidata.org/entity/Q17361602', 'Sanctus', '1969', '', 'male organism']

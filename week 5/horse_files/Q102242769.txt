@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242769', 'Quintons Gold Rush', '', '', '', '', '2001', '', 'male organism']

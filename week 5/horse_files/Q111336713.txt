@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111336713', 'Dark Tiger', 'http://www.wikidata.org/entity/Q111337028', 'Spotted Beauty', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1959', '', 'male organism']

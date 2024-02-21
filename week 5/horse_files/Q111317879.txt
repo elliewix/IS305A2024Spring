@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111317879', 'Cemeta', 'http://www.wikidata.org/entity/Q115089029', 'Wozieta', 'http://www.wikidata.org/entity/Q22329202', 'Nimmerdor', '1984', '', 'female organism']

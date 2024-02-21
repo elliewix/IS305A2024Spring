@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026230', 'Marianne', 'http://www.wikidata.org/entity/Q62026369', 'Maria', 'http://www.wikidata.org/entity/Q62026233', 'Mufti', '1798', '', 'female organism']

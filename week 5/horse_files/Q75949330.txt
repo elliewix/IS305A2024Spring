@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q75949330', 'Quebec Tame', 'http://www.wikidata.org/entity/Q76557066', 'Kassave', 'http://www.wikidata.org/entity/Q1436529', 'For Pleasure', '2004', '', 'male organism']

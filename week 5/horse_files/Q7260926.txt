@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7260926', 'Purchase', 'http://www.wikidata.org/entity/Q61978740', 'Cherryola', 'http://www.wikidata.org/entity/Q61978643', 'Ormondale', '1916', '', 'male organism']

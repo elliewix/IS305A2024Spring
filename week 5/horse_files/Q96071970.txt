@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96071970', 'Reynolds', 'http://www.wikidata.org/entity/Q108857525', 'Miss Pierce', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1873', '', 'male organism']

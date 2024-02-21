@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q85743048', 'Army Mule', '', '', '', '', '', '', 'male organism']

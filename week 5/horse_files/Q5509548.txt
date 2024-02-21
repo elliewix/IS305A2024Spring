@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5509548', 'Furioso II', 'http://www.wikidata.org/entity/Q22328292', 'Dame de Ranville', 'http://www.wikidata.org/entity/Q25397472', 'Furioso', '1965', '1986', 'male organism']

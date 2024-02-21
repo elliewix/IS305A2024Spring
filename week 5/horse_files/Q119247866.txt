@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119247866', 'Mouton 1640', 'http://www.wikidata.org/entity/Q119349061', 'Rose', 'http://www.wikidata.org/entity/Q119241611', 'French Monarch', '1872', '', 'male organism']

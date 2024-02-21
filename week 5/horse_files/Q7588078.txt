@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7588078', 'St. Gatien', 'http://www.wikidata.org/entity/Q61997522', 'Saint Editha', 'http://www.wikidata.org/entity/Q61997512', 'The Rover', '1881', '', 'male organism']

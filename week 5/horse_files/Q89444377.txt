@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q89444377', 'Suave Aramis', '', '', '', '', '', '', 'male organism']

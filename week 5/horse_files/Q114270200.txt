@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114270200', 'Field Sense', '', '', 'http://www.wikidata.org/entity/Q7622920', 'Street Sense', '2014', '', 'male organism']

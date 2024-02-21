@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q47469485', 'Kitasan Mikazuki', '', '', 'http://www.wikidata.org/entity/Q11297913', 'King Halo', '2010', '', 'male organism']

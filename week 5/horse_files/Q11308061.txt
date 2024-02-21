@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308061', 'シュンエイ', '', '', 'http://www.wikidata.org/entity/Q11346360', 'Rising Flame', '1955', '', 'male organism']

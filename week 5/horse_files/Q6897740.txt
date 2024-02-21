@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6897740', 'Mona de Momma', '', '', '', '', '2006', '', 'female organism']

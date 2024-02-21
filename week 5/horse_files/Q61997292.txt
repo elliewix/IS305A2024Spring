@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997292', 'Dust Storm', 'http://www.wikidata.org/entity/Q61997305', 'Challure', 'http://www.wikidata.org/entity/Q8024824', 'Windy City', '1956', '', 'female organism']

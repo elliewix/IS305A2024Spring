@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012378', 'Golumpus mare', '', '', 'http://www.wikidata.org/entity/Q61994072', 'Golumpus', '1818', '', 'female organism']

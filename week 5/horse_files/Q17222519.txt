@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17222519', 'クレスコグランド', '', '', 'http://www.wikidata.org/entity/Q11316237', 'Tanino Gimlet', '2008', '', 'male organism']

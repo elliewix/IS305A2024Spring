@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6843928', "Miesque's Approval", '', '', '', '', '1999', '', 'male organism']

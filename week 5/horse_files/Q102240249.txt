@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240249', 'Finnegan', '', '', '', '', '1956', '', 'male organism']

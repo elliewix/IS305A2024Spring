@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64011903', 'Francesca', 'http://www.wikidata.org/entity/Q63985576', 'Orville mare', 'http://www.wikidata.org/entity/Q61970542', 'Partisan', '1829', '', 'female organism']

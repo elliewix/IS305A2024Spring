@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780098', 'ウィクトーリア', 'http://www.wikidata.org/entity/Q11334515', 'Black Emblem', 'http://www.wikidata.org/entity/Q7925631', 'Victoire Pisa', '2016', '', 'female organism']

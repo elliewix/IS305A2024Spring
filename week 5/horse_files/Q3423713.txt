@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3423713', 'Regulus', 'http://www.wikidata.org/entity/Q61987516', 'Grey Robinson', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1739', '1765', 'male organism']

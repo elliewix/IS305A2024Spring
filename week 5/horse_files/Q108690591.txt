@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108690591', 'Japonaise', '', '', 'http://www.wikidata.org/entity/Q108638995', 'Vas-y donc', '', '', 'female organism']

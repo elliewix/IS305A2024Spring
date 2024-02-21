@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55634999', 'Thais', '', '', 'http://www.wikidata.org/entity/Q123308487', 'St. Serf', '1893', '', 'female organism']

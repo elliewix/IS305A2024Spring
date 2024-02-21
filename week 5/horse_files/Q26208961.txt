@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26208961', 'McKinlaigh', '', '', '', '', '1994', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6347319', 'Kahyasi', '', '', 'http://www.wikidata.org/entity/Q5997421', 'Ile de Bourbon', '1985', '2008', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11331968', 'ファストフレンド', '', '', 'http://www.wikidata.org/entity/Q11282362', 'Ines Fujin', '1994', '', 'female organism']

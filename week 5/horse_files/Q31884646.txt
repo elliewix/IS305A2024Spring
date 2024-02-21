@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q31884646', 'Platon Face', '', '', '', '', '2012', '', '']

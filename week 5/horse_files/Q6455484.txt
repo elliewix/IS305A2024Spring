@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6455484', "L'Abbesse de Jouarre", '', '', '', '', '1886', '', 'female organism']

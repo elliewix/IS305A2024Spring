@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7968340', 'Waquoit', '', '', 'http://www.wikidata.org/entity/Q7310849', 'Relaunch', '1983', '2007', 'male organism']

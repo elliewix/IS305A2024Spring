@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q54867495', 'Mozu Ascot', '', '', 'http://www.wikidata.org/entity/Q2720508', 'Frankel', '2014', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5249784', 'Dedicate', '', '', 'http://www.wikidata.org/entity/Q7244431', 'Princequillo', '1952', '', 'male organism']

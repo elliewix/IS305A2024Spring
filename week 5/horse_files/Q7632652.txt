@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7632652', 'Successor', 'http://www.wikidata.org/entity/Q6880554', 'Misty Morn', 'http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', '1964', '', 'male organism']

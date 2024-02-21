@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108337120', 'Kultimate', 'http://www.wikidata.org/entity/Q108337173', 'Gamine', 'http://www.wikidata.org/entity/Q65939603', 'Ultimate', '1954', '', 'male organism']

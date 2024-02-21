@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242768', "Pollard's Vision", '', '', '', '', '2001', '', 'male organism']

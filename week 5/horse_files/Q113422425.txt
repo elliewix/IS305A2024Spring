@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113422425', 'Hokko Mevius', '', '', 'http://www.wikidata.org/entity/Q11317065', 'Daiwa Major', '2016', '', 'male organism']

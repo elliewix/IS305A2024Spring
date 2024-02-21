@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30753135', 'Carinjo', '', '', '', '', '2001', '', 'male organism']

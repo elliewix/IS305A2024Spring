@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7322383', 'Ribocco', '', '', 'http://www.wikidata.org/entity/Q2245980', 'Ribot', '1964', '', 'male organism']

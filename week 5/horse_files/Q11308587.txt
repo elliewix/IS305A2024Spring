@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308587', 'Shinko Splendor', '', '', 'http://www.wikidata.org/entity/Q5243161', 'Dayjur', '1994', '', 'male organism']

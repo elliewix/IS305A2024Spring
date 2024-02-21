@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26236837', 'Gigantin', 'http://www.wikidata.org/entity/Q115284335', 'Goldi', 'http://www.wikidata.org/entity/Q26236952', 'Grannus', '1980', '', 'female organism']

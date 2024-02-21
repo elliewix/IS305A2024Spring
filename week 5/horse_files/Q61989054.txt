@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61989054', 'Lassie Dear', 'http://www.wikidata.org/entity/Q107546736', 'Gay Missile', 'http://www.wikidata.org/entity/Q4983454', 'Buckpasser', '1974', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18148153', 'War Front', 'http://www.wikidata.org/entity/Q63969567', 'Starry Dreamer', 'http://www.wikidata.org/entity/Q1104509', 'Danzig', '2002', '', 'male organism']

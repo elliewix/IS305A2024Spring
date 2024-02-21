@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026415', 'Mab', 'http://www.wikidata.org/entity/Q62027230', 'Miss Jigg', 'http://www.wikidata.org/entity/Q5954159', 'Crab', '1740', '', 'female organism']

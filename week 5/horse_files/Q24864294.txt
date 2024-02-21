@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24864294', 'Sinhalite', 'http://www.wikidata.org/entity/Q114345817', 'Singhalese', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2013', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62044385', 'Traveller mare', 'http://www.wikidata.org/entity/Q62044640', 'Young Nanny', 'http://www.wikidata.org/entity/Q61994019', 'Traveller', '1745', '', 'female organism']

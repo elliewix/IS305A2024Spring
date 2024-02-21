@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61986019', 'Gay Hostess', 'http://www.wikidata.org/entity/Q61986026', 'Your Hostess', 'http://www.wikidata.org/entity/Q7373937', 'Royal Charger', '1957', '', 'female organism']

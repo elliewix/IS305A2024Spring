@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117368493', 'The Libel', 'http://www.wikidata.org/entity/Q117368550', 'Pasquinade', 'http://www.wikidata.org/entity/Q61993750', 'Pantaloon', '1842', '', 'male organism']

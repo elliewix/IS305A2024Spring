@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115923757', 'Archippe', '', '', '', '', '1924', '', 'female organism']

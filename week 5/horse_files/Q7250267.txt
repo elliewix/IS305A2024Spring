@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7250267', 'Prophecy', '', '', '', '', '1991', '', '']

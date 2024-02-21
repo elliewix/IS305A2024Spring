@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100323838', 'Hespa', '', '', 'http://www.wikidata.org/entity/Q100323726', 'Big Walt', '1994', '', 'female organism']

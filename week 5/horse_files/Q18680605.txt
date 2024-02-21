@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18680605', 'Ero-Lohko', '', '', '', '', '1951', '1979', '']

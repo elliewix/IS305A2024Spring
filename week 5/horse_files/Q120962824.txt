@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120962824', 'Araber', '', '', '', '', '1810', '', 'male organism']

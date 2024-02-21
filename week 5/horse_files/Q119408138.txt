@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119408138', 'Avata 912', 'http://www.wikidata.org/entity/Q119408445', 'Bicotte', 'http://www.wikidata.org/entity/Q118136673', 'Nogent', '1878', '', 'male organism']

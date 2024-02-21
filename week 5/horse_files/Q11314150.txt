@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314150', 'セイユウ', '', '', 'http://www.wikidata.org/entity/Q11346360', 'Rising Flame', '1954', '', 'male organism']

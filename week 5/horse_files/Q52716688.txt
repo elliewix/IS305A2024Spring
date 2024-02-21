@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52716688', 'Fan Dii Na', '', '', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2014', '', 'female organism']

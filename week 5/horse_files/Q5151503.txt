@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5151503', 'Comely', '', '', '', '', '1912', '', 'female organism']

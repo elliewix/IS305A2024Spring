@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339767', 'マイネルレコルト', '', '', 'http://www.wikidata.org/entity/Q5096670', 'Chief Bearhart', '2002', '', 'male organism']

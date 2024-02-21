@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384124', 'Waxy mare', 'http://www.wikidata.org/entity/Q117384131', 'Bizarre', 'http://www.wikidata.org/entity/Q7975736', 'Waxy', '1815', '', 'female organism']

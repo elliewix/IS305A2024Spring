@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65062567', 'Power Broker', '', '', '', '', '2010', '', '']

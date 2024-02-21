@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116074637', 'Buckhunter', '', '', 'http://www.wikidata.org/entity/Q4850311', 'Bald Galloway', '1713', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16243522', 'Barton', '', '', '', '', '1993', '', '']

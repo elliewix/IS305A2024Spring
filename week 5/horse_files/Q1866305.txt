@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1866305', 'Kauto Star', '', '', '', '', '2000', '2015', 'male organism']

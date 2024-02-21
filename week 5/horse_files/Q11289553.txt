@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11289553', 'Eishin Tennessee', '', '', 'http://www.wikidata.org/entity/Q11351856', 'Vice Regent', '1989', '2008', 'female organism']

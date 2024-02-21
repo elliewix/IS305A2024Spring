@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105925433', 'Betty de Kreisker', 'http://www.wikidata.org/entity/Q22307657', 'Danae', 'http://www.wikidata.org/entity/Q67479332', 'Muguet du Manoir', '1989', '', 'female organism']

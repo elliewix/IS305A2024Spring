@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308300', 'Sirius Symboli', '', '', 'http://www.wikidata.org/entity/Q11344265', 'Mogami', '1982', '2012', 'male organism']

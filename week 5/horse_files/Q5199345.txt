@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5199345', 'Cyllene', 'http://www.wikidata.org/entity/Q55097741', 'Arcadia', 'http://www.wikidata.org/entity/Q4941051', 'Bona Vista', '1895', '1925', 'male organism']

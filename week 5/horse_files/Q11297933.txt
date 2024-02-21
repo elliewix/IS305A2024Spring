@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297933', 'キンタロー', '', '', '', '', '1977', '', 'male organism']

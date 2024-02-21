@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123980590', 'Dan Tucker', 'http://www.wikidata.org/entity/Q123980604', 'Butt Cut', 'http://www.wikidata.org/entity/Q123998447', 'Barney Owens', '1887', '', 'male organism']

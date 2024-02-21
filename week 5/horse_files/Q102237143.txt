@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237143', 'Vulcanite', '', '', '', '', '1916', '', 'male organism']

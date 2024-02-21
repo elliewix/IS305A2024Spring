@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18236677', 'オーバーヤン五ノ七', '', '', '', '', '1909', '', 'female organism']

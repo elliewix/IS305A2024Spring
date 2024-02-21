@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108166554', 'Rancune', 'http://www.wikidata.org/entity/Q108200544', 'Rockella', 'http://www.wikidata.org/entity/Q11295571', "Cavaliere d'Arpino", '1940', '', 'female organism']

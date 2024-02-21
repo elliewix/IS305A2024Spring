@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545708', 'Longford', 'http://www.wikidata.org/entity/Q107545705', 'Bold Irish', 'http://www.wikidata.org/entity/Q6817327', 'Menow', '1955', '', 'female organism']

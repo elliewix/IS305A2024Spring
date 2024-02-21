@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242367', 'In Character', '', '', 'http://www.wikidata.org/entity/Q7004262', 'Never So Bold', '1992', '', 'male organism']

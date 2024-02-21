@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241883', 'Floating Reserve', '', '', '', '', '1982', '', 'male organism']

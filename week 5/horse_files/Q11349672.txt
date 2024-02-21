@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349672', 'レダ', '', '', 'http://www.wikidata.org/entity/Q11312364', 'ステーツマン', '1949', '', 'female organism']

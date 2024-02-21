@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4699745', 'Ajina', '', '', 'http://www.wikidata.org/entity/Q7622478', 'Strawberry Road', '1994', '', 'female organism']

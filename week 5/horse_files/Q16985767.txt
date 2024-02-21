@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16985767', 'Imperatrix', '', '', '', '', '1779', '', 'female organism']

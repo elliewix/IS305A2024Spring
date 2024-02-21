@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65063928', 'Alpha Delphini', '', '', '', '', '2011', '', '']

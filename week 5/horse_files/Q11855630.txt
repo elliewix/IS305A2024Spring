@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11855630', 'Cyna', '', '', '', '', '1983', '2007', 'female organism']

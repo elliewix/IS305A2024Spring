@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5520329', 'Gammalite', '', '', '', '', '1976', '2006', '']

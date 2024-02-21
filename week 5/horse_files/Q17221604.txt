@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221604', 'Asuka Kurichan', '', '', 'http://www.wikidata.org/entity/Q11312118', 'Sterling Rose', '2007', '', 'male organism']

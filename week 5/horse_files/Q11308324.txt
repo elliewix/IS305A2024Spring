@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308324', 'Selene', 'http://www.wikidata.org/entity/Q107551601', 'Serenissima', 'http://www.wikidata.org/entity/Q11318506', 'Chaucer', '1919', '', 'female organism']

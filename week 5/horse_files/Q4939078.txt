@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', 'http://www.wikidata.org/entity/Q55091563', 'Miss Disco', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1954', '1971', 'male organism']

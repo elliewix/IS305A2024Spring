@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339758', 'マイネルスケルツィ', '', '', 'http://www.wikidata.org/entity/Q11300176', 'Grass Wonder', '2003', '', 'male organism']

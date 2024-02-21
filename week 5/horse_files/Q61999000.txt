@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61999000', 'Stafaralla', 'http://www.wikidata.org/entity/Q61999026', 'Mirawala', 'http://www.wikidata.org/entity/Q7557028', 'Solario', '1930', '', 'female organism']

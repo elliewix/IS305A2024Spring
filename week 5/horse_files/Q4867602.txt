@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4867602', 'Bask', '', '', '', '', '1956', '1979', 'male organism']

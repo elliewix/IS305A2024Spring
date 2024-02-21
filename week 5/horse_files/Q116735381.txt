@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735381', 'Bakushin Teio', '', '', 'http://www.wikidata.org/entity/Q11304520', 'Sakura Bakushin O', '2009', '', 'male organism']

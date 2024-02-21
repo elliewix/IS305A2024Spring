@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6102481', 'Izvestia', '', '', 'http://www.wikidata.org/entity/Q11282173', 'Icecapade', '1987', '1991', 'male organism']

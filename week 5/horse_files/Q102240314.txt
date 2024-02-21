@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240314', 'Festival King', '', '', '', '', '1956', '', 'male organism']

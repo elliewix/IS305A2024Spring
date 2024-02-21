@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55606029', 'Brown Betty', '', '', 'http://www.wikidata.org/entity/Q107547173', 'Friar Marcus', '1930', '1950', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3183929', 'Jorky', '', '', 'http://www.wikidata.org/entity/Q3195446', 'Kerjacques', '1975', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16952144', 'Cougar', '', '', 'http://www.wikidata.org/entity/Q61998958', 'Tale of Two Cities', '1966', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347886', 'リキエイカン', '', '', 'http://www.wikidata.org/entity/Q11325587', 'Never Beat', '1966', '2001', 'male organism']

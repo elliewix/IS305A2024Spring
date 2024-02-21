@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312238', 'Steel Heart', '', '', 'http://www.wikidata.org/entity/Q11326627', 'Habitat', '1972', '', 'male organism']

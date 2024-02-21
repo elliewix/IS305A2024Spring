@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242106', 'Western Playboy', '', '', '', '', '1986', '', 'male organism']

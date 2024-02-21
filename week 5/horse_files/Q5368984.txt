@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5368984', 'Emancipation', '', '', 'http://www.wikidata.org/entity/Q4926365', 'Bletchingly', '1979', '', 'female organism']

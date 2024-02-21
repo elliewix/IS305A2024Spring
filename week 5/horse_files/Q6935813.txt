@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6935813', 'Mundig', 'http://www.wikidata.org/entity/Q61993597', 'Emma', 'http://www.wikidata.org/entity/Q61994070', 'Catton', '1832', '', 'male organism']

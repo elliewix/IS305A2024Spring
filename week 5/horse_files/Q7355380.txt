@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7355380', 'Rockingham', '', '', 'http://www.wikidata.org/entity/Q61987992', 'Humphrey Clinker', '1830', '', 'male organism']

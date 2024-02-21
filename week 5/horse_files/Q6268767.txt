@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6268767', 'Johnstown', 'http://www.wikidata.org/entity/Q107547192', 'La France', 'http://www.wikidata.org/entity/Q16849479', 'Jamestown', '1936', '', 'male organism']

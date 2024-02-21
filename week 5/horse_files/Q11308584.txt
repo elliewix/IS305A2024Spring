@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308584', 'Shinko Calido', '', '', 'http://www.wikidata.org/entity/Q11308429', 'Silver Hawk', '1998', '', 'male organism']

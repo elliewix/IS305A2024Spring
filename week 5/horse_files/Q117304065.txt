@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117304065', 'Lo Lynd Joe Laet', 'http://www.wikidata.org/entity/Q118146694', 'Drake Farms Lady Leona Dellaet', 'http://www.wikidata.org/entity/Q117707938', 'Lincoln View Douglas', '1971', '', 'male']

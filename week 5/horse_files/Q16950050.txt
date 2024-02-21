@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16950050', 'Sky Conqueror', '', '', 'http://www.wikidata.org/entity/Q7537282', 'Sky Classic', '2002', '', 'male organism']

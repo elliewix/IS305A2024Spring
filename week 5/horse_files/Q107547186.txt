@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547186', 'Chevalerie', 'http://www.wikidata.org/entity/Q107547171', 'Kassala', 'http://www.wikidata.org/entity/Q107547170', "Abbot's Speed", '1933', '', 'female organism']

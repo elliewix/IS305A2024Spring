@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55610935', 'Enthusiast', '', '', 'http://www.wikidata.org/entity/Q17038626', 'Sterling', '1886', '', 'male organism']

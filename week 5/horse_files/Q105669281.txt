@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105669281', 'Bravas', 'http://www.wikidata.org/entity/Q11352062', 'Verxina', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2016', '', 'male organism']

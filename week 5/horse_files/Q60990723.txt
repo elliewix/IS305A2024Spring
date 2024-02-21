@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60990723', 'Inti', '', '', 'http://www.wikidata.org/entity/Q5025841', 'Came Home', '2014', '', 'male organism']

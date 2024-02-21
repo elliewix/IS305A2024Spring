@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7529352', 'Sir Visto', 'http://www.wikidata.org/entity/Q61978873', 'Vista', 'http://www.wikidata.org/entity/Q4859816', 'Barcaldine', '1892', '', 'male organism']

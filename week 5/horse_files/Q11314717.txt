@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314717', 'Sendawar', '', '', 'http://www.wikidata.org/entity/Q7245356', 'Priolo', '1996', '', 'male organism']

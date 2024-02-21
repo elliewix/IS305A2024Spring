@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240045', 'Mel Leavitt', '', '', '', '', '1951', '', 'male organism']

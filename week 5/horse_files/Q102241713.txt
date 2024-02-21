@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241713', 'Paris Prince', '', '', '', '', '1980', '', 'male organism']

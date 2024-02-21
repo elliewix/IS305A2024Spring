@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87760040', 'Dalesman', 'http://www.wikidata.org/entity/Q87760042', 'Agnes', 'http://www.wikidata.org/entity/Q6412111', 'King Tom', '1863', '', 'male organism']

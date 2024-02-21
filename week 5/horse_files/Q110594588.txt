@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q110594588', 'Electioneer', '', '', '', '', '1904', '', 'male organism']

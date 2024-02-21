@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545105', 'Battle Dress', 'http://www.wikidata.org/entity/Q107545101', 'Armorial', 'http://www.wikidata.org/entity/Q6124118', 'Jaipur', '1966', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55435688', 'Carlo 273', '', '', 'http://www.wikidata.org/entity/Q63040445', 'Contender', '2001', '', 'male organism']

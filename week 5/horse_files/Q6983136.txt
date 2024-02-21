@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6983136', 'Nayef', 'http://www.wikidata.org/entity/Q11326056', 'Height Of Fashion', 'http://www.wikidata.org/entity/Q11296295', 'Gulch', '1998', '', 'male organism']

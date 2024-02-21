@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6119941', 'Jacola', '', '', '', '', '1935', '', 'female organism']

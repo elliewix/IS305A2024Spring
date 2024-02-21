@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297886', "King's Emblem", 'http://www.wikidata.org/entity/Q11311363', 'Scarlet Lady', 'http://www.wikidata.org/entity/Q7968431', 'War Emblem', '2005', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11318212', 'Chance Torai', '', '', 'http://www.wikidata.org/entity/Q11334538', 'Black Tuxedo', '2003', '', 'male organism']

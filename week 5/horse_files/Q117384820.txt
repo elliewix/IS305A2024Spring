@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384820', 'Gipsy', 'http://www.wikidata.org/entity/Q117384826', "Milbanke's Black mare", 'http://www.wikidata.org/entity/Q117384823', "King William's Black Barb Without a Tongue", '1715', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5106518', 'Chris Evert', 'http://www.wikidata.org/entity/Q11342007', 'Miss Carmie', 'http://www.wikidata.org/entity/Q7659238', "Swoon's Son", '1971', '2001', 'female organism']

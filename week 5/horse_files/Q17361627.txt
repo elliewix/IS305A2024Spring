@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17361627', 'Lady Juror', 'http://www.wikidata.org/entity/Q55071687', 'Lady Josephine', 'http://www.wikidata.org/entity/Q7560561', 'Son-in-Law', '1919', '', 'female organism']

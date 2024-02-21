@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109528313', 'Baccarat', 'http://www.wikidata.org/entity/Q109566491', 'Bayan Dama', 'http://www.wikidata.org/entity/Q109566404', 'Kerkenje', '1944', '', 'female organism']

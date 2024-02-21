@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239524', 'Misweet', '', '', '', '', '1942', '', 'female organism']

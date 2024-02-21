@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4785991', 'Archers Bay', '', '', 'http://www.wikidata.org/entity/Q7516003', 'Silver Deputy', '1995', '', 'male organism']

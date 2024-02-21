@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5598985', 'Great Command', '', '', 'http://www.wikidata.org/entity/Q6773215', 'Marscay', '1993', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5429902', 'Fair Play', 'http://www.wikidata.org/entity/Q61994163', 'Fairy Gold', 'http://www.wikidata.org/entity/Q5680264', 'Hastings', '1905', '1929', 'male organism']

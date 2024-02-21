@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5373964', 'Empery', '', '', 'http://www.wikidata.org/entity/Q3553272', 'Vaguely Noble', '1973', '', 'male organism']

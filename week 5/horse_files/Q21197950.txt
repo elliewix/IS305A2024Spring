@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21197950', 'Amant Gris', '', '', 'http://www.wikidata.org/entity/Q41866103', 'House Rules', '1999', '', 'male organism']

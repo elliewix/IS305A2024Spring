@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q59209910', 'One du Rib', '', '', '', '', '1993', '', '']

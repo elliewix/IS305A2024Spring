@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104581339', 'Little Gerda', '', '', '', '', '', '', 'female organism']

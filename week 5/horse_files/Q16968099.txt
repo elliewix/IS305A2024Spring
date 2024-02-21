@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16968099', 'Little Bold John', '', '', '', '', '1982', '', '']

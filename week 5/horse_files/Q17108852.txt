@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17108852', 'Jaazeiro', '', '', 'http://www.wikidata.org/entity/Q7487349', 'Sham', '1975', '', 'male organism']

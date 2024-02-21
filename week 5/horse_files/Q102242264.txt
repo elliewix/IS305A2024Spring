@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242264', 'Silver of Silver', '', '', '', '', '1990', '', 'male organism']

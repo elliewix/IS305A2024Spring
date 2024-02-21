@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30671740', 'Tamarkuz', '', '', 'http://www.wikidata.org/entity/Q25172098', 'Speightstown', '2010', '', '']

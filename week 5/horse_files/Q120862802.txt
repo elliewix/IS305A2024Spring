@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120862802', 'Out Law Persik', '', '', 'http://www.wikidata.org/entity/Q3375675', 'Persik', '1980', '1994', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18236640', 'Best Warrior', '', '', 'http://www.wikidata.org/entity/Q55972479', 'Majestic Warrior', '2010', '', 'male organism']

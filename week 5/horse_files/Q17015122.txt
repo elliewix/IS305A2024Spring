@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17015122', 'Recitation', '', '', 'http://www.wikidata.org/entity/Q5367040', 'Elocutionist', '1978', '', 'male organism']

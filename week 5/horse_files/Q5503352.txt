@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5503352', 'Friar Rock', '', '', 'http://www.wikidata.org/entity/Q7354677', 'Rock Sand', '1913', '', 'male organism']

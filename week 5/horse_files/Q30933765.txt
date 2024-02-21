@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30933765', 'シャルロット', '', '', '', '', '1979', '', 'male organism']

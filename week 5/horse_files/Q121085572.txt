@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121085572', 'Elisa 568', '', '', '', '', '1883', '', 'female organism']

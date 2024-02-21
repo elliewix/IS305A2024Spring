@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4883725', 'Belle of All', '', '', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1948', '', 'female organism']

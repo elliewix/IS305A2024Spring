@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993504', 'Queen Adelaide', 'http://www.wikidata.org/entity/Q61993528', 'Adelaide', 'http://www.wikidata.org/entity/Q5741736', 'Hermit', '1881', '', 'female organism']

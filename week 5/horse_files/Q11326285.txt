@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326285', 'ハクシヨウ', '', '', 'http://www.wikidata.org/entity/Q11301835', 'Koiwai', '1924', '', 'male organism']

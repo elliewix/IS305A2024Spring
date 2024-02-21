@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345547', 'Yu Sensho', 'http://www.wikidata.org/entity/Q11345553', 'Yu Miroku', 'http://www.wikidata.org/entity/Q11346713', 'ラグビーボール', '1992', '', 'male organism']

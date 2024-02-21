@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235981', 'Harry Gilmore', '', '', '', '', '1879', '', 'male organism']

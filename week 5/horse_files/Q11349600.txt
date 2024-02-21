@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349600', 'Reginetta', '', '', 'http://www.wikidata.org/entity/Q11334069', 'French Deputy', '2005', '', 'female organism']

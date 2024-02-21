@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60968618', 'Aubrion du Gers', '', '', '', '', '2010', '2019', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7631782', 'Subordination', '', '', '', '', '1994', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30634712', 'Miralla', '', '', '', '', '1972', '', 'female organism']

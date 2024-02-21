@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7846380', 'Troubadour', '', '', '', '', '1882', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52554876', 'Bonne Fortune', '', '', 'http://www.wikidata.org/entity/Q52554893', 'Jongleur', '1923', '', 'female organism']

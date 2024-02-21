@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241291', 'Round Stake', '', '', '', '', '1972', '', 'male organism']

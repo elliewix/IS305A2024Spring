@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3274562', 'Ourasi', '', '', '', '', '1980', '2013', 'male organism']

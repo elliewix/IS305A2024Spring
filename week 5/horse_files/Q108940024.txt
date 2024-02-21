@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108940024', 'Fridoline', 'http://www.wikidata.org/entity/Q108771082', 'Marquise', '', '', '1857', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115346807', 'Romantic Warrior', '', '', '', '', '2018', '', 'male organism']

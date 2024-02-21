@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120688843', 'Faust 42551', 'http://www.wikidata.org/entity/Q120693239', 'Biche 12230', 'http://www.wikidata.org/entity/Q120692984', 'Blande 29259', '', '', 'male organism']

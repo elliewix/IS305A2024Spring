@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108759999', 'Lanzarote', '', '', '', '', '1968', '1977', '']

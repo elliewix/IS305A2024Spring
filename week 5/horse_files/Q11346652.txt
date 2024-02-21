@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11346652', 'ラガーブラック', '', '', 'http://www.wikidata.org/entity/Q11312238', 'Steel Heart', '1985', '', 'male organism']

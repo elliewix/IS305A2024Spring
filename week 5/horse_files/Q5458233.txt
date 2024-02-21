@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5458233', 'Flawlessly', 'http://www.wikidata.org/entity/Q22005937', 'La Confidence', 'http://www.wikidata.org/entity/Q2099366', 'Affirmed', '1988', '', 'female organism']

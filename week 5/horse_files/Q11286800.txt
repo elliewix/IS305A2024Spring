@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286800', 'Itto', 'http://www.wikidata.org/entity/Q11342101', 'Miss Marumichi', 'http://www.wikidata.org/entity/Q11352175', 'Venture', '1971', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52319656', 'Ganko', '', '', 'http://www.wikidata.org/entity/Q6960385', 'Nakayama Festa', '2013', '', 'male organism']

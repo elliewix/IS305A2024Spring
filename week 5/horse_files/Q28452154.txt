@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28452154', 'Cherokee Rose', '', '', 'http://www.wikidata.org/entity/Q3013377', 'Dancing Brave', '1991', '', '']

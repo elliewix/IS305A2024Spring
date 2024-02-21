@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006430', 'John F Kennedy', 'http://www.wikidata.org/entity/Q7379394', 'Rumplestiltskin', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2012', '', 'male organism']

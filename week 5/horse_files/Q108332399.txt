@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108332399', 'Margarette L A', 'http://www.wikidata.org/entity/Q108374416', 'Amoureuse', 'http://www.wikidata.org/entity/Q108332521', 'Herquemoulin', '1956', '', 'female organism']

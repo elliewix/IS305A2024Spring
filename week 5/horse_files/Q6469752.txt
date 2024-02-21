@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6469752', 'Ladkin', '', '', 'http://www.wikidata.org/entity/Q5429902', 'Fair Play', '1921', '', 'male organism']

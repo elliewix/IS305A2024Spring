@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240222', 'Martins Rullah', '', '', '', '', '1955', '', 'male organism']

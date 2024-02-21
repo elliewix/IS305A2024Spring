@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016745', 'Stripling', 'http://www.wikidata.org/entity/Q62016750', 'Laura', 'http://www.wikidata.org/entity/Q61988058', 'Phoenomenon', '1795', '', 'male organism']

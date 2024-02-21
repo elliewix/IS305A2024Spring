@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970821', 'Art Teacher', '', '', 'http://www.wikidata.org/entity/Q7088924', 'Olympia', '1958', '', 'female organism']

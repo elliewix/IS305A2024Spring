@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006664', "JK She'salady", '', '', '', '', '2012', '', 'female organism']

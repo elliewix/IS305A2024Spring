@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354586', 'Bunting', 'http://www.wikidata.org/entity/Q117354588', 'Frillery', 'http://www.wikidata.org/entity/Q61997442', 'Pennant', '1919', '', 'male organism']

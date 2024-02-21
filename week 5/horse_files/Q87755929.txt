@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87755929', 'Loup Garou', 'http://www.wikidata.org/entity/Q62016663', 'Moonbeam', 'http://www.wikidata.org/entity/Q62032933', 'Lanercost', '1846', '', 'male organism']

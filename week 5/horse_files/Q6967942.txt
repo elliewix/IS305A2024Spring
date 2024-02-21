@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6967942', 'Natagora', '', '', 'http://www.wikidata.org/entity/Q11320185', 'Divine Light', '2005', '', 'female organism']

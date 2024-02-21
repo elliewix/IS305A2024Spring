@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343602', 'Mejiro Ardan', '', '', 'http://www.wikidata.org/entity/Q11283590', 'Aswan', '1985', '', 'male organism']

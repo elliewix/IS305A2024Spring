@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939066', 'Bold Reasoning', 'http://www.wikidata.org/entity/Q107546733', 'Reason To Earn', 'http://www.wikidata.org/entity/Q4939122', 'Boldnesian', '1968', '1975', 'male organism']

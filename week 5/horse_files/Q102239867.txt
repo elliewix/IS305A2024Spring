@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239867', 'King Clover', '', '', '', '', '1948', '', 'male organism']

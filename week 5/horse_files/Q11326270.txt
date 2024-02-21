@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326270', 'ハギノリアルキング', '', '', 'http://www.wikidata.org/entity/Q7301055', 'Real Shadai', '1990', '', 'male organism']

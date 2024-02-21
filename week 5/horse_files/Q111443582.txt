@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111443582', 'Aiglon Rouge', 'http://www.wikidata.org/entity/Q22318160', 'Dirka', 'http://www.wikidata.org/entity/Q21427676', 'Narcos II', '1988', '2011', 'male organism']

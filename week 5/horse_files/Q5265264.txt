@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5265264', 'Destiny', '', '', 'http://www.wikidata.org/entity/Q7636587', 'Sultan', '1833', '', 'female organism']

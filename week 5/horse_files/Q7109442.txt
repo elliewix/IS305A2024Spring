@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7109442', 'Otterington', 'http://www.wikidata.org/entity/Q64012320', 'Expectation mare', 'http://www.wikidata.org/entity/Q61994072', 'Golumpus', '1809', '', 'male organism']

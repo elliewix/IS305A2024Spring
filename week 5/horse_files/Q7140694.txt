@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7140694', 'Partner', 'http://www.wikidata.org/entity/Q62027240', 'Sister One to Mixbury', 'http://www.wikidata.org/entity/Q11309502', 'Jigg', '1718', '', 'male organism']

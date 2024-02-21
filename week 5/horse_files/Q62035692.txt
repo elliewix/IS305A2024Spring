@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62035692', 'The Emperor', 'http://www.wikidata.org/entity/Q62035853', 'Reveller mare', 'http://www.wikidata.org/entity/Q62021650', 'Defence', '1841', '', 'male organism']

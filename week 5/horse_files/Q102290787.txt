@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290787', 'Daddy Nose Best', '', '', '', '', '2009', '', 'male organism']

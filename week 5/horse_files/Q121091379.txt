@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121091379', 'Gladiator 683', '', '', 'http://www.wikidata.org/entity/Q117732706', 'Brilliant 756', '1872', '', 'male organism']

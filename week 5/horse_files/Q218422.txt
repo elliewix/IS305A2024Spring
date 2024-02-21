@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q218422', 'Allabaculia', '', '', 'http://www.wikidata.org/entity/Q11305945', 'Sampson', '1773', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30647239', 'Richmond Lass', '', '', '', '', '1963', '1985', 'female organism']

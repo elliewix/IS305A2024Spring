@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63985290', 'The Palmer', 'http://www.wikidata.org/entity/Q63985359', 'Madame Eglentine', 'http://www.wikidata.org/entity/Q4876072', 'Beadsman', '1864', '', 'male organism']

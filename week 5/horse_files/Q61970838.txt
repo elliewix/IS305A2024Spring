@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970838', 'Dhoti', 'http://www.wikidata.org/entity/Q61976402', 'Tricky Aunt', 'http://www.wikidata.org/entity/Q61976389', 'Dastur', '1936', '', 'male organism']

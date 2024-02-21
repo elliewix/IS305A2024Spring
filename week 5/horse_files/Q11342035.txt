@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342035', 'ミスターヨシゼン', '', '', '', '', '1984', '', 'male organism']

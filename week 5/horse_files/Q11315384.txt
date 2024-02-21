@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315384', 'Solitary King', 'http://www.wikidata.org/entity/Q11311363', 'Scarlet Lady', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2007', '', 'male organism']

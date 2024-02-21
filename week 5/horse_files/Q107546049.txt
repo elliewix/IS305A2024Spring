@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546049', 'Quickly', 'http://www.wikidata.org/entity/Q107546046', 'Stephanie', 'http://www.wikidata.org/entity/Q107546045', 'Haste', '1930', '', 'female organism']

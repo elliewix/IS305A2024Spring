@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30601278', 'The Coach', '', '', '', '', '', '', 'male organism']

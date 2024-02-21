@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q839098', 'Salinero', '', '', '', '', '1994', '2022', 'male organism']

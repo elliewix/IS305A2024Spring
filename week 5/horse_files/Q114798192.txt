@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114798192', 'Maruka Rapid', '', '', 'http://www.wikidata.org/entity/Q54290163', 'Mind Your Biscuits', '2020', '', 'female organism']

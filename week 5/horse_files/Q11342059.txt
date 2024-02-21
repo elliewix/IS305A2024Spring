@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342059', 'Mystical', '', '', 'http://www.wikidata.org/entity/Q106829257', 'Alnasr Alwasheek', '2002', '', 'male organism']

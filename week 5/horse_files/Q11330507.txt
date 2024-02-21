@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330507', 'ビクトリアクラウン', '', '', '', '', '1979', '', 'female organism']

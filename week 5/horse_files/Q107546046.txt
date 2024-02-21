@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546046', 'Stephanie', 'http://www.wikidata.org/entity/Q107546037', 'Malachite', 'http://www.wikidata.org/entity/Q107546036', 'Stefan The Great', '1925', '', 'female organism']

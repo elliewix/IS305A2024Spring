@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108166949', 'Quouglof Rouge', 'http://www.wikidata.org/entity/Q108148271', 'Verboise', '', '', '1982', '', 'male organism']

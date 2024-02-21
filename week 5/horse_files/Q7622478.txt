@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7622478', 'Strawberry Road', '', '', '', '', '1979', '1995', 'male organism']

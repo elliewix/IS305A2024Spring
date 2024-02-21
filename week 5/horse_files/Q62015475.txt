@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62015475', 'Blank mare', 'http://www.wikidata.org/entity/Q62015481', 'Bay Starling', 'http://www.wikidata.org/entity/Q4925119', 'Blank', '1759', '', 'female organism']

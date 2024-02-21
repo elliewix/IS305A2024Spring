@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108905688', 'Dictateur', '', '', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1878', '', 'male organism']

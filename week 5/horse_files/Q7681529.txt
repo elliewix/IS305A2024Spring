@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7681529', 'Tammany', '', '', 'http://www.wikidata.org/entity/Q6073424', 'Iroquois', '1889', '', 'male organism']

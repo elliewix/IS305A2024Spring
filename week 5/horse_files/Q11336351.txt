@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11336351', 'ヘアムジャングン', '', '', '', '', '1999', '2016', 'female organism']

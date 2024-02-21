@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16966554', 'Barefoot', 'http://www.wikidata.org/entity/Q62016543', 'Rosamond', 'http://www.wikidata.org/entity/Q61992557', 'Tramp', '1820', '1840', 'male organism']

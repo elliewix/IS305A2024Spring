@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119842647', 'Coleman 1205', '', '', 'http://www.wikidata.org/entity/Q119241630', 'Favora 765', '1881', '', 'male organism']

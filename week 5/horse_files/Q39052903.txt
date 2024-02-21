@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q39052903', 'Game World', '', '', '', '', '', '', 'male organism']

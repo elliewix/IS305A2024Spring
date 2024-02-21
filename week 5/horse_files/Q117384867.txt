@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384867', 'Rattle mare', 'http://www.wikidata.org/entity/Q117384872', 'sister to Kitty Burdett', 'http://www.wikidata.org/entity/Q117384869', 'Rattle', '1720', '', 'female organism']

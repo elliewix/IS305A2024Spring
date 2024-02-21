@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q93092426', 'Faksen J:r', '', '', '', '', '2002', '2020', '']

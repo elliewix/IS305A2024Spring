@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239687', 'Johns Joy', '', '', '', '', '1946', '', 'male organism']

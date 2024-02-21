@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5069968', 'Champion', 'http://www.wikidata.org/entity/Q61988115', 'Huncamunca', 'http://www.wikidata.org/entity/Q7235103', 'Potoooooooo', '1797', '', 'male organism']

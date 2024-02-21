@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11293894', 'カウンテスアップ', '', '', 'http://www.wikidata.org/entity/Q11332797', 'フェートメーカー', '1981', '', 'male organism']

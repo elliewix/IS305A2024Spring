@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11318342', 'チヤペルブラムプトン', '', '', '', '', '1912', '1934', 'male organism']

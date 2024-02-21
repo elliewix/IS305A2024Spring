@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24259853', 'Exaggerator', 'http://www.wikidata.org/entity/Q61970452', 'Dawn Raid', 'http://www.wikidata.org/entity/Q933399', 'Curlin', '2013', '', 'male organism']

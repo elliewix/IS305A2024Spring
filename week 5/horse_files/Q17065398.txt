@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17065398', 'Out of the Way', '', '', '', '', '1965', '', 'male organism']

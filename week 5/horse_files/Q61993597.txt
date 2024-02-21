@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993597', 'Emma', '', '', 'http://www.wikidata.org/entity/Q7993846', 'Whisker', '1824', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108839566', 'Bienseance', 'http://www.wikidata.org/entity/Q108839609', 'Miss-Ann', 'http://www.wikidata.org/entity/Q108839571', 'Friedland', '1844', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7806488', 'Timely Writer', '', '', '', '', '1979', '', 'male organism']

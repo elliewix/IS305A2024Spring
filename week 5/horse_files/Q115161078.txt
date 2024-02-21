@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115161078', 'Samber', 'http://www.wikidata.org/entity/Q115217399', 'Tina', '', '', '1976', '', 'male organism']

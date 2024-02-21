@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237245', 'Prince Pal', '', '', '', '', '1917', '', 'male organism']

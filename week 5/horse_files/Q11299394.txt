@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11299394', 'Kurino Hana', '', '', 'http://www.wikidata.org/entity/Q11335651', 'Primero', '1949', '1965', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1492693', 'Galopin', 'http://www.wikidata.org/entity/Q61970238', 'Flying Duchess', 'http://www.wikidata.org/entity/Q7917968', 'Vedette', '1872', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61988975', "John O'Gaunt", 'http://www.wikidata.org/entity/Q6462542', 'La Fleche', 'http://www.wikidata.org/entity/Q11282151', 'Isinglass', '1901', '', 'male organism']

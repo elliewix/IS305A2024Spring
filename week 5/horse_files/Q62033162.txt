@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033162', 'Mark Anthony mare', 'http://www.wikidata.org/entity/Q62033164', 'Signora', 'http://www.wikidata.org/entity/Q62016576', 'Mark Anthony', '1782', '', 'female organism']

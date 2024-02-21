@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016569', 'Juno', 'http://www.wikidata.org/entity/Q62016571', 'Horatia', 'http://www.wikidata.org/entity/Q62011058', 'Spectator', '1764', '', 'female organism']

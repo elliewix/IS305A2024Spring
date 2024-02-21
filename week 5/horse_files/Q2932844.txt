@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2932844', 'Caerleon', 'http://www.wikidata.org/entity/Q62011369', 'Foreseer', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1980', '', 'male organism']

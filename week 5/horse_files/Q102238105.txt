@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238105', 'Kiev', '', '', '', '', '1924', '', 'male organism']

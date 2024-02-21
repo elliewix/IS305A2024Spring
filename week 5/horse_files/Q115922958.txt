@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115922958', 'Tharsis', '', '', 'http://www.wikidata.org/entity/Q61970521', 'Plassy', '1944', '', 'male organism']

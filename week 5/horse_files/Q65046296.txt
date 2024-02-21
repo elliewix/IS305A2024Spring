@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65046296', 'Quixall Crossett', '', '', '', '', '1985', '', '']

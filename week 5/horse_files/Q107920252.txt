@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107920252', 'Vyta Du Roc', '', '', '', '', '', '', '']

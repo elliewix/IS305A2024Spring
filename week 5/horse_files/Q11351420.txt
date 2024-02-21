@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11351420', 'Wana', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2000', '', 'female organism']

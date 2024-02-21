@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96391970', 'Marguerite', '', '', '', '', '1920', '1945', 'female organism']

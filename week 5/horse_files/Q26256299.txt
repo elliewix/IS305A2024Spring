@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26256299', 'Joly Jumper', '', '', 'http://www.wikidata.org/entity/Q22338059', 'Ukase', '1975', '', 'male organism']

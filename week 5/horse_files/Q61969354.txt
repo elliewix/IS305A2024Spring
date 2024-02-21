@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969354', 'Sanda', '', '', 'http://www.wikidata.org/entity/Q61969393', 'Wenlock', '1878', '', 'female organism']

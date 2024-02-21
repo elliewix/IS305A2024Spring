@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122059663', 'Sampson 22217', '', '', 'http://www.wikidata.org/entity/Q122058926', 'Maceo 19881', '', '', 'male organism']

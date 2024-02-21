@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359664', 'Helmsley Turk', '', '', '', '', '1665', '', 'male organism']

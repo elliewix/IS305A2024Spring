@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26422826', 'Jerich Parzival', '', '', '', '', '1997', '', '']

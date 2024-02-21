@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30633519', 'Dara Monarch', '', '', '', '', '1979', '', 'male organism']

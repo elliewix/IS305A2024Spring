@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52555675', 'Galaor', 'http://www.wikidata.org/entity/Q108858908', 'Darioletta', 'http://www.wikidata.org/entity/Q52555743', 'Muley-Moloch', '1838', '', 'male organism']

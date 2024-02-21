@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61985755', 'Trevisa', '', '', 'http://www.wikidata.org/entity/Q61985770', 'Advocate', '1951', '', 'female organism']

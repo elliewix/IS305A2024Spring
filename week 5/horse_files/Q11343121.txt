@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343121', 'ムッシュシェクル', '', '', 'http://www.wikidata.org/entity/Q7301055', 'Real Shadai', '1988', '', 'male organism']

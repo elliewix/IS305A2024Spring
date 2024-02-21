@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119438738', 'Calypso 25017', 'http://www.wikidata.org/entity/Q119438682', 'Fatma 25787', 'http://www.wikidata.org/entity/Q119795341', 'Theudis 40871', '1897', '1915', 'male organism']

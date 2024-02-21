@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66718031', 'Balto Star', '', '', '', '', '1998', '', 'male organism']

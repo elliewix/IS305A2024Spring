@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241446', 'Hoist the Silver', '', '', '', '', '1975', '', 'male organism']

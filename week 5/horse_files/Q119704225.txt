@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119704225', 'Rosalie', '', '', 'http://www.wikidata.org/entity/Q119704192', 'Duke-de-Rouen 722', '', '', 'female organism']

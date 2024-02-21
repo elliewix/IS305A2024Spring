@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22320247', 'Balin D', '', '', 'http://www.wikidata.org/entity/Q22320188', 'Fier de lui', '1978', '', 'female organism']

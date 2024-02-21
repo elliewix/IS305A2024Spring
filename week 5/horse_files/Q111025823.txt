@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111025823', 'Cicave du Talus', 'http://www.wikidata.org/entity/Q76833542', 'Neika du Talus', '', '', '2012', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104528322', 'Lei Papale', '', '', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2017', '', 'female organism']

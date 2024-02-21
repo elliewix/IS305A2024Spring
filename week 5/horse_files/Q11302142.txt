@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11302142', 'Cosmo Bulk', '', '', 'http://www.wikidata.org/entity/Q11306348', 'Zagreb', '2001', '', 'male organism']

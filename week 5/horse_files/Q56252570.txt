@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56252570', 'Snitzel', '', '', 'http://www.wikidata.org/entity/Q7306207', "Redoute's Choice", '2002', '', 'male organism']

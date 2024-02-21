@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2389860', 'Thumbelina', '', '', '', '', '2001', '2018', 'female organism']

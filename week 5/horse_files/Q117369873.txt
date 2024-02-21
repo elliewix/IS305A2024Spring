@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369873', 'Marpesia', 'http://www.wikidata.org/entity/Q117369938', 'Amazon', 'http://www.wikidata.org/entity/Q4874043', 'Bay Middleton', '1856', '', 'female organism']

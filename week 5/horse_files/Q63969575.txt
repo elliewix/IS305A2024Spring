@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969575', 'Rubiano', 'http://www.wikidata.org/entity/Q63969587', 'Ruby Slippers', 'http://www.wikidata.org/entity/Q5434454', 'Fappiano', '1987', '', 'male organism']

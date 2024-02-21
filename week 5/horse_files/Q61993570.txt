@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993570', 'Marco', 'http://www.wikidata.org/entity/Q61993576', 'Novitiate', 'http://www.wikidata.org/entity/Q4859816', 'Barcaldine', '1892', '', 'male organism']

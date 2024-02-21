@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545101', 'Armorial', 'http://www.wikidata.org/entity/Q107545095', 'Tellaris', 'http://www.wikidata.org/entity/Q107545093', 'Battlefield', '1955', '', 'female organism']

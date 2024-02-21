@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18236711', 'Albertus Maximus', '', '', 'http://www.wikidata.org/entity/Q30931121', 'Albert the Great', '2004', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17016301', 'Parthia', '', '', 'http://www.wikidata.org/entity/Q21996664', 'Persian Gulf', '1956', '', 'male organism']

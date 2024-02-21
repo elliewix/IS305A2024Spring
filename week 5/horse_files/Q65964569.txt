@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65964569', 'Qredo de Paulstra', 'http://www.wikidata.org/entity/Q111356887', 'Célia de Paulstra', 'http://www.wikidata.org/entity/Q3094865', 'Galoubet A', '1982', '2016', 'male organism']

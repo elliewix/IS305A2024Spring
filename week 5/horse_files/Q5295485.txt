@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5295485', 'Doncaster', 'http://www.wikidata.org/entity/Q61978884', 'Marigold', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1870', '1892', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238917', 'Today', '', '', '', '', '1932', '', 'male organism']

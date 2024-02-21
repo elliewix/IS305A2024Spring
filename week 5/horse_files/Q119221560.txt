@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119221560', 'Breissand', 'http://www.wikidata.org/entity/Q119297757', 'Lamie 29210', 'http://www.wikidata.org/entity/Q119221808', 'Mamert 38116', '1901', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939783', 'Bollin Eric', '', '', 'http://www.wikidata.org/entity/Q7459919', 'Shaamit', '1999', '2020', 'male organism']

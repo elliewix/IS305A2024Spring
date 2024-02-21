@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5504713', 'Frisk Me Now', '', '', 'http://www.wikidata.org/entity/Q6880123', 'Mister Frisky', '1994', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7190005', 'Pia Star', '', '', 'http://www.wikidata.org/entity/Q7088924', 'Olympia', '1961', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7861455', 'Tyrant', 'http://www.wikidata.org/entity/Q62020464', 'Sea-Fowl', 'http://www.wikidata.org/entity/Q7235103', 'Potoooooooo', '1799', '', 'male organism']

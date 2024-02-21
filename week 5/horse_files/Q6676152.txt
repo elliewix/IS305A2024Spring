@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6676152', 'Lope de Vega', '', '', 'http://www.wikidata.org/entity/Q7487429', 'Shamardal', '2007', '', 'male organism']

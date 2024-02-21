@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239471', 'Alexis', '', '', '', '', '1942', '', 'male organism']

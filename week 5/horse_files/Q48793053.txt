@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48793053', 'Bianca Nera', '', '', '', '', '1994', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224745', 'フラガラッハ', '', '', 'http://www.wikidata.org/entity/Q10932646', 'Durandal', '2007', '', 'male organism']

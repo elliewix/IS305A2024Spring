@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033035', 'Tomboy', 'http://www.wikidata.org/entity/Q62033039', 'Ardrossan mare', 'http://www.wikidata.org/entity/Q6183165', 'Jerry', '1829', '', 'male organism']

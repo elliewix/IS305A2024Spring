@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107551626', 'Miss Fairfax', 'http://www.wikidata.org/entity/Q107551621', 'Bellicent', 'http://www.wikidata.org/entity/Q107551620', 'Teddy Beau', '1943', '', 'female organism']

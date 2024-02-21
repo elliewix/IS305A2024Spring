@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016693', 'Atalanta', 'http://www.wikidata.org/entity/Q62016695', 'Feronia', 'http://www.wikidata.org/entity/Q1492693', 'Galopin', '1878', '', 'female organism']

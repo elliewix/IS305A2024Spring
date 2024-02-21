@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96238764', 'Revanche', 'http://www.wikidata.org/entity/Q96238858', 'Mandarine', 'http://www.wikidata.org/entity/Q96142797', 'Lavater', '1887', '', 'female organism']

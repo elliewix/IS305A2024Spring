@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17221732', 'Aloha Dream', '', '', '', '', '1993', '1998', 'male organism']

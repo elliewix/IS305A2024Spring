@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978495', 'Ayn Hali', '', '', 'http://www.wikidata.org/entity/Q16960061', 'Desmond', '1913', '', 'female organism']

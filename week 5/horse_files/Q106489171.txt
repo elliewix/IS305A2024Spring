@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106489171', 'Imperioso', '', '', '', '', '1976', '2006', 'male organism']

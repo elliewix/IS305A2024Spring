@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342794', 'ミラクルタイム', '', '', 'http://www.wikidata.org/entity/Q11308429', 'Silver Hawk', '1995', '', 'male organism']

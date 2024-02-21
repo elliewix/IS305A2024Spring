@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3783326', 'Hard Tack', '', '', 'http://www.wikidata.org/entity/Q114218', "Man o' War", '1926', '', 'male organism']

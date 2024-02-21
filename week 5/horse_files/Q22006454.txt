@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006454', 'Nomadic Way', '', '', 'http://www.wikidata.org/entity/Q4808747', 'Assert', '1985', '', 'male organism']

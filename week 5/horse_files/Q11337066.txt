@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337066', 'ベリーブラエ', '', '', '', '', '2002', '2012', 'male organism']

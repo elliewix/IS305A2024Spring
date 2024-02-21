@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316320', 'Tamamo Strong', 'http://www.wikidata.org/entity/Q11305864', 'Sand Peeress', 'http://www.wikidata.org/entity/Q11311410', 'Scan', '1995', '', 'male organism']

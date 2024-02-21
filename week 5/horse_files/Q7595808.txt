@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7595808', 'Stacelita', '', '', 'http://www.wikidata.org/entity/Q1945364', 'Monsun', '2006', '', 'female organism']

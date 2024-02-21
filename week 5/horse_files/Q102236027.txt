@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236027', 'Loftin', '', '', '', '', '1881', '', 'male organism']

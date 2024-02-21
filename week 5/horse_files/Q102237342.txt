@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237342', 'Planet', '', '', '', '', '1918', '', 'male organism']

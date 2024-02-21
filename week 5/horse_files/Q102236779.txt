@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236779', 'Colston', '', '', '', '', '1908', '', 'male organism']

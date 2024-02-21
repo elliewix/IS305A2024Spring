@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16960394', 'Les Arcs', '', '', 'http://www.wikidata.org/entity/Q4785285', 'Arch', '2000', '', '']

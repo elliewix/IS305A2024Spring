@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113987006', 'Mine Only', '', '', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1981', '', 'female organism']

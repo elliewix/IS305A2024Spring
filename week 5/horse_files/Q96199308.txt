@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96199308', 'Kœnigsberg', 'http://www.wikidata.org/entity/Q96199384', 'Byzance', 'http://www.wikidata.org/entity/Q96193987', 'Beaumanoir', '1910', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347257', 'ラフオンテース', '', '', '', '', '1977', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108689524', 'Trianon du Bois', '', '', '', '', '1941', '', 'male organism']

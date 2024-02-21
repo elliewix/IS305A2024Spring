@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224888', 'Belshazzar', 'http://www.wikidata.org/entity/Q113421832', 'Maruka Candy', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2008', '', 'male organism']

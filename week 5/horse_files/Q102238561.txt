@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238561', 'Buckeye Poet', '', '', '', '', '1927', '', 'male organism']

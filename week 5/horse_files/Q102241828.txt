@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241828', 'Majestic Shore', '', '', '', '', '1981', '', 'male organism']

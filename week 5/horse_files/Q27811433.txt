@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q27811433', 'Laverne Hanover', '', '', '', '', '1966', '', '']

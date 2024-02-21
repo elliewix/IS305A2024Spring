@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7244105', 'Prince John', 'http://www.wikidata.org/entity/Q107534541', 'Not Afraid', 'http://www.wikidata.org/entity/Q7244431', 'Princequillo', '1953', '', 'male organism']

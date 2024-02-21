@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311128', 'スイフトセイダイ', '', '', '', '', '1986', '', 'male organism']

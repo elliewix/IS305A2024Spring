@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026217', 'Compton Barb', '', '', '', '', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q50196184', "Punch de l'Esques", '', '', '', '', '2003', '', 'male organism']

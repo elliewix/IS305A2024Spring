@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5208165', 'Daedalus', 'http://www.wikidata.org/entity/Q62027267', 'Flyer', 'http://www.wikidata.org/entity/Q61993976', 'Justice', '1791', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61999152', 'Cheery', 'http://www.wikidata.org/entity/Q61999198', 'Sunrise', 'http://www.wikidata.org/entity/Q280168', 'St. Simon', '1892', '', 'female organism']

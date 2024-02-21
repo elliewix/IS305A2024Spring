@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61976427', 'Dick Andrews', 'http://www.wikidata.org/entity/Q64012061', 'Highflyer mare', 'http://www.wikidata.org/entity/Q61976430', 'Joe Andrews', '1797', '', 'male organism']

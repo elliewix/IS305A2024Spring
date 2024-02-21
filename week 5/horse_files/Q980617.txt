@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q980617', 'Sakhee', '', '', 'http://www.wikidata.org/entity/Q11328608', 'Bahri', '1997', '', 'male organism']

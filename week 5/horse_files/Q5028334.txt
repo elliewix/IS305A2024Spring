@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5028334', 'Campfire', '', '', 'http://www.wikidata.org/entity/Q7083071', 'Olambala', '1914', '', 'male organism']

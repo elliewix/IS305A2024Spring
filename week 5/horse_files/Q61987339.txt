@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987339', 'Arbitrator', 'http://www.wikidata.org/entity/Q61987345', 'Mother Goose', 'http://www.wikidata.org/entity/Q7157345', 'Peace Chance', '1937', '', 'female organism']

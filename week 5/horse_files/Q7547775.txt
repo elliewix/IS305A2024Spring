@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7547775', 'Snip', 'http://www.wikidata.org/entity/Q22328270', 'Basto mare', 'http://www.wikidata.org/entity/Q3074615', 'Flying Childers', '1736', '', 'male organism']

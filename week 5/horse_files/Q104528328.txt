@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104528328', 'Derma Louvre', '', '', 'http://www.wikidata.org/entity/Q7263620', 'Pyro', '2016', '', 'male organism']

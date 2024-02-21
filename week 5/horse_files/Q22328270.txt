@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22328270', 'Basto mare', 'http://www.wikidata.org/entity/Q22328281', 'Curwen Bay Barb mare', 'http://www.wikidata.org/entity/Q11327706', 'Basto', '', '', 'female organism']

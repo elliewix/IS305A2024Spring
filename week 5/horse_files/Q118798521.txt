@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798521', 'Mr.Rudolf', '', '', 'http://www.wikidata.org/entity/Q11308703', 'Symboli Rudolf', '1990', '', 'male organism']

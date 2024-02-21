@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342871', 'ミリオンパラ', '', '', '', '', '1968', '', 'male organism']

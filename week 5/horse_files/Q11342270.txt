@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342270', 'ミツアキタービン', '', '', 'http://www.wikidata.org/entity/Q11346555', 'ライブリマウント', '2000', '', 'male organism']

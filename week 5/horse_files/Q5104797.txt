@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5104797', 'Chop Chop', '', '', 'http://www.wikidata.org/entity/Q5457475', 'Flares', '1940', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312169', 'Suda Hawk', '', '', 'http://www.wikidata.org/entity/Q11308892', 'Sea Hawk', '1982', '2003', 'male organism']

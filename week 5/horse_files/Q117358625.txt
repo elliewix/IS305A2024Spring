@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358625', 'Thunderbolt', 'http://www.wikidata.org/entity/Q61993970', 'Wowski', 'http://www.wikidata.org/entity/Q7563356', 'Sorcerer', '1806', '', 'male organism']

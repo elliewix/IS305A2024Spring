@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237857', 'Prince of Bourbon', '', '', '', '', '1922', '', 'male organism']

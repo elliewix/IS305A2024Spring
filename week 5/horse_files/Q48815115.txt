@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48815115', 'Lovely Rosa', '', '', '', '', '1933', '', '']

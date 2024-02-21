@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240326', 'Our Dad', '', '', '', '', '1956', '', 'male organism']

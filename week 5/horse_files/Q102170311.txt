@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102170311', 'Nadal', '', '', '', '', '', '', 'male organism']

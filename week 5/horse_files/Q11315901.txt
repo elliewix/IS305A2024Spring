@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315901', 'タカイホーマ', '', '', '', '', '1969', '', 'female organism']

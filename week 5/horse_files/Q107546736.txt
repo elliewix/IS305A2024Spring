@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546736', 'Gay Missile', '', '', '', '', '1967', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330338', "Hiruno d'Amour", '', '', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2007', '', 'male organism']

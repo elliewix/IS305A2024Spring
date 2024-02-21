@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242019', 'Kingpost', '', '', '', '', '1985', '', 'male organism']

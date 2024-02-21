@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7244431', 'Princequillo', 'http://www.wikidata.org/entity/Q55097627', 'Cosquilla', 'http://www.wikidata.org/entity/Q7244217', 'Prince Rose', '1940', '1964', 'male organism']

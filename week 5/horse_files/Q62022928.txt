@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022928', 'Gowers Sweepstakes', 'http://www.wikidata.org/entity/Q62022933', 'Partner mare', 'http://www.wikidata.org/entity/Q62022930', 'Gower Stallion', '1749', '', 'male organism']

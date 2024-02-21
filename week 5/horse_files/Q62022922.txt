@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022922', 'Gohanna mare', 'http://www.wikidata.org/entity/Q62022924', 'Fraxinella', 'http://www.wikidata.org/entity/Q5577568', 'Gohanna', '1803', '', 'female organism']

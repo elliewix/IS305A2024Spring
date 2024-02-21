@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6697974', 'Lucky Nine', '', '', 'http://www.wikidata.org/entity/Q5310663', 'Dubawi', '2007', '', 'male organism']

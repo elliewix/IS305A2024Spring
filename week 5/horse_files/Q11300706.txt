@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11300706', 'Grey Sovereign', '', '', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1948', '', 'male organism']

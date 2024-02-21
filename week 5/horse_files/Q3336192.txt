@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3336192', 'Nashwan', 'http://www.wikidata.org/entity/Q11326056', 'Height Of Fashion', 'http://www.wikidata.org/entity/Q2907399', 'Blushing Groom', '1986', '2002', 'male organism']

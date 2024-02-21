@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6869502', 'Minster Son', '', '', 'http://www.wikidata.org/entity/Q17012529', 'Niniski', '1985', '2006', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18127294', 'Pharly', '', '', 'http://www.wikidata.org/entity/Q3269685', 'Lyphard', '1974', '', 'male organism']

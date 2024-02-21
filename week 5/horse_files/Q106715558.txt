@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106715558', 'Mongolian Changa', 'http://www.wikidata.org/entity/Q107002633', 'Bridled', 'http://www.wikidata.org/entity/Q102290767', 'Brilliant Speed', '2014', '', 'female organism']

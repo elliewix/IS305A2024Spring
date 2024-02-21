@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360185', "Wastell's Turk", '', '', '', '', '1697', '', 'male organism']

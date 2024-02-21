@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117195090', 'Coco 712', 'http://www.wikidata.org/entity/Q117204377', 'Pauline', 'http://www.wikidata.org/entity/Q117195067', 'Mignon', '1841', '', 'male organism']

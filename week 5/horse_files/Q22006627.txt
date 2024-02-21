@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006627', 'Sookera', '', '', 'http://www.wikidata.org/entity/Q7351567', 'Roberto', '1975', '', 'female organism']

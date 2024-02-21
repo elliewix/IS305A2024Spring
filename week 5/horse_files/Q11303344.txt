@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303344', 'Kosei', '', '', 'http://www.wikidata.org/entity/Q11315708', 'Tai Tehm', '1984', '2014', 'female organism']

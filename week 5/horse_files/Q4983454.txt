@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4983454', 'Buckpasser', 'http://www.wikidata.org/entity/Q5001276', 'Busanda', 'http://www.wikidata.org/entity/Q7815827', 'Tom Fool', '1963', '', 'male organism']

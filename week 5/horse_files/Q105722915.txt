@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105722915', 'Razzia de Revel', 'http://www.wikidata.org/entity/Q22318160', 'Dirka', 'http://www.wikidata.org/entity/Q1679759', 'Jalisco B', '1983', '', 'female organism']

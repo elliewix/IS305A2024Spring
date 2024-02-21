@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5997358', 'Ildrim', '', '', 'http://www.wikidata.org/entity/Q6413448', 'Kingston', '1897', '', 'male organism']

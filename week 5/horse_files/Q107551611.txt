@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107551611', 'Adana', 'http://www.wikidata.org/entity/Q107551599', 'Mannie Himyar', 'http://www.wikidata.org/entity/Q107551597', 'Adam', '1908', '', 'female organism']

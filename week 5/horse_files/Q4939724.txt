@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939724', 'Bolkonski', '', '', '', '', '1972', '', 'male organism']

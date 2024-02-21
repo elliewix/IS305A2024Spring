@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3192701', 'Kannan', 'http://www.wikidata.org/entity/Q111317879', 'Cemeta', 'http://www.wikidata.org/entity/Q7940766', 'Voltaire', '1992', '2020', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033130', 'sister to Tandem', 'http://www.wikidata.org/entity/Q62033138', 'Regulus mare', 'http://www.wikidata.org/entity/Q61988090', 'Syphon', '1771', '', 'female organism']

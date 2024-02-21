@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6785010', 'Master Derby', '', '', 'http://www.wikidata.org/entity/Q5316978', 'Dust Commander', '1972', '', 'male organism']

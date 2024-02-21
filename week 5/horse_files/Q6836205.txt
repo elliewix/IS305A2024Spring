@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6836205', 'Miche', '', '', '', '', '1945', '', 'male organism']

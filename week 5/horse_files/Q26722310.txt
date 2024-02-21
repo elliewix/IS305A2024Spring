@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26722310', 'Cognac Champblanc', '', '', '', '', '2003', '', 'male organism']

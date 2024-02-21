@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61570899', 'Indy Champ', '', '', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2015', '', 'male organism']

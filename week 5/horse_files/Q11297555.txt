@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297555', 'Kyoei Tap', '', '', '', '', '1987', '', 'female organism']

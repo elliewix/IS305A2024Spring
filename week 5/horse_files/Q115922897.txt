@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115922897', 'Tharsine', 'http://www.wikidata.org/entity/Q115923204', 'Niphobe', 'http://www.wikidata.org/entity/Q115922958', 'Tharsis', '1953', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87755904', 'Art Paper', 'http://www.wikidata.org/entity/Q87757471', 'Quire', 'http://www.wikidata.org/entity/Q87755911', "Artist's Proof", '1933', '', 'female organism']

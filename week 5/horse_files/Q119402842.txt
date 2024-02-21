@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119402842', 'White Prince', 'http://www.wikidata.org/entity/Q26792854', 'Patchen Beauty', 'http://www.wikidata.org/entity/Q16991733', 'Devil His Due', '2008', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5449766', 'Finasseur', '', '', '', '', '1902', '', 'male organism']

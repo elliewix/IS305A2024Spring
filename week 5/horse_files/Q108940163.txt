@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108940163', 'Colporteur', 'http://www.wikidata.org/entity/Q108937184', 'Zaïne', 'http://www.wikidata.org/entity/Q96096846', 'Normand', '1880', '', 'male organism']

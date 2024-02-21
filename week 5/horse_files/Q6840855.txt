@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6840855', 'Mid-day Sun', '', '', 'http://www.wikidata.org/entity/Q7557028', 'Solario', '1934', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5052000', 'Catgut', '', '', 'http://www.wikidata.org/entity/Q61988007', 'Comus', '1816', '', 'female organism']

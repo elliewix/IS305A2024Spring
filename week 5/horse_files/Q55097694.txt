@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55097694', 'Cinquepace', 'http://www.wikidata.org/entity/Q55097722', 'Assignation', 'http://www.wikidata.org/entity/Q55097701', 'Brown Bud', '', '', 'female organism']

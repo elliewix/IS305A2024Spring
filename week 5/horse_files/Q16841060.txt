@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16841060', 'Grey Swallow', '', '', 'http://www.wikidata.org/entity/Q3019341', 'Daylami', '2001', '', 'male organism']

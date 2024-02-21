@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312367', 'State Jaguar', '', '', 'http://www.wikidata.org/entity/Q11305596', 'Sunshine Boy', '1981', '', 'male organism']

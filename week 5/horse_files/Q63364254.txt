@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63364254', 'Saphir du Talus', 'http://www.wikidata.org/entity/Q76833542', 'Neika du Talus', 'http://www.wikidata.org/entity/Q17177198', 'Diamant de Semilly', '2006', '', 'male organism']

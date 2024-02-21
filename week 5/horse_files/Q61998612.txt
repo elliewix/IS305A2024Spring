@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998612', 'Statute', '', '', 'http://www.wikidata.org/entity/Q7560561', 'Son-in-Law', '1936', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24866183', 'Oju Chosan', '', '', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2011', '', 'male organism']

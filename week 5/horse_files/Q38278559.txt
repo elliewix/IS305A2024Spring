@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q38278559', 'リードスワロー', '', '', '', '', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107669975', 'Naous', 'http://www.wikidata.org/entity/Q124328879', 'Uvry', '', '', '1935', '', 'male organism']

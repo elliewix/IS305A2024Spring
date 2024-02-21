@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341432', 'マルブツトップ', '', '', 'http://www.wikidata.org/entity/Q5215257', 'Dance in the Dark', '2000', '', 'male organism']

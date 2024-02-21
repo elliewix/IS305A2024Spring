@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55622763', 'Memoir', 'http://www.wikidata.org/entity/Q61999244', 'Quiver', 'http://www.wikidata.org/entity/Q280168', 'St. Simon', '1887', '1908', 'female organism']

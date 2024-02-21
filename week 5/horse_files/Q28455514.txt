@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28455514', 'Tapizar', '', '', 'http://www.wikidata.org/entity/Q16953076', 'Tapit', '2008', '', 'male organism']

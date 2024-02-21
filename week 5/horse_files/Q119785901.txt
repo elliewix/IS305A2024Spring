@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119785901', 'Tristam 1018', 'http://www.wikidata.org/entity/Q119785348', 'Fanchonnette', 'http://www.wikidata.org/entity/Q118136673', 'Nogent', '1876', '', 'male organism']

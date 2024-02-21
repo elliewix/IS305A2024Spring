@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q44737176', 'Général du Lupin', '', '', 'http://www.wikidata.org/entity/Q3267883', "Lutin d'Isigny", '1994', '2023', 'male organism']

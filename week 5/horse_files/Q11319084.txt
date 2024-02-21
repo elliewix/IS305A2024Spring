@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319084', 'テイエムドラゴン', '', '', 'http://www.wikidata.org/entity/Q17221619', 'Admire Vega', '2002', '', 'male organism']

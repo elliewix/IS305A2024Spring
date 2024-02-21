@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108570546', 'Molly Clarke', '', '', 'http://www.wikidata.org/entity/Q108570559', 'St. Angelo', '1902', '', 'female organism']

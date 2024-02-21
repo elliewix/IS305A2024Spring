@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237756', 'Single Foot', '', '', '', '', '1922', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5036613', 'Captain Cuttle', '', '', 'http://www.wikidata.org/entity/Q11326832', 'Hurry On', '1919', '', 'male organism']

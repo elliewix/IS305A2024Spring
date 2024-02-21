@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242859', 'West Side Bernie', '', '', '', '', '2006', '', 'male organism']

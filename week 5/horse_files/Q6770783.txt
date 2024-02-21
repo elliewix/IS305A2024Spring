@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6770783', 'Market Wise', '', '', 'http://www.wikidata.org/entity/Q4973554', 'Brokers Tip', '1938', '', 'male organism']

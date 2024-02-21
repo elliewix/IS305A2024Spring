@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108113013', 'Cupido PB', '', '', '', '', '2007', '', 'male organism']

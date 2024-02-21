@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242332', 'Strodes Creek', '', '', '', '', '1991', '', 'male organism']

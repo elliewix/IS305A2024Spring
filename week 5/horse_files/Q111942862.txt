@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111942862', 'Panique', '', '', '', '', '1881', '1895', 'male organism']

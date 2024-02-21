@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012033', 'Venison mare', 'http://www.wikidata.org/entity/Q64012040', 'Wedding-day', 'http://www.wikidata.org/entity/Q62033520', 'Venison', '1849', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384753', 'Bay Bolton mare', 'http://www.wikidata.org/entity/Q117384754', 'Old Scarborough mare', 'http://www.wikidata.org/entity/Q4873937', 'Bay Bolton', '1715', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384633', 'sister to Lady Cow', 'http://www.wikidata.org/entity/Q117384726', 'Leedes mare', 'http://www.wikidata.org/entity/Q117384680', 'Hampton Court Chestnut Arabian', '1724', '', 'female organism']

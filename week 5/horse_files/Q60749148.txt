@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60749148', 'The Assyrian', '', '', '', '', '1877', '', '']

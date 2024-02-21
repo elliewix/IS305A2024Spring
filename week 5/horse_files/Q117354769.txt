@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354769', 'Margery', '', '', 'http://www.wikidata.org/entity/Q7140694', 'Partner', '1730', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978873', 'Vista', 'http://www.wikidata.org/entity/Q61978875', 'Verdure', 'http://www.wikidata.org/entity/Q6722591', 'Macaroni', '1879', '', 'female organism']

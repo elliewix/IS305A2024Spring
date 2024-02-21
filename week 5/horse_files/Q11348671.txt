@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348671', 'リンドホシ', '', '', '', '', '1985', '', 'male organism']

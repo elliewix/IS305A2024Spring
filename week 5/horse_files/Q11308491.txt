@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308491', 'Shin Kaiun', '', '', '', '', '1992', '2000', 'male organism']

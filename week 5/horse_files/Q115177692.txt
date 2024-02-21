@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115177692', 'Obamburumai', '', '', 'http://www.wikidata.org/entity/Q5282030', 'Discreet Cat', '2020', '', 'male organism']

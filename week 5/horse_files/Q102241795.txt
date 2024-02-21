@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241795', 'Coax Me Chad', '', '', '', '', '1981', '', 'male organism']

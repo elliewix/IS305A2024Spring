@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11330750', 'ビッグテースト', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1998', '', 'male organism']

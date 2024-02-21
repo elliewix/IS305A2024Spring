@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18128495', 'Super Concorde', '', '', 'http://www.wikidata.org/entity/Q4939066', 'Bold Reasoning', '1975', '1987', 'male organism']

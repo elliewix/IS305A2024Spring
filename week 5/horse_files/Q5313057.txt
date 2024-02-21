@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5313057', 'Duke of Magenta', '', '', 'http://www.wikidata.org/entity/Q370429', 'Lexington', '1875', '', 'male organism']

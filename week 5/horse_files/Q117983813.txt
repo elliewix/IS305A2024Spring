@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117983813', 'Buster II 152910', 'http://www.wikidata.org/entity/Q118043531', 'Susie', 'http://www.wikidata.org/entity/Q117983514', 'Buster 111148', '1918', '', 'male organism']

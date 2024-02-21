@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108853236', 'Elisa', 'http://www.wikidata.org/entity/Q108853273', 'Elise', 'http://www.wikidata.org/entity/Q108853231', 'Corsair', '1853', '1881', 'female organism']

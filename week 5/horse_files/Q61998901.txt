@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998901', 'Yellow Mist', 'http://www.wikidata.org/entity/Q61998925', 'Silver Fog', '', '', '1950', '', 'female organism']

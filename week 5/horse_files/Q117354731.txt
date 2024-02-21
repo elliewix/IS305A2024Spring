@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354731', 'Hog mare', 'http://www.wikidata.org/entity/Q117354756', 'Duc de Chartres Hawker mare', 'http://www.wikidata.org/entity/Q117354735', 'Bristol Hog', '1705', '', 'female organism']

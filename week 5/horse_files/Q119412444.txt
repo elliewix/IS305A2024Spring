@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119412444', 'South Valley Carnova', '', '', '', '', '1954', '', 'female organism']

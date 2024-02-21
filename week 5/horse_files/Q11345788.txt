@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345788', 'ユメロマン', '', '', 'http://www.wikidata.org/entity/Q3100542', 'Generous', '2002', '', 'male organism']

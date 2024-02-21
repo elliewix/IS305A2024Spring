@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240007', 'Ace Destroyer', '', '', '', '', '1950', '', 'male organism']

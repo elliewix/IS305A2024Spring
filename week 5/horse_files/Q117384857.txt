@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384857', 'Fearnought', 'http://www.wikidata.org/entity/Q117384859', 'Silvertail', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1755', '', 'male organism']

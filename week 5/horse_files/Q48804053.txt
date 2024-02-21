@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48804053', "Pride's Generator", '', '', '', '', '', '', 'male organism']

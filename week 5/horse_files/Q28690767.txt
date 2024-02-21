@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28690767', 'クリイワイ', '', '', '', '', '1969', '', 'male organism']

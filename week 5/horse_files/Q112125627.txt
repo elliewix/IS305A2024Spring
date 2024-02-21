@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112125627', 'Havas', 'http://www.wikidata.org/entity/Q112125616', 'Mandragore', 'http://www.wikidata.org/entity/Q96314586', 'Valdampierre', '1885', '', 'male organism']

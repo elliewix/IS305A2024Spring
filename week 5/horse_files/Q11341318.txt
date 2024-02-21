@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341318', 'マルタケ', '', '', '', '', '1936', '', 'male organism']

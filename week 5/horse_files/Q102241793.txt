@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241793', 'Total Departure', '', '', '', '', '1980', '', 'male organism']

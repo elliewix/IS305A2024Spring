@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316317', 'Tamami', '', '', '', '', '1967', '', 'female organism']

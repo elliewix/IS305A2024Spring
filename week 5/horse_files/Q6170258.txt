@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6170258', 'Jean Bereaud', '', '', '', '', '1896', '', 'male organism']

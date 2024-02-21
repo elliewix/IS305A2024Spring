@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18172318', 'Slade Power', '', '', 'http://www.wikidata.org/entity/Q24959794', 'Dutch Art', '2009', '', 'male organism']

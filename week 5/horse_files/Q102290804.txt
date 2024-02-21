@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290804', 'Golden Soul', '', '', '', '', '2010', '', 'male organism']

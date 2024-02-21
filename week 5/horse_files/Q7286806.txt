@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7286806', 'Rakti', '', '', 'http://www.wikidata.org/entity/Q11339308', 'Polish Precedent', '1999', '2010', 'male organism']

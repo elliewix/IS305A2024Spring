@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117370936', 'sister to Chaunter', 'http://www.wikidata.org/entity/Q117371010', 'Cream Cheeks', 'http://www.wikidata.org/entity/Q117370983', 'Acaster Turk', '1711', '', 'female organism']

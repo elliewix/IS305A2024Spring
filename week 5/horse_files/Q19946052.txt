@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q19946052', 'Thunderhead', '', '', '', '', '1949', '', 'male organism']

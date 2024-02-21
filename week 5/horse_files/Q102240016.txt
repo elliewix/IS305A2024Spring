@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240016', 'Admiral Porter', '', '', '', '', '1951', '', 'male organism']

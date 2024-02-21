@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q76240969', 'Chimera Verite', '', '', 'http://www.wikidata.org/entity/Q11296691', 'Kizuna', '2017', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123998414', 'Jack Traveler', '', '', 'http://www.wikidata.org/entity/Q22286526', 'Steel Dust', '1873', '', 'male organism']

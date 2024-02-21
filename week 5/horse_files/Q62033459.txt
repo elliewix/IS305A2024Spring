@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033459', 'Smiling Tom mare', 'http://www.wikidata.org/entity/Q62033477', 'sister to Spinner', 'http://www.wikidata.org/entity/Q62033462', 'Smiling Tom', '1739', '', 'female organism']

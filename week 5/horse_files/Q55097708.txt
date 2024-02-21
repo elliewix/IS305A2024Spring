@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55097708', 'Brown Prince', 'http://www.wikidata.org/entity/Q55097713', 'Excellenza', 'http://www.wikidata.org/entity/Q1166219', 'Dark Ronald', '', '', 'male organism']

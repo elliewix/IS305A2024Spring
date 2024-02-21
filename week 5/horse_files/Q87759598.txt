@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87759598', 'Receipt', 'http://www.wikidata.org/entity/Q87759599', 'Sam mare', 'http://www.wikidata.org/entity/Q7372299', 'Rowton', '1836', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16837297', 'Estimate', 'http://www.wikidata.org/entity/Q16259095', 'Ebaziya', 'http://www.wikidata.org/entity/Q1945364', 'Monsun', '2009', '', 'female organism']

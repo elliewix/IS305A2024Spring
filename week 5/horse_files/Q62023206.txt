@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023206', 'Starling mare', 'http://www.wikidata.org/entity/Q62023210', 'Dairymaid', 'http://www.wikidata.org/entity/Q11338801', 'Bolton Starling', '', '', 'female organism']

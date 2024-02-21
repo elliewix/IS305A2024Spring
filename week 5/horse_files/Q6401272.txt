@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6401272', 'Khemosabi', '', '', '', '', '', '', '']

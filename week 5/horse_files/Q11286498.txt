@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286498', 'Isabelline', '', '', '', '', '1944', '1978', 'female organism']

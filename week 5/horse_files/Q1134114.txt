@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1134114', 'Cornet Obolensky', 'http://www.wikidata.org/entity/Q22329198', 'Rabanna van Costersveld', 'http://www.wikidata.org/entity/Q22314168', 'Clinton', '1999', '', 'male organism']

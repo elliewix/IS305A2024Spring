@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012117', 'Tatler Sr.', 'http://www.wikidata.org/entity/Q62027983', 'Partner mare', 'http://www.wikidata.org/entity/Q4925119', 'Blank', '1754', '', 'male organism']

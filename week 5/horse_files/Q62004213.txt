@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62004213', 'Lt. Stevens', '', '', 'http://www.wikidata.org/entity/Q11324101', 'Nantallah', '1961', '', 'male organism']

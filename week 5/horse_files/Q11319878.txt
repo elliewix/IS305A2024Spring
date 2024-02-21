@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319878', 'Ten Point', 'http://www.wikidata.org/entity/Q11351291', 'Wakakumo', 'http://www.wikidata.org/entity/Q11303118', 'Contrite', '1973', '1978', 'male organism']

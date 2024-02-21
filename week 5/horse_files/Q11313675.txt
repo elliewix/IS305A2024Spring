@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313675', 'Super Otome', '', '', '', '', '1993', '', 'female organism']

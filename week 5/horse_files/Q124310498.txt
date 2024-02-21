@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124310498', 'Izegrim de Chouannais', 'http://www.wikidata.org/entity/Q120435295', 'Ariane de Vanoise', 'http://www.wikidata.org/entity/Q124310475', "Abciss de l'Arpenteau", '2018', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5193475', 'Culture Vulture', '', '', '', '', '1989', '', 'female organism']

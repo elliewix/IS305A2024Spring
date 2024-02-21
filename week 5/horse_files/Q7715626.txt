@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7715626', 'The Bard', '', '', 'http://www.wikidata.org/entity/Q7178703', 'Petrarch', '1883', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q104783517', 'Goldstern', '', '', '', '', '1981', '2003', '']

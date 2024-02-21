@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021583', 'Feather mare', 'http://www.wikidata.org/entity/Q62021605', 'Ancaster Crazy', 'http://www.wikidata.org/entity/Q62021589', 'Feather', '1761', '', 'female organism']

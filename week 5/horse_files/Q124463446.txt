@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124463446', 'Ursus del Lasco', '', '', '', '', '', '', 'male organism']

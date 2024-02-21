@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q38276408', 'ヒガシウィルウィン', '', '', 'http://www.wikidata.org/entity/Q11304297', 'South Vigorous', '2014', '', 'male organism']

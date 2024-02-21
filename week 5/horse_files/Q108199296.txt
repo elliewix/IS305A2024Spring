@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108199296', 'Deka', 'http://www.wikidata.org/entity/Q108208257', 'Oekonomie', 'http://www.wikidata.org/entity/Q108199562', 'Consul', '1967', '', 'female organism']

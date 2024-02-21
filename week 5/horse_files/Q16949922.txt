@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16949922', 'Sinister Minister', '', '', 'http://www.wikidata.org/entity/Q7085330', 'Old Trieste', '2003', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970463', 'Embur Sunshine', 'http://www.wikidata.org/entity/Q61970471', 'Vevila', 'http://www.wikidata.org/entity/Q61970465', 'Bold Ruckus', '1993', '', 'female organism']

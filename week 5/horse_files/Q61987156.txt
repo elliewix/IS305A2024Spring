@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987156', 'Finesse', '', '', 'http://www.wikidata.org/entity/Q61987158', 'Peruvian', '1815', '', 'female organism']

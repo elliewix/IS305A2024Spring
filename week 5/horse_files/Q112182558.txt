@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112182558', 'Gustine', '', '', '', '', '1950', '', 'female organism']

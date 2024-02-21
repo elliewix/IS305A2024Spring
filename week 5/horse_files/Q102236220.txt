@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236220', 'Outlook', '', '', '', '', '1887', '', 'male organism']

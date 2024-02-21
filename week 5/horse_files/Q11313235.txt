@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313235', 'スマイルジャック', '', '', 'http://www.wikidata.org/entity/Q11316237', 'Tanino Gimlet', '2005', '', 'male organism']

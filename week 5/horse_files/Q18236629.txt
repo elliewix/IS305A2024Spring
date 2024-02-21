@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18236629', 'Ted', '', '', 'http://www.wikidata.org/entity/Q11349517', 'Regular Member', '2011', '', 'male organism']

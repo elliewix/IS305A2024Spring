@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55079294', 'Lady Comfey', '', '', '', '', '1913', '', 'female organism']

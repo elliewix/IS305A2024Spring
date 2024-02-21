@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993657', 'Lamplighter', 'http://www.wikidata.org/entity/Q61993680', 'Spotless', 'http://www.wikidata.org/entity/Q61993666', 'Merlin', '1823', '', 'male organism']

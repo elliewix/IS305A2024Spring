@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11298824', 'Kumohata', 'http://www.wikidata.org/entity/Q22002335', 'Fairy Maiden', 'http://www.wikidata.org/entity/Q11321111', 'Tournesol', '1936', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117907201', 'Duke-of-Perche 173', 'http://www.wikidata.org/entity/Q117906917', 'Franconie', 'http://www.wikidata.org/entity/Q117229489', 'Favori I', '1868', '', 'male organism']

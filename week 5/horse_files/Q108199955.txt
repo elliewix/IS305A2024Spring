@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108199955', 'Kristine du bois Margot', '', '', 'http://www.wikidata.org/entity/Q108199776', 'Clovis C', '1932', '', 'female organism']

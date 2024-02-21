@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11312816', 'スピードワールド', '', '', 'http://www.wikidata.org/entity/Q8033082', 'Woodman', '1994', '', 'male organism']

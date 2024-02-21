@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108937192', 'Bécassine', '', '', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1868', '', 'female organism']

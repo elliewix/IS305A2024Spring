@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11328608', 'Bahri', '', '', 'http://www.wikidata.org/entity/Q3433509', 'Riverman', '1992', '', 'male organism']

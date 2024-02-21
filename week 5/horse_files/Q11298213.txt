@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11298213', 'Gallant Dancer', '', '', 'http://www.wikidata.org/entity/Q5518868', 'Gallant Man', '1975', '1979', 'male organism']

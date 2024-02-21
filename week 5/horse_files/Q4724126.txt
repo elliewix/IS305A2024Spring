@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4724126', 'Algerine', '', '', 'http://www.wikidata.org/entity/Q117384191', 'Abd el-Kader', '1873', '', 'male organism']

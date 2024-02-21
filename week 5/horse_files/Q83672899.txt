@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q83672899', 'Soaring', '', '', 'http://www.wikidata.org/entity/Q7653826', 'Swaps', '1960', '', 'female organism']

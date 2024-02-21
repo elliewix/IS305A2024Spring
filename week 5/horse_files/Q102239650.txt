@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239650', 'Liberty Road', '', '', '', '', '1944', '', 'male organism']

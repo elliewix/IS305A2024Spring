@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333465', 'フライングアップル', '', '', 'http://www.wikidata.org/entity/Q7283646', 'Rahy', '2004', '', 'male organism']

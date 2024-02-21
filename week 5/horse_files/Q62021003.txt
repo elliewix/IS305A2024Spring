@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021003', 'Katherina', 'http://www.wikidata.org/entity/Q62021009', 'Landscape', 'http://www.wikidata.org/entity/Q62021006', 'Woful', '1817', '', 'female organism']

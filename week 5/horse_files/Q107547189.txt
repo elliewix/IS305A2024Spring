@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547189', 'Variete', 'http://www.wikidata.org/entity/Q107547176', 'Vaya', 'http://www.wikidata.org/entity/Q22006486', 'La Farina', '1924', '', 'female organism']

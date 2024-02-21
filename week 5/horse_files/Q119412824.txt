@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119412824', 'Susie Lynn', '', '', 'http://www.wikidata.org/entity/Q119412901', 'Lyndon', '1958', '', 'female organism']

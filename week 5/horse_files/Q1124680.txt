@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1124680', 'Condé', '', '', '', '', '1766', '1804', 'male organism']

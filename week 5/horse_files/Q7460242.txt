@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7460242', 'Shadayid', 'http://www.wikidata.org/entity/Q22006630', 'Desirable', 'http://www.wikidata.org/entity/Q7460285', 'Shadeed', '1988', '', 'female organism']

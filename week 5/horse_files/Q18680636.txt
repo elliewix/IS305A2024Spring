@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18680636', 'Houston Laukko', '', '', '', '', '1988', '2012', '']

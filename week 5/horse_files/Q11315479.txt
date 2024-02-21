@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315479', 'Sovereign Path', '', '', 'http://www.wikidata.org/entity/Q11300706', 'Grey Sovereign', '1956', '', 'male organism']

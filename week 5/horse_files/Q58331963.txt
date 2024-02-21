@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q58331963', 'Poitrel', '', '', '', '', '1914', '1932', 'male organism']

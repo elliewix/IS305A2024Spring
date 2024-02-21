@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006886', 'Faugheen', '', '', 'http://www.wikidata.org/entity/Q22006587', 'Germany', '2008', '', '']

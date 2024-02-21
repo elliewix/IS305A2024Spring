@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55091222', 'Mulatto', 'http://www.wikidata.org/entity/Q62004342', 'Desdemona', 'http://www.wikidata.org/entity/Q61994070', 'Catton', '1823', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q210956', 'Hatsushiba O', '', '', 'http://www.wikidata.org/entity/Q11316062', 'Takeshiba O', '1975', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4743783', 'American Flag', 'http://www.wikidata.org/entity/Q55079294', 'Lady Comfey', 'http://www.wikidata.org/entity/Q114218', "Man o' War", '1922', '', 'male organism']

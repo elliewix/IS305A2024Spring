@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28683027', 'オーディン', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1989', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87755911', "Artist's Proof", 'http://www.wikidata.org/entity/Q87755913', 'Clear Evidence', 'http://www.wikidata.org/entity/Q5517294', 'Gainsborough', '1926', '', 'male organism']

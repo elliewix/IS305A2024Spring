@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62011141', 'Snapdragon', 'http://www.wikidata.org/entity/Q61993983', 'Regulus mare', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1759', '', 'female organism']

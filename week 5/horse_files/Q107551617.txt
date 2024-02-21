@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107551617', 'Nedana', 'http://www.wikidata.org/entity/Q107551611', 'Adana', 'http://www.wikidata.org/entity/Q107551610', 'Negofol', '1922', '', 'female organism']

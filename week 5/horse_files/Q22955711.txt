@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22955711', 'Ramiro Z', 'http://www.wikidata.org/entity/Q108170877', 'Valine', 'http://www.wikidata.org/entity/Q108138347', 'Raimond', '1965', '1995', 'male organism']

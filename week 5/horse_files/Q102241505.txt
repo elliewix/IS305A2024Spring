@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241505', "Execution's Reason", '', '', '', '', '1977', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22286216', 'Morafic', '', '', '', '', '', '', 'male organism']

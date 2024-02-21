@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11289088', 'Umeno Fiber', '', '', 'http://www.wikidata.org/entity/Q11304531', 'Sakura Yutaka O', '1996', '2021', 'female organism']

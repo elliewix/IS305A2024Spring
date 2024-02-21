@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5095370', 'Chic', 'http://www.wikidata.org/entity/Q20895892', 'Exclusive', 'http://www.wikidata.org/entity/Q6723556', 'Machiavellian', '2000', '', '']

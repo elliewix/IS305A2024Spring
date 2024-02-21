@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63970177', 'Free For All', '', '', 'http://www.wikidata.org/entity/Q7271539', 'Questionnaire', '1942', '', 'male organism']

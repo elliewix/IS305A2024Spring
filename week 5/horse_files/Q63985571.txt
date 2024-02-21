@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63985571', 'Lady Moore Carew', 'http://www.wikidata.org/entity/Q62016679', 'Kite', 'http://www.wikidata.org/entity/Q61992557', 'Tramp', '1830', '', 'female organism']

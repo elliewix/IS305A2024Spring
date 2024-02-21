@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7516003', 'Silver Deputy', '', '', 'http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '1985', '', 'male organism']

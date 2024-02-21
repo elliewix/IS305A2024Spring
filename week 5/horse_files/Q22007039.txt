@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22007039', 'Lucky Cast', 'http://www.wikidata.org/entity/Q7860920', 'Typecast', 'http://www.wikidata.org/entity/Q11339710', 'My Swallow', '1979', '', 'male organism']

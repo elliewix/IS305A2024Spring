@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021015', 'Housemaid', 'http://www.wikidata.org/entity/Q62021141', 'Herod mare', 'http://www.wikidata.org/entity/Q62021021', 'Brush', '1795', '', 'female organism']

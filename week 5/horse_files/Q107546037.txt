@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546037', 'Malachite', '', '', '', '', '1913', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021690', 'Flora', 'http://www.wikidata.org/entity/Q62021696', 'Angelica', 'http://www.wikidata.org/entity/Q17021688', 'Squirrel', '1768', '', 'female organism']

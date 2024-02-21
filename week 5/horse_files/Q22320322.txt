@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22320322', 'Sophie du Chateau', 'http://www.wikidata.org/entity/Q112106600', 'Javotte D', 'http://www.wikidata.org/entity/Q3094865', 'Galoubet A', '1984', '2009', 'female organism']

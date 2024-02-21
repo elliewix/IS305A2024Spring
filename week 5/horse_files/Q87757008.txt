@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87757008', 'Magnet', 'http://www.wikidata.org/entity/Q87757356', 'Cassandra', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1770', '', 'male organism']

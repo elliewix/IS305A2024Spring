@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5185611', 'Criminal Type', '', '', 'http://www.wikidata.org/entity/Q4738646', 'Alydar', '1985', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970541', 'Gladiator', 'http://www.wikidata.org/entity/Q61970545', 'Pauline', 'http://www.wikidata.org/entity/Q61970542', 'Partisan', '1833', '', 'male organism']

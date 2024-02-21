@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238532', 'Longus', '', '', '', '', '1927', '', 'male organism']

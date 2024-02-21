@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117367841', 'Protection', 'http://www.wikidata.org/entity/Q117367928', 'Testatrix', 'http://www.wikidata.org/entity/Q62021650', 'Defence', '1845', '', 'female organism']

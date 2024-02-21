@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17015195', 'National Spirit', '', '', 'http://www.wikidata.org/entity/Q17018045', 'Scottish Union', '1941', '', '']

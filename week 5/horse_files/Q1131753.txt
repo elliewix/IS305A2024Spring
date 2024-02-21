@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1131753', 'Cor de la Bryere', 'http://www.wikidata.org/entity/Q52915317', 'Quenotte', 'http://www.wikidata.org/entity/Q7293563', 'Rantzau', '1968', '2000', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17231495', 'Impulse Hero', '', '', 'http://www.wikidata.org/entity/Q11299831', 'Kurofune', '2010', '', 'male organism']

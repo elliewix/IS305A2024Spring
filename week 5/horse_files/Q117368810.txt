@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117368810', 'Welbeck', 'http://www.wikidata.org/entity/Q62026192', 'Pledge', 'http://www.wikidata.org/entity/Q7562778', 'Soothsayer', '1815', '', 'male organism']

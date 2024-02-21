@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17231505', 'Osumi Moon', '', '', 'http://www.wikidata.org/entity/Q4683798', 'Admire Moon', '2009', '', 'male organism']

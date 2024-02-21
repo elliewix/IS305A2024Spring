@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241274', 'Prince Thou Art', '', '', '', '', '1972', '', 'male organism']

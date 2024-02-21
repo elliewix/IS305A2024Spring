@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52492187', 'Diana Royale', 'http://www.wikidata.org/entity/Q52491939', 'Serenade A M', '', '', '1969', '', 'female organism']

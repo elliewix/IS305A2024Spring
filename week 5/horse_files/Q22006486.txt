@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006486', 'La Farina', 'http://www.wikidata.org/entity/Q61970529', 'Malatesta', '', '', '1911', '', 'male organism']

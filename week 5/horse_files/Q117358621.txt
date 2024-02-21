@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358621', 'Michaelmas', 'http://www.wikidata.org/entity/Q117358634', 'Plover', 'http://www.wikidata.org/entity/Q117358625', 'Thunderbolt', '1818', '', 'female organism']

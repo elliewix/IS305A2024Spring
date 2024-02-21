@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239748', 'Jacks Town', '', '', '', '', '1946', '', 'male organism']

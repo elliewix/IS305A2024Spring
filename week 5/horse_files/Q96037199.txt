@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96037199', 'Fuschia', 'http://www.wikidata.org/entity/Q96193973', 'Reveuse', 'http://www.wikidata.org/entity/Q96071970', 'Reynolds', '1883', '1908', 'male organism']

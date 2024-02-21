@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17013038', 'One So Wonderful', '', '', 'http://www.wikidata.org/entity/Q3336192', 'Nashwan', '1994', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7141885', 'Paseana', '', '', '', '', '1987', '2006', 'female organism']

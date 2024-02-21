@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3064700', 'Fakir du Vivier', 'http://www.wikidata.org/entity/Q3547593', 'Ua Uka', 'http://www.wikidata.org/entity/Q3460521', 'Sabi Pas', '1971', '1992', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16967693', 'Winslow Homer', '', '', 'http://www.wikidata.org/entity/Q7882432', "Unbridled's Song", '2007', '', 'male organism']

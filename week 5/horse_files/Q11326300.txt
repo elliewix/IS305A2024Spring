@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326300', 'ハクバビューティー', '', '', '', '', '2010', '', 'female organism']

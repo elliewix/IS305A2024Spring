@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5299490', 'Dotted Swiss', '', '', 'http://www.wikidata.org/entity/Q5177010', 'Counterpoint', '1956', '', 'male organism']

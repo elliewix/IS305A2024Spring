@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16354567', 'Chamossaire', 'http://www.wikidata.org/entity/Q61970576', 'Snowberry', 'http://www.wikidata.org/entity/Q7239482', 'Precipitation', '1942', '', 'male organism']

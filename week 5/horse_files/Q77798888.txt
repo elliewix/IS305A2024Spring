@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q77798888', 'T M South Dan', '', '', '', '', '2017', '', 'male organism']

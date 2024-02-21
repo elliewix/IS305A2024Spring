@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224110', 'トモスベビー', '', '', '', '', '1953', '', 'male organism']

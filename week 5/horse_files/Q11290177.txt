@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11290177', 'Atan', '', '', 'http://www.wikidata.org/entity/Q1076143', 'Native Dancer', '1961', '', 'male organism']

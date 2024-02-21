@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11333853', 'フリートーク', '', '', 'http://www.wikidata.org/entity/Q7301055', 'Real Shadai', '1985', '', 'female organism']

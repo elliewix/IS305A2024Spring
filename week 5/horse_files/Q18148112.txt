@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18148112', 'Magnificient Style', '', '', '', '', '1993', '', 'female organism']

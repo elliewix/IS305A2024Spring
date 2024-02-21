@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780100', 'スーパーステション', '', '', 'http://www.wikidata.org/entity/Q6361815', 'Kane Hekili', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7597520', 'Stan', '', '', 'http://www.wikidata.org/entity/Q21997732', 'Kingsway', '1950', '', '']

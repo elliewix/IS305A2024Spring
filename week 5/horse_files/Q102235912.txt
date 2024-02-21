@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102235912', 'General Pike', '', '', '', '', '1876', '', 'male organism']

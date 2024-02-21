@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17027099', 'Trabolgan', '', '', '', '', '1998', '', '']

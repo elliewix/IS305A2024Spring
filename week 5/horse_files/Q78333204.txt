@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q78333204', 'Energetic', '', '', '', '', '1997', '', 'male organism']

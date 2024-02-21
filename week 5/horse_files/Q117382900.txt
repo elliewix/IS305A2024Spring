@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382900', 'Hobby mare', 'http://www.wikidata.org/entity/Q117382905', 'Piping Pegs dam', 'http://www.wikidata.org/entity/Q62035648', 'Lister Turk', '1700', '', 'female organism']

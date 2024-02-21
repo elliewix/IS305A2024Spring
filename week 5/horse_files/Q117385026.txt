@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117385026', 'Bald Charlotte', 'http://www.wikidata.org/entity/Q117385033', 'Castaway mare', 'http://www.wikidata.org/entity/Q117385029', 'Old Royal', '1721', '', 'female organism']

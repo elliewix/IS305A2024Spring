@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11295519', 'Kampala', '', '', 'http://www.wikidata.org/entity/Q11294957', 'Kalamoun', '1976', '', 'male organism']

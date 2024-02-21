@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q121048260', 'Shagya XI', 'http://www.wikidata.org/entity/Q121081893', '16 Amurath Bairactar', 'http://www.wikidata.org/entity/Q121048401', 'Shagya XVII', '1886', '', 'male organism']

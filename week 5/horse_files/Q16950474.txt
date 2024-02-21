@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16950474', 'Sole Power', '', '', 'http://www.wikidata.org/entity/Q22006567', 'Kyllachy', '2007', '', '']

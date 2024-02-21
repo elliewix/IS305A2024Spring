@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987954', 'Maid of the Mint', '', '', 'http://www.wikidata.org/entity/Q6869637', 'Minting', '1897', '', 'female organism']

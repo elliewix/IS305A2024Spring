@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358730', 'Natural Barb mare', '', '', '', '', '1670', '', 'female organism']

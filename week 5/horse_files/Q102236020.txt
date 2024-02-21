@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236020', 'Standiford Kellar', '', '', '', '', '1880', '', 'male organism']

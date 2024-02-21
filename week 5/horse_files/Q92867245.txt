@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q92867245', 'Whist', '', '', '', '', '', '', 'male organism']

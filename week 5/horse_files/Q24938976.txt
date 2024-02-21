@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24938976', 'Insert Gédé', '', '', '', '', '1996', '', '']

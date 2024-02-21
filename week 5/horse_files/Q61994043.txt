@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994043', 'Myrrha', 'http://www.wikidata.org/entity/Q61994044', 'Gift', 'http://www.wikidata.org/entity/Q11251240', 'Whalebone', '1830', '', 'female organism']

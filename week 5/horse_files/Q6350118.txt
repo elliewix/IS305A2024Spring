@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6350118', 'Kalaglow', '', '', 'http://www.wikidata.org/entity/Q11294957', 'Kalamoun', '1978', '', 'male organism']

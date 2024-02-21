@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119844757', 'Duke-de-Levoy 949', 'http://www.wikidata.org/entity/Q119844837', 'Lyda', 'http://www.wikidata.org/entity/Q119247866', 'Mouton 1640', '1878', '', 'male organism']

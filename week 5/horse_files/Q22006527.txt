@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006527', 'Zafeen', '', '', 'http://www.wikidata.org/entity/Q8064298', 'Zafonic', '2000', '', 'male organism']

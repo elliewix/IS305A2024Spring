@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111345075', 'Lock and Key', '', '', 'http://www.wikidata.org/entity/Q63985155', 'Janissary', '1893', '', 'female organism']

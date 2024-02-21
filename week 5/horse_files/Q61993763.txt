@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993763', 'Amaranthus', '', '', 'http://www.wikidata.org/entity/Q61993765', 'Old England', '1766', '', 'male organism']

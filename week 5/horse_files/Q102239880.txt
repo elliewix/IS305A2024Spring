@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239880', 'Fighting Back', '', '', '', '', '1948', '', 'male organism']

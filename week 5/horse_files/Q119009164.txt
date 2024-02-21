@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119009164', 'Soul Sister', '', '', 'http://www.wikidata.org/entity/Q2720508', 'Frankel', '2020', '', 'female organism']

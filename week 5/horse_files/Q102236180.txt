@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236180', 'Ban Yan', '', '', '', '', '1884', '', 'male organism']

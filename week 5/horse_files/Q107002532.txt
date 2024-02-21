@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107002532', 'Alpha Spirit', 'http://www.wikidata.org/entity/Q107002546', 'Wild Spirit', 'http://www.wikidata.org/entity/Q1968208', 'A.P. Indy', '2006', '', 'female organism']

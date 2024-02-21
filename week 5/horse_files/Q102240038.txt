@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240038', 'Timely Tip', '', '', '', '', '1951', '', 'male organism']

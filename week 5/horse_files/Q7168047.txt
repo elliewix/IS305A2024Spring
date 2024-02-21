@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7168047', 'Perfect Sting', '', '', 'http://www.wikidata.org/entity/Q7304776', 'Red Ransom', '1996', '', 'female organism']

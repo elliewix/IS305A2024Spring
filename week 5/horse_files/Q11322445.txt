@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322445', 'Thor', '', '', 'http://www.wikidata.org/entity/Q6440694', 'Ksar', '1930', '', 'male organism']

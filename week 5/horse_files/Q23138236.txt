@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q23138236', 'Stellar Wind', 'http://www.wikidata.org/entity/Q61970775', 'Evening Star', 'http://www.wikidata.org/entity/Q933399', 'Curlin', '2012', '', 'female organism']

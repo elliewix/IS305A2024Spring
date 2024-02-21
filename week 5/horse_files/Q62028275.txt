@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028275', 'Shuttle', 'http://www.wikidata.org/entity/Q62028343', 'Vauxhall Snap mare', 'http://www.wikidata.org/entity/Q61987509', 'Young Marske', '1793', '', 'male organism']

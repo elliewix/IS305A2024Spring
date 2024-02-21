@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993632', 'Ballyroe', '', '', 'http://www.wikidata.org/entity/Q61993635', 'Belladrum', '1872', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61985586', 'Efisio', 'http://www.wikidata.org/entity/Q61985616', 'Eldoret', 'http://www.wikidata.org/entity/Q25171608', 'Formidable', '1982', '', 'male organism']

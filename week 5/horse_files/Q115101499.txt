@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115101499', 'Fujiyama', '', '', '', '', '1960', '', 'male organism']

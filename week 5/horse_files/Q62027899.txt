@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027899', 'Coheiress', 'http://www.wikidata.org/entity/Q62027904', 'Manilla', 'http://www.wikidata.org/entity/Q7235103', 'Potoooooooo', '1786', '', 'female organism']

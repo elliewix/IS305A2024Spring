@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022926', 'Trentham', 'http://www.wikidata.org/entity/Q62022944', 'Miss South', 'http://www.wikidata.org/entity/Q62022928', 'Gowers Sweepstakes', '1766', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17112783', 'Donor', 'http://www.wikidata.org/entity/Q61978567', 'Orissa', 'http://www.wikidata.org/entity/Q5068876', 'Challedon', '1944', '', 'male organism']

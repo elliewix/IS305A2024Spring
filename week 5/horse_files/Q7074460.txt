@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7074460', 'Oath', '', '', 'http://www.wikidata.org/entity/Q5430970', 'Fairy King', '1996', '', 'male organism']

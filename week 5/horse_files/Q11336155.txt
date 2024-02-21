@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11336155', 'Proportional', '', '', '', '', '2006', '', 'female organism']

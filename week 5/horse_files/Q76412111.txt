@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q76412111', "Scherif d'Elle", '', '', 'http://www.wikidata.org/entity/Q1679759', 'Jalisco B', '1984', '', 'male organism']

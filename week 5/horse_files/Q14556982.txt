@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q14556982', 'Thumbs Up', '', '', 'http://www.wikidata.org/entity/Q11308585', 'Shinko King', '2004', '', 'male organism']

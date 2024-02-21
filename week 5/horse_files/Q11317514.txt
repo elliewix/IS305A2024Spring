@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317514', 'ダンツシアトル', '', '', 'http://www.wikidata.org/entity/Q1457136', 'Seattle Slew', '1990', '', 'male organism']

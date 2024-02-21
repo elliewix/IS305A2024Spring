@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994668', 'Princess Turia', 'http://www.wikidata.org/entity/Q11334935', 'Blue Delight', 'http://www.wikidata.org/entity/Q5705843', 'Heliopolis', '1953', '', 'female organism']

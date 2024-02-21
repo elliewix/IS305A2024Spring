@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384166', 'Rhoda B.', 'http://www.wikidata.org/entity/Q117384184', 'Margerine', 'http://www.wikidata.org/entity/Q5649365', 'Hanover', '1895', '', 'female organism']

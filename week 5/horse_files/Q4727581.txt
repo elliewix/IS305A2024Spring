@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4727581', 'Aljabr', '', '', 'http://www.wikidata.org/entity/Q3499832', 'Storm Cat', '1996', '2018', 'male organism']

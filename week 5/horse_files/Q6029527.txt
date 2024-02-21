@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6029527', 'Inferno', '', '', '', '', '1902', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q73010498', 'Kokusai Prince', '', '', '', '', '', '', 'male organism']

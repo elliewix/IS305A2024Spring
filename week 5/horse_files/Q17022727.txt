@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17022727', 'Young Traveller', '', '', 'http://www.wikidata.org/entity/Q6411576', 'King Fergus', '1788', '', 'male organism']

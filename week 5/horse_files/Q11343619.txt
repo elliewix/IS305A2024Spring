@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343619', 'メジロムサシ', '', '', '', '', '1967', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7374222', 'Royal Glint', 'http://www.wikidata.org/entity/Q7307918', 'Regal Gleam', 'http://www.wikidata.org/entity/Q7371134', 'Round Table', '1970', '', '']

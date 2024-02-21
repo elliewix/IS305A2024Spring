@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5267738', 'Devon Loch', '', '', '', '', '1946', '1963', 'male organism']

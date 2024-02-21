@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5211596', 'Dalray', '', '', '', '', '1948', '', 'male organism']

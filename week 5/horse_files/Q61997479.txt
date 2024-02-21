@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61997479', 'Swinging', 'http://www.wikidata.org/entity/Q107551594', 'Balancoire', 'http://www.wikidata.org/entity/Q4975349', 'Broomstick', '1922', '', 'female organism']

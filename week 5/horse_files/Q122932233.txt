@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122932233', 'Tamerett', '', '', 'http://www.wikidata.org/entity/Q7804372', 'Tim Tam', '1962', '1995', 'female organism']

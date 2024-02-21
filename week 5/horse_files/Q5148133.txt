@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5148133', 'Colonel Holloway', '', '', '', '', '1909', '', 'male organism']

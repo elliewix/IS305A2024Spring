@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326304', 'Hakuryo', '', '', 'http://www.wikidata.org/entity/Q11335651', 'Primero', '1950', '', 'male organism']

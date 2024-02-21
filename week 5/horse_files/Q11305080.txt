@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305080', 'Samani Beppin', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1990', '', 'female organism']

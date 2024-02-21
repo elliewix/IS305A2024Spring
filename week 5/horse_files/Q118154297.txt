@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118154297', 'Dellaet', '', '', 'http://www.wikidata.org/entity/Q118154280', 'Laetude', '1940', '', 'female organism']

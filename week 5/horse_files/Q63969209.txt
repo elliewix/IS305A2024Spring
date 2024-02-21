@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969209', 'Johnetta', '', '', 'http://www.wikidata.org/entity/Q63969729', 'Bramble', '1890', '', 'female organism']

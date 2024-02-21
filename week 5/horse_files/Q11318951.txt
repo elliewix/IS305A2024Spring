@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11318951', 'ティファニーラス', '', '', 'http://www.wikidata.org/entity/Q4939058', 'Bold Forbes', '1983', '', 'female organism']

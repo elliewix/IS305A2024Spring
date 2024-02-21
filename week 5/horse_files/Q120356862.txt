@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120356862', 'College Major', 'http://www.wikidata.org/entity/Q120356797', 'Lynnwood Fritzidona II', 'http://www.wikidata.org/entity/Q118169180', 'Morden Chief', '1956', '', 'male organism']

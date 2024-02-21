@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63468172', 'Quake Lake', 'http://www.wikidata.org/entity/Q63468274', 'Shooting Party', 'http://www.wikidata.org/entity/Q17033183', 'War Chant', '2006', '', 'female organism']

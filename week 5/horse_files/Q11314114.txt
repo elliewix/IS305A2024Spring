@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314114', 'Seiun Sky', '', '', 'http://www.wikidata.org/entity/Q11306984', "Sheriff's Star", '1995', '2011', 'male organism']

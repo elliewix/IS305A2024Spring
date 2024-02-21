@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027989', 'Jerboa', 'http://www.wikidata.org/entity/Q61994132', 'Camilla', 'http://www.wikidata.org/entity/Q5577568', 'Gohanna', '1803', '', 'female organism']

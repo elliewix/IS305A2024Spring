@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993576', 'Novitiate', 'http://www.wikidata.org/entity/Q117157066', 'Retty', 'http://www.wikidata.org/entity/Q5741736', 'Hermit', '1878', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340928', 'マヨノエンゼル', '', '', 'http://www.wikidata.org/entity/Q5036814', 'Captain Steve', '2006', '', 'male organism']

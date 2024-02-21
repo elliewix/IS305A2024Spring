@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17016123', 'Rose Bowl', '', '', 'http://www.wikidata.org/entity/Q11326627', 'Habitat', '1972', '', 'female organism']

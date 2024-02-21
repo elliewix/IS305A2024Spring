@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q19880749', 'Dortmund', '', '', 'http://www.wikidata.org/entity/Q4905386', 'Big Brown', '2012', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6886723', 'Mobil', '', '', 'http://www.wikidata.org/entity/Q6486046', 'Langfuhr', '2000', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384140', 'Lapwing', 'http://www.wikidata.org/entity/Q117384147', 'Muley mare', 'http://www.wikidata.org/entity/Q62016682', 'Bustard', '1837', '', 'female organism']

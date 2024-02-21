@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7927493', 'Victory Gallop', '', '', 'http://www.wikidata.org/entity/Q5190874', 'Cryptoclearance', '1995', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17361622', 'Sickle', 'http://www.wikidata.org/entity/Q11308324', 'Selene', 'http://www.wikidata.org/entity/Q7180267', 'Phalaris', '1924', '1943', 'male organism']

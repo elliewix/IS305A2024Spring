@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546042', 'Kantar', 'http://www.wikidata.org/entity/Q107546030', 'Karabe', 'http://www.wikidata.org/entity/Q107546028', 'Alcantara', '1925', '', 'male organism']

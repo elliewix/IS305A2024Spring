@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994572', 'Noble Lassie', 'http://www.wikidata.org/entity/Q61994574', 'Belle Sauvage', 'http://www.wikidata.org/entity/Q2305063', 'Nearco', '1956', '', 'female organism']

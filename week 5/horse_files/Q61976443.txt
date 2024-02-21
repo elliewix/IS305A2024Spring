@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61976443', 'Calash', 'http://www.wikidata.org/entity/Q61976447', 'Teresa', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1775', '', 'female organism']

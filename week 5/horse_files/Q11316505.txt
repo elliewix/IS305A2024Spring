@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316505', 'タンディチェイル', '', '', 'http://www.wikidata.org/entity/Q11347088', 'Lucky Ruler', '1992', '', 'female organism']

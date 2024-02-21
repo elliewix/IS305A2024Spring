@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26262840', 'Mounted mare Archduchess Isabella', '', '', '', '', '', '', 'female organism']

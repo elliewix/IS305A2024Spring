@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987325', 'Spring Adieu', 'http://www.wikidata.org/entity/Q6968342', 'Natalma', 'http://www.wikidata.org/entity/Q4983454', 'Buckpasser', '1974', '', 'female organism']

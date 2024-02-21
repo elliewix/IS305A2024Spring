@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11320834', 'Dersim', '', '', 'http://www.wikidata.org/entity/Q109775830', 'Calaboose', '1978', '', 'male organism']

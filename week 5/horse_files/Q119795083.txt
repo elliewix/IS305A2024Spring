@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119795083', 'Dorothea 169630', '', '', 'http://www.wikidata.org/entity/Q119795151', 'Job 83984', '1921', '', 'female organism']

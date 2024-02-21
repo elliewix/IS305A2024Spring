@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7981079', 'Well Armed', '', '', 'http://www.wikidata.org/entity/Q11318930', 'Tiznow', '2003', '', 'male organism']

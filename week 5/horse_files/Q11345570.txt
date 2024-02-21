@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345570', 'ユキノホマレ', '', '', 'http://www.wikidata.org/entity/Q11342022', 'ミスタージヨージ', '1999', '', 'male organism']

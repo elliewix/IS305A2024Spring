@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108598878', 'Joyful Lady', 'http://www.wikidata.org/entity/Q108598969', 'Aresa-Lady', 'http://www.wikidata.org/entity/Q22329202', 'Nimmerdor', '1991', '', 'female organism']

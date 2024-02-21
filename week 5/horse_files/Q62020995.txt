@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62020995', 'Ruler mare', 'http://www.wikidata.org/entity/Q62021001', 'Treecreeper', 'http://www.wikidata.org/entity/Q17016502', 'Ruler', '1797', '', 'female organism']

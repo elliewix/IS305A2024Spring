@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11293249', 'Osumi Ichiban', 'http://www.wikidata.org/entity/Q11293255', 'Osumi Haruka', 'http://www.wikidata.org/entity/Q4693122', 'Agnes Tachyon', '2009', '', 'male organism']

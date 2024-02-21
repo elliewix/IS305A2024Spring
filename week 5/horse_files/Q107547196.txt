@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547196', 'Verso', 'http://www.wikidata.org/entity/Q107547189', 'Variete', 'http://www.wikidata.org/entity/Q107547188', 'Pinceau', '1940', '1953', 'male organism']

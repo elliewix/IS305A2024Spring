@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q84705384', 'Harran Boko', '', '', '', '', '2014', '', '']

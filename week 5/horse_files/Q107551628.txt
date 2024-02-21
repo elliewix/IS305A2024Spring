@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107551628', 'Joppy', 'http://www.wikidata.org/entity/Q107551626', 'Miss Fairfax', 'http://www.wikidata.org/entity/Q107551624', 'Star Blen', '1949', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64821602', 'Palema Fibber', '', '', '', '', '1959', '1969', 'female organism']

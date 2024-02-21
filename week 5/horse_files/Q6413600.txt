@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6413600', 'Kingston Rule', 'http://www.wikidata.org/entity/Q7368009', 'Rose of Kingston', 'http://www.wikidata.org/entity/Q1151926', 'Secretariat', '1986', '', 'male organism']

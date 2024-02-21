@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384121', 'Sir John', 'http://www.wikidata.org/entity/Q117384124', 'Waxy mare', 'http://www.wikidata.org/entity/Q61992557', 'Tramp', '1828', '', 'male organism']

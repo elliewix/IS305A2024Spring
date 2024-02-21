@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027906', 'Old England mare', 'http://www.wikidata.org/entity/Q117369468', 'Cullen Arabian mare', 'http://www.wikidata.org/entity/Q61993765', 'Old England', '1766', '', 'female organism']

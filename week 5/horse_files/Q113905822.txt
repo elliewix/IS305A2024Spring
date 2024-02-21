@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113905822', 'Tendresse', '', '', 'http://www.wikidata.org/entity/Q1151926', 'Secretariat', '1983', '', 'female organism']

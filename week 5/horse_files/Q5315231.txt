@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5315231', 'Dunguib', '', '', '', '', '2003', '', '']

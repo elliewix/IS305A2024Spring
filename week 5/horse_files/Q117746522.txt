@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117746522', 'Duke de Chartres', '', '', 'http://www.wikidata.org/entity/Q117195187', 'Coco II 714', '1867', '', 'male organism']

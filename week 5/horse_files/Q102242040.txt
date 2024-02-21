@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242040', 'Irish Actor', '', '', '', '', '1986', '', 'male organism']

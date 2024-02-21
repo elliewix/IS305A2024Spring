@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124460113', 'Camille', 'http://www.wikidata.org/entity/Q124460137', 'Midnight Contessa', 'http://www.wikidata.org/entity/Q120647191', 'South Valley Prince Haha', '1986', '', 'female organism']

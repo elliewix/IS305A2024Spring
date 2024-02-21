@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q526556', 'Kincsem', '', '', 'http://www.wikidata.org/entity/Q54957768', 'Cambuscan', '1874', '1887', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55097717', 'June Rose', '', '', '', '', '', '', 'female organism']

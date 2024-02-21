@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939040', "Bold 'n Determined", '', '', '', '', '1977', '', 'female organism']

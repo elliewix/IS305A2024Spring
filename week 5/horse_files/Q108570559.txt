@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108570559', 'St. Angelo', '', '', 'http://www.wikidata.org/entity/Q1492693', 'Galopin', '1889', '', 'male organism']

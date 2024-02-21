@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16950542', "Maori's Idol", '', '', '', '', '1972', '2006', 'male organism']

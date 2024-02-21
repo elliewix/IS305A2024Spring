@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4746102', 'Amiable', '', '', 'http://www.wikidata.org/entity/Q280168', 'St. Simon', '1891', '', 'female organism']

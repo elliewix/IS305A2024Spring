@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119296113', 'Buffalo 34952', '', '', 'http://www.wikidata.org/entity/Q119296162', 'Lavater', '1890', '', 'male organism']

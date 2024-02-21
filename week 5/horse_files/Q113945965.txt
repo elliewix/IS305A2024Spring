@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113945965', 'Win Carnelian', '', '', 'http://www.wikidata.org/entity/Q11311521', 'Screen Hero', '2017', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7855465', 'Turkoman', '', '', 'http://www.wikidata.org/entity/Q4738646', 'Alydar', '1982', '', 'male organism']

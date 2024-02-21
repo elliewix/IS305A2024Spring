@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341294', 'マルシンヴィラーゴ', '', '', '', '', '1990', '', 'female organism']

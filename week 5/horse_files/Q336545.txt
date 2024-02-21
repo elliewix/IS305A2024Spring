@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q336545', 'Prometea', '', '', '', '', '2003', '', 'female organism']

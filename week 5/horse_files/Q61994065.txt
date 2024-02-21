@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994065', 'Buzzard mare', '', '', 'http://www.wikidata.org/entity/Q11327618', 'Buzzard', '1804', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354583', 'Miss Bunting', '', '', 'http://www.wikidata.org/entity/Q117354586', 'Bunting', '1930', '', 'female organism']

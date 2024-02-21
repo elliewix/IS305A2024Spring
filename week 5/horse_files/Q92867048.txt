@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q92867048', 'Win Marilyn', '', '', 'http://www.wikidata.org/entity/Q11311521', 'Screen Hero', '2017', '', 'female organism']

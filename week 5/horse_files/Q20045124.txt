@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20045124', 'Staphanos', '', '', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2011', '', 'male organism']

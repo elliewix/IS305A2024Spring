@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11298246', 'Gallop Dyna', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1980', '2006', 'male organism']

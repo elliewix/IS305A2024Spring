@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q101246743', 'Essential Quality', '', '', '', '', '', '', 'male organism']

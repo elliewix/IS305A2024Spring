@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22306685', 'Ecuyer I', 'http://www.wikidata.org/entity/Q22329647', 'Vive Etoile', 'http://www.wikidata.org/entity/Q22323928', 'Tanael', '1970', '1986', 'male organism']

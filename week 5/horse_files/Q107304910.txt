@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107304910', 'Barbro Kronos', '', '', '', '', '2017', '', '']

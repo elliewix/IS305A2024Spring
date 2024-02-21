@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969582', 'Chandelle', 'http://www.wikidata.org/entity/Q61969641', 'Malindi', 'http://www.wikidata.org/entity/Q7653826', 'Swaps', '1959', '', 'female organism']

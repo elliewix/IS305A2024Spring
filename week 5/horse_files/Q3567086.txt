@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3567086', 'Weihaiwej', 'http://www.wikidata.org/entity/Q108133928', 'Andachtige', 'http://www.wikidata.org/entity/Q108133887', 'Westminster', '1984', '2019', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6348404', 'Kaiser', '', '', '', '', '1975', '', 'male organism']

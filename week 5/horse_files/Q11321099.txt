@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321099', 'トウショウナイト', '', '', 'http://www.wikidata.org/entity/Q7804636', 'Timber Country', '2001', '2008', 'male organism']

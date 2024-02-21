@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5438170', 'Faultless', '', '', 'http://www.wikidata.org/entity/Q4996587', 'Bull Lea', '1944', '', 'male organism']

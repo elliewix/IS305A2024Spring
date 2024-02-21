@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994185', 'Bold Commander', 'http://www.wikidata.org/entity/Q5757377', 'High Voltage', 'http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', '1960', '', 'male organism']

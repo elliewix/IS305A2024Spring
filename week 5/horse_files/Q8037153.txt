@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8037153', 'Worth', '', '', '', '', '1909', '', 'male organism']

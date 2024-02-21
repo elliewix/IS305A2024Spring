@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1925237', 'Meteor', '', '', '', '', '1943', '1966', 'male organism']

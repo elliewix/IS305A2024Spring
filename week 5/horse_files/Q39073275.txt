@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q39073275', 'Little Owl', '', '', '', '', '1974', '', '']

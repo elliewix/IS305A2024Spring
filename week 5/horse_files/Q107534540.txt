@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107534540', 'Kanlast', 'http://www.wikidata.org/entity/Q107546044', 'Last Light', 'http://www.wikidata.org/entity/Q107546042', 'Kantar', '1940', '', 'female organism']

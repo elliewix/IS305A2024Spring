@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117366879', 'Regina', 'http://www.wikidata.org/entity/Q117367300', 'Britannia', 'http://www.wikidata.org/entity/Q117366950', 'Autocrat', '1862', '', 'female organism']

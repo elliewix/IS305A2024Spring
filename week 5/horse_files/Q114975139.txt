@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114975139', 'Landlady', 'http://www.wikidata.org/entity/Q115003274', 'Fabiolis', 'http://www.wikidata.org/entity/Q115002217', 'Lord', '1987', '', 'female organism']

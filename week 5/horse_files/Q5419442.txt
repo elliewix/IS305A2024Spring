@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5419442', 'Exceller', '', '', 'http://www.wikidata.org/entity/Q3553272', 'Vaguely Noble', '1973', '', 'male organism']

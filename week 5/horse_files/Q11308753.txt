@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308753', 'シーエース', '', '', 'http://www.wikidata.org/entity/Q11326304', 'Hakuryo', '1964', '1990', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241673', "Cupecoy's Joy", '', '', '', '', '1979', '', 'female organism']

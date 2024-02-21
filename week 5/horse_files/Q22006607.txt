@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006607', 'Nyquist', 'http://www.wikidata.org/entity/Q56051255', 'Seeking Gabrielle', 'http://www.wikidata.org/entity/Q7882768', 'Uncle Mo', '2013', '', 'male organism']

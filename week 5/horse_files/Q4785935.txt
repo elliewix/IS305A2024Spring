@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4785935', 'Archer', '', '', '', '', '1856', '', 'male organism']

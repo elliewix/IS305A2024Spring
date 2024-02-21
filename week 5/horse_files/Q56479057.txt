@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56479057', 'Chiara 222', 'http://www.wikidata.org/entity/Q66504176', 'Larissa', 'http://www.wikidata.org/entity/Q63040445', 'Contender', '2003', '2019', 'female organism']

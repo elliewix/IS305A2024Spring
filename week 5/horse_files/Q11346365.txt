@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11346365', 'Rice Shower', '', '', 'http://www.wikidata.org/entity/Q7301055', 'Real Shadai', '1989', '', 'male organism']

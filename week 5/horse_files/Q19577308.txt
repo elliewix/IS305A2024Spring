@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q19577308', 'Mongolian Khan', '', '', 'http://www.wikidata.org/entity/Q5885972', 'Holy Roman Emperor', '2011', '', 'male organism']

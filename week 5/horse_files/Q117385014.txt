@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117385014', 'Jolly Roger', 'http://www.wikidata.org/entity/Q117385016', 'Partner mare', 'http://www.wikidata.org/entity/Q61998523', 'Mogul', '1743', '', 'male organism']

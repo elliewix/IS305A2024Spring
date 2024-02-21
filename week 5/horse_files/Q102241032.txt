@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241032', 'Introductivo', '', '', '', '', '1969', '', 'male organism']

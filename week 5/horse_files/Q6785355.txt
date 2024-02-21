@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6785355', 'Mastercraftsman', '', '', 'http://www.wikidata.org/entity/Q5215867', 'Danehill Dancer', '2006', '', 'male organism']

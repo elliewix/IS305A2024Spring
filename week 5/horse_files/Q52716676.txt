@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52716676', 'Danburite', '', '', 'http://www.wikidata.org/entity/Q11349271', 'Rulership', '2014', '', 'male organism']

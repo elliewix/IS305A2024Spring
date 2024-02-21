@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4792951', 'Armed', '', '', 'http://www.wikidata.org/entity/Q4996587', 'Bull Lea', '1941', '', 'male organism']

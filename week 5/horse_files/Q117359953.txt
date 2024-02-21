@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117359953', 'Curwen Spot mare', 'http://www.wikidata.org/entity/Q117359960', 'Lowther Barb mare', 'http://www.wikidata.org/entity/Q117359956', "Curwen's Old Spot", '1697', '', 'female organism']

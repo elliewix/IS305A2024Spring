@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11332314', 'ファーウェル', '', '', '', '', '', '', 'male organism']

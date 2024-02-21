@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63985616', 'Jennala', 'http://www.wikidata.org/entity/Q61993597', 'Emma', 'http://www.wikidata.org/entity/Q7828730', 'Touchstone', '1844', '', 'female organism']

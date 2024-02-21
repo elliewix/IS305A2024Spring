@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7339825', 'Roar Emotion', '', '', '', '', '2000', '', 'female organism']

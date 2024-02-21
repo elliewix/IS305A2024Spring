@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297210', 'Captain Thule', 'http://www.wikidata.org/entity/Q11289444', 'Air Thule', 'http://www.wikidata.org/entity/Q4693122', 'Agnes Tachyon', '2005', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012050', 'Margellina', 'http://www.wikidata.org/entity/Q6753068', 'Manuella', 'http://www.wikidata.org/entity/Q7993846', 'Whisker', '1826', '', 'female organism']

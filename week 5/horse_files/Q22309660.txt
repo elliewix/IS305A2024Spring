@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22309660', 'Guidam', '', '', 'http://www.wikidata.org/entity/Q2123116', 'Quidam de Revel', '1988', '', 'male organism']

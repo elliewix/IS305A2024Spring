@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071165', 'Stage Magic', 'http://www.wikidata.org/entity/Q55071176', 'Magical Illusion', 'http://www.wikidata.org/entity/Q5557464', 'Ghostzapper', '2007', '', 'female organism']

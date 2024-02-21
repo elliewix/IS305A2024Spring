@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301026', 'Katies', '', '', 'http://www.wikidata.org/entity/Q1042741', 'Nonoalco', '1981', '', 'female organism']

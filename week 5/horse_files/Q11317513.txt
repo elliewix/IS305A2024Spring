@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317513', 'ダンツキッスイ', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2005', '', 'male organism']

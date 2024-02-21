@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6785064', 'Master Minded', '', '', '', '', '2003', '', 'male organism']

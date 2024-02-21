@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105817224', 'Kurino Star O', '', '', '', '', '2010', '', 'male organism']

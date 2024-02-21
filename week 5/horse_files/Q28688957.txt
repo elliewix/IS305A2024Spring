@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28688957', 'Taiki Herakles', '', '', 'http://www.wikidata.org/entity/Q16985471', 'Ibn Bey', '1996', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q76877613', 'Sisi de la Cour', 'http://www.wikidata.org/entity/Q123518607', 'Lady de la Cour', 'http://www.wikidata.org/entity/Q22324035', 'Uriel', '1984', '2010', 'female organism']

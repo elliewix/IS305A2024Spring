@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7285398', 'Raja Baba', '', '', 'http://www.wikidata.org/entity/Q4939078', 'Bold Ruler', '1968', '', 'male organism']

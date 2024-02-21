@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28447153', 'Shaman Ghost', '', '', 'http://www.wikidata.org/entity/Q5557464', 'Ghostzapper', '2012', '', '']

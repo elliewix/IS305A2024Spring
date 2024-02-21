@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63970015', 'Alpoise', '', '', 'http://www.wikidata.org/entity/Q5384587', 'Equipoise', '1937', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109610189', 'Baroque', 'http://www.wikidata.org/entity/Q109610329', 'Ere', 'http://www.wikidata.org/entity/Q109610320', 'Bayram Kose', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109598932', 'Tosen Surya', '', '', '', '', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4673666', 'Achievement', '', '', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1864', '', 'female organism']

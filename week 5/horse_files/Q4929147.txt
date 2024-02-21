@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4929147', 'Blue Gown', '', '', 'http://www.wikidata.org/entity/Q4876072', 'Beadsman', '1865', '', 'male organism']

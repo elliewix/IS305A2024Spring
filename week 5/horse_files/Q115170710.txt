@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115170710', 'Condina', 'http://www.wikidata.org/entity/Q115170772', 'Michaela', 'http://www.wikidata.org/entity/Q1026641', 'Caletto I', '1979', '', 'female organism']

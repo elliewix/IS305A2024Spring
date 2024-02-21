@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316798', 'Daitaku Yamato', '', '', 'http://www.wikidata.org/entity/Q11316796', 'Daitaku Helios', '1994', '', 'male organism']

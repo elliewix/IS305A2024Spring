@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022952', 'Cartouch', '', '', 'http://www.wikidata.org/entity/Q4850311', 'Bald Galloway', '1717', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q124310410', "Bhopal de l'Arpenteau", 'http://www.wikidata.org/entity/Q120550233', "Kessy de l'Arpenteau", 'http://www.wikidata.org/entity/Q117885090', "BL Hanson's Ruby's Charlie", '2011', '', 'male organism']

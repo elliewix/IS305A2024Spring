@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117671198', 'Cash Bank Bigi', '', '', '', '', '', '', '']

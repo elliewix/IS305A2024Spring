@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7400428', 'Sailor II', '', '', 'http://www.wikidata.org/entity/Q5349023', 'Eight Thirty', '1952', '', 'male organism']

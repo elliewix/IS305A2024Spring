@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780111', 'Shigeru Pink Dia', '', '', 'http://www.wikidata.org/entity/Q11317065', 'Daiwa Major', '2016', '', 'female organism']

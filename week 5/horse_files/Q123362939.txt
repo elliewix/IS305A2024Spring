@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123362939', 'Squanderer', '', '', '', '', '1973', '2000', 'male organism']

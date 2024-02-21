@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62010908', 'Alice Carneal', '', '', 'http://www.wikidata.org/entity/Q62010918', 'Sarpedon', '1836', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22314168', 'Clinton', 'http://www.wikidata.org/entity/Q108535171', 'Urte', 'http://www.wikidata.org/entity/Q22314171', 'Corrado I', '1993', '2017', 'male organism']

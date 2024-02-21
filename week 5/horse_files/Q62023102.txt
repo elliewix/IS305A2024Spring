@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023102', 'Emily', 'http://www.wikidata.org/entity/Q62023109', 'Whiskey mare', 'http://www.wikidata.org/entity/Q62023103', 'Stamford', '1810', '', 'female organism']

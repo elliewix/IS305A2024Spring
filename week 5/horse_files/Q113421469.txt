@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113421469', 'Yellow Homer', '', '', 'http://www.wikidata.org/entity/Q11350948', 'Rosen Homer', '1990', '', 'male organism']

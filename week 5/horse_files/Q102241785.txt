@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241785', 'Luv a Libra', '', '', '', '', '1980', '', 'male organism']

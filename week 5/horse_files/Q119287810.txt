@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119287810', 'Bamboche', '', '', 'http://www.wikidata.org/entity/Q117195146', 'Vidocq 732', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96313090', 'Hercule Normand', 'http://www.wikidata.org/entity/Q96313101', 'Commere', 'http://www.wikidata.org/entity/Q96240715', 'Tigris', '1885', '', 'male organism']

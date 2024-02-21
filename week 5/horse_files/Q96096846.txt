@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96096846', 'Normand', 'http://www.wikidata.org/entity/Q96207422', 'Balsamine', 'http://www.wikidata.org/entity/Q96313173', 'Divus', '1869', '1883', 'male organism']

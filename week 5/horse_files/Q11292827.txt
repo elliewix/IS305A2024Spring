@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11292827', 'Ortello', '', '', 'http://www.wikidata.org/entity/Q7693967', 'Teddy', '1926', '', 'male organism']

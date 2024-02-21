@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111320007', 'Felicitas', 'http://www.wikidata.org/entity/Q111320472', 'Zermola', 'http://www.wikidata.org/entity/Q111320216', 'Fantus', '1969', '', 'female organism']

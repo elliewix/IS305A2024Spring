@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260637', 'Win Kiitos', 'http://www.wikidata.org/entity/Q11286412', 'Excuse', 'http://www.wikidata.org/entity/Q4309285', 'Gold Ship', '2017', '', 'female organism']

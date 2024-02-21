@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319075', 'テイエムオオアラシ', '', '', '', '', '1993', '', 'male organism']

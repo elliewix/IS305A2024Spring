@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8048726', 'Yankee Affair', '', '', '', '', '1982', '', 'male organism']

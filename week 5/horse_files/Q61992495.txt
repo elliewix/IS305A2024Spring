@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61992495', 'Vandal', '', '', 'http://www.wikidata.org/entity/Q5568269', 'Glencoe I', '1850', '', 'male organism']

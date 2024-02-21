@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242687', 'Lone Star Sky', '', '', '', '', '2000', '', 'male organism']

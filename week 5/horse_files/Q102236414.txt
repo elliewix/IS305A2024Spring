@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236414', 'Alard Scheck', '', '', '', '', '1898', '', 'male organism']

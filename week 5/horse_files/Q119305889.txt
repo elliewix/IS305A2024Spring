@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119305889', 'Corinne 15942', 'http://www.wikidata.org/entity/Q119306853', 'Cordelia 9999', 'http://www.wikidata.org/entity/Q119306212', 'La Force', '', '', 'female organism']

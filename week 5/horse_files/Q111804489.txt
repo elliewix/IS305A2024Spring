@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111804489', 'Divine Force', '', '', 'http://www.wikidata.org/entity/Q1326731', 'Workforce', '2016', '', 'male organism']

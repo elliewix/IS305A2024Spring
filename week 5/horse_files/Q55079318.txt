@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55079318', 'Sweetheart', 'http://www.wikidata.org/entity/Q55079338', 'Humanity', 'http://www.wikidata.org/entity/Q55079329', 'Ultimus', '1920', '', 'female organism']

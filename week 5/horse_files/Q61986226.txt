@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61986226', 'Speculum', 'http://www.wikidata.org/entity/Q61986233', 'Doralice', 'http://www.wikidata.org/entity/Q7917968', 'Vedette', '1865', '', 'male organism']

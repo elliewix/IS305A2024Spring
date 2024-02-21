@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5220982', 'Danoli', '', '', '', '', '1988', '2006', '']

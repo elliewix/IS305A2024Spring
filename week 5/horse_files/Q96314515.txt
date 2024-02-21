@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96314515', 'Anita', '', '', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1867', '', 'female organism']

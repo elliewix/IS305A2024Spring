@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994138', 'Rival', 'http://www.wikidata.org/entity/Q61994142', 'Hornet', 'http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', '1800', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240013', 'Goyamo', '', '', '', '', '1951', '', 'male organism']

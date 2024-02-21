@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22312309', 'Quenotte B', '', '', 'http://www.wikidata.org/entity/Q52914927', 'Gagne si peu', '1960', '', 'female organism']

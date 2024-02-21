@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118059576', 'Falaise', '', '', 'http://www.wikidata.org/entity/Q118059339', 'Bayard 1982', '', '', 'female organism']

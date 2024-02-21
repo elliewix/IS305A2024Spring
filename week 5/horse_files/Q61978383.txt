@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978383', 'Carnival Princess', 'http://www.wikidata.org/entity/Q61978394', 'Carnival Queen', 'http://www.wikidata.org/entity/Q7244105', 'Prince John', '1974', '', 'female organism']

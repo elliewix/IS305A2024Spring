@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317500', 'ダンスアワルツ', '', '', '', '', '2000', '', 'female organism']

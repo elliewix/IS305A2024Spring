@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11282708', 'Akane Tenryu', '', '', 'http://www.wikidata.org/entity/Q11318040', 'China Rock', '1966', '1985', 'male organism']

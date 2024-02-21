@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108770989', 'Ramsay', 'http://www.wikidata.org/entity/Q108771161', 'Emelina', 'http://www.wikidata.org/entity/Q108771002', 'Sylvio', '1845', '', 'male organism']

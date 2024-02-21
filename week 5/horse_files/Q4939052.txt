@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939052', 'Bold Ego', '', '', '', '', '1978', '', 'male organism']

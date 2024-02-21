@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384861', "Heneage's Whitenose", 'http://www.wikidata.org/entity/Q117384865', 'Curwen Bay Barb mare', 'http://www.wikidata.org/entity/Q117384863', 'Halls Arabian', '1722', '', 'male organism']

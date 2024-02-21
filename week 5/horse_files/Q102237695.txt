@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237695', 'Revenue Agent', '', '', '', '', '1921', '', 'male organism']

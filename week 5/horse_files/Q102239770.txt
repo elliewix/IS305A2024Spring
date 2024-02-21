@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239770', 'Hallieboy', '', '', '', '', '1947', '', 'male organism']

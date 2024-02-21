@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16967919', 'Punjabi', '', '', '', '', '2003', '', '']

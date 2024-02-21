@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8000610', 'Wild Desert', '', '', '', '', '2002', '', 'male organism']

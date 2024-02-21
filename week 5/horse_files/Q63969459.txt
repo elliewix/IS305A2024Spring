@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969459', 'War of Will', 'http://www.wikidata.org/entity/Q63969474', 'Visions of Clarity', 'http://www.wikidata.org/entity/Q18148153', 'War Front', '2016', '', 'male organism']

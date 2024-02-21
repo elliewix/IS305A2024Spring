@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61995272', 'Betty Derr', '', '', 'http://www.wikidata.org/entity/Q4252720', 'Sir Gallahad', '1928', '', 'female organism']

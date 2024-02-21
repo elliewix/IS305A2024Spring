@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6688009', 'Louis Quatorze', '', '', 'http://www.wikidata.org/entity/Q7571594', 'Sovereign Dancer', '1993', '2017', 'male organism']

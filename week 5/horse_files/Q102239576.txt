@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239576', 'With Pleasure', '', '', '', '', '1943', '', 'male organism']

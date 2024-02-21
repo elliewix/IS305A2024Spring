@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62033485', 'Almanzor', 'http://www.wikidata.org/entity/Q62033488', 'Hautboy mare', 'http://www.wikidata.org/entity/Q1166352', 'Darley Arabian', '1713', '', 'male organism']

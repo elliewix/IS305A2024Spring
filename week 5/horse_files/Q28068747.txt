@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28068747', 'Soul Stirring', 'http://www.wikidata.org/entity/Q7595808', 'Stacelita', 'http://www.wikidata.org/entity/Q2720508', 'Frankel', '2014', '', 'female organism']

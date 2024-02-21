@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107535872', 'Witty', 'http://www.wikidata.org/entity/Q107534555', 'Native Gal', 'http://www.wikidata.org/entity/Q107534554', 'Rhodes Scholar', '1946', '', 'female organism']

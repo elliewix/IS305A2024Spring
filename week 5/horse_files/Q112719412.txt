@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112719412', 'Zarak', 'http://www.wikidata.org/entity/Q1093305', 'Zarkava', 'http://www.wikidata.org/entity/Q5310663', 'Dubawi', '', '', 'male organism']

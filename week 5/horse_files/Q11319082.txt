@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319082', 'テイエムチュラサン', '', '', 'http://www.wikidata.org/entity/Q7676023', 'Taiki Shuttle', '2002', '', 'female organism']

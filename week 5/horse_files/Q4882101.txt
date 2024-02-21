@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4882101', 'Beldale Ball', '', '', 'http://www.wikidata.org/entity/Q6966906', 'Nashua', '1976', '', 'male organism']

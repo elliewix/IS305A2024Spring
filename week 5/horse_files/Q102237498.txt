@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237498', 'Nassau', '', '', '', '', '1920', '', 'male organism']

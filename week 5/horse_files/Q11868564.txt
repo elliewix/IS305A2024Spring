@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11868564', 'K.K. Kössi', '', '', '', '', '1981', '2004', '']

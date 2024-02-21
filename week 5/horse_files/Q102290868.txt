@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102290868', 'Chitu', '', '', '', '', '2011', '', 'male organism']

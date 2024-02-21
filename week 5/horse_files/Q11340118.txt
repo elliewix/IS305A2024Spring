@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340118', 'マサノミネルバ', '', '', 'http://www.wikidata.org/entity/Q1012807', 'Lammtarra', '2005', '', 'female organism']

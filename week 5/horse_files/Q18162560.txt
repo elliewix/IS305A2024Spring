@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18162560', 'Ballydoyle', '', '', 'http://www.wikidata.org/entity/Q1969034', 'Northern Dancer', '1980', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1001792', 'Makybe Diva', 'http://www.wikidata.org/entity/Q14949904', 'Tugela', 'http://www.wikidata.org/entity/Q5263956', 'Desert King', '1999', '', 'female organism']

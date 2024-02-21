@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123596220', 'Storm Cat clone', '', '', '', '', '2015', '', 'male organism']

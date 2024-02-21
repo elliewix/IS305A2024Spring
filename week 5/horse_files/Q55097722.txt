@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55097722', 'Assignation', 'http://www.wikidata.org/entity/Q55097730', 'Cinq A Sept', 'http://www.wikidata.org/entity/Q7693967', 'Teddy', '', '', 'female organism']

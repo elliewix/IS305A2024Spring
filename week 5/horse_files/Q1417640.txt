@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1417640', 'War Admiral', 'http://www.wikidata.org/entity/Q61995284', 'Brushup', 'http://www.wikidata.org/entity/Q114218', "Man o' War", '1934', '1959', 'male organism']

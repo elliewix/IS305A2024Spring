@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105669690', 'Andes Queen', '', '', '', '', '2014', '', 'female organism']

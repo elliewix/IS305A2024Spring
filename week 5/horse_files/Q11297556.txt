@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297556', 'Kyoei Promise', '', '', 'http://www.wikidata.org/entity/Q4850474', 'Baldric', '1977', '', 'male organism']

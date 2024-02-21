@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987495', 'The Primate', 'http://www.wikidata.org/entity/Q61987451', 'Ellen Middleton', 'http://www.wikidata.org/entity/Q61969184', 'St Albans', '1863', '', 'male organism']

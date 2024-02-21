@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242438', 'Semoran', '', '', '', '', '1993', '', 'male organism']

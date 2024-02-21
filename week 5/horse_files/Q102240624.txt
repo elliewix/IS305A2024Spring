@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240624', "Carpenter's Rule", '', '', '', '', '1962', '', 'male organism']

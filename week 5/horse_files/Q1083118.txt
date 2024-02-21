@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1083118', 'Ruffian', 'http://www.wikidata.org/entity/Q7494198', 'Shenanigans', 'http://www.wikidata.org/entity/Q7318397', 'Reviewer', '1972', '1975', 'female organism']

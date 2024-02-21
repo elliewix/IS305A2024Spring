@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60228378', 'Nihonpiro Baron', '', '', 'http://www.wikidata.org/entity/Q11333084', 'Fusaichi Richard', '2010', '', 'male organism']

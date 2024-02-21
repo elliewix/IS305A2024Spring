@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60991141', 'Halwa Sweet', '', '', 'http://www.wikidata.org/entity/Q6723556', 'Machiavellian', '2001', '', 'female organism']

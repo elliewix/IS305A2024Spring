@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48815438', 'Chatelaine', 'http://www.wikidata.org/entity/Q61993559', 'Herself', 'http://www.wikidata.org/entity/Q7180267', 'Phalaris', '1930', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970586', 'Svelte', 'http://www.wikidata.org/entity/Q61970588', 'Fine Lady', 'http://www.wikidata.org/entity/Q280168', 'St. Simon', '1899', '', 'female organism']

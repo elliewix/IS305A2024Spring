@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4850296', 'Bald Eagle', '', '', 'http://www.wikidata.org/entity/Q6967340', 'Nasrullah', '1955', '', 'male organism']

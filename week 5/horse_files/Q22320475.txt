@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22320475', 'Juriste', 'http://www.wikidata.org/entity/Q108332233', 'Eteuse', 'http://www.wikidata.org/entity/Q65939603', 'Ultimate', '1953', '', 'male organism']

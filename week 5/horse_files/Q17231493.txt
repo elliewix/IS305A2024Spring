@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17231493', 'Incantation', '', '', 'http://www.wikidata.org/entity/Q16949922', 'Sinister Minister', '2010', '', 'male organism']

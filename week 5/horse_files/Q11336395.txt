@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11336395', 'ヘキラク', '', '', '', '', '1953', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96314739', 'Unicus', '', '', 'http://www.wikidata.org/entity/Q96209743', 'Nabucho', '1898', '', 'male organism']

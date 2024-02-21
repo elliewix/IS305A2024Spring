@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7605050', 'Stay Thirsty', '', '', 'http://www.wikidata.org/entity/Q4893831', 'Bernardini', '2008', '', 'male organism']

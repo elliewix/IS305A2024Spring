@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315980', 'Takara Cosmos', '', '', 'http://www.wikidata.org/entity/Q11304507', 'Sakura Shingeki', '1984', '', 'female organism']

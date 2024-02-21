@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239461', 'Sea Swallow', '', '', '', '', '1942', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006436', 'Policeman', '', '', 'http://www.wikidata.org/entity/Q3433509', 'Riverman', '1977', '', 'male organism']

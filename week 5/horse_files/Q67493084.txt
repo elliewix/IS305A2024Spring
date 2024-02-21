@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67493084', 'Meiner Grit', '', '', 'http://www.wikidata.org/entity/Q11311521', 'Screen Hero', '2017', '', 'male organism']

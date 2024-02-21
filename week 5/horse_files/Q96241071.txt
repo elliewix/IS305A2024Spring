@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96241071', 'Rosiere', '', '', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1873', '', 'female organism']

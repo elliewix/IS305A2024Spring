@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7676023', 'Taiki Shuttle', 'http://www.wikidata.org/entity/Q11288587', 'Welsh Muffin', 'http://www.wikidata.org/entity/Q5267067', "Devil's Bag", '1994', '2022', 'male organism']

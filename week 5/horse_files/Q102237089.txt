@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237089', 'Skeptic', '', '', '', '', '1914', '', 'male organism']

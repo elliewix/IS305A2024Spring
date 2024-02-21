@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11293256', 'Osumi Dyna', '', '', 'http://www.wikidata.org/entity/Q11298246', 'Gallop Dyna', '1988', '2010', 'male organism']

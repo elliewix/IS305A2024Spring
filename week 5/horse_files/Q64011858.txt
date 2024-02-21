@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64011858', 'Adventurer', 'http://www.wikidata.org/entity/Q64011889', 'Palma', 'http://www.wikidata.org/entity/Q11324950', 'Newminster', '1859', '', 'male organism']

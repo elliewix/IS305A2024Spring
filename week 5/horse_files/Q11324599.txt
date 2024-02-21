@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11324599', 'Nihonpiro Ours', '', '', 'http://www.wikidata.org/entity/Q11338126', 'White Muzzle', '2007', '', 'male organism']

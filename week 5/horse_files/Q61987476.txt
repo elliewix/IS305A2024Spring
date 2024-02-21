@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987476', 'Lisette', 'http://www.wikidata.org/entity/Q61987481', 'Miss Windsor', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1772', '', 'female organism']

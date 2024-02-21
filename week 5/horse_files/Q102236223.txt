@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236223', 'Prince Fonso', '', '', '', '', '1887', '', 'male organism']

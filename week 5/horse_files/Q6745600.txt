@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6745600', 'Mameluke', 'http://www.wikidata.org/entity/Q62027536', 'Miss Sophia', 'http://www.wikidata.org/entity/Q61970542', 'Partisan', '1824', '', 'male organism']

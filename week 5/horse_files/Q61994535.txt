@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994535', 'Instantaneous', '', '', 'http://www.wikidata.org/entity/Q11326832', 'Hurry On', '1931', '', 'female organism']

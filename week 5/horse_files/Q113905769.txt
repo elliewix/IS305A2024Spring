@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113905769', "Lion d'Or", 'http://www.wikidata.org/entity/Q3066381', 'Fanfreluche', 'http://www.wikidata.org/entity/Q1151926', 'Secretariat', '1983', '', 'male organism']

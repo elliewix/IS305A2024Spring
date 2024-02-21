@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60768862', 'Vazira', '', '', '', '', '2011', '', '']

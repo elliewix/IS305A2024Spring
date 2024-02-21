@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382552', 'Interpreter', 'http://www.wikidata.org/entity/Q117382574', 'Blowing', 'http://www.wikidata.org/entity/Q7562778', 'Soothsayer', '1815', '', 'male organism']

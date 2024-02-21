@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5568269', 'Glencoe I', 'http://www.wikidata.org/entity/Q7833198', 'Trampoline', 'http://www.wikidata.org/entity/Q7636587', 'Sultan', '1831', '1857', 'male organism']

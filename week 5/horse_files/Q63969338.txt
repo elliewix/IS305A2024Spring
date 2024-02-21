@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969338', 'Hester', 'http://www.wikidata.org/entity/Q63969356', 'Monimia', 'http://www.wikidata.org/entity/Q5025850', 'Camel', '1832', '', 'female organism']

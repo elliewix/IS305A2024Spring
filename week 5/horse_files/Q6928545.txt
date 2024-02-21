@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6928545', 'Mr. Consistency', '', '', 'http://www.wikidata.org/entity/Q4725645', 'Alibhai', '1958', '', 'male organism']

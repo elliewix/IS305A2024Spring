@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7563356', 'Sorcerer', 'http://www.wikidata.org/entity/Q8058135', 'Young Giantess', 'http://www.wikidata.org/entity/Q11321911', 'Trumpator', '1796', '', 'male organism']

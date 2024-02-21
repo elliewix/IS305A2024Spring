@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11884297', 'Niatross', '', '', 'http://www.wikidata.org/entity/Q4709449', 'Albatross', '1977', '', 'male organism']

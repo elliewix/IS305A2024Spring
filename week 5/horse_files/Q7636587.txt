@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7636587', 'Sultan', 'http://www.wikidata.org/entity/Q61992502', 'Bacchante', 'http://www.wikidata.org/entity/Q7448391', 'Selim', '1816', '', 'male organism']

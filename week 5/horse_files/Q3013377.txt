@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3013377', 'Dancing Brave', 'http://www.wikidata.org/entity/Q22282624', 'Navajo Princess', 'http://www.wikidata.org/entity/Q3269685', 'Lyphard', '1983', '1999', 'male organism']

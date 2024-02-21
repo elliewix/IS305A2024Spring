@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022261', 'Young Tiffany', 'http://www.wikidata.org/entity/Q62022274', 'Tiffany', 'http://www.wikidata.org/entity/Q915971', 'Highflyer', '1787', '', 'female organism']

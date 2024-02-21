@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998523', 'Mogul', 'http://www.wikidata.org/entity/Q117359379', 'Sachrissa', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1735', '', 'male organism']

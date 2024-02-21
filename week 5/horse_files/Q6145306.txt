@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6145306', 'Smart Strike', 'http://www.wikidata.org/entity/Q5128464', "Classy 'n Smart", 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1992', '2015', 'male organism']

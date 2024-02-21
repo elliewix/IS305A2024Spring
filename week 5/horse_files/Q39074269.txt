@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q39074269', 'Shiva', '', '', 'http://www.wikidata.org/entity/Q5696914', 'Hector Protector', '1995', '', 'female organism']

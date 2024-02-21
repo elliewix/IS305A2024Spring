@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11314179', 'セカイオー', '', '', 'http://www.wikidata.org/entity/Q17361614', 'ヒロサクラ', '1952', '', 'male organism']

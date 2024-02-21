@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316382', 'Tayasu Tsuyoshi', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1992', '2008', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7178703', 'Petrarch', 'http://www.wikidata.org/entity/Q61987502', 'Laura', 'http://www.wikidata.org/entity/Q16996951', 'Lord Clifden', '1873', '', 'male organism']

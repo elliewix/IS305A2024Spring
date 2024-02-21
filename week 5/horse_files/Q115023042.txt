@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115023042', 'Miss Carmen', 'http://www.wikidata.org/entity/Q115023282', 'Carmen', 'http://www.wikidata.org/entity/Q26719877', 'Fra Diavolo', '1956', '', 'female organism']

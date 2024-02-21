@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117982937', 'Sultan 41127', '', '', 'http://www.wikidata.org/entity/Q117982462', 'Turrenne', '', '', 'male organism']

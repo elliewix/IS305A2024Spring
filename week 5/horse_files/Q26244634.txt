@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26244634', 'Rosire', '', '', 'http://www.wikidata.org/entity/Q22324035', 'Uriel', '1983', '2010', 'male organism']

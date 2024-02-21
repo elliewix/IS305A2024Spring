@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52722922', 'Foxlight', 'http://www.wikidata.org/entity/Q52844592', 'Chouia', 'http://www.wikidata.org/entity/Q108166526', 'Foxhunter', '1935', '', 'male organism']

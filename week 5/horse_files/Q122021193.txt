@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122021193', 'Kommandor', '', '', 'http://www.wikidata.org/entity/Q119438786', 'Calyps 79632', '1917', '', 'male organism']

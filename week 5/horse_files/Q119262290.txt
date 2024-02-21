@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119262290', 'Laigle 1261', 'http://www.wikidata.org/entity/Q119262491', 'Judith', 'http://www.wikidata.org/entity/Q117942496', 'Iago 768', '1881', '', 'male organism']

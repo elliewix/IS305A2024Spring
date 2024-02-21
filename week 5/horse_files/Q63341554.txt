@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63341554', 'Viking', '', '', 'http://www.wikidata.org/entity/Q63341572', 'Jacomar', '2002', '', 'male organism']

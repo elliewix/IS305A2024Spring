@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11328548', 'バーディバーディ', '', '', 'http://www.wikidata.org/entity/Q4962908', "Brian's Time", '2007', '', 'male organism']

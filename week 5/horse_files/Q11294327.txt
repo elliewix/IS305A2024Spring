@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11294327', 'Katsuragi Ace', '', '', '', '', '1980', '2000', 'male organism']

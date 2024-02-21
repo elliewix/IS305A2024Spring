@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242230', 'Al Sabin', '', '', '', '', '1989', '', 'male organism']

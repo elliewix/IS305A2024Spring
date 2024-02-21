@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66309951', 'Star Lift', '', '', '', '', '', '', 'male organism']

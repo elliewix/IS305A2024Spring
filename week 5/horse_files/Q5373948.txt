@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5373948', 'Emperor of Norfolk', '', '', '', '', '1885', '1907', 'male organism']

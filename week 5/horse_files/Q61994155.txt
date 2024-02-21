@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994155', 'Merry Wife', '', '', 'http://www.wikidata.org/entity/Q6820449', 'Merry Hampton', '1891', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11329456', 'パルブライト', '', '', 'http://www.wikidata.org/entity/Q11337319', 'Pay the Butler', '1992', '', 'female organism']

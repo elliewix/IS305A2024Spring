@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117937132', 'Harponneur', 'http://www.wikidata.org/entity/Q119221220', 'Biche 54416', 'http://www.wikidata.org/entity/Q117937352', 'Coquet 58597', '', '', 'male organism']

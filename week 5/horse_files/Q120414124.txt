@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120414124', 'Supreme Degas 240091', 'http://www.wikidata.org/entity/Q118163772', 'Hesitate Again', 'http://www.wikidata.org/entity/Q119362043', 'Don Degas', '1940', '', 'male organism']

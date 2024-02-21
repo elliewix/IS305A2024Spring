@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238421', 'Folking', '', '', '', '', '1926', '', 'male organism']

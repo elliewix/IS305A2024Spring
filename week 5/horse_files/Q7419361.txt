@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7419361', 'Santa Claus', '', '', 'http://www.wikidata.org/entity/Q16354567', 'Chamossaire', '1961', '', 'male organism']

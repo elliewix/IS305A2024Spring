@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123476328', 'Judith', 'http://www.wikidata.org/entity/Q123485793', 'Une idée', 'http://www.wikidata.org/entity/Q22318967', 'Quastor', '1975', '', 'female organism']

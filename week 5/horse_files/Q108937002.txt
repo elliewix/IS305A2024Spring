@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108937002', 'Serpolet-rouan', '', '', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1874', '', 'male organism']

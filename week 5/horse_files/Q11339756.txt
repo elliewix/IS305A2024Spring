@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339756', 'マイネルシーガル', '', '', 'http://www.wikidata.org/entity/Q11315049', 'Zenno El Cid', '2004', '', 'male organism']

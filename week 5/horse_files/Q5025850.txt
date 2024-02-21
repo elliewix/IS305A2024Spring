@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5025850', 'Camel', 'http://www.wikidata.org/entity/Q61999338', 'Selim mare', 'http://www.wikidata.org/entity/Q11251240', 'Whalebone', '1822', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62044291', 'Marotte', 'http://www.wikidata.org/entity/Q62044385', 'Traveller mare', 'http://www.wikidata.org/entity/Q1101198', 'Matchem', '1766', '', 'female organism']

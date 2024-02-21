@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120693239', 'Biche 12230', '', '', '', '', '1878', '', 'female organism']

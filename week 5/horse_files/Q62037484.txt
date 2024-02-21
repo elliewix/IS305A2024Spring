@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62037484', 'Shepherdess', 'http://www.wikidata.org/entity/Q62037554', 'Buzzard mare', 'http://www.wikidata.org/entity/Q62028275', 'Shuttle', '1809', '', 'female organism']

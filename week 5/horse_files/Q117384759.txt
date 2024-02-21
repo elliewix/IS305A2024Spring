@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384759', 'Scarborough colt', 'http://www.wikidata.org/entity/Q117384754', 'Old Scarborough mare', 'http://www.wikidata.org/entity/Q117384762', 'Tifter', '1724', '', 'male organism']

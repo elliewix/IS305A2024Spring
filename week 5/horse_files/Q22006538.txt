@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006538', 'Proclamation', '', '', 'http://www.wikidata.org/entity/Q6410851', "King's Best", '2002', '', 'male organism']

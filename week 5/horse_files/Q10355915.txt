@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q10355915', 'Quari Bravo', '', '', '', '', '1994', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236078', 'Exploit', '', '', '', '', '1881', '', 'male organism']

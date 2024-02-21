@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027805', 'Juniper mare', 'http://www.wikidata.org/entity/Q62027811', 'Sorcerer mare', 'http://www.wikidata.org/entity/Q62027807', 'Juniper', '1817', '', 'female organism']

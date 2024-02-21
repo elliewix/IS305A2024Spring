@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62011390', 'Miz Carol', '', '', 'http://www.wikidata.org/entity/Q7629759', 'Stymie', '1953', '', 'female organism']

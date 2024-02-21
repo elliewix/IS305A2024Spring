@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11874167', 'Käthy', '', '', '', '', '1934', '1953', '']

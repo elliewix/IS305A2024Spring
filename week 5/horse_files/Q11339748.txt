@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339748', 'Meine Isabel', '', '', 'http://www.wikidata.org/entity/Q11319464', 'Telegnosis', '2008', '', 'female organism']

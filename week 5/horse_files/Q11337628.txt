@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337628', 'ホウシュウエイト', '', '', '', '', '1970', '', 'male organism']

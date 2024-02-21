@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6045893', 'Intercontinental', 'http://www.wikidata.org/entity/Q3128095', 'Hasili', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '2000', '', 'female organism']

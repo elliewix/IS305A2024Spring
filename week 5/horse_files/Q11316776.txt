@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316776', 'ダイシンフブキ', '', '', 'http://www.wikidata.org/entity/Q11323415', 'Don', '1983', '', 'male organism']

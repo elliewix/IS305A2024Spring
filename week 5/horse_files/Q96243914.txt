@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96243914', 'Becassine', '', '', 'http://www.wikidata.org/entity/Q96243517', 'Niger', '1879', '', 'female organism']

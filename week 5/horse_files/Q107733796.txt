@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107733796', 'Imperial Gal', '', '', 'http://www.wikidata.org/entity/Q22006938', 'Wiking', '', '', 'female organism']

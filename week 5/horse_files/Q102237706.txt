@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237706', 'King Gorin II', '', '', '', '', '1921', '', 'male organism']

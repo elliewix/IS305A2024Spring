@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978165', 'Quintero Ask', '', '', '', '', '1998', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349517', 'Regular Member', 'http://www.wikidata.org/entity/Q11307162', 'Sister Sono', 'http://www.wikidata.org/entity/Q5152210', 'Commander in Chief', '1997', '2017', 'male organism']

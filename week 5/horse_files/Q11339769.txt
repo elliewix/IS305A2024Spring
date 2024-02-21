@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339769', 'マイネレーツェル', '', '', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2005', '', 'female organism']

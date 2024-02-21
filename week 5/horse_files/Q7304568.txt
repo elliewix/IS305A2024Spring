@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7304568', 'Red Marauder', '', '', 'http://www.wikidata.org/entity/Q18164937', 'Gunner B', '1990', '', 'male organism']

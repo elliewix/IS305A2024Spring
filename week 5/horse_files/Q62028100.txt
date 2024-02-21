@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028100', "Williamson's Ditto mare", 'http://www.wikidata.org/entity/Q62028193', 'Agnes', 'http://www.wikidata.org/entity/Q5283723', 'Ditto', '1812', '', 'female organism']

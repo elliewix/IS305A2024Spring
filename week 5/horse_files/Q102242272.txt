@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242272', 'Bull Inthe Heather', '', '', 'http://www.wikidata.org/entity/Q5443794', 'Ferdinand', '1990', '2014', 'male organism']

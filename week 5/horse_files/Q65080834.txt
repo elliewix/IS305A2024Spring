@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65080834', 'Eqtidaar', '', '', 'http://www.wikidata.org/entity/Q11287797', 'Invincible Spirit', '2015', '', 'male']

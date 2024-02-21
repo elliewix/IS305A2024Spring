@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17361624', 'Buchan', 'http://www.wikidata.org/entity/Q107546039', 'Hamoaze', 'http://www.wikidata.org/entity/Q7641634', 'Sunstar', '1916', '', 'male organism']

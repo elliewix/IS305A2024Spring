@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6146473', 'Lucky Owners', '', '', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '1999', '', 'male organism']

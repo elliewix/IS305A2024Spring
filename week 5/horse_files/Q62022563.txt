@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022563', 'Herod mare', 'http://www.wikidata.org/entity/Q62022566', 'Nettle', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1777', '', 'female organism']

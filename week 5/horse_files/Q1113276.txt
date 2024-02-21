@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1113276', 'Comanche', '', '', '', '', '', '', 'male organism']

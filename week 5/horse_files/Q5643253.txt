@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5643253', 'Halma', '', '', '', '', '1892', '', 'male organism']

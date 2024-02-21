@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11301835', 'Koiwai', 'http://www.wikidata.org/entity/Q22002348', 'Enamoured', '', '', '1908', '', 'male organism']

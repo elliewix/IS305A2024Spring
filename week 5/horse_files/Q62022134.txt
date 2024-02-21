@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022134', 'Noisette', 'http://www.wikidata.org/entity/Q62022144', 'Carina', 'http://www.wikidata.org/entity/Q17021688', 'Squirrel', '1774', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345553', 'Yu Miroku', '', '', 'http://www.wikidata.org/entity/Q11294330', 'Katsuranohaiseiko', '1983', '2017', 'female organism']

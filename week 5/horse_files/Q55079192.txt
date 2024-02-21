@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55079192', 'Lady Glory', 'http://www.wikidata.org/entity/Q55079217', 'Beloved', 'http://www.wikidata.org/entity/Q4743783', 'American Flag', '1934', '', 'female organism']

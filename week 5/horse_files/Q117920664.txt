@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117920664', 'Omphale de la Vande', 'http://www.wikidata.org/entity/Q117911009', 'Kore 4', 'http://www.wikidata.org/entity/Q117920150', 'Galopin Delanoe', '2002', '', 'female organism']

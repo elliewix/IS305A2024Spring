@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62037251', 'Ardrossan mare', 'http://www.wikidata.org/entity/Q62037484', 'Shepherdess', 'http://www.wikidata.org/entity/Q61993720', 'Ardrossan', '1822', '', 'female organism']

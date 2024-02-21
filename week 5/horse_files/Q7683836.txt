@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7683836', 'Tantieme', '', '', 'http://www.wikidata.org/entity/Q61969841', 'Deux-Pour-Cent', '1947', '1966', 'male organism']

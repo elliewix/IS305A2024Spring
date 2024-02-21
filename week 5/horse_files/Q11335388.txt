@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11335388', 'Proud Spell', '', '', 'http://www.wikidata.org/entity/Q11335387', 'Proud Citizen', '2005', '', 'female organism']

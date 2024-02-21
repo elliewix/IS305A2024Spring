@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28068745', 'Rouge Buck', 'http://www.wikidata.org/entity/Q5563063', 'Ginger Punch', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2012', '', 'female organism']

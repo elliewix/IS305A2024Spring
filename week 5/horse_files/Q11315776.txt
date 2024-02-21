@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315776', 'タイムパラドックス', '', '', 'http://www.wikidata.org/entity/Q4962908', "Brian's Time", '1998', '', 'male organism']

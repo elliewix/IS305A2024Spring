@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240480', 'Royal Attack', '', '', '', '', '1959', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96694890', 'Cafe Pharoah', '', '', 'http://www.wikidata.org/entity/Q19864086', 'American Pharoah', '2017', '', 'male organism']

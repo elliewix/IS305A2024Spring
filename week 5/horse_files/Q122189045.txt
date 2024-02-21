@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122189045', 'Fritzi 218051', '', '', 'http://www.wikidata.org/entity/Q118163876', 'Don Again', '1934', '', 'female organism']

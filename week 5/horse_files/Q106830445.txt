@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106830445', 'Ipsilanty', '', '', 'http://www.wikidata.org/entity/Q96244400', 'The Norfolk Phœnomenon', '1864', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6410852', "King's Bishop", '', '', 'http://www.wikidata.org/entity/Q7371134', 'Round Table', '1969', '', 'male organism']

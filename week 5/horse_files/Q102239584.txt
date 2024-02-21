@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239584', 'Wee Admiral', '', '', '', '', '1943', '', 'male organism']

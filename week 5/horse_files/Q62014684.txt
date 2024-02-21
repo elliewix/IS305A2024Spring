@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62014684', 'Isabel', 'http://www.wikidata.org/entity/Q62015290', 'Parma', 'http://www.wikidata.org/entity/Q62014763', 'Plebeian', '1879', '', 'female organism']

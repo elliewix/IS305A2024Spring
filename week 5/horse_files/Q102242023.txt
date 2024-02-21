@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242023', 'Purdue King', '', '', '', '', '1985', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113484889', 'Rokko Best', '', '', '', '', '1989', '', 'female organism']

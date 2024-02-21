@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11340425', 'マックスキャンドゥ', '', '', 'http://www.wikidata.org/entity/Q11297865', 'King Glorious', '1995', '2011', 'female organism']

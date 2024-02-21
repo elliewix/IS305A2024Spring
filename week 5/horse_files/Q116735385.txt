@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735385', 'Liberty Island', '', '', 'http://www.wikidata.org/entity/Q20047186', 'Duramente', '2020', '', 'female organism']

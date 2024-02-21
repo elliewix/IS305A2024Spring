@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11339764', 'マイネルブリッジ', '', '', 'http://www.wikidata.org/entity/Q11348940', 'Rousillon', '1992', '2016', 'male organism']

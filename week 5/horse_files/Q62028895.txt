@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028895', 'Knowsley mare', '', '', 'http://www.wikidata.org/entity/Q62028905', 'Knowsley', '1810', '', 'female organism']

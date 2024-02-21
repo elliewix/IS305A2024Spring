@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5596859', 'Granville', '', '', 'http://www.wikidata.org/entity/Q5518861', 'Gallant Fox', '1933', '', 'male organism']

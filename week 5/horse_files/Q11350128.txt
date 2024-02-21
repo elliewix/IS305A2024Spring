@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11350128', 'ロイヤルスズカ', '', '', 'http://www.wikidata.org/entity/Q7373571', 'Royal Academy', '1993', '', 'male organism']

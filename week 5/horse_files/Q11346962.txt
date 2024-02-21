@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11346962', 'Lath', 'http://www.wikidata.org/entity/Q11350175', 'Roxana', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1732', '', 'male organism']

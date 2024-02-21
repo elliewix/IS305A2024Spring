@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112180805', 'Ida de Bourgoin', 'http://www.wikidata.org/entity/Q112180999', 'Chouquette de Bourgoin', 'http://www.wikidata.org/entity/Q112180996', 'Boum III', '1952', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7227476', 'Pompey', 'http://www.wikidata.org/entity/Q5131730', 'Cleopatra', 'http://www.wikidata.org/entity/Q7638212', 'Sun Briar', '1923', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316831', 'Dyna Shoot', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1982', '', 'female organism']

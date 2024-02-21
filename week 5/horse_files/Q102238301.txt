@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238301', 'Charmarten', '', '', '', '', '1925', '', 'male organism']

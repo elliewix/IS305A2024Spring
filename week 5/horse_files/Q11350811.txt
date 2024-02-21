@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11350811', 'ロングホーク', '', '', '', '', '1972', '', 'male organism']

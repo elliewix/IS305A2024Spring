@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24174700', 'Napoléon de Ty Nevez', '', '', '', '', '2001', '', 'male organism']

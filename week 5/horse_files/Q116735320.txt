@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735320', 'Sol Oriens', '', '', 'http://www.wikidata.org/entity/Q22006995', 'Kitasan Black', '2020', '', 'male organism']

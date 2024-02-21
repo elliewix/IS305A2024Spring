@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027270', 'Squirrel mare', 'http://www.wikidata.org/entity/Q62027281', 'Blank mare', 'http://www.wikidata.org/entity/Q17021688', 'Squirrel', '1767', '', 'female organism']

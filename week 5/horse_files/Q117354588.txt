@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354588', 'Frillery', 'http://www.wikidata.org/entity/Q117354591', 'Petticoat', 'http://www.wikidata.org/entity/Q4975349', 'Broomstick', '1913', '', 'female organism']

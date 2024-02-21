@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115159904', 'Tessa', '', '', '', '', '1956', '', 'female organism']

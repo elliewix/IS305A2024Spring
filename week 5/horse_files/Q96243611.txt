@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96243611', 'Finance', '', '', 'http://www.wikidata.org/entity/Q96243517', 'Niger', '1883', '', 'female organism']

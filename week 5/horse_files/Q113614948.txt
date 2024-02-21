@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113614948', 'Blue Stripe', '', '', '', '', '', '', '']

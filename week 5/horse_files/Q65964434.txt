@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65964434', 'Adelfos', 'http://www.wikidata.org/entity/Q115170710', 'Condina', 'http://www.wikidata.org/entity/Q65964536', 'Athlet Z', '1983', '2009', 'male organism']

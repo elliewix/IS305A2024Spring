@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354718', 'Bolton Looby', 'http://www.wikidata.org/entity/Q117354727', 'Golden Locks', 'http://www.wikidata.org/entity/Q4873937', 'Bay Bolton', '1728', '', 'male organism']

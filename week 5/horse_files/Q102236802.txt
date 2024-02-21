@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236802', 'Flamma', '', '', '', '', '1909', '', 'female organism']

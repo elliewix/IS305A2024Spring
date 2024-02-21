@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113397690', 'Evartti', '', '', '', '', '2011', '', 'male organism']

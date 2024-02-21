@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7200376', 'Placid Ark', '', '', '', '', '1983', '', '']

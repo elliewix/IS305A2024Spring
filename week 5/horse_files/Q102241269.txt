@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241269', 'Diabolo', '', '', '', '', '1972', '', 'male organism']

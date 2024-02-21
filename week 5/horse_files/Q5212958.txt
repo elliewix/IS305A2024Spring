@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5212958', 'Damrosch', '', '', 'http://www.wikidata.org/entity/Q7354677', 'Rock Sand', '1913', '', 'male organism']

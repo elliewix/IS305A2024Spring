@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52555070', 'Koleah', 'http://www.wikidata.org/entity/Q52555080', 'Clementine', 'http://www.wikidata.org/entity/Q96236753', 'Elan', '1888', '', 'female organism']

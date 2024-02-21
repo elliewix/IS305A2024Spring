@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7269426', 'Quashed', '', '', '', '', '1932', '', 'female organism']

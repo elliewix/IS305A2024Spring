@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102187526', 'Hart Wallace', '', '', '', '', '1888', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071640', 'Sansonnet', 'http://www.wikidata.org/entity/Q17361627', 'Lady Juror', 'http://www.wikidata.org/entity/Q7419031', 'Sansovino', '', '', 'female organism']

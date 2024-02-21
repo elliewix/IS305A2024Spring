@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18161592', 'Adelaide', '', '', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2011', '', 'male organism']

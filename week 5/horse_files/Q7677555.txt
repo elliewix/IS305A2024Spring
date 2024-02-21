@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7677555', 'Take A Moment', '', '', '', '', '1995', '', '']

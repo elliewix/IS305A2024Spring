@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6876889', 'Miss Jummy', 'http://www.wikidata.org/entity/Q61987491', 'Lady Portland', 'http://www.wikidata.org/entity/Q7178703', 'Petrarch', '1883', '', 'female organism']

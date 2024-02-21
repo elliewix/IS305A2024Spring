@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321911', 'Trumpator', 'http://www.wikidata.org/entity/Q61994012', 'Brunette', 'http://www.wikidata.org/entity/Q61987205', 'Conductor', '1782', '', 'male organism']

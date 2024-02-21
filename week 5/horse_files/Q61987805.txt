@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987805', 'Nothirdchance', 'http://www.wikidata.org/entity/Q61987848', 'Galla Colours', 'http://www.wikidata.org/entity/Q4929939', 'Blue Swords', '1948', '', 'female organism']

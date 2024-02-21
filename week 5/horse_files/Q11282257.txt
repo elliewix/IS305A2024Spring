@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11282257', 'Aydin Summer', '', '', 'http://www.wikidata.org/entity/Q11305095', 'Summer Suspicion', '1997', '', 'male organism']

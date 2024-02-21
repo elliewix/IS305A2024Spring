@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109767648', 'Bagdad', '', '', 'http://www.wikidata.org/entity/Q7984352', 'West Australian', '1862', '', 'male organism']

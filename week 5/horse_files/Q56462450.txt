@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56462450', 'Colore', '', '', 'http://www.wikidata.org/entity/Q63040445', 'Contender', '2002', '', 'male organism']

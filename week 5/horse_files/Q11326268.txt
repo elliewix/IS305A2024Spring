@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326268', 'ハギノハイグレイド', '', '', 'http://www.wikidata.org/entity/Q5152210', 'Commander in Chief', '1996', '', 'male organism']

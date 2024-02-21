@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7998143', 'Wichita Lineman', '', '', 'http://www.wikidata.org/entity/Q6411125', "King's Theatre", '2001', '', '']

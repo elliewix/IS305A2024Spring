@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56280146', 'Accelerate', '', '', 'http://www.wikidata.org/entity/Q6675258', 'Lookin At Lucky', '2013', '', 'male organism']

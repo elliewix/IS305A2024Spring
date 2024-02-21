@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240734', 'Ask the Fare', '', '', '', '', '1964', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22330497', 'St. Just', 'http://www.wikidata.org/entity/Q111344077', 'Justitia', 'http://www.wikidata.org/entity/Q7588068', 'St. Frusquin', '1907', '', 'male organism']

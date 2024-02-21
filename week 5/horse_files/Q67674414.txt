@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67674414', "Nippon d'Elle", 'http://www.wikidata.org/entity/Q76864517', "Havane d'Elle", 'http://www.wikidata.org/entity/Q76412111', "Scherif d'Elle", '2001', '', 'male organism']

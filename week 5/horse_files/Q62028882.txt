@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028882', 'Progress', 'http://www.wikidata.org/entity/Q62028888', 'Blacklock mare', 'http://www.wikidata.org/entity/Q61987119', 'Langar', '1833', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012040', 'Wedding-day', 'http://www.wikidata.org/entity/Q64012050', 'Margellina', 'http://www.wikidata.org/entity/Q5025850', 'Camel', '1842', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118136673', 'Nogent', '', '', 'http://www.wikidata.org/entity/Q117195146', 'Vidocq 732', '1872', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7268310', 'Quadrangle', '', '', '', '', '1961', '', 'male organism']

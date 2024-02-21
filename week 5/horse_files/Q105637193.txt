@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105637193', 'Luxon', '', '', '', '', '2018', '2021', 'female organism']

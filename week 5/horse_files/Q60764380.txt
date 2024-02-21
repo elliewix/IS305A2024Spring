@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60764380', 'Khalkevi', '', '', '', '', '1999', '', '']

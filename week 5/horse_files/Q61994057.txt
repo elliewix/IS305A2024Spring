@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994057', 'Rosalba', 'http://www.wikidata.org/entity/Q61994065', 'Buzzard mare', 'http://www.wikidata.org/entity/Q61994061', 'Milo', '1811', '', 'female organism']

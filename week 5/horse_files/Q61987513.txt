@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987513', 'Lofty', '', '', 'http://www.wikidata.org/entity/Q629175', 'Godolphin Arabian', '1753', '', 'male organism']

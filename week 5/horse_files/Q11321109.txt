@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321109', 'トウメイ', '', '', 'http://www.wikidata.org/entity/Q11307511', 'シプリアニ', '1966', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6378636', 'Kauai King', '', '', 'http://www.wikidata.org/entity/Q1076143', 'Native Dancer', '1963', '1989', 'male organism']

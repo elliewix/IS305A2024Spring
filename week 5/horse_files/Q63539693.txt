@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63539693', 'Traffic Court', 'http://www.wikidata.org/entity/Q63539754', 'Traffic', 'http://www.wikidata.org/entity/Q5281854', 'Discovery', '1938', '', 'female organism']

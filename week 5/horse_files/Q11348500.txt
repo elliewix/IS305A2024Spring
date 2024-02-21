@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11348500', 'リュウズキ', '', '', 'http://www.wikidata.org/entity/Q11294566', 'Cover Up II', '1964', '', 'male organism']

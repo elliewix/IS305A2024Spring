@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q98082915', 'Win Mut', '', '', '', '', '', '2019', 'male organism']

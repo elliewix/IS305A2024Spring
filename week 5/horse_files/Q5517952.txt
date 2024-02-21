@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5517952', 'Galantine', '', '', 'http://www.wikidata.org/entity/Q7317867', 'Reveller', '1828', '', 'female organism']

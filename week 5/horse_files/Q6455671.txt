@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6455671', "L'Enjoleur", 'http://www.wikidata.org/entity/Q3066381', 'Fanfreluche', 'http://www.wikidata.org/entity/Q4983454', 'Buckpasser', '1972', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q471395', 'Citation', 'http://www.wikidata.org/entity/Q62072725', 'Hydroplane', 'http://www.wikidata.org/entity/Q4996587', 'Bull Lea', '1945', '1970', 'male organism']

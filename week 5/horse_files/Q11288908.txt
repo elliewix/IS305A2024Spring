@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11288908', 'ウズシオタロー', '', '', '', '', '1974', '2007', 'female organism']

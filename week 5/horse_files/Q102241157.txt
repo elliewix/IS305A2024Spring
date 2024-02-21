@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241157', 'Twice a Prince', '', '', '', '', '1970', '', 'male organism']

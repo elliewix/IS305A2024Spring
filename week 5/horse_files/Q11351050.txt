@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11351050', 'Lawman', '', '', 'http://www.wikidata.org/entity/Q11287797', 'Invincible Spirit', '2004', '', 'male organism']

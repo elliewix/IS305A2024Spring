@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6189427', "Jewel's Reward", '', '', '', '', '1955', '', 'male organism']

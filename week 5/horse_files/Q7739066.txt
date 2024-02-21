@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7739066', 'The Hawk', '', '', '', '', '1918', '', '']

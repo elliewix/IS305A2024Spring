@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113128887', 'Echt', '', '', 'http://www.wikidata.org/entity/Q11349271', 'Rulership', '2017', '', 'male organism']

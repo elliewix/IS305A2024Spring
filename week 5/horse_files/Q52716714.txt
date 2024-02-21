@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52716714', 'Tetradrachm', '', '', 'http://www.wikidata.org/entity/Q11349271', 'Rulership', '2015', '2020', 'female organism']

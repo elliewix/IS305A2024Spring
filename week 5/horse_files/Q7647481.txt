@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7647481', "Susan's Girl", '', '', 'http://www.wikidata.org/entity/Q7268310', 'Quadrangle', '1969', '', 'female organism']

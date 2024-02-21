@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341770', 'マーチス', '', '', 'http://www.wikidata.org/entity/Q11325587', 'Never Beat', '1965', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236776', 'Governor Gray', '', '', '', '', '1908', '', 'male organism']

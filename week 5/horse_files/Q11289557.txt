@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11289557', 'Eishin Niizan', 'http://www.wikidata.org/entity/Q112735675', 'Eishin Sansan', 'http://www.wikidata.org/entity/Q5472988', 'Forty Niner', '2002', '', 'male organism']

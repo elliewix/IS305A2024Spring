@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118137858', 'Mitono O', '', '', 'http://www.wikidata.org/entity/Q11350241', 'Logotype', '2020', '', 'male organism']

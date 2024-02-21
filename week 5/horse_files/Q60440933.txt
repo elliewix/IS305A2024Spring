@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60440933', 'Strong Suit', '', '', '', '', '', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16961100', 'Charles the Twelfth', 'http://www.wikidata.org/entity/Q63980514', 'Wagtail', 'http://www.wikidata.org/entity/Q7940767', 'Voltaire', '1836', '1859', 'male organism']

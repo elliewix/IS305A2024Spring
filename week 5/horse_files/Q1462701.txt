@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1462701', 'Haleb', '', '', '', '', '1901', '1909', 'male organism']

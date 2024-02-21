@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2722737', 'Chetak', '', '', '', '', '', '1576', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319860', 'テンビーエース', '', '', 'http://www.wikidata.org/entity/Q11319859', 'Tenby', '1998', '', 'female organism']

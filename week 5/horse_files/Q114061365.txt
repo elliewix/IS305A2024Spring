@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114061365', 'Dura', '', '', 'http://www.wikidata.org/entity/Q20047186', 'Duramente', '2020', '', 'female organism']

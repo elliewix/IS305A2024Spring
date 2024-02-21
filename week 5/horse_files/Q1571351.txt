@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1571351', 'Halla', '', '', '', '', '1945', '1979', 'female organism']

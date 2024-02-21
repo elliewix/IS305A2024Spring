@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96240852', 'Osmonde', 'http://www.wikidata.org/entity/Q108861079', 'Esther', 'http://www.wikidata.org/entity/Q96240820', 'Qui Vive', '1892', '', 'female organism']

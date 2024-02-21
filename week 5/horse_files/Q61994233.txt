@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994233', 'Verbatim', 'http://www.wikidata.org/entity/Q61994236', 'Well Kept', 'http://www.wikidata.org/entity/Q7574198', 'Speak John', '1965', '', 'male organism']

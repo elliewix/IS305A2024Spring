@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60994076', 'Exultant', '', '', '', '', '2014', '', 'male organism']

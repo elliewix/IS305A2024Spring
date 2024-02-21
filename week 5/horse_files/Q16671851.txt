@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16671851', 'Queila Gede', '', '', '', '', '1982', '2007', 'female organism']

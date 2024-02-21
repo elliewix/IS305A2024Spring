@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5283723', 'Ditto', 'http://www.wikidata.org/entity/Q61992524', 'Arethusa', 'http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', '1800', '', 'male organism']

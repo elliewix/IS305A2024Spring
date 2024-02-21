@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96240978', 'Olivette', 'http://www.wikidata.org/entity/Q96241058', 'Arlette', 'http://www.wikidata.org/entity/Q96240715', 'Tigris', '1892', '', 'female organism']

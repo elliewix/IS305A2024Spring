@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17112860', 'Edabiya', 'http://www.wikidata.org/entity/Q16259095', 'Ebaziya', 'http://www.wikidata.org/entity/Q3417786', 'Rainbow Quest', '1996', '', 'female organism']

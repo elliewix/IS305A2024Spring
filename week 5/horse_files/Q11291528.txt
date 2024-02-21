@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11291528', 'A Shin D S', 'http://www.wikidata.org/entity/Q112735675', 'Eishin Sansan', 'http://www.wikidata.org/entity/Q5252233', 'Dehere', '2005', '', 'male organism']

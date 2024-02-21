@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237930', 'Light Carbine', '', '', '', '', '1923', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11291079', 'Herbager', '', '', 'http://www.wikidata.org/entity/Q61970520', 'Vandale', '1956', '1976', 'male organism']

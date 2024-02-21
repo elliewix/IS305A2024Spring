@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119578366', 'Jerita des Forges', 'http://www.wikidata.org/entity/Q119578274', 'Volga de Vanoise', 'http://www.wikidata.org/entity/Q119293193', "Épis d'or d'Atout", '2019', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347584', 'Land Power', '', '', '', '', '1995', '2017', 'male organism']

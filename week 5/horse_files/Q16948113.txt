@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16948113', 'Dane Ripper', '', '', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '1993', '', 'female organism']

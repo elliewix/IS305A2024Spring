@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297908', 'King Haiseiko', '', '', 'http://www.wikidata.org/entity/Q5639650', 'Haiseiko', '1981', '', 'male organism']

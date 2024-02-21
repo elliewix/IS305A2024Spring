@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117920150', 'Galopin Delanoe', '', '', '', '', '1994', '', 'male organism']

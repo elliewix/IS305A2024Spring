@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993976', 'Justice', 'http://www.wikidata.org/entity/Q61993978', 'Curiosity', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1774', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4713429', 'Aldaniti', '', '', '', '', '1970', '', 'male organism']

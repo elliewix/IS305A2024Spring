@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7080320', 'Ogygian', 'http://www.wikidata.org/entity/Q55071811', 'Gonfalon', 'http://www.wikidata.org/entity/Q5212022', 'Damascus', '1983', '2015', 'male organism']

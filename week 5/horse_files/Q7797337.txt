@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7797337', 'Three Bars', 'http://www.wikidata.org/entity/Q123971630', 'Myrtle Dee', 'http://www.wikidata.org/entity/Q123968618', 'Percentage', '1940', '1968', 'male organism']

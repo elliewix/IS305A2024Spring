@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63970004', 'Gaga', 'http://www.wikidata.org/entity/Q63970015', 'Alpoise', 'http://www.wikidata.org/entity/Q4996565', 'Bull Dog', '1942', '', 'female organism']

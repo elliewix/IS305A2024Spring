@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11321093', 'トウケイニセイ', '', '', 'http://www.wikidata.org/entity/Q11321096', 'トウケイホープ', '1987', '2012', 'male organism']

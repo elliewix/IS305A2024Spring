@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16983289', 'Harayir', '', '', 'http://www.wikidata.org/entity/Q11296295', 'Gulch', '1992', '', 'female organism']

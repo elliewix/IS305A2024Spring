@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119790011', 'Kabyle 44167', 'http://www.wikidata.org/entity/Q119789826', 'Frisquette 37220', '', '', '1898', '', 'male organism']

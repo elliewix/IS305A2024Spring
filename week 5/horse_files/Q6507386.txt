@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6507386', 'Le Pacha', '', '', '', '', '1938', '', 'male organism']

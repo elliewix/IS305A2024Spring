@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7175761', 'Peter McCue', 'http://www.wikidata.org/entity/Q123986824', 'Nora M', 'http://www.wikidata.org/entity/Q123980590', 'Dan Tucker', '1895', '', 'male organism']

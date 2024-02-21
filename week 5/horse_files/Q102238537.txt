@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238537', 'Uncle Luther', '', '', '', '', '1927', '', 'male organism']

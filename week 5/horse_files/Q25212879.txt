@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25212879', 'Shaktiman', '', '', '', '', '', '', 'male organism']

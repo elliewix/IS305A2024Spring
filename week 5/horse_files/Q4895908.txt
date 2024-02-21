@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4895908', 'Bertrando', '', '', 'http://www.wikidata.org/entity/Q7538100', 'Skywalker', '1989', '2014', 'male organism']

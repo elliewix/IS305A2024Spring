@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120753126', 'Sarrah 637', 'http://www.wikidata.org/entity/Q120753086', 'Pauline', 'http://www.wikidata.org/entity/Q119408138', 'Avata 912', '1882', '', 'female organism']

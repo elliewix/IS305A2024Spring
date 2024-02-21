@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5025841', 'Came Home', '', '', 'http://www.wikidata.org/entity/Q5581608', 'Gone West', '1999', '', 'male organism']

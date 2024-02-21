@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5149433', 'Colt by Fidget', '', '', '', '', '1794', '', 'male organism']

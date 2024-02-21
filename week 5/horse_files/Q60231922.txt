@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60231922', 'Jaywalk', '', '', '', '', '2016', '', 'female organism']

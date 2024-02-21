@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117919293', 'Quintus de la Vande', 'http://www.wikidata.org/entity/Q117911009', 'Kore 4', 'http://www.wikidata.org/entity/Q117917812', 'Storey Creek Knight Cruiser', '2004', '', 'male organism']

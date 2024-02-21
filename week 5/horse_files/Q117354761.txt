@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354761', 'Chartres Hawker', '', '', '', '', '1675', '', 'male organism']

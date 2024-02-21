@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322614', 'ドクタースパート', '', '', 'http://www.wikidata.org/entity/Q11337687', 'ホスピタリテイ', '1986', '', 'male organism']

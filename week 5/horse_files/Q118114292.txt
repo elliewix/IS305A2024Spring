@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118114292', 'Ampère 1274', 'http://www.wikidata.org/entity/Q117205720', 'Rustique', 'http://www.wikidata.org/entity/Q117947469', 'Brilliant 710', '1882', '', 'male organism']

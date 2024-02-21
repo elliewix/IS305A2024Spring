@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119419401', 'Lisabeth 27967', '', '', 'http://www.wikidata.org/entity/Q118136673', 'Nogent', '1878', '', 'female organism']

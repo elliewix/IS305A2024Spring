@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6469266', 'Ladas', '', '', 'http://www.wikidata.org/entity/Q5646159', 'Hampton', '1891', '', 'male organism']

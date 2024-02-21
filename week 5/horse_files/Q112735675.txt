@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112735675', 'Eishin Sansan', '', '', 'http://www.wikidata.org/entity/Q16955989', 'Carroll House', '1992', '2024', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7560561', 'Son-in-Law', 'http://www.wikidata.org/entity/Q55071755', 'Mother In Law', 'http://www.wikidata.org/entity/Q1166219', 'Dark Ronald', '1911', '1941', 'male organism']

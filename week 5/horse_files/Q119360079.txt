@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119360079', 'Maleda 972', 'http://www.wikidata.org/entity/Q119360117', 'Cossette', 'http://www.wikidata.org/entity/Q118136673', 'Nogent', '1878', '', 'male organism']

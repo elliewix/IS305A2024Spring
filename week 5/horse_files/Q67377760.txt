@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q67377760', 'Artichaut', 'http://www.wikidata.org/entity/Q111702286', 'Jariose', 'http://www.wikidata.org/entity/Q111700135', 'Pierreville', '1966', '', 'male organism']

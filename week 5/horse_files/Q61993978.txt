@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993978', 'Curiosity', 'http://www.wikidata.org/entity/Q61993983', 'Regulus mare', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1760', '', 'female organism']

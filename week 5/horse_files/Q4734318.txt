@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4734318', "Aloma's Ruler", '', '', '', '', '1979', '', 'male organism']

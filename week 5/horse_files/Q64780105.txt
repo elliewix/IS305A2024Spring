@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780105', 'サンライズソア', '', '', 'http://www.wikidata.org/entity/Q7661156', 'Symboli Kris S', '2014', '', 'male organism']

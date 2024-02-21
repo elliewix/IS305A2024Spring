@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7622813', 'Street Cry', '', '', 'http://www.wikidata.org/entity/Q6723556', 'Machiavellian', '1998', '2014', 'male organism']

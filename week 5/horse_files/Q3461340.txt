@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3461340', 'Sagace', '', '', 'http://www.wikidata.org/entity/Q11348515', 'Luthier', '1980', '', 'male organism']

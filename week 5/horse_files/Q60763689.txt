@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60763689', 'Carbon Copy', '', '', '', '', '1945', '', '']

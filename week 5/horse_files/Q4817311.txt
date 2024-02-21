@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4817311', 'Deputy Minister', '', '', 'http://www.wikidata.org/entity/Q11351856', 'Vice Regent', '1979', '', 'male organism']

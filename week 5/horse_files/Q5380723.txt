@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5380723', 'Entreaty', '', '', '', '', '1920', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260745', 'Meiner Fanrong', 'http://www.wikidata.org/entity/Q109260746', 'Meine Theresia', 'http://www.wikidata.org/entity/Q11312249', 'Stay Gold', '2015', '', 'male organism']

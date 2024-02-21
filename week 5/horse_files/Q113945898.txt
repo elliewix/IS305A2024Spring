@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q113945898', 'Ikeno Emerald', '', '', 'http://www.wikidata.org/entity/Q109595888', 'コノミテイオー', '1996', '', 'female organism']

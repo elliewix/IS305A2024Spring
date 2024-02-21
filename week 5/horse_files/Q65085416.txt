@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65085416', 'Lightning Spear', '', '', '', '', '2011', '', '']

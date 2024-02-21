@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5304083', 'Dr. Fager', '', '', 'http://www.wikidata.org/entity/Q7370792', "Rough'n Tumble", '1964', '', 'male organism']

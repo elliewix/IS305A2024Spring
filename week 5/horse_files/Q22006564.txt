@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006564', 'Upset', '', '', 'http://www.wikidata.org/entity/Q7993841', 'Whisk Broom II', '1917', '', 'male organism']

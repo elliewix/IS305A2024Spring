@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006404', 'North Stoke', '', '', '', '', '1974', '', 'male organism']

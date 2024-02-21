@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11309830', 'Jack Sullivan', '', '', '', '', '2001', '', 'male organism']

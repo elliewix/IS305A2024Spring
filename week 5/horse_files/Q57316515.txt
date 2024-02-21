@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q57316515', 'Zigeunersohn', 'http://www.wikidata.org/entity/Q100355482', 'Zigeunerkind', 'http://www.wikidata.org/entity/Q100354758', 'Grande', '1965', '', 'male organism']

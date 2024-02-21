@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735309', 'Satono Chronicle', '', '', 'http://www.wikidata.org/entity/Q4309360', "Heart's Cry", '2014', '', 'male organism']

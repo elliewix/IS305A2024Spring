@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11297567', 'Kyowa Roaring', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '2001', '', 'male organism']

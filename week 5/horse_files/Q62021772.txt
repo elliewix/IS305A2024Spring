@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021772', 'Bay Javelin', 'http://www.wikidata.org/entity/Q62021971', 'Young Flora', 'http://www.wikidata.org/entity/Q62021774', 'Javelin', '1793', '', 'female organism']

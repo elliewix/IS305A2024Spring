@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62021766', 'Seymour', 'http://www.wikidata.org/entity/Q62021772', 'Bay Javelin', 'http://www.wikidata.org/entity/Q61978867', 'Delpini', '1807', '', 'male organism']

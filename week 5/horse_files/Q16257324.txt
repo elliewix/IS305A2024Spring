@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16257324', 'Delta', '', '', '', '', '1946', '', 'male organism']

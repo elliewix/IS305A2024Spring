@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5579106', 'Golden Act', '', '', '', '', '1976', '', 'male organism']

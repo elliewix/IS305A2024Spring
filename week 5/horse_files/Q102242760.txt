@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242760', 'Master David', '', '', '', '', '2001', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106636366', 'Juvigny', 'http://www.wikidata.org/entity/Q106636471', 'Formosa', 'http://www.wikidata.org/entity/Q96207395', 'Cherbourg', '1887', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115090660', 'Sigma II', 'http://www.wikidata.org/entity/Q115090720', 'Katy Elf', 'http://www.wikidata.org/entity/Q115090922', 'El Toro', '1984', '', 'female organism']

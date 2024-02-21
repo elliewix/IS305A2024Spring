@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55611593', 'Ferry', '', '', 'http://www.wikidata.org/entity/Q7659386', 'Swynford', '1915', '', 'female organism']

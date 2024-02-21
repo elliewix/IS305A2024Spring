@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11344960', 'Yaeno Muteki', '', '', 'http://www.wikidata.org/entity/Q11345209', 'Yamaninsky', '1985', '2014', 'male organism']

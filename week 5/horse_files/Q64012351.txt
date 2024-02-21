@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64012351', 'Miss Middleton', '', '', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '', '', 'female organism']

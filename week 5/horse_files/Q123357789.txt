@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123357789', 'Yente', '', '', '', '', '2007', '', 'male']

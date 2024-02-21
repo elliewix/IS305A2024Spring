@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5742973', 'Herod', 'http://www.wikidata.org/entity/Q61988998', 'Cypron', 'http://www.wikidata.org/entity/Q61970253', 'Tartar', '1758', '1780', 'male organism']

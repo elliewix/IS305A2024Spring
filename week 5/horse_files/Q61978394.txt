@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978394', 'Carnival Queen', 'http://www.wikidata.org/entity/Q61978397', 'Circus Ring', 'http://www.wikidata.org/entity/Q61978396', 'Amerigo', '', '', 'female organism']

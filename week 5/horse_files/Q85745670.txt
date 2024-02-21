@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q85745670', 'Bast', '', '', '', '', '', '', 'female organism']

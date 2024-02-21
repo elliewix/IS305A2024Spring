@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978433', 'Windermere', 'http://www.wikidata.org/entity/Q61978438', 'Miss Agnes', 'http://www.wikidata.org/entity/Q6722591', 'Macaroni', '1870', '', 'female organism']

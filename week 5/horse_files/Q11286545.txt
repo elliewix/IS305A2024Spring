@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11286545', 'Ishino Hikaru', '', '', '', '', '1969', '', 'male organism']

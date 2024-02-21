@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55616055', 'Kirkconnel', '', '', '', '', '1892', '', '']

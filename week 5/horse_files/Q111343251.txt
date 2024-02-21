@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111343251', 'Diablesse', '', '', '', '', '', '', 'female organism']

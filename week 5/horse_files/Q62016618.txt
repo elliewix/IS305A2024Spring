@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62016618', 'Waverly', 'http://www.wikidata.org/entity/Q62016619', 'Margaretta', 'http://www.wikidata.org/entity/Q11251240', 'Whalebone', '1817', '', 'male organism']

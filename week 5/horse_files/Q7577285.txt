@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7577285', 'Spilletta', '', '', 'http://www.wikidata.org/entity/Q3423713', 'Regulus', '1749', '1776', 'female organism']

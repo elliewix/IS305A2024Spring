@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64005592', 'Sultana', 'http://www.wikidata.org/entity/Q64005596', 'Mildred', 'http://www.wikidata.org/entity/Q370429', 'Lexington', '1873', '', 'female organism']

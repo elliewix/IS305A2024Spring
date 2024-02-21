@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241092', 'Shecky Greene', 'http://www.wikidata.org/entity/Q109379734', "Lester's Pride", 'http://www.wikidata.org/entity/Q16971101', 'Noholme', '1970', '1984', 'male organism']

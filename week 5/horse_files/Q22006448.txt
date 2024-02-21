@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006448', 'Mirska', '', '', 'http://www.wikidata.org/entity/Q7588068', 'St. Frusquin', '1909', '', 'female organism']

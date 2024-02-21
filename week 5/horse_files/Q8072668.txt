@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8072668', 'Zippo Pat Bars', '', '', 'http://www.wikidata.org/entity/Q7797337', 'Three Bars', '1964', '', 'male organism']

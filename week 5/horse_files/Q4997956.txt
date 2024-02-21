@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4997956', 'Bunty Lawless', '', '', '', '', '1935', '', 'male organism']

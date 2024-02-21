@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6968342', 'Natalma', 'http://www.wikidata.org/entity/Q4733659', 'Almahmoud', 'http://www.wikidata.org/entity/Q1076143', 'Native Dancer', '1957', '1985', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55097891', 'Rose Prince', '', '', 'http://www.wikidata.org/entity/Q7244192', 'Prince Palatine', '1919', '', 'male organism']

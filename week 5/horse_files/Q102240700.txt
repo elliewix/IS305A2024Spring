@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240700', 'Rehabilitate', '', '', '', '', '1963', '', 'male organism']

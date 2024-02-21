@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237868', 'Boon Companion', '', '', '', '', '1922', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96210327', 'Nitouche', 'http://www.wikidata.org/entity/Q106650566', 'Eva', 'http://www.wikidata.org/entity/Q96037199', 'Fuschia', '1891', '', 'female organism']

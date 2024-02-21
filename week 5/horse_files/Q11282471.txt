@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11282471', 'Ayrton Symboli', '', '', 'http://www.wikidata.org/entity/Q11308703', 'Symboli Rudolf', '1989', '', 'male organism']

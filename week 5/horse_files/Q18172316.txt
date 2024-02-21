@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18172316', 'Shangamuzo', '', '', '', '', '1973', '', 'male organism']

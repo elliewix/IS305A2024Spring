@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108883834', "L'Ardrossane", 'http://www.wikidata.org/entity/Q108883782', 'La Snail', '', '', '1830', '', 'female organism']

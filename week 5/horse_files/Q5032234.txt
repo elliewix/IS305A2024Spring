@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5032234', 'Canebora', '', '', 'http://www.wikidata.org/entity/Q5029833', 'Canadian Champ', '1960', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111472802', 'Crown Pride', '', '', 'http://www.wikidata.org/entity/Q11348758', 'Reach the Crown', '2019', '', 'male organism']

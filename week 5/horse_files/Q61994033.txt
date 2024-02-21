@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994033', 'Queen Mary', 'http://www.wikidata.org/entity/Q61994039', 'Plenipotentiary mare', 'http://www.wikidata.org/entity/Q61970541', 'Gladiator', '1843', '', 'female organism']

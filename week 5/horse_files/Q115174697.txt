@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115174697', 'Valle de la Luna', '', '', 'http://www.wikidata.org/entity/Q20047186', 'Duramente', '2019', '', 'female organism']

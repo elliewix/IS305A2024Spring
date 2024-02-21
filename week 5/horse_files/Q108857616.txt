@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108857616', 'Henry Clay', '', '', '', '', '1837', '', 'male organism']

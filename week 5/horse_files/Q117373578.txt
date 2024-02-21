@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117373578', 'Sally', 'http://www.wikidata.org/entity/Q117373703', 'Diomed mare', 'http://www.wikidata.org/entity/Q11306236', 'Sir Peter Teazle', '1800', '', 'female organism']

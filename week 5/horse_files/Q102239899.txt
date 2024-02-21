@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239899', 'Arroz', '', '', '', '', '1949', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q56303995', 'Emter W.', '', '', '', '', '1966', '1990', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17019812', 'Sing Sing', '', '', 'http://www.wikidata.org/entity/Q7851301', 'Tudor Minstrel', '1957', '', 'male organism']

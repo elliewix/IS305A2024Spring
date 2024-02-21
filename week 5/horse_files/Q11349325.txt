@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11349325', 'Raise a Native', 'http://www.wikidata.org/entity/Q55079158', 'Raise You', 'http://www.wikidata.org/entity/Q1076143', 'Native Dancer', '1961', '1988', 'male organism']

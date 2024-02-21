@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22328217', 'Gustia', '', '', 'http://www.wikidata.org/entity/Q22315525', 'Landgraf I', '1970', '', 'female organism']

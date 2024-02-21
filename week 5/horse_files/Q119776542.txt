@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119776542', 'Missouri 34400', '', '', 'http://www.wikidata.org/entity/Q119725979', 'Tu-Duc II 2916', '1890', '', 'male organism']

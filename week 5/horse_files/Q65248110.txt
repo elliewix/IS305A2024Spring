@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65248110', 'Coulisa', 'http://www.wikidata.org/entity/Q108132695', 'Sanisa', 'http://www.wikidata.org/entity/Q66615599', 'Couleur Rubin', '2004', '2014', 'female organism']

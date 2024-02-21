@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q105722859', 'Arqana de Riverland', 'http://www.wikidata.org/entity/Q105722890', 'Stella de Riverland', 'http://www.wikidata.org/entity/Q1134114', 'Cornet Obolensky', '2010', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22009389', 'Quick Star', 'http://www.wikidata.org/entity/Q108331474', 'Stella', 'http://www.wikidata.org/entity/Q3094865', 'Galoubet A', '1982', '2011', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1462808', 'Hadban Enzahi', '', '', 'http://www.wikidata.org/entity/Q1967811', 'Nazeer', '1952', '1975', 'male organism']

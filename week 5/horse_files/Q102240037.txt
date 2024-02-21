@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240037', 'Sea O Erin', '', '', '', '', '1951', '', 'male organism']

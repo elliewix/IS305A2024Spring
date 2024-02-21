@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238296', 'Bonivan', '', '', '', '', '1925', '', 'male organism']

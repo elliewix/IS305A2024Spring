@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026311', 'Miss Cade', 'http://www.wikidata.org/entity/Q62026345', 'Miss Partner', 'http://www.wikidata.org/entity/Q5016340', 'Cade', '1750', '', 'female organism']

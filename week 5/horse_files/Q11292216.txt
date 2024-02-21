@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11292216', 'Officer', '', '', 'http://www.wikidata.org/entity/Q4895908', 'Bertrando', '1999', '', 'male organism']

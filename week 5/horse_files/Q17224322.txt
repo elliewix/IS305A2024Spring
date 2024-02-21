@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224322', 'Bounce Shasse', '', '', 'http://www.wikidata.org/entity/Q8069153', 'Zenno Rob Roy', '2011', '', 'female organism']

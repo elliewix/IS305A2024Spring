@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241469', 'Screen King', '', '', '', '', '1976', '', 'male organism']

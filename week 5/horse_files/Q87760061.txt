@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87760061', 'Physician', '', '', 'http://www.wikidata.org/entity/Q62028944', 'Brutandorf', '1829', '', 'male organism']

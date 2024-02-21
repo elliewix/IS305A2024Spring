@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303942', 'Gold Digger', 'http://www.wikidata.org/entity/Q63539946', 'Sequence', 'http://www.wikidata.org/entity/Q6966906', 'Nashua', '1962', '', 'female organism']

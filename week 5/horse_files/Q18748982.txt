@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18748982', 'Farda Amiga', '', '', 'http://www.wikidata.org/entity/Q4971854', 'Broad Brush', '1999', '', 'female organism']

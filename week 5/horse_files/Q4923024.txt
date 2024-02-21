@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4923024', 'Blackie', '', '', '', '', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q379362', 'Phar Lap', 'http://www.wikidata.org/entity/Q5380723', 'Entreaty', 'http://www.wikidata.org/entity/Q7033411', 'Night Raid', '1926', '1932', 'male organism']

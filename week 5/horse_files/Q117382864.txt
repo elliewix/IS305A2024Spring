@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382864', 'sister to Tortoise', 'http://www.wikidata.org/entity/Q61993766', 'Amorett', 'http://www.wikidata.org/entity/Q117354676', 'Godolphin Whitefoot', '1736', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241901', 'Badger Land', '', '', '', '', '1983', '', 'male organism']

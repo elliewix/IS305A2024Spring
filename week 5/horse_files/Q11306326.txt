@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11306326', 'Zachariah', '', '', 'http://www.wikidata.org/entity/Q8064298', 'Zafonic', '1996', '2013', 'male organism']

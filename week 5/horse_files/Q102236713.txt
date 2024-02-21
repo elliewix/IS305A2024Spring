@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236713', 'Fighting Bob', '', '', '', '', '1907', '', 'male organism']

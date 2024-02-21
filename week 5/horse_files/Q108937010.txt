@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108937010', 'Beaugé', '', '', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1879', '', 'male organism']

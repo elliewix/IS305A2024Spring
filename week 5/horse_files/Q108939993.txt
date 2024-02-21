@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108939993', 'Déception', 'http://www.wikidata.org/entity/Q108937192', 'Bécassine', 'http://www.wikidata.org/entity/Q96096846', 'Normand', '1878', '', 'female organism']

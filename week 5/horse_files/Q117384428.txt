@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384428', 'Tabitha', 'http://www.wikidata.org/entity/Q117384448', 'Bosphorus mare', 'http://www.wikidata.org/entity/Q62022926', 'Trentham', '1782', '', 'female organism']

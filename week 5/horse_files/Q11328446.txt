@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11328446', 'Ban Ban Bank', '', '', 'http://www.wikidata.org/entity/Q11283069', 'Agnes Gold', '2005', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17231487', 'アローキャリー', '', '', 'http://www.wikidata.org/entity/Q6494747', 'Last Tycoon', '1999', '2006', 'female organism']

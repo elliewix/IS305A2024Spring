@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7307918', 'Regal Gleam', 'http://www.wikidata.org/entity/Q62011390', 'Miz Carol', 'http://www.wikidata.org/entity/Q5639203', 'Hail To Reason', '1964', '', 'female organism']

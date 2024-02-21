@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16967340', 'Polar Falcon', '', '', 'http://www.wikidata.org/entity/Q3346473', 'Nureyev', '1987', '', 'male organism']

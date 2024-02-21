@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63980420', 'Lozenge', '', '', 'http://www.wikidata.org/entity/Q7655747', 'Sweetmeat', '1862', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119367196', 'Major Clark 1284', 'http://www.wikidata.org/entity/Q119367220', 'Cléopâtre', 'http://www.wikidata.org/entity/Q119266237', 'Narbonne 777', '1881', '', 'male organism']

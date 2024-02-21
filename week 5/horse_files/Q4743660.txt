@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4743660', 'American Eclipse', '', '', '', '', '1814', '', 'male organism']

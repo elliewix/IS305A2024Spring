@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242568', "Hal's Hope", '', '', '', '', '1997', '', 'male organism']

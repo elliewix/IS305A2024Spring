@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108347251', 'Chique Caennaise', '', '', '', '', '1946', '', 'female organism']

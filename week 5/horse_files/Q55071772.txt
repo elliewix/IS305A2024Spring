@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071772', 'Darkie', '', '', 'http://www.wikidata.org/entity/Q55071783', 'Thurio', '', '', 'female organism']

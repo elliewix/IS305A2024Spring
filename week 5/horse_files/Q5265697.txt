@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5265697', 'Determine', 'http://www.wikidata.org/entity/Q61995158', 'Koubis', 'http://www.wikidata.org/entity/Q4725645', 'Alibhai', '1951', '', 'male organism']

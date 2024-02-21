@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61986301', 'Suicide', '', '', 'http://www.wikidata.org/entity/Q5741736', 'Hermit', '1876', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q38278733', 'ゴーディー', '', '', 'http://www.wikidata.org/entity/Q11335833', 'Precious Cafe', '2008', '', 'male organism']

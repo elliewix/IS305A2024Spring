@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q26492507', 'Voyeur', '', '', '', '', '2002', '', 'male organism']

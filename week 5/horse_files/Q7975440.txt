@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7975440', 'Waverley Star', '', '', '', '', '1982', '', '']

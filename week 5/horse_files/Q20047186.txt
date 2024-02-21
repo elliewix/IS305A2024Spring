@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20047186', 'Duramente', 'http://www.wikidata.org/entity/Q11284092', 'Admire Groove', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2012', '2021', 'male organism']

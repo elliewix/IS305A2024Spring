@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315679', 'タイキブリザード', '', '', 'http://www.wikidata.org/entity/Q1457136', 'Seattle Slew', '1991', '2014', 'male organism']

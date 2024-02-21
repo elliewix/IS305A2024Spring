@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119075692', 'Resida 49456', '', '', 'http://www.wikidata.org/entity/Q119075565', 'Hubert 14936', '1894', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117885192', 'Fenelon 2682', 'http://www.wikidata.org/entity/Q117908439', 'Ernestine', 'http://www.wikidata.org/entity/Q117748161', 'Brilliant 755', '1880', '', 'male organism']

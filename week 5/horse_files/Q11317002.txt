@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11317002', 'ダイヤモンドビコー', '', '', 'http://www.wikidata.org/entity/Q180387', 'Sunday Silence', '1998', '2014', 'female organism']

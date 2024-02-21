@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4939043', 'Bold', '', '', '', '', '1948', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60747616', 'Salse', 'http://www.wikidata.org/entity/Q61978383', 'Carnival Princess', 'http://www.wikidata.org/entity/Q7825160', 'Topsider', '', '', 'male organism']

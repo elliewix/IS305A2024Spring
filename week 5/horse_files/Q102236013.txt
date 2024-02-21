@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236013', 'Drake Carter', '', '', '', '', '1880', '', 'male organism']

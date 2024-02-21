@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60767066', 'Sarafina', '', '', '', '', '2007', '', 'female organism']

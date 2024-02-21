@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63980431', 'Lord Ronald', 'http://www.wikidata.org/entity/Q63980439', 'Edith', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1862', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q942430', 'Totilas', '', '', 'http://www.wikidata.org/entity/Q112423499', 'Gribaldi', '2000', '2020', 'male organism']

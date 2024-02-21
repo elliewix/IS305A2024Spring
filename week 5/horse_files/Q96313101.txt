@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96313101', 'Commere', '', '', 'http://www.wikidata.org/entity/Q96096846', 'Normand', '1880', '', 'female organism']

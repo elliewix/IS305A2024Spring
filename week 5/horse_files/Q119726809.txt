@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119726809', 'Silver-Duke 1080', 'http://www.wikidata.org/entity/Q119726825', 'Fanny', 'http://www.wikidata.org/entity/Q117910732', 'Philibert 760', '1879', '', 'male organism']

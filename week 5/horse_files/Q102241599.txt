@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241599', 'Tap Shoes', '', '', '', '', '1978', '', 'male organism']

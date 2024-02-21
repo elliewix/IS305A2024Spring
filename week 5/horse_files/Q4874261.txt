@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4874261', 'Bayakoa', '', '', '', '', '1984', '', 'female organism']

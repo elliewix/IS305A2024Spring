@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240210', 'Shan Pac', '', '', '', '', '1954', '', 'male organism']

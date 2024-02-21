@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7600891', 'Star Shoot', 'http://www.wikidata.org/entity/Q61994249', 'Astrology', 'http://www.wikidata.org/entity/Q11282151', 'Isinglass', '1898', '', 'male organism']

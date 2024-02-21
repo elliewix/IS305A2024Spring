@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316819', 'Dyna Carle', '', '', 'http://www.wikidata.org/entity/Q7059024', 'Northern Taste', '1980', '', 'female organism']

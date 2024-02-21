@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114987187', 'Etretat', '', '', '', '', '1970', '', 'male organism']

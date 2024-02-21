@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369775', 'Miss Judy', 'http://www.wikidata.org/entity/Q62027904', 'Manilla', 'http://www.wikidata.org/entity/Q62021734', 'Alfred', '1784', '', 'female organism']

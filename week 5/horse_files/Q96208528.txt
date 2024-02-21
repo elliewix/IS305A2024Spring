@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q96208528', 'Old Rattler', '', '', 'http://www.wikidata.org/entity/Q96208548', 'Magnum Bonum', '1784', '', 'male organism']

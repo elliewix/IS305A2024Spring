@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28691482', 'Linda Linda', '', '', 'http://www.wikidata.org/entity/Q11334069', 'French Deputy', '2013', '', 'female organism']

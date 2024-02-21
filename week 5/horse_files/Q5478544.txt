@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5478544', 'Frances Bulwark', '', '', '', '', '1945', '', '']

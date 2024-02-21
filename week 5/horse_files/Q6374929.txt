@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6374929', 'Kasztanka', '', '', '', '', '1909', '1927', 'female organism']

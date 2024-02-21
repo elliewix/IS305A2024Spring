@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122147922', 'Ribi 2741', 'http://www.wikidata.org/entity/Q122147964', 'Poule', 'http://www.wikidata.org/entity/Q120706143', 'Gerome 3655', '1884', '', 'female organism']

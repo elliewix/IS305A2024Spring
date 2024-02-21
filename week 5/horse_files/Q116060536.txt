@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116060536', 'Fenwick Barb', '', '', '', '', '1685', '', 'male organism']

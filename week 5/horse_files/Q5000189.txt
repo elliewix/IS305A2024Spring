@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5000189', 'Burnt Cork', '', '', '', '', '1940', '', 'male organism']

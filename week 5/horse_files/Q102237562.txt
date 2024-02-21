@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237562', 'Pravus', '', '', '', '', '1920', '', 'male organism']

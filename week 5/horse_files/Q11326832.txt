@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11326832', 'Hurry On', 'http://www.wikidata.org/entity/Q117101924', 'Tout suite', 'http://www.wikidata.org/entity/Q22338112', 'Marcovil', '1913', '1936', 'male organism']

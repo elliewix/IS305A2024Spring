@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11327620', 'バシケーン', '', '', 'http://www.wikidata.org/entity/Q11308343', 'Silk Justice', '2005', '', 'male organism']

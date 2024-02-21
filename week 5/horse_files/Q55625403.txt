@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55625403', 'Norman', 'http://www.wikidata.org/entity/Q64005584', 'Nineveh', 'http://www.wikidata.org/entity/Q64005572', 'Octagon', '1905', '', 'male organism']

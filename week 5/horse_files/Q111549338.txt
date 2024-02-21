@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111549338', 'Stars on Earth', '', '', 'http://www.wikidata.org/entity/Q20047186', 'Duramente', '2019', '', 'female organism']

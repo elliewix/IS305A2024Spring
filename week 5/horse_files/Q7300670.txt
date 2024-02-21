@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7300670', 'Ready Teddy', '', '', '', '', '1987', '2011', 'male organism']

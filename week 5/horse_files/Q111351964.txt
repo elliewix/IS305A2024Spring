@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111351964', 'Idole du Talus', '', '', 'http://www.wikidata.org/entity/Q21427676', 'Narcos II', '1996', '', 'female organism']

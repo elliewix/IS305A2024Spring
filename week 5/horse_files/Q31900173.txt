@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q31900173', 'Vala Boko', '', '', '', '', '2003', '', '']

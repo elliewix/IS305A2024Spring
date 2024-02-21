@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123506471', 'Joyeuse', 'http://www.wikidata.org/entity/Q123510335', 'Valseuse', '', '', '1953', '', 'female organism']

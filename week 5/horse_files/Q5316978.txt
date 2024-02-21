@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5316978', 'Dust Commander', 'http://www.wikidata.org/entity/Q61997292', 'Dust Storm', 'http://www.wikidata.org/entity/Q61994185', 'Bold Commander', '1967', '1991', 'male organism']

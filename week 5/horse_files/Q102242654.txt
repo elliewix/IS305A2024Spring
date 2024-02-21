@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242654', 'Castle Gandolfo', '', '', '', '', '1999', '', 'male organism']

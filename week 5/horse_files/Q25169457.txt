@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25169457', 'Gay Donald', '', '', '', '', '1946', '', '']

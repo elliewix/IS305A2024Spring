@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11307488', 'Civil War', '', '', 'http://www.wikidata.org/entity/Q7968431', 'War Emblem', '2005', '', 'male organism']

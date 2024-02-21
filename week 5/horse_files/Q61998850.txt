@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61998850', 'Cascade', '', '', 'http://www.wikidata.org/entity/Q7239482', 'Precipitation', '1951', '', 'female organism']

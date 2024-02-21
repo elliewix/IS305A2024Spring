@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7132326', 'Papa Clem', '', '', 'http://www.wikidata.org/entity/Q6145306', 'Smart Strike', '2006', '', 'male organism']

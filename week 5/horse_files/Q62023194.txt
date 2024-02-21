@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62023194', 'Young Greyhound mare', '', '', 'http://www.wikidata.org/entity/Q62023198', 'Young Greyhound', '', '', 'female organism']

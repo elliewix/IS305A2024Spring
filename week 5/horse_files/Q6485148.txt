@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6485148', 'Landseer', '', '', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '1999', '', 'male organism']

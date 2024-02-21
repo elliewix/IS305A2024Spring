@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283200', 'Asama Yuri', '', '', 'http://www.wikidata.org/entity/Q11338612', 'ボストニアン', '1959', '', 'female organism']

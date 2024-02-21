@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119300651', 'Alamet 896', 'http://www.wikidata.org/entity/Q119300459', 'Jeannette', 'http://www.wikidata.org/entity/Q119300837', 'Astor 850', '1878', '', 'male organism']

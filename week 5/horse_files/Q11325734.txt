@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11325734', 'ノボトゥルー', '', '', 'http://www.wikidata.org/entity/Q4971854', 'Broad Brush', '1996', '', 'male organism']

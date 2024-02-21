@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6750704', 'Manna', '', '', 'http://www.wikidata.org/entity/Q7180267', 'Phalaris', '1922', '', 'male organism']

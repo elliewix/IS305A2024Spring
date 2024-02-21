@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11335117', 'Brocade', '', '', 'http://www.wikidata.org/entity/Q11285909', 'Yellow God', '1978', '2010', 'female organism']

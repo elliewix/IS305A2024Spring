@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106676832', 'Azur', 'http://www.wikidata.org/entity/Q106676991', 'Plaisance', 'http://www.wikidata.org/entity/Q106636366', 'Juvigny', '1900', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7226046', 'Poltroon', '', '', '', '', '', '', 'female organism']

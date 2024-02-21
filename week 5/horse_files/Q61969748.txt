@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969748', 'Doubly Sure', '', '', 'http://www.wikidata.org/entity/Q7311007', 'Reliance', '1971', '', 'female organism']

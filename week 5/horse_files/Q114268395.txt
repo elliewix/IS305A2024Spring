@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114268395', 'Piena Venus', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '2004', '', 'female organism']

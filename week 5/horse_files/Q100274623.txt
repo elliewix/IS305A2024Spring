@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100274623', 'Hegnus', 'http://www.wikidata.org/entity/Q100323838', 'Hespa', 'http://www.wikidata.org/entity/Q100292979', 'Magnus', '2008', '', 'male organism']

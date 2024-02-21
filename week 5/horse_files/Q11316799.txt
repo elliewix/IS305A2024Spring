@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316799', 'Daitaku Riva', '', '', 'http://www.wikidata.org/entity/Q11333106', 'Fuji Kiseki', '1997', '2017', 'male organism']

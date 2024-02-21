@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117386882', 'Snake mare', '', '', 'http://www.wikidata.org/entity/Q11347998', 'Snake', '1720', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18127765', 'Sanedtki', '', '', 'http://www.wikidata.org/entity/Q17017127', 'Sallust', '1974', '', 'female organism']

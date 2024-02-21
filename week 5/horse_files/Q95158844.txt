@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q95158844', 'Peer Gynt', '', '', '', '', '', '', 'male organism']

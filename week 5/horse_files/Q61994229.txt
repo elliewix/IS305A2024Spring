@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994229', 'Charytin', '', '', 'http://www.wikidata.org/entity/Q7637732', 'Summing', '1991', '', 'female organism']

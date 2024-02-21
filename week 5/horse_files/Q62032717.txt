@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62032717', 'Shark', 'http://www.wikidata.org/entity/Q62032719', 'Snap mare', 'http://www.wikidata.org/entity/Q3081024', 'Marske', '1771', '', 'male organism']

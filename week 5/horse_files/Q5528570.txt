@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5528570', 'Gay Crusader', 'http://www.wikidata.org/entity/Q55090852', 'Gay Laura', 'http://www.wikidata.org/entity/Q4874350', 'Bayardo', '1914', '', 'male organism']

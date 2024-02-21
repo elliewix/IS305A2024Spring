@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11322616', 'Doctor Dino', '', '', '', '', '2002', '', 'male organism']

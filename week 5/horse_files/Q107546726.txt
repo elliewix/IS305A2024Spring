@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546726', 'Better Self', '', '', '', '', '1945', '', 'male organism']

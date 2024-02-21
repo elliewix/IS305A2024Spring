@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735338', 'Tagano Azaghal', '', '', 'http://www.wikidata.org/entity/Q2879150', 'Bago', '2012', '', 'male organism']

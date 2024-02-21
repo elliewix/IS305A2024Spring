@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343087', 'ムサシボウホマレ', '', '', 'http://www.wikidata.org/entity/Q11321754', 'トライバルセンプー', '1987', '', 'male organism']

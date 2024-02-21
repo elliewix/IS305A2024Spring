@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q71670145', 'ファイブホープ', '', '', '', '', '', '', 'female organism']

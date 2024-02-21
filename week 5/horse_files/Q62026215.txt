@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62026215', 'Coquette', 'http://www.wikidata.org/entity/Q62026224', 'Sister to Regulus', 'http://www.wikidata.org/entity/Q62026217', 'Compton Barb', '1765', '', 'female organism']

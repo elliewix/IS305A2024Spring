@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006456', 'New Policy', '', '', 'http://www.wikidata.org/entity/Q6399291', 'Khaled', '1957', '', 'male organism']

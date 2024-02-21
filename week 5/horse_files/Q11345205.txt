@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11345205', 'ヤマニンキングリー', '', '', 'http://www.wikidata.org/entity/Q11283071', 'Agnes Digital', '2005', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11306904', 'Shian Mor', '', '', 'http://www.wikidata.org/entity/Q17361624', 'Buchan', '1924', '', 'male organism']

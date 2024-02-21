@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q85803195', 'Star Plaudit', '', '', '', '', '', '', 'male organism']

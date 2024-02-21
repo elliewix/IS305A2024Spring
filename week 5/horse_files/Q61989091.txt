@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61989091', 'Lady Erne', '', '', 'http://www.wikidata.org/entity/Q4252720', 'Sir Gallahad', '1934', '', 'female organism']

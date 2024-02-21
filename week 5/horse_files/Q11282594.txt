@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11282594', 'Auslese', '', '', 'http://www.wikidata.org/entity/Q11314942', 'Generalist', '2002', '', 'female organism']

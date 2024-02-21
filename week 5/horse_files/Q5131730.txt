@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5131730', 'Cleopatra', '', '', '', '', '1917', '', 'female organism']

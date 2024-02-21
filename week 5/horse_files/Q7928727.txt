@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7928727', 'Vieux Manoir', '', '', 'http://www.wikidata.org/entity/Q4957709', 'Brantôme', '1947', '', 'male organism']

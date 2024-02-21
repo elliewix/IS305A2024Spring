@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028012', 'Ruby', 'http://www.wikidata.org/entity/Q62028100', "Williamson's Ditto mare", 'http://www.wikidata.org/entity/Q7376018', 'Rubens', '1825', '', 'female organism']

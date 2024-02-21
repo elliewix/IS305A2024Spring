@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4921993', 'Black Tarquin', 'http://www.wikidata.org/entity/Q7908542', 'Vagrancy', '', '', '1945', '', 'male organism']

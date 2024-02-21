@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11315674', 'タイキシャーロック', '', '', 'http://www.wikidata.org/entity/Q11309134', 'Jade Robbery', '1992', '', 'male organism']

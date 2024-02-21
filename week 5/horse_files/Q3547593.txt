@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3547593', 'Ua Uka', '', '', 'http://www.wikidata.org/entity/Q3195446', 'Kerjacques', '', '', 'female organism']

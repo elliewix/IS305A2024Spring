@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7400420', 'Sailor', 'http://www.wikidata.org/entity/Q62027341', 'Goosander', 'http://www.wikidata.org/entity/Q62022551', 'Scud', '1817', '', 'male organism']

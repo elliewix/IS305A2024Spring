@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11289549', 'Eishin Cameron', '', '', 'http://www.wikidata.org/entity/Q8027965', 'With Approval', '1996', '', 'male organism']

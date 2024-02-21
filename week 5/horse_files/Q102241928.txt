@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241928', 'Templar Hill', '', '', '', '', '1984', '', 'male organism']

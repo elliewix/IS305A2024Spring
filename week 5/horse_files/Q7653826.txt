@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7653826', 'Swaps', 'http://www.wikidata.org/entity/Q107545066', 'Iron Reward', 'http://www.wikidata.org/entity/Q6399291', 'Khaled', '1952', '', 'male organism']

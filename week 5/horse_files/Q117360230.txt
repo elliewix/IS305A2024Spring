@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117360230', 'Ramsdens mare', 'http://www.wikidata.org/entity/Q117360232', 'Spanker mare', 'http://www.wikidata.org/entity/Q1018502', 'Byerley Turk', '1697', '', 'female organism']

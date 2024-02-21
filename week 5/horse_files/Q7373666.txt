@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7373666', 'Royal Applause', '', '', '', '', '1993', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60228385', 'Courageux Guerrier', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2016', '', 'male organism']

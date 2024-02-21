@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52555743', 'Muley-Moloch', 'http://www.wikidata.org/entity/Q62033250', 'Nancy', 'http://www.wikidata.org/entity/Q52555773', 'Muley', '1830', '', 'male organism']

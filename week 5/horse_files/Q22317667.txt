@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22317667', 'Loripierre', '', '', 'http://www.wikidata.org/entity/Q22317774', 'Foudre de guerre', '1977', '', 'female organism']

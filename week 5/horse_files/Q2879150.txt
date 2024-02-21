@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2879150', 'Bago', '', '', 'http://www.wikidata.org/entity/Q3336192', 'Nashwan', '2001', '', 'male organism']

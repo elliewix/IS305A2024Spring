@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55607309', 'Chief (horse)', '', '', '', '', '', '', 'male organism']

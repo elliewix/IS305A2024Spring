@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q1969034', 'Northern Dancer', 'http://www.wikidata.org/entity/Q6968342', 'Natalma', 'http://www.wikidata.org/entity/Q3307189', 'Nearctic', '1961', '1990', 'male organism']

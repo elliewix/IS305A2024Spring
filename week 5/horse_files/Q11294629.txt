@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11294629', 'Kabutoyama', 'http://www.wikidata.org/entity/Q11283518', 'Astral', 'http://www.wikidata.org/entity/Q11306904', 'Shian Mor', '1930', '', 'male organism']

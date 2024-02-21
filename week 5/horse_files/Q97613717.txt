@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q97613717', 'Ringoame', '', '', 'http://www.wikidata.org/entity/Q11340626', 'Matsurida Gogh', '2018', '', 'female organism']

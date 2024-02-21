@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62045635', 'Commodore', '', '', 'http://www.wikidata.org/entity/Q62045739', 'Tom Tug', '1793', '', 'male organism']

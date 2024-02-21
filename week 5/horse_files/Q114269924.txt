@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114269924', 'Shonan Talent', '', '', 'http://www.wikidata.org/entity/Q4693122', 'Agnes Tachyon', '2004', '', 'female organism']

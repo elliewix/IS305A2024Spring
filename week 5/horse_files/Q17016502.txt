@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17016502', 'Ruler', 'http://www.wikidata.org/entity/Q61987511', 'Flora', 'http://www.wikidata.org/entity/Q61987509', 'Young Marske', '1777', '', 'male organism']

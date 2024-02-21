@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17222179', 'カシノピカチュウ', '', '', '', '', '2010', '', 'male organism']

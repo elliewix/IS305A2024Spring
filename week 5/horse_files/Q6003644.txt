@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6003644', 'Imbros', '', '', 'http://www.wikidata.org/entity/Q7226614', 'Polynesian', '1950', '', 'male organism']

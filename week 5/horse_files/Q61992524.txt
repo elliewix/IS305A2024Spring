@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61992524', 'Arethusa', 'http://www.wikidata.org/entity/Q62027445', 'Prophet mare', 'http://www.wikidata.org/entity/Q61992546', 'Dungannon', '1792', '', 'female organism']

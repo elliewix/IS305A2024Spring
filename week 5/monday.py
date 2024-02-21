@@ -31,7 +31,29 @@ for r in rows:
         fname = uri.split("/")[-1] + ".txt"
         all_data[fname] = r
 
-print(all_data)
+# print(all_data)
+
+#####
+# wednesday
+#####
+
+# with open('dupe_failures.csv', 'w', encoding='utf-8', newline="") as outfile:
+#     csvout = csv.writer(outfile)
+#     csvout.writerow(headers) # takes 1D list, headers
+#     csvout.writerows(all_dupes) # takes 2D list, our data
+#
 
 
-# print(all_dupes)
+# print(all_data)
+
+import pathlib
+
+target = pathlib.Path('horse_files')
+# print(target.exists())
+target.mkdir(exist_ok=True)
+
+for fname, content in all_data.items():
+    f = pathlib.Path(fname)
+    output_path = target / f
+    # print(output_path.absolute())
+    output_path.write_text(str(content))

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5287019', 'Doc Bar', '', '', 'http://www.wikidata.org/entity/Q12858808', 'Lightning Bar', '1956', '', 'male organism']

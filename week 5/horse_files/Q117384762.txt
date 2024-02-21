@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384762', 'Tifter', 'http://www.wikidata.org/entity/Q117384765', "Parson's Cream Cheeks", 'http://www.wikidata.org/entity/Q7797028', 'Thoulouse Barb', '1710', '', 'male organism']

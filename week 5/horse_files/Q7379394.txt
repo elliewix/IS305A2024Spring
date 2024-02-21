@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7379394', 'Rumplestiltskin', '', '', 'http://www.wikidata.org/entity/Q1005468', 'Danehill', '2003', '', 'female organism']

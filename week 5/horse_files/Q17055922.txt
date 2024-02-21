@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17055922', 'The Marquis', '', '', 'http://www.wikidata.org/entity/Q7618274', 'Stockwell', '1859', '', 'male organism']

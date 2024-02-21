@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6386138', 'Kelly Kip', '', '', '', '', '1994', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117386397', 'Septima', 'http://www.wikidata.org/entity/Q117387054', 'Moll Brazen', 'http://www.wikidata.org/entity/Q117386590', 'Othello', '1757', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63726532', 'Albino', '', '', '', '', '1932', '1960', 'male organism']

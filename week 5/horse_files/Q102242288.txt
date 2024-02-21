@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242288', 'El Bakan', '', '', '', '', '1990', '', 'male organism']

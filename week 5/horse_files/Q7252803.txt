@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7252803', 'Provoke', '', '', 'http://www.wikidata.org/entity/Q4822299', 'Aureole', '1962', '', 'male organism']

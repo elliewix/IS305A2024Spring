@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117354663', 'Ancaster Nancy', '', '', 'http://www.wikidata.org/entity/Q4925119', 'Blank', '1767', '', 'female organism']

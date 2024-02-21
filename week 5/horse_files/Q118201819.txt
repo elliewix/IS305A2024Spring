@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118201819', 'Klinton', 'http://www.wikidata.org/entity/Q118201120', 'Silver Shadows Sabrina', 'http://www.wikidata.org/entity/Q117304168', 'Gallien', '1998', '', 'male organism']

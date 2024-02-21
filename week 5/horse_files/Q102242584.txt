@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242584', 'Startac', '', '', '', '', '1998', '', 'male organism']

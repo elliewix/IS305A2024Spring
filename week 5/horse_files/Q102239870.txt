@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239870', 'Sonic', '', '', '', '', '1948', '', 'male organism']

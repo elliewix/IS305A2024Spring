@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11328624', 'Bernstein', '', '', 'http://www.wikidata.org/entity/Q3499832', 'Storm Cat', '1997', '2011', 'male organism']

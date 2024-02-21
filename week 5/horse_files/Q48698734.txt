@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q48698734', 'Good Magic', '', '', 'http://www.wikidata.org/entity/Q933399', 'Curlin', '2015', '', 'male organism']

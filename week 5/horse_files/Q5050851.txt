@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5050851', 'Casual Look', '', '', 'http://www.wikidata.org/entity/Q7304776', 'Red Ransom', '2000', '', 'female organism']

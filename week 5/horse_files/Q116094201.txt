@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116094201', 'Platinum Bullet', '', '', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2014', '', 'male organism']

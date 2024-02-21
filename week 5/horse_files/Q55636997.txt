@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55636997', 'Vaucluse', '', '', '', '', '1912', '', '']

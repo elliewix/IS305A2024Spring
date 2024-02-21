@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55071544', 'Primal Force', '', '', 'http://www.wikidata.org/entity/Q2907399', 'Blushing Groom', '', '', 'female organism']

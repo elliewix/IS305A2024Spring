@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11336808', 'ベイラーン', '', '', 'http://www.wikidata.org/entity/Q7304192', 'Red God', '1971', '1977', 'male organism']

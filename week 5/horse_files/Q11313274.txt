@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313274', 'スマノダイドウ', '', '', '', '', '1970', '1996', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123476316', 'Odin de la Cense', 'http://www.wikidata.org/entity/Q123485761', 'Heva de la Cense', 'http://www.wikidata.org/entity/Q123476414', 'Hidalgo de Riou', '1980', '1997', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316070', 'タケデンバード', '', '', '', '', '1969', '', 'male organism']

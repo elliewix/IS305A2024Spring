@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11283145', 'Asaka Defeat', '', '', 'http://www.wikidata.org/entity/Q7134267', 'Paradise Creek', '1998', '', 'male organism']

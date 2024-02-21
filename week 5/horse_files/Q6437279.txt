@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6437279', 'Kris S.', 'http://www.wikidata.org/entity/Q117354569', 'Sharp Queen', 'http://www.wikidata.org/entity/Q7351567', 'Roberto', '1977', '', 'male organism']

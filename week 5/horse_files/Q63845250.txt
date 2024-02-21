@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63845250', 'Handsome Brad', '', '', '', '', '2013', '2022', '']

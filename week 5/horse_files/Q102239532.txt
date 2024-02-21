@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102239532', 'Bert G.', '', '', '', '', '1942', '', 'male organism']

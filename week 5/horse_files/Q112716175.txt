@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q112716175', 'Kif-kif', '', '', '', '', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60753887', 'Mabs Cross', 'http://www.wikidata.org/entity/Q61985535', 'Miss Meggy', 'http://www.wikidata.org/entity/Q24959794', 'Dutch Art', '2014', '', 'female organism']

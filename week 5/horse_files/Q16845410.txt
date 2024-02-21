@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16845410', 'Hula Dancer', '', '', 'http://www.wikidata.org/entity/Q1076143', 'Native Dancer', '1960', '', 'female organism']

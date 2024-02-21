@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117367124', 'Mangel-Wurzel', 'http://www.wikidata.org/entity/Q6911279', 'Morel', 'http://www.wikidata.org/entity/Q61993666', 'Merlin', '1823', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102240122', 'No Regrets', '', '', '', '', '1953', '', 'male organism']

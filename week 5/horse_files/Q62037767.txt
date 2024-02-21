@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62037767', 'Paragone', 'http://www.wikidata.org/entity/Q62037843', 'Hoyden', 'http://www.wikidata.org/entity/Q7828730', 'Touchstone', '1843', '', 'male organism']

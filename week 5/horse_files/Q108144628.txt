@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108144628', 'Folia', 'http://www.wikidata.org/entity/Q108144349', 'Vase', 'http://www.wikidata.org/entity/Q108552717', 'Maximus', '1969', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7442171', 'Seattle Smooth', '', '', 'http://www.wikidata.org/entity/Q7271851', 'Quiet American', '2005', '', 'female organism']

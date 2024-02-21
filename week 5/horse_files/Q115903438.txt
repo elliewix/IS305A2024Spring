@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115903438', 'Whitewater Affair', '', '', 'http://www.wikidata.org/entity/Q6723556', 'Machiavellian', '1993', '2010', 'female organism']

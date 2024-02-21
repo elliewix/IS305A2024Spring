@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11343410', 'メイボール', '', '', '', '', '1997', '', 'female organism']

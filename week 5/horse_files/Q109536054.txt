@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109536054', 'Golden Pal', '', '', '', '', '', '', '']

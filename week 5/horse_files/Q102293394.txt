@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102293394', 'Lone Sailor', '', '', '', '', '2015', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16995827', 'Hoop Jr.', '', '', 'http://www.wikidata.org/entity/Q4252720', 'Sir Gallahad', '1942', '', 'male organism']

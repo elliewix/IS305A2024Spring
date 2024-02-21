@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62027536', 'Miss Sophia', 'http://www.wikidata.org/entity/Q62027607', 'Sophia', 'http://www.wikidata.org/entity/Q62023103', 'Stamford', '1805', '', 'female organism']

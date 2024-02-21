@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242037', 'Northern Wolf', '', '', '', '', '1986', '', 'male organism']

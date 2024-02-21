@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260758', 'Idaten Turbo', '', '', 'http://www.wikidata.org/entity/Q111797711', 'Northern Dictator', '1986', '', 'male organism']

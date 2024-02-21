@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q19880809', 'Hours After', '', '', 'http://www.wikidata.org/entity/Q636053', 'Alleged', '1985', '', 'male organism']

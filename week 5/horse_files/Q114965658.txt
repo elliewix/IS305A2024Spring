@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114965658', 'Hendi', 'http://www.wikidata.org/entity/Q114987079', 'Wendi', 'http://www.wikidata.org/entity/Q114986306', 'Narko II', '1984', '', 'female organism']

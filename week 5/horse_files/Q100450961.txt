@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100450961', 'Kluger', '', '', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2012', '', 'male organism']

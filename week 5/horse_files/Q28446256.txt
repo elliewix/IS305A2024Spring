@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28446256', 'Shady Heights', '', '', 'http://www.wikidata.org/entity/Q7498762', 'Shirley Heights', '1984', '', 'male organism']

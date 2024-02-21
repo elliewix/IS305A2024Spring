@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303890', 'ゴールデンバージ', '', '', '', '', '1997', '', 'male organism']

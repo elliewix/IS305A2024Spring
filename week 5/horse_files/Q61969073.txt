@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61969073', 'Appealing Zophie', '', '', 'http://www.wikidata.org/entity/Q61969079', 'Successful Appeal', '2004', '', 'female organism']

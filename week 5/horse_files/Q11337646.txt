@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337646', 'ホオカノ', '', '', 'http://www.wikidata.org/entity/Q11308376', 'Silver Shark', '1975', '', 'male organism']

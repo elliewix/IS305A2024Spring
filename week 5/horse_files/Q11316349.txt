@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316349', 'タムロチェリー', '', '', 'http://www.wikidata.org/entity/Q7444446', 'Secreto', '1999', '2007', 'female organism']

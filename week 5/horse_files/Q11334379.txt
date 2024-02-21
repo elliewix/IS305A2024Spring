@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11334379', 'Bushranger', '', '', 'http://www.wikidata.org/entity/Q5215912', 'Danetime', '2006', '', 'male organism']

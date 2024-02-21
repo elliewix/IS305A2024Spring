@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q16997927', 'Judge Himes', '', '', '', '', '1900', '', 'male organism']

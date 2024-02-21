@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62022358', 'Bel Esprit', '', '', 'http://www.wikidata.org/entity/Q7373571', 'Royal Academy', '1999', '', 'male organism']

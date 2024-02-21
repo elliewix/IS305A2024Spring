@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117485960', 'Shirel de Kreisker', '', '', 'http://www.wikidata.org/entity/Q17177198', 'Diamant de Semilly', '2006', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22319070', 'Jolie de Thurin', 'http://www.wikidata.org/entity/Q22319193', 'Berçeuse', 'http://www.wikidata.org/entity/Q22318967', 'Quastor', '1975', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236005', 'Lost Cause', '', '', '', '', '1879', '', 'male organism']

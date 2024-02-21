@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61985819', 'Elkie Brooks', '', '', 'http://www.wikidata.org/entity/Q18172312', 'Relkino', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7841759', 'Trigo', '', '', 'http://www.wikidata.org/entity/Q4925007', 'Blandford', '1926', '', 'male organism']

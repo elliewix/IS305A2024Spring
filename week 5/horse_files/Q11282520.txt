@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11282520', 'Ein Bride', '', '', 'http://www.wikidata.org/entity/Q5152210', 'Commander in Chief', '1995', '2002', 'female organism']

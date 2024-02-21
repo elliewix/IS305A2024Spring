@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18236715', 'Strong Mandate', '', '', 'http://www.wikidata.org/entity/Q11318930', 'Tiznow', '2011', '', 'male organism']

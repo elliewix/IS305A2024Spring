@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q54290156', 'Lily Noble', '', '', 'http://www.wikidata.org/entity/Q11349271', 'Rulership', '2015', '', 'female organism']

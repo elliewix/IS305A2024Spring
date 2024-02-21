@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q83673149', 'Dantsu Prius', '', '', '', '', '2013', '', 'male organism']

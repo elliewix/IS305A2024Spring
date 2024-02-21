@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120200562', 'Lisette 6050', '', '', 'http://www.wikidata.org/entity/Q118125122', 'Luther 792', '1876', '', 'female organism']

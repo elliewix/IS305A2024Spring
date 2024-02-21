@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115089029', 'Wozieta', 'http://www.wikidata.org/entity/Q115155344', 'Rozieta', 'http://www.wikidata.org/entity/Q115141821', 'Le Mexico', '1980', '', 'female organism']

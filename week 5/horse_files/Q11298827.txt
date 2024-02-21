@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11298827', 'Okataka', 'http://www.wikidata.org/entity/Q11291183', 'Tsukioka', 'http://www.wikidata.org/entity/Q11314399', 'Theft', '1948', '', 'female organism']

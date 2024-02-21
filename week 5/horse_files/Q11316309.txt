@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316309', 'タマツバキ', '', '', 'http://www.wikidata.org/entity/Q18236560', 'Barraques', '1945', '', 'male organism']

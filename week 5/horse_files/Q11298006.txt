@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11298006', 'Keystone', '', '', 'http://www.wikidata.org/entity/Q11315435', 'Solonaway', '1962', '1967', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61995386', 'Misfortune', '', '', 'http://www.wikidata.org/entity/Q61995392', 'Dux', '1775', '', 'female organism']

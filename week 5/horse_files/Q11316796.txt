@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316796', 'Daitaku Helios', '', '', 'http://www.wikidata.org/entity/Q11330652', 'Bizen Nishiki', '1987', '2008', 'male organism']

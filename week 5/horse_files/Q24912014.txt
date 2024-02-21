@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24912014', 'The Gurkha', '', '', 'http://www.wikidata.org/entity/Q3094737', 'Galileo', '2013', '', 'male organism']

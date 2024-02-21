@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q28452185', 'Goodricke', '', '', 'http://www.wikidata.org/entity/Q4842382', 'Bahamian Bounty', '2002', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21050582', 'Scalo', '', '', 'http://www.wikidata.org/entity/Q1803652', 'Lando', '2007', '', 'male']

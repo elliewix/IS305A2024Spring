@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63969729', 'Bramble', '', '', 'http://www.wikidata.org/entity/Q63969227', 'Bonnie Scotland', '1875', '', 'male organism']

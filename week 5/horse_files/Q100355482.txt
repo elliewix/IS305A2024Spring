@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100355482', 'Zigeunerkind', '', '', 'http://www.wikidata.org/entity/Q100355207', 'Birkhahn', '1954', '', 'female organism']

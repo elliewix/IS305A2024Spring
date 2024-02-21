@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114836493', 'Vertex', 'http://www.wikidata.org/entity/Q11308736', 'She is Tosho', 'http://www.wikidata.org/entity/Q16851858', 'Just A Way', '2017', '', 'male organism']

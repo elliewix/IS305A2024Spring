@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111932092', 'Purpur Ray', '', '', 'http://www.wikidata.org/entity/Q17221782', 'Isla Bonita', '2019', '', 'male organism']

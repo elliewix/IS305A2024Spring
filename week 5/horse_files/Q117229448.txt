@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117229448', 'Superior 730', 'http://www.wikidata.org/entity/Q117229463', 'Pauline', 'http://www.wikidata.org/entity/Q117229489', 'Favori I', '1868', '', 'male organism']

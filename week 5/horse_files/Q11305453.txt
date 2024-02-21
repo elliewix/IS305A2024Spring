@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11305453', 'Sanei Thank You', '', '', 'http://www.wikidata.org/entity/Q11316824', 'Dyna Thank You', '1989', '', 'female organism']

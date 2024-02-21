@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11319838', 'テンジンショウグン', '', '', 'http://www.wikidata.org/entity/Q11325831', 'No Attention', '1990', '2018', 'male organism']

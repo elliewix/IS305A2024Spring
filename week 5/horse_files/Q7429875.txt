@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7429875', 'Scamper', '', '', '', '', '1977', '2012', 'male organism']

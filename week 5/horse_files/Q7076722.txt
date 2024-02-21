@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7076722', 'Octagonal', 'http://www.wikidata.org/entity/Q5348956', 'Eight Carat', 'http://www.wikidata.org/entity/Q8063464', 'Zabeel', '1992', '', 'male organism']

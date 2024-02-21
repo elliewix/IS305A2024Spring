@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q8026462', 'Wintergreen', '', '', '', '', '1906', '1914', 'male organism']

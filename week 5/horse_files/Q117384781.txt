@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384781', 'Spot mare', 'http://www.wikidata.org/entity/Q117384788', 'Old Woodcock mare', 'http://www.wikidata.org/entity/Q117359956', "Curwen's Old Spot", '1707', '', 'female organism']

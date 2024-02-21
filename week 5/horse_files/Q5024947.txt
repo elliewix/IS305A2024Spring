@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5024947', 'Camarero', '', '', '', '', '1951', '', 'male organism']

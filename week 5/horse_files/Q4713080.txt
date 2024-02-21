@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4713080', 'Alcide', '', '', 'http://www.wikidata.org/entity/Q4738645', 'Alycidon', '1955', '1973', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242450', 'Crypto Star', '', '', '', '', '1994', '', 'male organism']

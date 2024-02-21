@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117384879', "Cook's Vixen", 'http://www.wikidata.org/entity/Q117384882', "Dodsworth's dam", 'http://www.wikidata.org/entity/Q117359664', 'Helmsley Turk', '1686', '', 'female organism']

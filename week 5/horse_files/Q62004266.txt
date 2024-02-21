@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62004266', 'Black Polly', 'http://www.wikidata.org/entity/Q62004275', 'Black Queen', 'http://www.wikidata.org/entity/Q55097668', 'Polymelian', '1936', '', 'female organism']

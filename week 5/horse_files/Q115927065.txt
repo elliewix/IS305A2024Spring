@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115927065', 'Glacier', 'http://www.wikidata.org/entity/Q115926972', 'Fanny', 'http://www.wikidata.org/entity/Q41671096', 'Mont Blanc II', '', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6133403', "Vision d'Etat", '', '', 'http://www.wikidata.org/entity/Q11317941', 'Chichicastenango', '2005', '', 'male organism']

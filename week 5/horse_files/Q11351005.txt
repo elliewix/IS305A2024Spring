@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11351005', 'Road Bakushin', '', '', 'http://www.wikidata.org/entity/Q11304520', 'Sakura Bakushin O', '1998', '', 'male organism']

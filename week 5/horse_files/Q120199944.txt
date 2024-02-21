@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q120199944', 'Poule 6052', 'http://www.wikidata.org/entity/Q120200562', 'Lisette 6050', 'http://www.wikidata.org/entity/Q120200226', 'Luther III 1792', '1882', '', 'female organism']

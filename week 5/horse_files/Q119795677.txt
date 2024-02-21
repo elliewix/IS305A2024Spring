@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119795677', 'Lisette 11246', 'http://www.wikidata.org/entity/Q122057789', 'Rose', 'http://www.wikidata.org/entity/Q117195187', 'Coco II 714', '1874', '', 'female organism']

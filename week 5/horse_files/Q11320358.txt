@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11320358', 'Decarchy', 'http://www.wikidata.org/entity/Q7829411', 'Toussaud', 'http://www.wikidata.org/entity/Q11320057', 'Distant View', '1997', '', 'male organism']

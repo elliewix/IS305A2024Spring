@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62034435', 'Marske mare', 'http://www.wikidata.org/entity/Q62034449', 'Bajazet mare', 'http://www.wikidata.org/entity/Q3081024', 'Marske', '', '', 'female organism']

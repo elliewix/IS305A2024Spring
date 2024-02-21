@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17008870', 'Little Wolf', '', '', 'http://www.wikidata.org/entity/Q5612106', 'Grundy', '1978', '', 'male organism']

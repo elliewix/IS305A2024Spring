@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11298847', 'Climb Kaiser', '', '', 'http://www.wikidata.org/entity/Q11352175', 'Venture', '1973', '2000', 'male organism']

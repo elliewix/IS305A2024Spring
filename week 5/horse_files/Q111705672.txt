@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111705672', 'Narcisse', '', '', '', '', '1957', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107546730', 'Stratmat', '', '', '', '', '1954', '', 'male organism']

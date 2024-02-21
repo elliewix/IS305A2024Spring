@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994554', 'Shademah', '', '', 'http://www.wikidata.org/entity/Q7711333', 'Thatch', '', '', 'female organism']

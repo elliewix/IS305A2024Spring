@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006662', 'Glorosia', '', '', 'http://www.wikidata.org/entity/Q11337300', 'Bering', '1995', '', 'female organism']

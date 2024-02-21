@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7526825', 'Sir Gaylord', 'http://www.wikidata.org/entity/Q7560283', 'Somethingroyal', 'http://www.wikidata.org/entity/Q7855618', 'Turn-To', '1959', '1981', 'male organism']

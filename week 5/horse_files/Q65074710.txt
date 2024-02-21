@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q65074710', 'Sea Cottage', '', '', '', '', '1962', '', '']

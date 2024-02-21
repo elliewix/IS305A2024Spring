@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118798616', 'Satono Glanz', '', '', 'http://www.wikidata.org/entity/Q24876319', 'Satono Diamond', '2020', '', 'male organism']

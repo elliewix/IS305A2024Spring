@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q77798970', 'Beluga', '', '', '', '', '2015', '', 'female organism']

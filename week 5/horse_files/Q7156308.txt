@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7156308', 'Pawneese', '', '', '', '', '1973', '', 'female organism']

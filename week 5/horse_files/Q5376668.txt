@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5376668', 'Endurance by Right', '', '', '', '', '1899', '', 'female organism']

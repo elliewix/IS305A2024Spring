@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q60764606', 'Valanour', '', '', '', '', '1992', '', '']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55621337', 'Louvois', '', '', 'http://www.wikidata.org/entity/Q11282151', 'Isinglass', '1910', '', 'male organism']

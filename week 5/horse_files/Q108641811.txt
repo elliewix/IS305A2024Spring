@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108641811', 'Adoret Z', 'http://www.wikidata.org/entity/Q123517007', 'Goldtret Z', 'http://www.wikidata.org/entity/Q2649831', 'Alme', '1980', '', 'female organism']

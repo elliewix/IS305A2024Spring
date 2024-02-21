@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102236231', 'Buck McCann', '', '', '', '', '1890', '', 'male organism']

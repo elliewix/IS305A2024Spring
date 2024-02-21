@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238746', 'Prince Hotspur', '', '', '', '', '1929', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107999302', 'Bingo du Parc', 'http://www.wikidata.org/entity/Q108128783', 'Tsigane Semilly', 'http://www.wikidata.org/entity/Q3331409', 'Mylord Carthago', '2011', '', 'male organism']

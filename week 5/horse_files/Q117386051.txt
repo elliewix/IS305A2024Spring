@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117386051', "Lightfoot's Partner", 'http://www.wikidata.org/entity/Q7448425', 'Selima', 'http://www.wikidata.org/entity/Q117385183', "Morton's Traveller", '1755', '', 'male organism']

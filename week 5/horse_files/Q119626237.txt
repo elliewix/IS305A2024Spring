@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119626237', 'Dégourdi 1993', '', '', '', '', '1882', '', 'male organism']

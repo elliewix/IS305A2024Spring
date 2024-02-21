@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q114562124', 'Tai Chi', 'http://www.wikidata.org/entity/Q114567027', 'Taita', 'http://www.wikidata.org/entity/Q5755028', 'High Chaparral', '2009', '', 'male organism']

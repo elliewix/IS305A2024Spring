@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11338131', 'ホワイトロック', '', '', 'http://www.wikidata.org/entity/Q11327150', 'Hambletonian', '', '', 'male organism']

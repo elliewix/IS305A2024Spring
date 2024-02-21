@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5138036', 'Coaltown', '', '', 'http://www.wikidata.org/entity/Q4996587', 'Bull Lea', '1945', '1965', 'male organism']

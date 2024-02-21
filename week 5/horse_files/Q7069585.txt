@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7069585', 'Numbered Account', 'http://www.wikidata.org/entity/Q107546737', 'Intriguing', 'http://www.wikidata.org/entity/Q4983454', 'Buckpasser', '1969', '', 'female organism']

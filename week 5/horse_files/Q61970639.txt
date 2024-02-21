@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61970639', 'Ivanavinalot', 'http://www.wikidata.org/entity/Q61970658', 'Beaty Sark', 'http://www.wikidata.org/entity/Q61970643', 'West Acre', '2000', '', 'female organism']

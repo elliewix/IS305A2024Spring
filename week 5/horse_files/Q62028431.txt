@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62028431', 'Vauxhall Snap', 'http://www.wikidata.org/entity/Q62028501', 'Cade mare', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1761', '', 'male organism']

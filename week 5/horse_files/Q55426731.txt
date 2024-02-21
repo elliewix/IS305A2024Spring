@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55426731', 'Explosion W', '', '', 'http://www.wikidata.org/entity/Q66755850', 'Chacco-Blue', '2009', '', 'male organism']

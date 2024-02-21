@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11337749', 'ホッカイルソー', '', '', 'http://www.wikidata.org/entity/Q56278870', 'Markofdistinction', '1992', '', 'male organism']

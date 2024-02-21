@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61071837', 'The Best', '', '', 'http://www.wikidata.org/entity/Q61985586', 'Efisio', '1990', '', 'male organism']

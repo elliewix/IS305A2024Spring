@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7368474', 'Rosemont', '', '', '', '', '1932', '', 'male organism']

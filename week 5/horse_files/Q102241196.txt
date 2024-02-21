@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241196', 'Ga Hai', '', '', '', '', '1971', '', 'male organism']

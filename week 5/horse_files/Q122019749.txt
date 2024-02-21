@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q122019749', 'Rosamond 45547', '', '', 'http://www.wikidata.org/entity/Q119438738', 'Calypso 25017', '1904', '', 'female organism']

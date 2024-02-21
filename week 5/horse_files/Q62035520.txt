@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62035520', 'Rib mare', 'http://www.wikidata.org/entity/Q62035630', 'Mother Western', 'http://www.wikidata.org/entity/Q62022502', 'Rib', '1751', '', 'female organism']

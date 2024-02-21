@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6749949', 'Manitoba', '', '', 'http://www.wikidata.org/entity/Q6750704', 'Manna', '1930', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q52319665', 'Clincher', '', '', 'http://www.wikidata.org/entity/Q5250311', 'Deep Sky', '2014', '', 'male organism']

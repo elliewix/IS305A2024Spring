@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6044492', 'Intentionally', '', '', 'http://www.wikidata.org/entity/Q61969112', 'Intent', '1956', '', 'male organism']

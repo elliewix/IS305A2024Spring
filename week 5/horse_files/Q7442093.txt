@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7442093', 'Seattle Dancer', 'http://www.wikidata.org/entity/Q6945144', 'My Charmer', 'http://www.wikidata.org/entity/Q26798', 'Nijinsky', '1984', '', 'male organism']

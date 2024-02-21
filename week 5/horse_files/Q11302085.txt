@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11302085', 'Cosmah', 'http://www.wikidata.org/entity/Q4733659', 'Almahmoud', '', '', '1953', '', 'female organism']

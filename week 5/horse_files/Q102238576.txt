@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102238576', 'Spanish Play', '', '', '', '', '1928', '', 'male organism']

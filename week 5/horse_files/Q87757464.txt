@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q87757464', 'Queen of Beauty', 'http://www.wikidata.org/entity/Q87757465', 'Birthday', 'http://www.wikidata.org/entity/Q61987506', 'Melbourne', '1854', '', 'female organism']

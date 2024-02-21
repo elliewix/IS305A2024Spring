@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22006554', 'Compton Place', '', '', 'http://www.wikidata.org/entity/Q11287633', 'Indian Ridge', '1994', '2015', 'male organism']

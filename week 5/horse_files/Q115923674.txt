@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q115923674', 'Tetrabbazia', '', '', 'http://www.wikidata.org/entity/Q7768577', 'The Tetrarch', '1918', '', 'female organism']

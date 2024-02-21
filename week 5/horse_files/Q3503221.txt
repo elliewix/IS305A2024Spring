@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3503221', 'Ghanaati', '', '', 'http://www.wikidata.org/entity/Q3105301', "Giant's Causeway", '2006', '', 'female organism']

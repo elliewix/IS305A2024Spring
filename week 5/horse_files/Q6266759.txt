@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6266759', 'Johnny Globe', '', '', '', '', '1947', '', 'male organism']

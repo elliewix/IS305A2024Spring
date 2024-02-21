@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5242075', 'Davona Dale', '', '', '', '', '1976', '', 'female organism']

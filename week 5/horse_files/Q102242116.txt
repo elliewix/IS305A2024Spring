@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102242116', 'Silver Ending', '', '', '', '', '1987', '', 'male organism']

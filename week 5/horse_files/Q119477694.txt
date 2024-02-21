@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119477694', 'Toulouse', '', '', '', '', '1839', '', 'male organism']

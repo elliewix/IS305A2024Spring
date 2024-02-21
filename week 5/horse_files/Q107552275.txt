@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107552275', 'Canina', '', '', 'http://www.wikidata.org/entity/Q4996565', 'Bull Dog', '1941', '', 'female organism']

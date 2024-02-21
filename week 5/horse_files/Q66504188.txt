@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q66504188', 'Gofine', 'http://www.wikidata.org/entity/Q108566822', 'Cita', 'http://www.wikidata.org/entity/Q22955711', 'Ramiro Z', '1970', '', 'female organism']

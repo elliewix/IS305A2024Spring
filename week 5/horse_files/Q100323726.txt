@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q100323726', 'Big Walt', '', '', 'http://www.wikidata.org/entity/Q100297589', 'Big Burn', '1981', '', 'male organism']

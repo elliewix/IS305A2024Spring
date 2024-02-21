@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313423', 'スリーオペレーター', '', '', 'http://www.wikidata.org/entity/Q7096598', 'Opera House', '2003', '', 'male organism']

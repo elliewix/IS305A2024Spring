@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4896388', 'Bessarabian', '', '', 'http://www.wikidata.org/entity/Q11351856', 'Vice Regent', '1982', '', 'female organism']

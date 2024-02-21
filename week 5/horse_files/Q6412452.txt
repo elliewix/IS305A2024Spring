@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6412452', 'Kingcraft', 'http://www.wikidata.org/entity/Q64012027', 'Woodcraft', 'http://www.wikidata.org/entity/Q6412111', 'King Tom', '1867', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107545701', 'Hurakan', '', '', '', '', '1911', '', 'female organism']

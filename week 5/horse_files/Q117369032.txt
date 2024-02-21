@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117369032', 'Helen', 'http://www.wikidata.org/entity/Q117369088', 'Susan', 'http://www.wikidata.org/entity/Q11327150', 'Hambletonian', '1811', '', 'female organism']

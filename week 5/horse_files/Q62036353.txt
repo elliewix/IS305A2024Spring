@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62036353', 'Drone mare', 'http://www.wikidata.org/entity/Q62036365', 'Contessina', 'http://www.wikidata.org/entity/Q62022527', 'Drone', '1797', '', 'female organism']

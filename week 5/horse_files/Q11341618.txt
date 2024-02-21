@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11341618', 'Manhattan Sky', '', '', 'http://www.wikidata.org/entity/Q11341616', 'Manhattan Cafe', '2004', '', 'male organism']

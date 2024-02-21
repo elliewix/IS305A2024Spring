@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358585', 'Marfiori', 'http://www.wikidata.org/entity/Q117366879', 'Regina', 'http://www.wikidata.org/entity/Q117358595', 'The Prime Minister', '1869', '', 'male organism']

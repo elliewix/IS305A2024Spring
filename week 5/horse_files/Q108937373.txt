@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108937373', 'Courtisane', '', '', 'http://www.wikidata.org/entity/Q41796305', 'Conquerant', '1865', '', 'female organism']

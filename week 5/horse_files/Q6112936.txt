@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6112936', 'Jack Hare Jr.', '', '', '', '', '1915', '', 'male organism']

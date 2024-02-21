@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5162470', 'Conquistador Cielo', 'http://www.wikidata.org/entity/Q61994181', 'K D Princess', 'http://www.wikidata.org/entity/Q1104649', 'Mr. Prospector', '1979', '', 'male organism']

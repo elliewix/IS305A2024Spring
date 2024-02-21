@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11304742', 'Sachi Hikari', '', '', 'http://www.wikidata.org/entity/Q11316729', 'Diolite', '1948', '', 'male organism']

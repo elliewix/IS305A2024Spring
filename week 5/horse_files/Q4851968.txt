@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4851968', 'Bally Ache', '', '', '', '', '1957', '', 'male organism']

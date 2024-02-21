@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735324', 'Light Quantum', '', '', 'http://www.wikidata.org/entity/Q730381', 'Deep Impact', '2020', '', 'female organism']

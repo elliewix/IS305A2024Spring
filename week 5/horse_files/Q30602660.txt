@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q30602660', 'Nikoli', '', '', 'http://www.wikidata.org/entity/Q5599620', 'Great Nephew', '1977', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109260618', 'Pit Fighter', '', '', '', '', '', '', '']

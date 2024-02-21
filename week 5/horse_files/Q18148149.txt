@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18148149', 'Untapable', '', '', 'http://www.wikidata.org/entity/Q16953076', 'Tapit', '2011', '', 'female organism']

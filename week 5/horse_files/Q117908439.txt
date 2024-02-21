@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117908439', 'Ernestine', '', '', 'http://www.wikidata.org/entity/Q117907201', 'Duke-of-Perche 173', '', '', 'female organism']

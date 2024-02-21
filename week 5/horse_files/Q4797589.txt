@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4797589', 'Artful', '', '', 'http://www.wikidata.org/entity/Q5644286', 'Hamburg', '1902', '', 'female organism']

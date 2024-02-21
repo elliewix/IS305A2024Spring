@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11316983', 'ダイヤモンドウェッディング', '', '', '', '', '1905', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17231555', 'セニョールベスト', '', '', 'http://www.wikidata.org/entity/Q7357442', 'Rodrigo de Triano', '1999', '2014', 'male organism']

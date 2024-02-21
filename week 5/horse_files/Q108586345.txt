@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108586345', 'Thyra', 'http://www.wikidata.org/entity/Q108587966', 'Odetta', 'http://www.wikidata.org/entity/Q22315525', 'Landgraf I', '1981', '', 'female organism']

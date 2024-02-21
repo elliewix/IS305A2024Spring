@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109566404', 'Kerkenje', 'http://www.wikidata.org/entity/Q109567811', 'Beauté du Turkménistan', 'http://www.wikidata.org/entity/Q109567751', 'Kizyl', '1938', '', 'male organism']

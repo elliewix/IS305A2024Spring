@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987428', 'Sandal', '', '', 'http://www.wikidata.org/entity/Q6416428', 'Kisber', '1885', '', 'female organism']

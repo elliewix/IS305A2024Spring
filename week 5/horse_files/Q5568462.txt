@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5568462', 'Glenelg', '', '', '', '', '1866', '', 'male organism']

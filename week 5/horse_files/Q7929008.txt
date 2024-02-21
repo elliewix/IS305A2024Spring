@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7929008', 'Vigors', '', '', 'http://www.wikidata.org/entity/Q5608147', 'Grey Dawn II', '1973', '', 'male organism']

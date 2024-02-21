@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7307910', 'Regal Classic', 'http://www.wikidata.org/entity/Q7044037', 'No Class', 'http://www.wikidata.org/entity/Q11351856', 'Vice Regent', '1985', '2012', 'male organism']

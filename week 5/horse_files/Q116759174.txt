@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116759174', 'Romualdo', 'http://www.wikidata.org/entity/Q116759247', 'Lottie', 'http://www.wikidata.org/entity/Q116759202', 'Kojak', '1998', '', 'male organism']

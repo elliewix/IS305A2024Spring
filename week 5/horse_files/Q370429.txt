@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q370429', 'Lexington', 'http://www.wikidata.org/entity/Q62010908', 'Alice Carneal', 'http://www.wikidata.org/entity/Q4947715', 'Boston', '1850', '1875', 'male organism']

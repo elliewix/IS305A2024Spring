@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5436712', 'Fashion', '', '', '', '', '1837', '', 'female organism']

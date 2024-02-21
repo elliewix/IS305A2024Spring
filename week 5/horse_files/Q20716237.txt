@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q20716237', 'Judy the Beauty', '', '', 'http://www.wikidata.org/entity/Q5557464', 'Ghostzapper', '2009', '', 'female organism']

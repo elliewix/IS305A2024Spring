@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61994479', 'Herbalesian', 'http://www.wikidata.org/entity/Q4708205', 'Alanesian', 'http://www.wikidata.org/entity/Q11291079', 'Herbager', '1969', '', 'female organism']

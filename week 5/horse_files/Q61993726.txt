@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61993726', 'Fortitude', 'http://www.wikidata.org/entity/Q61993730', 'Snap mare', 'http://www.wikidata.org/entity/Q5742973', 'Herod', '1777', '', 'male organism']

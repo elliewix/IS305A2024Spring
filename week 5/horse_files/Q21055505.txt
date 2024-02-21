@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q21055505', 'Gai Brillant', '', '', '', '', '1994', '2014', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q2254231', 'Schwarzgold', '', '', 'http://www.wikidata.org/entity/Q2640289', 'Alchimist', '1937', '1950', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6509406', 'Leamington', 'http://www.wikidata.org/entity/Q117354611', 'Pantaloon mare', 'http://www.wikidata.org/entity/Q5438069', 'Faugh-a-Ballagh', '1853', '', 'male organism']

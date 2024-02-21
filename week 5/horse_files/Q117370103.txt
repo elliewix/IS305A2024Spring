@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117370103', 'Don Cossack', 'http://www.wikidata.org/entity/Q117370162', 'Alderney', 'http://www.wikidata.org/entity/Q55091237', 'Haphazard', '1810', '', 'male organism']

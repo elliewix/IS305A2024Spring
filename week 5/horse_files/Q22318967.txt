@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22318967', 'Quastor', 'http://www.wikidata.org/entity/Q108140071', 'La Citadelle', 'http://www.wikidata.org/entity/Q3147477', 'Ibrahim', '1960', '1980', 'male organism']

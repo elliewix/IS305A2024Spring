@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q123998447', 'Barney Owens', 'http://www.wikidata.org/entity/Q123998457', 'Nettie Overton', 'http://www.wikidata.org/entity/Q123998467', 'Martins Cold Deck', '1871', '', 'male organism']

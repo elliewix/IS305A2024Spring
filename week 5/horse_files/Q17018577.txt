@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17018577', 'Masterman', '', '', 'http://www.wikidata.org/entity/Q5680264', 'Hastings', '1899', '', 'male organism']

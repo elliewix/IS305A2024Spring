@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q64780104', 'ワイドファラオ', '', '', 'http://www.wikidata.org/entity/Q5715131', 'Henny Hughes', '2016', '', 'male organism']

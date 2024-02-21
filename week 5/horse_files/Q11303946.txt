@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11303946', 'Goldfinder', '', '', 'http://www.wikidata.org/entity/Q7547251', 'Snap', '1764', '', 'male organism']

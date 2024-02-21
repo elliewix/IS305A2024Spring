@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11347395', 'La Prevoyante', '', '', 'http://www.wikidata.org/entity/Q4983454', 'Buckpasser', '1970', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7601918', 'Starine', '', '', '', '', '1997', '', 'female organism']

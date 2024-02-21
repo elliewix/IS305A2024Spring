@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7034765', 'Nike', 'http://www.wikidata.org/entity/Q61994414', 'Nimble', 'http://www.wikidata.org/entity/Q61993758', 'Alexander', '1794', '', 'female organism']

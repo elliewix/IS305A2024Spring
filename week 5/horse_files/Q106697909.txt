@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q106697909', 'Enoch', '', '', 'http://www.wikidata.org/entity/Q106692070', 'Uranus', '1904', '', 'male organism']

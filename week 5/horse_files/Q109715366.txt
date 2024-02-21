@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q109715366', 'Lome Brage', '', '', '', '', '2007', '', 'male organism']

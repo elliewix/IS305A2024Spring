@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q119521054', 'Kontact', 'http://www.wikidata.org/entity/Q120693887', 'Muscade 73329', 'http://www.wikidata.org/entity/Q119521034', 'Gabon 73285', '1910', '', 'male organism']

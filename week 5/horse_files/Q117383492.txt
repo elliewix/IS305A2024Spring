@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117383492', 'Rubens mare', 'http://www.wikidata.org/entity/Q117383510', 'Slipper', 'http://www.wikidata.org/entity/Q7376018', 'Rubens', '1817', '', 'female organism']

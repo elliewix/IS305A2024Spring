@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55630086', 'Plack', '', '', '', '', '1921', '', '']

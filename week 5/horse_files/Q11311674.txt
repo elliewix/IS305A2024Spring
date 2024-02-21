@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11311674', 'Suzuka Causeway', '', '', 'http://www.wikidata.org/entity/Q3105301', "Giant's Causeway", '2004', '', 'male organism']

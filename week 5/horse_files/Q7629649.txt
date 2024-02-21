@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7629649', 'Stylish Century', '', '', '', '', '1986', '', 'male organism']

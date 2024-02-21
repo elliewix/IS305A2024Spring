@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61787389', 'Mastery', '', '', 'http://www.wikidata.org/entity/Q5032129', 'Candy Ride', '2014', '', 'male organism']

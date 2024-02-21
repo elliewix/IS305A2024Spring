@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q77799136', 'Master Fencer', '', '', 'http://www.wikidata.org/entity/Q16851858', 'Just A Way', '2016', '', 'male organism']

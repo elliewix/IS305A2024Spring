@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11313273', 'Smadoun', '', '', 'http://www.wikidata.org/entity/Q11295121', 'Kaldoun', '1990', '', 'male organism']

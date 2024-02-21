@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117358680', 'Sweeper', 'http://www.wikidata.org/entity/Q117359375', 'Mogul mare', 'http://www.wikidata.org/entity/Q117358686', 'Sloe', '1751', '', 'male organism']

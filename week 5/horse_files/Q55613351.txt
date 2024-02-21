@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q55613351', 'Handicapper', '', '', '', '', '1898', '', '']

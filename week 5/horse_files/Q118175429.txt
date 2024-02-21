@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q118175429', 'Pamphyle', '', '', '', '', '', '', 'male organism']

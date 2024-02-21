@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7602440', 'Starspangledbanner', '', '', 'http://www.wikidata.org/entity/Q5104095', 'Choisir', '2006', '', 'male organism']

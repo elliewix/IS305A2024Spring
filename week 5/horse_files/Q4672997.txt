@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4672997', 'Ace Marine', '', '', 'http://www.wikidata.org/entity/Q4672949', 'Ace Admiral', '1952', '', 'male organism']

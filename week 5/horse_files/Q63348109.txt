@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q63348109', 'Beat the Clock', '', '', '', '', '', '', 'male organism']

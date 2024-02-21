@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17020048', 'Tartar', '', '', 'http://www.wikidata.org/entity/Q166541', 'Florizel', '1789', '', 'male organism']

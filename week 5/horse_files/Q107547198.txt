@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547198', 'Shimmer', 'http://www.wikidata.org/entity/Q107547191', 'Broad Ripple', 'http://www.wikidata.org/entity/Q5457475', 'Flares', '1945', '', 'female organism']

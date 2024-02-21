@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241605', 'Mythical Ruler', '', '', '', '', '1978', '', 'male organism']

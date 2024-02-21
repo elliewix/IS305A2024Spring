@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117382827', 'Espersykes', 'http://www.wikidata.org/entity/Q117382839', 'Gower Stallion mare', 'http://www.wikidata.org/entity/Q1101198', 'Matchem', '1775', '', 'male organism']

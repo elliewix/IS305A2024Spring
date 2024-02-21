@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6701808', 'Luke Blackburn', '', '', 'http://www.wikidata.org/entity/Q63969227', 'Bonnie Scotland', '1877', '', 'male organism']

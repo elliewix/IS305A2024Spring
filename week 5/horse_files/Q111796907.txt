@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q111796907', 'Mowen', '', '', 'http://www.wikidata.org/entity/Q11344363', 'Motivator', '2008', '', 'female organism']

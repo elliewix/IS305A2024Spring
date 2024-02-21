@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5148275', 'Colonial Affair', '', '', 'http://www.wikidata.org/entity/Q11335830', 'Pleasant Colony', '1990', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5248887', 'Deceit Dancer', 'http://www.wikidata.org/entity/Q5248885', 'Deceit', 'http://www.wikidata.org/entity/Q11351856', 'Vice Regent', '1982', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q117368215', 'Sal', 'http://www.wikidata.org/entity/Q61988050', 'Hyale', 'http://www.wikidata.org/entity/Q62022551', 'Scud', '1816', '', 'female organism']

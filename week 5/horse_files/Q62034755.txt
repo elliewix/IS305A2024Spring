@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62034755', 'Cain mare', 'http://www.wikidata.org/entity/Q62034789', 'Ridotto', 'http://www.wikidata.org/entity/Q62015399', 'Cain', '1840', '', 'female organism']

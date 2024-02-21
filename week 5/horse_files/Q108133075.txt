@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108133075', 'Aleska Z', 'http://www.wikidata.org/entity/Q108147374', 'Landdorne Z', 'http://www.wikidata.org/entity/Q2649831', 'Alme', '1980', '', 'female organism']

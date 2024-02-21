@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q108366606', 'Électre V', 'http://www.wikidata.org/entity/Q108366661', 'Ulema', 'http://www.wikidata.org/entity/Q26691472', 'Night and Day', '1970', '1988', 'female organism']

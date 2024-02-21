@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102237222', 'Damask', '', '', '', '', '1917', '', 'male organism']

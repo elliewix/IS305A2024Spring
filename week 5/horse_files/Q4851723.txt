@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q4851723', 'Ballindaggin', '', '', 'http://www.wikidata.org/entity/Q7045754', 'Noble Nashua', '1985', '', 'male organism']

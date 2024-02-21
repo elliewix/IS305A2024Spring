@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11308583', 'Shinko Windy', '', '', 'http://www.wikidata.org/entity/Q11320777', 'Doulab', '1993', '', 'male organism']

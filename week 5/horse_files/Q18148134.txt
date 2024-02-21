@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18148134', 'Sea Sovereign', '', '', 'http://www.wikidata.org/entity/Q1500356', 'Seabiscuit', '1942', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17225005', 'Marble Cathedral', '', '', 'http://www.wikidata.org/entity/Q11317065', 'Daiwa Major', '2011', '', 'female organism']

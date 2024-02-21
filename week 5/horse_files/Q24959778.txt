@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q24959778', 'Tizway', '', '', 'http://www.wikidata.org/entity/Q11318930', 'Tiznow', '2005', '', '']

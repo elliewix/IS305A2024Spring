@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q17224732', 'プライドキム', '', '', 'http://www.wikidata.org/entity/Q11284680', 'Afleet', '2002', '', 'male organism']

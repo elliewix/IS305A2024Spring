@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q116735337', 'Kurino Dragon', '', '', 'http://www.wikidata.org/entity/Q17221604', 'Asuka Kurichan', '2018', '', 'male organism']

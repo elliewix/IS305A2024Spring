@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61978397', 'Circus Ring', 'http://www.wikidata.org/entity/Q61978401', 'Arena', 'http://www.wikidata.org/entity/Q4996565', 'Bull Dog', '', '', 'female organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7843349', 'Triple Bend', '', '', 'http://www.wikidata.org/entity/Q7003920', 'Never Bend', '1968', '1995', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q7726806', 'The Colonel', 'http://www.wikidata.org/entity/Q61993603', 'Delpini mare', 'http://www.wikidata.org/entity/Q7993846', 'Whisker', '1825', '', 'male organism']

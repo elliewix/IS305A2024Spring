@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q61987396', 'Mah Mahal', 'http://www.wikidata.org/entity/Q6935523', 'Mumtaz Mahal', 'http://www.wikidata.org/entity/Q5517294', 'Gainsborough', '1928', '', 'female organism']

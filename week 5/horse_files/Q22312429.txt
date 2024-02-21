@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22312429', 'Lurioso', 'http://www.wikidata.org/entity/Q108200570', 'Riquette', 'http://www.wikidata.org/entity/Q25397472', 'Furioso', '1955', '', 'male organism']

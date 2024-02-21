@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q22007049', 'Royal Sash', '', '', 'http://www.wikidata.org/entity/Q11335681', 'Princely Gift', '1966', '', 'female organism']

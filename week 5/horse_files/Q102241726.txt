@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q102241726', 'My Mac', '', '', '', '', '1980', '', 'male organism']

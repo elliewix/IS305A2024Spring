@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q25004905', 'Seattle Rhyme', '', '', 'http://www.wikidata.org/entity/Q7442093', 'Seattle Dancer', '1989', '', 'male organism']

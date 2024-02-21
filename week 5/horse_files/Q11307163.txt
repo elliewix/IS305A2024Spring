@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11307163', 'Sister Tosho', '', '', 'http://www.wikidata.org/entity/Q11321101', 'Tosho Boy', '1988', '2015', 'female organism']

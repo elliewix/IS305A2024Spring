@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q62014555', 'Hierocles', '', '', 'http://www.wikidata.org/entity/Q62014584', 'Abjer', '1939', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q11342486', 'ミハルオー', '', '', 'http://www.wikidata.org/entity/Q11516006', 'Tsukitomo', '1945', '', 'male organism']

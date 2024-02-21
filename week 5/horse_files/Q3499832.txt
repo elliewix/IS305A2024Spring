@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q3499832', 'Storm Cat', 'http://www.wikidata.org/entity/Q7702532', 'Terlingua', 'http://www.wikidata.org/entity/Q3499831', 'Storm Bird', '1983', '2013', 'male organism']

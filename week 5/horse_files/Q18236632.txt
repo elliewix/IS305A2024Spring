@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q18236632', 'Dia de la Madre', 'http://www.wikidata.org/entity/Q11319958', 'Dia de la Novia', 'http://www.wikidata.org/entity/Q11297858', 'King Kamehameha', '2010', '', 'female organism']

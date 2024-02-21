@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q6423452', 'Known Fact', 'http://www.wikidata.org/entity/Q122932233', 'Tamerett', 'http://www.wikidata.org/entity/Q11287793', 'In Reality', '1977', '', 'male organism']

@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q5131159', 'Clem', '', '', 'http://www.wikidata.org/entity/Q7488819', 'Shannon', '1954', '', 'male organism']

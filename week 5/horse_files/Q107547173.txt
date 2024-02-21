@@ -1,0 +1,1 @@
+['http://www.wikidata.org/entity/Q107547173', 'Friar Marcus', '', '', 'http://www.wikidata.org/entity/Q5119362', 'Cicero', '1912', '', 'male organism']
