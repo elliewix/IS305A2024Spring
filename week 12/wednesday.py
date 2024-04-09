@@ -31,7 +31,7 @@ print([0] * len(headers))
 
 
 for entity in data:
-    print(entity)
+    print(entitiy)
     # remember that entity is a dict
     temp = [0] * len(headers)
     for key, value in entity.items():
